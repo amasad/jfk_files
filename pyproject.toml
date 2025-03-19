@@ -5,8 +5,10 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 requires-python = ">=3.11"
 dependencies = [
+    "google-genai>=1.7.0",
     "google-generativeai>=0.8.4",
     "pypdf2>=3.0.1",
     "requests>=2.32.3",
     "sift-stack-py>=0.4.2",
+    "tqdm>=4.67.1",
 ]

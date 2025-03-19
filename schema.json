@@ -1,0 +1,70 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Document title or subject line."
+    },
+    "document_type": {
+      "type": "string",
+      "description": "Type of document (Memo, Dispatch, Cable, Report, etc.)."
+    },
+    "classification": {
+      "type": "string",
+      "description": "The category the document belongs to (Oswald, Commission, Soviet, Administrative, Cuba, Liaison, Personnel, Operations, Mexico, Security, etc.)."
+    },
+    "security_level": {
+      "type": "string",
+      "description": "Original security classification (SECRET, CONFIDENTIAL, UNCLASSIFIED)."
+    },
+    "date": {
+      "type": "string",
+      "description": "The date when the document was created. (YYYY-MM-DD format)"
+    },
+    "origin_agency": {
+      "type": "string",
+      "description": "Agency or department that originated the document."
+    },
+    "sender": {
+      "type": "string",
+      "description": "Author or sending office of the document."
+    },
+    "recipient": {
+      "type": "string",
+      "description": "Intended recipient or receiving office of the document."
+    },
+    "persons_mentioned": {
+      "type": "array",
+      "description": "Key individuals referenced in the document.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "locations_mentioned": {
+      "type": "array",
+      "description": "Geographic locations referenced in the document.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Additional searchable terms related to the document.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "summary": {
+      "type": "string",
+      "description": "Summary of the document."
+    }
+  },
+  "required": [
+    "title",
+    "document_type",
+    "classification",
+    "security_level",
+    "tags",
+    "summary"
+  ]
+}
