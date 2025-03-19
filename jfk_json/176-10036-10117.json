@@ -1,0 +1,41 @@
+{
+  "classification": "Military",
+  "document_type": "Telegram",
+  "security_level": "SECRET",
+  "summary": "This document is a CIA Information Telegram, discussing Major General Duong Van Minh's comments on the current situation in South Vietnam and the need for a change in the government. It details Minh's criticism of President Diem, the Buddhist issue, and potential scenarios involving other key figures.",
+  "tags": [
+    "CIA",
+    "Information Telegram",
+    "Duong Van Minh",
+    "South Vietnam",
+    "Government Change",
+    "President Diem",
+    "Buddhist Issue",
+    "Ngo Dinh Nhu",
+    "Do Cao Tri",
+    "Viet Cong",
+    "Nguyen Ngoc Tho",
+    "Geneva Accords"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-07-18",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Duong Van Minh",
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Do Cao Tri",
+    "Nguyen Ngoc Tho",
+    "Trang Van Don",
+    "Le Van Kim",
+    "Nguyen Tuong Tam",
+    "Le Van Nghiem"
+  ],
+  "recipient": "State/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF. NSA NIG AID YSIA OGI. ONE OGR STATE D'I'R CIB",
+  "sender": "CIA"
+}

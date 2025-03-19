@@ -1,0 +1,27 @@
+{
+  "classification": "CIA",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses matters related to a Salvadoran asset and a Cuban exile asset. It mentions discussions with NIGHT 38, arrangements for DALTON, and plans for a return after a stop. It also includes routing and handling information.",
+  "tags": [
+    "Salvadoran Asset",
+    "Cuban Defector",
+    "NIGHT 38",
+    "DALTON",
+    "Solitary Confinement",
+    "Cuban Exile Asset"
+  ],
+  "title": "DIR CITE SALY 5329 WH DIV CUBA CUBAN DEFECTOR",
+  "date": "1954-10-01",
+  "locations_mentioned": [
+    "Cuba",
+    "San Salvador"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "DALTON"
+  ],
+  "recipient": "DIR",
+  "sender": "WA Y"
+}

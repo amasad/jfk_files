@@ -1,0 +1,20 @@
+{
+  "classification": "Operations",
+  "document_type": "Receipt",
+  "security_level": "SECRET",
+  "summary": "This document is a receipt for authentication materials related to Ernesto Jesus GARCIA Guzman, including his Ecuadorean and Cuban documents.",
+  "tags": [
+    "Authentication Materials",
+    "Ernesto Jesus GARCIA Guzman",
+    "Ecuadorean Passport",
+    "Cuban Documents",
+    "TSD/IB"
+  ],
+  "title": "RECEIPT FOR AUTHENTICATION MATERIALS",
+  "date": "1963",
+  "persons_mentioned": [
+    "Ernesto Jesus GARCIA Guzman"
+  ],
+  "recipient": "TSD/IB",
+  "sender": "Unknown"
+}

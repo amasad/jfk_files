@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "Cable regarding preliminary checks on recorded conversations revealing information about a dark blue Buick, license plates, and individuals mentioned in previous communications. Mentions arrangements with PMG Liasion Officer Ted Young to trace further calls.",
+  "tags": [
+    "Soviet",
+    "Australia",
+    "CNBR",
+    "License Plate",
+    "Telephone Calls"
+  ],
+  "title": "DIR INFO CNBR CITE MELB 2517",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "MELBOURNE",
+    "SYDNEY",
+    "Wentworthville",
+    "Binalong",
+    "Wahroonga",
+    "Australia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "R. Haufton",
+    "Herman Satrapinsky",
+    "William John Sims",
+    "Keith Bethke",
+    "R. Willy Sastranegara",
+    "Ted Young"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MELBOURNE"
+}

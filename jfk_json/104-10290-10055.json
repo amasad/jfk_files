@@ -1,0 +1,36 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document is a classified message sent from the Director to Mexico City, Bogota, Lena and Guatemala. It references CA, CA/PEG, CA, PROP, WH 7 and VR. Mentions Grace Holmes and P.O. Box 1767, Coral Gables, Florida.",
+  "tags": [
+    "SAS/MBA/PA/PROP",
+    "GRACE HOLMES",
+    "CORAL GABLES",
+    "FLORIDA",
+    "CA",
+    "PEG",
+    "PROP",
+    "WH 7",
+    "VR"
+  ],
+  "title": "Classified Message Regarding Mexico City, Bogota, Lena, and Guatemala",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "BOGOTA",
+    "LENA",
+    "GUATEMALA",
+    "MEXICO",
+    "LIMA",
+    "QUAT",
+    "CORAL GABLES",
+    "FLORIDA"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "GRACE HOLMES"
+  ],
+  "recipient": "MEXICO CITY, BOGOTA, LENA, GUATEMALA",
+  "sender": "DIRECTOR"
+}

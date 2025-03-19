@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "Dispatch from London Station regarding a list of identified and suspect Cuban intelligence officers compiled from SMOTE records. Requests clearance to distribute the study to friendly Latin American and Western European liaison services and ODENVY.",
+  "tags": [
+    "Intelligence",
+    "Cuban",
+    "SMOTE",
+    "KUBARI",
+    "Liaison",
+    "ODENVY"
+  ],
+  "title": "KEYWAY/PBRUHEX/SMOTE 01 Cuban Identified and suspect Intelligence",
+  "date": "1962-12-28",
+  "locations_mentioned": [
+    "London",
+    "Latin America",
+    "Western Europe",
+    "Mexico",
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "VEGA Perez",
+    "VALDES VALDES, Ramon",
+    "VAZQUEZ MONTENEGRO, Ramon",
+    "Manuel VEGA PEREZ",
+    "Anibal VELAZ (VELOZ)",
+    "DORTICOS",
+    "LAVRENCE L. NOLDY"
+  ],
+  "recipient": "Chief, WE",
+  "sender": "Chief of Station, London"
+}

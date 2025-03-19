@@ -1,0 +1,24 @@
+{
+  "classification": "Security",
+  "document_type": "Request Form",
+  "security_level": "SECRET",
+  "summary": "Request to include or change information on the Domestic Cover List for Calvin W. Hicks, to provide Subject with an organizational affiliation other than CIA.",
+  "tags": [
+    "Domestic Cover List",
+    "Calvin W. Hicks",
+    "Agency affiliation",
+    "Organizational affiliation",
+    "Covert Operations",
+    "John F. Gardiner, Jr.",
+    "NE Security Officer",
+    "Central Cover Division"
+  ],
+  "title": "REQUEST FOR DOMESTIC COVER LIST ENTRY OR CHANGE",
+  "date": "1960-09-21",
+  "persons_mentioned": [
+    "Calvin W. Hicks",
+    "John F. Gardiner, Jr."
+  ],
+  "recipient": "DCB/CCG",
+  "sender": "SSD/OS"
+}

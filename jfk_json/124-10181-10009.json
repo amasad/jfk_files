@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "AIRTEL",
+  "security_level": "Secret",
+  "summary": "This document contains information from a source on the Cuban Embassy in London regarding a conversation about the assassination of President Kennedy. The conversation mentions a possible connection to a person named FOSTER who may have applied for a visa to Cuba.",
+  "tags": [
+    "Assassination",
+    "John F. Kennedy",
+    "Cuban Embassy",
+    "London",
+    "Visa",
+    "Foster",
+    "Oswald",
+    "Riva Patterson",
+    "MI-5",
+    "MI-6",
+    "British Security Service",
+    "British Secret Intelligence Service",
+    "CIA"
+  ],
+  "title": "MISCELLANEOUS INFORMATION CONCERNING ASSASSINATION OF PRESIDENT JOHN FITZGERALD KENNEDY",
+  "date": "1964-06-26",
+  "locations_mentioned": [
+    "Cuba",
+    "London",
+    "Dallas",
+    "Texas",
+    "Tampico"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Fitzgerald Kennedy",
+    "Mario Riva Patterson",
+    "R. E. Carter",
+    "FOSTER",
+    "OSWALD"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "LEGAT, LONDON"
+}

@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses the delivery of cartridges to Corpus Christi on October 1st, with a cargo reference number. It also requests advice on a related matter (Rean 559-5-64).",
+  "tags": [
+    "cartridges",
+    "Corpus Christi",
+    "delivery",
+    "Rean 559-5-64",
+    "logistics"
+  ],
+  "title": "WH/LOG 7282: Cartridge Delivery to Corpus Christi",
+  "date": "1963-10-16",
+  "locations_mentioned": [
+    "Mexico City",
+    "Corpus Christi"
+  ],
+  "origin_agency": "WH/LOG",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "WILLIAM E. BROOKS",
+    "Charles Reimer"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "WILLIAM E. BROOKS, CHIEF, WH SUPPORT"
+}

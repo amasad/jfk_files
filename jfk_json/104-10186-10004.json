@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the potential visit of AMMUG-1 to Montevideo for a presentation and its potential impact on convincing the need for YM support for the newly created Directorate of Intelligence Unit. It also mentions the return of AVALANCHE officers from WOFIRM training.",
+  "tags": [
+    "AMMUG-1",
+    "Montevideo",
+    "Directorate of Intelligence Unit",
+    "AVALANCHE",
+    "WOFIRM",
+    "YM Support",
+    "Briefing",
+    "Minister of Interior",
+    "Chief of AVALANCHE"
+  ],
+  "title": "Potential Visit of AMMUG-1 to Montevideo and Support for Intelligence Unit",
+  "date": "1963-11-03",
+  "locations_mentioned": [
+    "Montevideo",
+    "Santiago",
+    "Rio de Janeiro"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMMUG-1"
+  ],
+  "recipient": "DIRECTOR INFO SANTIAGO JMWAVE RIO DE JANEIRO",
+  "sender": "WH 8"
+}

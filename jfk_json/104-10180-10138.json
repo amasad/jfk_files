@@ -1,0 +1,32 @@
+{
+  "classification": "Administrative",
+  "document_type": "Routing Sheet and Dispatch",
+  "security_level": "SECRET",
+  "summary": "This document contains a routing sheet and a dispatch regarding supplies and instructions for two-way SW correspondence with AMIRE 1. It details the materials needed, instructions for their use, and security precautions for the agent.",
+  "tags": [
+    "AQUATIC",
+    "Operational",
+    "SW Supplies",
+    "AYTRE",
+    "AMIRE 1",
+    "Two-way SW correspondence",
+    "Cover correspondence",
+    "Agent training",
+    "False identity"
+  ],
+  "title": "AQUATIC/Operational SW Supplies for AYTRE",
+  "date": "1960-06-23",
+  "locations_mentioned": [
+    "Latin American countries",
+    "Havana"
+  ],
+  "origin_agency": "Chief of Station, Havana",
+  "persons_mentioned": [
+    "AMIRE 1",
+    "Ralph Seehafer",
+    "C. REID",
+    "K. CRAVEN"
+  ],
+  "recipient": "Chief, KURIOT",
+  "sender": "Chief of Station, Havana"
+}

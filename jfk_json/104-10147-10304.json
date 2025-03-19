@@ -1,0 +1,35 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "The US House of Representatives Select Committee on Assassinations is investigating the circumstances surrounding the assassinations of President Kennedy and Dr. Martin Luther King. They intend to pursue leads in Portugal, UK, and Mexico relating to James Earl Ray. The committee wants to establish a cordial relationship with Portuguese National Police and hopes to enlist their assistance.",
+  "tags": [
+    "James Earl Ray",
+    "House of Representatives Select Committee on Assassinations",
+    "Portugal",
+    "UK",
+    "Mexico",
+    "John F. Kennedy",
+    "Martin Luther King",
+    "Investigation"
+  ],
+  "title": "US House of Representatives Select Committee on Assassinations Investigation",
+  "date": "1977-11-14",
+  "locations_mentioned": [
+    "Lisbon",
+    "London",
+    "Mexico City",
+    "Portugal",
+    "UK",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Martin Luther King",
+    "James Earl Ray",
+    "G. Robert Blakey"
+  ],
+  "recipient": "LISBON, LONDON, MEXICO CITY",
+  "sender": "DIRECTOR"
+}

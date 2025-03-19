@@ -1,0 +1,31 @@
+{
+  "classification": "Soviet",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch discusses a meeting with WEYDE where AELADLE mentioned a KGB officer in Germany who shares his political views and should be left alone by Western intelligence. WEYDE believes the officer's name may be AKHLUYEV, but is not certain. The dispatch suggests querying AELADLE further to confirm the officer's identity.",
+  "tags": [
+    "KGB",
+    "AELADLE",
+    "WEYDE",
+    "AKHLUYEV",
+    "Counterintelligence",
+    "Germany"
+  ],
+  "title": "REDCAP LUIMPROVE AELADLE",
+  "date": "1963-05-24",
+  "locations_mentioned": [
+    "Washington",
+    "Germany",
+    "West Germany"
+  ],
+  "origin_agency": "CUS:G",
+  "persons_mentioned": [
+    "WEYDE",
+    "AELADLE",
+    "NEIER",
+    "AKHLUYEV",
+    "LESTER S. REDNILES"
+  ],
+  "recipient": "CHIEF OF BASE, BUNN",
+  "sender": "CUS:G, SR, F08"
+}

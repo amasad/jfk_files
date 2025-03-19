@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discussing the travel plans of DESIGNET, a former long-term resident of PERUMEN, who will be traveling on business. The cable outlines contact arrangements in Mexico City and provides details about DESIGNET's itinerary, including planned visits to Switzerland and Madrid before arriving in PERUMEN.",
+  "tags": [
+    "DESIGNET",
+    "PERUMEN",
+    "KAFOK",
+    "KEYWAY",
+    "MEXICO",
+    "ROME",
+    "KUBARKER",
+    "Travel Plans",
+    "Contact Arrangements",
+    "Business Trip"
+  ],
+  "title": "DESIGNET Travel to PERUMEN; Contact Arrangements in Mexico City",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "MEXICO",
+    "ROME",
+    "ITALY",
+    "SUISSE",
+    "MADRID",
+    "PERUMEN"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DESIGNET",
+    "IDEN A",
+    "IDEN B",
+    "KUBARKER"
+  ],
+  "recipient": "MEXICO-ROME HAVE",
+  "sender": "DIRECTOR"
+}

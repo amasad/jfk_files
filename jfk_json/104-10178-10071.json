@@ -1,0 +1,33 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Armand Delacour, a three-time convict, who approached the subject with an offer related to opium trafficking from Hong Kong to the United States. Delacour stated that two Sicilians living in Paris were already involved in this traffic, receiving opium from the Chicoms for delivery in the US. The subject also provides a physical description of Delacour.",
+  "tags": [
+    "opium",
+    "narcotics",
+    "smuggling",
+    "Armand Delacour",
+    "Sicilians",
+    "Chicoms",
+    "HBFINCH",
+    "QUBANNER"
+  ],
+  "title": "LUXE 0097: Opium Trafficking from Hong Kong to the United States",
+  "date": "1959-05-04",
+  "locations_mentioned": [
+    "Luxembourg",
+    "Paris",
+    "Hong Kong",
+    "United States",
+    "Canada",
+    "North Africa"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Armand Delacour",
+    "RABNEY"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "[LUXEMBOURG] 15-19"
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Report",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is a CIA information report about Ngo Dinh Nhu's intention to deal with the Viet Cong and attempts of Pham Ngoc Thao to arrange VNAF support for a coup d'etat.",
+  "tags": [
+    "Vietnam",
+    "Ngo Dinh Nhu",
+    "Pham Ngoc Thao",
+    "Viet Cong",
+    "Coup d'etat",
+    "VNAF"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-09-24",
+  "locations_mentioned": [
+    "SOUTH VIETNAM",
+    "SAIGON"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "NGO DINH NHU",
+    "PHAM NGOC THAO",
+    "DIEM",
+    "HUYNH VAN CAO",
+    "HUYNH HUU HIEN",
+    "LODGE"
+  ],
+  "recipient": "1",
+  "sender": "CIA"
+}

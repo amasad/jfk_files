@@ -1,0 +1,21 @@
+{
+  "classification": "Personnel",
+  "document_type": "Form",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Request for Personnel Action form, possibly related to personnel assignments and details.",
+  "tags": [
+    "personnel action",
+    "assignment",
+    "employee data",
+    "government form"
+  ],
+  "title": "REQUEST FOR PERSONNEL ACTION (43133)",
+  "date": "2025-01-01",
+  "locations_mentioned": [],
+  "origin_agency": "US Government",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "Personnel Department",
+  "sender": "Unknown"
+}

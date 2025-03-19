@@ -1,0 +1,43 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable details a request for training for a six-man leader group at ISOLATION, scheduled to arrive on July 11. The training will focus on isotropics, with less emphasis on UDI, stress leadership, and field exercises encompassing tradecraft, caching, and observation reporting. All trainees have completed JMWAVE training and have OA's and recent LCFLUTTERS. The cable also requests airlift for the leader team to ISO on the night of July 11 and return of the AMANCHOR group from ISO to WAVE on the night of July 12.",
+  "tags": [
+    "JMWAVE",
+    "ISOLATION",
+    "Training",
+    "Leadership",
+    "Tradecraft",
+    "Caching",
+    "Observation",
+    "Reporting",
+    "Airlift",
+    "PBRUXEN",
+    "KUROAR",
+    "CHAPPIE",
+    "RANROD",
+    "ISOTROPIC",
+    "UDI",
+    "LCFLUTTERS"
+  ],
+  "title": "Request for Training at ISOLATION",
+  "date": "1965-07-07",
+  "locations_mentioned": [
+    "EGLIN",
+    "ISO",
+    "JMWAVE"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "ANLILAC/29 TA IGNACIO",
+    "AMLILAC/33 TA MANUEL",
+    "AMSKIRT/1 TA PABLO",
+    "AMHINT/56 TA FRANK",
+    "AMTRUNK/21 TA LUIS",
+    "AMLUNT/2 TA FILIPE",
+    "AMPOLISH/1 TA SIMON"
+  ],
+  "recipient": "DIRECTOR, EGLIN",
+  "sender": "JMWAVE"
+}

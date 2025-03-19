@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses GRACE HOLMES and references Mexico City, Bogota, Lima, and Guatemala.",
+  "tags": [
+    "SAS/HOR/PA/PROP/C-DEX",
+    "MEXICO CITY",
+    "BOGOTA",
+    "LIMA",
+    "GUATEMALA",
+    "GRACE HOLMES",
+    "P.O.BOX 1767",
+    "CORAL GABLES",
+    "FLORIDA"
+  ],
+  "title": "Cable Regarding GRACE HOLMES",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "Mexico City",
+    "Bogota",
+    "Lima",
+    "Guatemala"
+  ],
+  "origin_agency": "COSAS",
+  "persons_mentioned": [
+    "GRACE HOLMES"
+  ],
+  "recipient": "MEXI, BOGO, LIMA, GUAT, WAVE",
+  "sender": "DIRECTOR"
+}

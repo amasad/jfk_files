@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses individuals and operations related to ANYUM in Cuba, including potential cut-outs for intelligence operations. Mentions individuals like MARIA TERESA (SACRE) ABIRAFHED, CARLOS (CUPANCA) GARCIA, DR FRANCISCO (RENE DE LA MUERTA) AQUIAR, and DR MARIO ENRIQUE (YAPTIVEZ) DELGADO.",
+  "tags": [
+    "ANYUM",
+    "CUERTLER",
+    "SWMSG",
+    "Cutout",
+    "Intelligence Operations"
+  ],
+  "title": "ZAVE 9926 RYSST TYPIC YOBITE AMWORLD",
+  "date": "1962-08-06",
+  "locations_mentioned": [
+    "Cuba",
+    "HAVA",
+    "SANTO DOMINGO",
+    "LAS VILLAS PROVINCE"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "MARIA TERESA (SACRE) ABIRAFHED",
+    "CARLOS (CUPANCA) GARCIA",
+    "DR FRANCISCO (RENE DE LA MUERTA) AQUIAR",
+    "DR MARIO ENRIQUE (YAPTIVEZ) DELGADO",
+    "AMYUM/19",
+    "CUERTLER",
+    "CUANT UM/51"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMWAVE"
+}

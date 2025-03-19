@@ -1,0 +1,26 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the ZEPRIMA program, which aimed to recruit Cuban technicians from Western Europe. The review of the program showed it didn't achieve significant results due to the failure of Cuban technicians to recruit. It also addresses the recruitment process and the use of ZAPELLAS.",
+  "tags": [
+    "ZEPRIMA",
+    "Cuban technicians",
+    "recruitment",
+    "KUFARK",
+    "Havana"
+  ],
+  "title": "DIR 85387: ZEPRIMA Program Review",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "Western Europe",
+    "Cuba",
+    "Havana"
+  ],
+  "origin_agency": "Director",
+  "persons_mentioned": [
+    "Castro"
+  ],
+  "recipient": "Various",
+  "sender": "Director"
+}

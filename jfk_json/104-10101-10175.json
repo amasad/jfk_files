@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "CONF",
+  "summary": "This cable outlines suggested activities to influence public opinion and local governments in favor of a firm stance against Castro's regime, emphasizing the issue before the OAS, the theme of 'no coexistence with Castro,' and the portrayal of Cuba as an exporter of crime rather than revolution.",
+  "tags": [
+    "OAS",
+    "Castro",
+    "Venezuela",
+    "Public Opinion",
+    "No Coexistence",
+    "Crime",
+    "Revolution",
+    "Propaganda"
+  ],
+  "title": "Instructions for Anti-Castro Activities",
+  "date": "2025",
+  "locations_mentioned": [
+    "Venezuela",
+    "Cuba"
+  ],
+  "origin_agency": "DIR",
+  "persons_mentioned": [
+    "Castro",
+    "John F. Kennedy"
+  ],
+  "recipient": "MONT GUAT BOGO SDOM",
+  "sender": "DIRECTOR"
+}

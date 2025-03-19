@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report on the sighting of tanks with twin cannons in the area of Habana on 23 November 1963.",
+  "tags": [
+    "Military",
+    "Tanks",
+    "Twin Cannons",
+    "Habana",
+    "Military Maneuvers",
+    "Armored Vehicles",
+    "Flame Throwers",
+    "Military Camp"
+  ],
+  "title": "SIGHTING OF TANKS WITH TWIN CANNONS IN THE AREA OF HABANA",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Via Monumental",
+    "Carretera Central",
+    "United States",
+    "Miami"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Eduardo Perez Duaney"
+  ],
+  "recipient": "DDP, ADDP, S90 6, DODS, CA 2, CA/PEG, CA/PROP, CI/OPS, C/FIC 2, FI/INFO/I/INT 6, SAS 12, 50/1, WH 8, AD/CI 2, AD/ME/VR",
+  "sender": "DIRECTOR"
+}

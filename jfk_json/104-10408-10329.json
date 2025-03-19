@@ -1,0 +1,36 @@
+{
+  "classification": "Soviet",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses preliminary checks on recorded conversations, including information on vehicles possibly linked to Soviet or Bloc installations, individuals of interest, and coordination with PMO liaison officer.",
+  "tags": [
+    "Soviet",
+    "CNBR",
+    "Australia",
+    "Recorded Conversations",
+    "Vehicles",
+    "License Plates",
+    "Individuals of Interest",
+    "PMO Liaison"
+  ],
+  "title": "MELB 2517 (ROLLOFIER ACTING)",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "CNBR",
+    "Sydney",
+    "Wentworthville",
+    "Binalong",
+    "Wahroonga",
+    "Australia"
+  ],
+  "origin_agency": "FELSCURNED",
+  "persons_mentioned": [
+    "ERIAN SATRAPINSKY",
+    "WILLIAM JOHN SINS",
+    "KEITH BETHKE",
+    "R. WILLY SASTRANEGARA",
+    "TED YOUNG"
+  ],
+  "recipient": "DAM 4",
+  "sender": "DIRECTOR"
+}

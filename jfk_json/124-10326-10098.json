@@ -1,0 +1,38 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "This document discusses James Angleton, a CIA official in charge of the Special Projects unit, and recommends creating a control file for the information he provides to the FBI. It also alerts Section Chiefs regarding the handling of information received from Angleton.",
+  "tags": [
+    "James Angleton",
+    "CIA",
+    "Special Projects",
+    "Foreign Intelligence",
+    "Confidential Informant",
+    "Israeli Intelligence Service",
+    "Jay Lovestone",
+    "American Federation of Labor",
+    "Free Trade Union Committee"
+  ],
+  "title": "CENTRAL INTELLIGENCE AGENCY INFORMATION RECEIVED FROM JAMES ANGLETON",
+  "date": "1953-06-10",
+  "locations_mentioned": [
+    "Europe",
+    "France",
+    "Italy",
+    "Greece",
+    "Great Britain",
+    "Vatican"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "James Angleton",
+    "A. R. Belmont",
+    "V. P. Keay",
+    "Jay Lovestone",
+    "Walter Bedell Smith",
+    "Allen Dulles"
+  ],
+  "recipient": "MR. A. R. BELMONT",
+  "sender": "V. P Keay"
+}

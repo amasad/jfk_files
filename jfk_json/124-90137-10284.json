@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "FBI memo regarding Levi Laub's unauthorized travel to Cuba, based on information from the CIA and British Intelligence Service (MI-6).",
+  "tags": [
+    "CIA",
+    "MI-6",
+    "Levi Laub",
+    "Cuba",
+    "Unauthorized Travel",
+    "British Intelligence Service",
+    "Gavin Young"
+  ],
+  "title": "LEVI LAUB UNAUTHORIZED TRAVEL TO CUBA",
+  "date": "1963-07-05",
+  "locations_mentioned": [
+    "Cuba",
+    "San Francisco",
+    "Washington, D. C.",
+    "England"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "LEVI LAUB",
+    "D. J. BRENNAN",
+    "S. J. PAPICH",
+    "A. P. Flynn",
+    "Gavin Young"
+  ],
+  "recipient": "D. J. BRENNAN",
+  "sender": "S. J. PAPICH"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Administrative",
+  "document_type": "Form",
+  "security_level": "SECRET",
+  "summary": "This document is a NAME CHECK, DOCUMENT SERVICE, AND PARTIAL CONSOLIDATION REQUEST form related to Lamberto BESTA. It contains information about BESTA's aliases, occupation, date and place of birth, citizenship, and residence. The form also includes checking instructions and comments regarding pertinent identifiable information and background use. Additional information about BESTA's activities, including collaboration with DEMIGOD, involvement in contraband traffic, and attempted double agent operation, is also provided.",
+  "tags": [
+    "NAME CHECK",
+    "DOCUMENT SERVICE",
+    "PARTIAL CONSOLIDATION REQUEST",
+    "Lamberto BESTA",
+    "Export-Import firm LABE (or LABEX)",
+    "Milan",
+    "Italian agent",
+    "DEMIGOD",
+    "contraband traffic",
+    "double agent"
+  ],
+  "title": "NAME CHECK, DOCUMENT SERVICE, AND PARTIAL CONSOLIDATION REQUEST",
+  "date": "1955-07-22",
+  "locations_mentioned": [
+    "Milan",
+    "Italy",
+    "23 Via Teodosto, Milan, Italy"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lamberto BESTA",
+    "DEMIGOD"
+  ],
+  "recipient": "RID",
+  "sender": "7 McHale"
+}

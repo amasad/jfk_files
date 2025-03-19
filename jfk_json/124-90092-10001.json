@@ -1,0 +1,37 @@
+{
+  "classification": "Assassination",
+  "document_type": "Textual Document",
+  "security_level": "Secret",
+  "summary": "This document is a report from the FBI regarding Robert Glenn Thompson, also known as Robert F. Laudwein, and William K. Harvey. It references previous reports and clarifies information related to Thompson's story in the 'Saturday Evening Post.' The document also mentions the code name 'OXTANK' and includes administrative details and dissemination records.",
+  "tags": [
+    "ROBERT GLENN THOMPSON",
+    "ROBERT F. LAUDWEIN",
+    "WILLIAM K. HARVEY",
+    "OXTANK",
+    "Saturday Evening Post",
+    "OSI",
+    "7983rd Army Unit"
+  ],
+  "title": "Report on Robert Glenn Thompson and William K. Harvey",
+  "date": "1965-10-08",
+  "locations_mentioned": [
+    "Detroit",
+    "NYC",
+    "El Paso",
+    "Texas",
+    "Berlin"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "ROBERT GLENN THOMPSON",
+    "ROBERT F. LAUDWEIN",
+    "WILLIAM K. HARVEY",
+    "BOB ROBERTSON",
+    "HAROLD RETZLAFF",
+    "Samuel Katzman",
+    "James Olson",
+    "Tommy"
+  ],
+  "recipient": "HQ",
+  "sender": "NY"
+}

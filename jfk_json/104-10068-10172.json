@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discussing the Federacion Interamericana de Organizaciones de Periodistas Profesionales (FIOPP) seminar in Mexico City and requesting traces on attendees from the Colegio Nacional de Periodistas de la Republica de Cuba (in exile).",
+  "tags": [
+    "FIOPP",
+    "KUBARK",
+    "Colegio Nacional de Periodistas",
+    "Cuba",
+    "Exile",
+    "Seminar",
+    "Traces"
+  ],
+  "title": "FIOPP Seminar in Mexico City; Request for Traces on Cuban Attendees",
+  "date": "1963-11-13",
+  "locations_mentioned": [
+    "Panama City",
+    "Mexico City",
+    "Miami",
+    "Miami Beach",
+    "Cuba"
+  ],
+  "origin_agency": "MEXI",
+  "persons_mentioned": [
+    "GUILLERMO GENER RODRIGUEZ",
+    "SALVADOR DIAZ VERSON",
+    "FRANCISCO GOMEZ HECTOR",
+    "MARIO BARRERA"
+  ],
+  "recipient": "DDP, CI/OPS, CA 2, CA/PEG, CA/PROP, FI, FI/INT 2, WH 7, SAS 8, WR",
+  "sender": "PACY"
+}

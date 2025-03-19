@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Message Form",
+  "security_level": "SECRET",
+  "summary": "Cable regarding CASUGAR/1, a high-level access PBRUMEN target personality. Requests OTTAWA to intercede with SMABOVEs for a joint debriefing in Canada.",
+  "tags": [
+    "CASUGAR/1",
+    "PBRUMEN",
+    "SMABOVEs",
+    "KUBARK",
+    "OTTAWA",
+    "JMWAVE",
+    "GERMANY",
+    "FROB",
+    "FRANKFURT",
+    "BONN",
+    "AMLASH-1"
+  ],
+  "title": "CASUGAR BON 90518",
+  "date": "1966-03-23",
+  "locations_mentioned": [
+    "OTTAWA",
+    "JMWAVE",
+    "GERMANY",
+    "FROB",
+    "FRANKFURT",
+    "BONN",
+    "Canada"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "MARVIN FRANCIS",
+    "JOHN F. KENNEDY",
+    "WILLIAM V. BROE"
+  ],
+  "recipient": "OTTAWA",
+  "sender": "DIRECTOR"
+}

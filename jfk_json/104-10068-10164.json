@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses training and permission requests related to operations. It references LEGROUP-1, SM Match $23209, and Developer $22669. It involves training INROUP-6 to use Match.",
+  "tags": [
+    "AQUATIC",
+    "IZGROUP",
+    "PROLISSTON",
+    "GRAFEND",
+    "TRAIN",
+    "LENROUP-1",
+    "INROUP-6",
+    "SM Match $23209",
+    "Developer $22669"
+  ],
+  "title": "Request permission to train LEGROUP-1",
+  "date": "unknown",
+  "locations_mentioned": [],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "R. Chin",
+    "John Kennedy",
+    "SEYMOUR FUSSELL",
+    "CHABLES J. RYAN"
+  ],
+  "recipient": "DESIOCEN",
+  "sender": "DIR"
+}

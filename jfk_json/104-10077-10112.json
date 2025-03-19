@@ -1,0 +1,28 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses traces of GARCIA and VALDES. Suggests MEXI Principal Agent Asset handle lead.",
+  "tags": [
+    "GARCIA",
+    "VALDES",
+    "MEXI",
+    "AMCONCERT",
+    "Barthe Tales",
+    "World Health Organization"
+  ],
+  "title": "104-10077-10112 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "GARCIA",
+    "VALDES",
+    "Barthe Tales"
+  ],
+  "recipient": "LOOP CI/OA, SAS 8, VR",
+  "sender": "WH/S/Mexico"
+}

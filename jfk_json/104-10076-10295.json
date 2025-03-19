@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses the sequestration of information regarding Carlos (Evans) Roman and Mariano Virgilio de la Caridad (Ramirez) Alarcon.",
+  "tags": [
+    "sequestration",
+    "Carlos (Evans) Roman",
+    "Mariano Virgilio de la Caridad (Ramirez) Alarcon",
+    "ANTAUP",
+    "YOACRE",
+    "ODENVY"
+  ],
+  "title": "BOUTING",
+  "date": "1963-12-11",
+  "locations_mentioned": [
+    "GUANTANAMO, CUBA",
+    "CAIMANERA",
+    "CAMAGUEY, CUBA",
+    "NIAMI"
+  ],
+  "origin_agency": "JWAVE",
+  "persons_mentioned": [
+    "CARLOS (EVANS) ROMAN",
+    "MARIANO VIRGILIO DE LA CARIDAD (RAMIREZ) ALARCON",
+    "EDUARDO (EVANS)",
+    "MARIANO (RAMIREZ) HERNANDEZ",
+    "DELFIA (MOLINA) GONZALEZ"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JWAVE"
+}

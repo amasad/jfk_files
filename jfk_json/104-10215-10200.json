@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Letter",
+  "security_level": "SECRET",
+  "summary": "This document is a letter to AMLASH/1, which discusses a number of topics, including the possibility of AMLASH/1 returning to military service, the need for more detailed information in reports, a potential meeting in Mexico, and the location of hiding places in Paris. The letter also requests information on Soviet medical clinics in Cuba, reports of Soviet citizens becoming ill, shipments of bad meat from the Soviet Union, and reports of cattle in Cuba being infected with foot-and-mouth disease.",
+  "tags": [
+    "AMLASH/1",
+    "Soviet Clinics",
+    "Epidemic",
+    "Paris"
+  ],
+  "title": "PREPARATION OF OUTGOING SW MESSAGES",
+  "date": "1963-01-21",
+  "locations_mentioned": [
+    "Paris",
+    "Cuba",
+    "Mexico"
+  ],
+  "origin_agency": "PSD/SWB",
+  "persons_mentioned": [
+    "Bill Wainwright",
+    "William J. Murphy",
+    "Jaime"
+  ],
+  "recipient": "Bill Wainwright",
+  "sender": "PSD/SWB"
+}

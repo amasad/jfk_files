@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses an investigation into possible registration act violations by a subject in Santiago de Cuba. It also mentions Frank Fiorini of Norfolk, VA, who claimed to be an arms buyer in Miami and willing to cooperate with information on rebels.",
+  "tags": [
+    "ODENVY",
+    "Registration Act Violations",
+    "Consular Cover",
+    "Frank Fiorini",
+    "Arms Buyer",
+    "Rebels",
+    "Santiago de Cuba"
+  ],
+  "title": "HUS TRACKS INDICATE SURJ REF HAS BHEN UNDER ODENVY INVESTIGATION",
+  "date": "1959-01-13",
+  "locations_mentioned": [
+    "SANTIAGO DE CUBA",
+    "Miami",
+    "Norfolk, VA"
+  ],
+  "origin_agency": "WH/III/CARIB",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "FRANK FIORINI"
+  ],
+  "recipient": "SACU",
+  "sender": "DIRECTOR"
+}

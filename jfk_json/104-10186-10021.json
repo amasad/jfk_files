@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the recruitment and interrogation of individuals, including Jose Rehberto Carrillo Calderon and Alejandro Gonez Montano, for joint operations against POEs. It also mentions potential involvement of AMMUG-1 and JUSLOOP-1 in these operations.",
+  "tags": [
+    "recruitment",
+    "interrogation",
+    "joint operation",
+    "DGI",
+    "AMMUG-1",
+    "JUSLOOP-1",
+    "POEs",
+    "arrest",
+    "national guard"
+  ],
+  "title": "SAN SALVADOR 6756: Recruitment and Interrogation Operations",
+  "date": "1967-04-04",
+  "locations_mentioned": [
+    "San Salvador",
+    "Ahuachapan"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jose Rehberto Carrillo Calderon",
+    "Alejandro Gonez Montano"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "SAN SALVADOR"
+}

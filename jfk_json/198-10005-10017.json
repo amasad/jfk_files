@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "Secret",
+  "summary": "This document is a Cuba Project Progress Report from April 10, 1962, detailing operational activities, CAC information reports, and Cuban refugee interrogations.",
+  "tags": [
+    "Anti-Castro Cubans",
+    "MRR Group",
+    "Clandestine Resistance",
+    "Refugee Interrogation",
+    "Soviet Military Equipment",
+    "Trade",
+    "Propaganda"
+  ],
+  "title": "CUBA PROJECT PROGRESS REPORT",
+  "date": "1962-04-10",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Madrid",
+    "Miami",
+    "Canada",
+    "Norway",
+    "Kiel",
+    "Germany",
+    "South America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Amando Hart",
+    "Huber Matos",
+    "Eva Matos"
+  ],
+  "recipient": "N/A",
+  "sender": "CIA"
+}

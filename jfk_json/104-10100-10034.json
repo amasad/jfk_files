@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the conclusion of a review of the ZRPRIMA program, which aimed to recruit Cuban technicians. The review found the program unsuccessful due to various factors, including the Cuban government's lack of enthusiasm and bureaucratic issues. The cable advises stations to discontinue intensive searches for ZRPRIMA candidates but remain alert for opportunities to place agents in Cuba.",
+  "tags": [
+    "ZRPRIMA",
+    "KUBARK",
+    "Cuban Technicians",
+    "Recruiting Program",
+    "Espionage",
+    "Agents",
+    "Cuba",
+    "Hiring Channels",
+    "Counterintelligence"
+  ],
+  "title": "Discontinuation of Intensive Search for ZRPRIMA Candidates",
+  "date": "1963-11-21",
+  "locations_mentioned": [
+    "Western Europe",
+    "Cuba",
+    "Havana"
+  ],
+  "origin_agency": "CIA Director",
+  "persons_mentioned": [
+    "Fidel Castro"
+  ],
+  "recipient": "Various CIA Stations and Bases",
+  "sender": "Director"
+}

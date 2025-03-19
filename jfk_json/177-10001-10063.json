@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "REPORT",
+  "security_level": "SECRET",
+  "summary": "Cuban precautions following the assassination of President Kennedy, including increased security measures at the Cuban embassy in Montevideo, Uruguay.",
+  "tags": [
+    "assassination",
+    "Cuban Embassy",
+    "police protection",
+    "demonstration",
+    "security"
+  ],
+  "title": "CUBAN PRECAUTIONS FOLLOWING ASSASSINATION OF PRESIDENT KENNEDY",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "URUGUAY",
+    "MONTEVIDEO",
+    "CUBAN EMBASSY",
+    "SOVIET LEGATION"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "KENNEDY",
+    "RICARDO GUTTIEREZ TORRENS"
+  ],
+  "recipient": "STATE ARMY NAVY AIR CINCSO",
+  "sender": "CIA"
+}

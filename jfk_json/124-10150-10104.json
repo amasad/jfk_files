@@ -1,0 +1,29 @@
+{
+  "classification": "Liaison",
+  "document_type": "AIRTEL",
+  "security_level": "SECRET",
+  "summary": "This document discusses the assassination of President John F. Kennedy and includes information on an interview with ANGHEL DRAGOMIR. It mentions the Research Branch (Covert CIA) and refers to a translated letter from DRAGOMIR.",
+  "tags": [
+    "JFK",
+    "Assassination",
+    "ANGHEL DRAGOMIR",
+    "Interview",
+    "Research Branch",
+    "Covert CIA",
+    "Vienna",
+    "Austria"
+  ],
+  "title": "ASSASSINATION OF PRESIDENT JOHN FITZGERALD KENNEDY",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Dallas, Texas",
+    "Vienna, Austria"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Fitzgerald Kennedy",
+    "ANGHEL DRAGOMIR"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Bern"
+}

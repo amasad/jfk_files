@@ -1,0 +1,37 @@
+{
+  "classification": "Security",
+  "document_type": "Report",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document details information regarding P.H. KOETRLOCK's interactions with an individual named CHARLES who expressed concerning opinions about President Kennedy. It also covers KOETRLOCK's other activities and contacts.",
+  "tags": [
+    "assassination",
+    "threat",
+    "political extremism",
+    "subversive activities",
+    "intelligence"
+  ],
+  "title": "Report on P.H. KOETRLOCK and Individual Named CHARLES",
+  "date": "1962-05-08",
+  "locations_mentioned": [
+    "Richmond",
+    "Virginia",
+    "Cuba",
+    "Washington",
+    "eastern part of the U.S.",
+    "Thomas Jefferson Hotel"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "P.H. KOETRLOCK",
+    "CHARLES",
+    "General WALKER",
+    "EDWIN WALKER",
+    "Mrs. KASTELOCK",
+    "A. J. HODGES",
+    "GARY DECKER",
+    "GARY POWERS"
+  ],
+  "recipient": "Washington",
+  "sender": "Richmond Office"
+}

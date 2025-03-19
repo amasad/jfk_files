@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Draft Briefing Notes",
+  "security_level": "SECRET",
+  "summary": "This document contains draft briefing notes dated February 18, 1963, regarding Cuban subversion in Latin America. It discusses Cuba's support for revolutionary movements, particularly in Venezuela, and the forms of assistance provided, including inspiration, guidance, training, and communication support.",
+  "tags": [
+    "Cuban subversion",
+    "Latin America",
+    "Revolutionary movements",
+    "Venezuela",
+    "FALN",
+    "Communist Party",
+    "Guerrilla training",
+    "Terrorism"
+  ],
+  "title": "Cuban Subversion in Latin America",
+  "date": "1963-02-18",
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "Venezuela",
+    "Mexico",
+    "Uruguay",
+    "Peru",
+    "Caracas"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Che Guevara",
+    "Blas Roca",
+    "Betancourt"
+  ],
+  "recipient": "Unknown",
+  "sender": "CIA"
+}

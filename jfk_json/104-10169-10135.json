@@ -1,0 +1,27 @@
+{
+  "classification": "Administrative",
+  "document_type": "Form",
+  "security_level": "SECRET",
+  "summary": "This document appears to be a form related to the assignment of pseudonyms and cryptonyms for individuals or projects. It includes details such as aliases assigned, project descriptions (ALLADIE), status of personnel (staff employees), and mentions individuals like N. Parrisson. It also references previous pseudonyms or cryptonyms assigned (SEAR) and contains instructions for handling and distribution of the document within the CIA.",
+  "tags": [
+    "pseudonym",
+    "cryptonym",
+    "alias",
+    "ALLADIE",
+    "N. Parrisson",
+    "SEAR",
+    "CIA",
+    "project",
+    "agent",
+    "case officer",
+    "cable traffic"
+  ],
+  "title": "Pseudonym/Cryptonym Assignment Form",
+  "date": "195-02-21",
+  "persons_mentioned": [
+    "Catherine Marie Srom3207",
+    "N. Parrisson"
+  ],
+  "recipient": "CIA",
+  "sender": "CIA"
+}

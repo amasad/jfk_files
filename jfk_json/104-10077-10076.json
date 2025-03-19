@@ -1,0 +1,30 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Cable regarding missing HRE MISS (JOAN GRASSIE) package sent from Washington to Frankfurt via WAVE. Request to trace the package.",
+  "tags": [
+    "Missing Package",
+    "Trace Request",
+    "Logistics",
+    "Shipment",
+    "HRE MISS",
+    "JOAN GRASSIE",
+    "ALPHA TRANSPORT"
+  ],
+  "title": "FRANKFURT INFO WAVE",
+  "date": "1963-11-21",
+  "locations_mentioned": [
+    "Frankfurt",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOAN GRASSIE",
+    "C. A. Heine",
+    "Austin J. Thomas",
+    "Mr. Brown"
+  ],
+  "recipient": "FRAN INFO WAVE",
+  "sender": "DIRECTOR"
+}

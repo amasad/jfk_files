@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Transfer Request",
+  "security_level": "SECRET",
+  "summary": "Request for lateral transfer of Joseph S. Cecolo to Mexico City and then Managua, Nicaragua as an Operations Officer.",
+  "tags": [
+    "personnel transfer",
+    "Mexico City",
+    "Managua",
+    "operations officer",
+    "Joseph S. Cecolo"
+  ],
+  "title": "Request for Personnel Action - Joseph S. Cecolo",
+  "date": "1967-12-20",
+  "locations_mentioned": [
+    "Mexico City",
+    "Managua, Nicaragua"
+  ],
+  "origin_agency": "DDP/WH/1",
+  "persons_mentioned": [
+    "Cecolo, Joseph S.",
+    "John F. Conroy"
+  ],
+  "recipient": "Overseas Candidate Review Panel",
+  "sender": "John F. Conroy"
+}

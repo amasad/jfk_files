@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "This document discusses the Comite Pro-Liberacion de los Cien (CPLLC) and Jorge Raul Roblejo Lorie's possible involvement in intelligence activities. It also mentions contacts with Cuban officials and potential informants.",
+  "tags": [
+    "MR",
+    "LORIE",
+    "JORGE RAUL ROBLEJO",
+    "RES",
+    "POLIT ACT",
+    "TRA",
+    "ASSOC",
+    "POLIT PRISONERS",
+    "CPLLC",
+    "REINALDO ABREU",
+    "LUIS RICARDO ALONSO",
+    "NICOLAS RODRIGUEZ AZTARAEN",
+    "SERGIO OSWALDO BETANCOURT COLLAZO"
+  ],
+  "title": "COMITE PRO-LIBERACION DE LOS CIEN (CPLLC - COMMITTEE FOR THE LIBERATION OF THE ONE HUNDRED)",
+  "date": "1967-07-14",
+  "locations_mentioned": [
+    "Miami",
+    "Mexico City",
+    "London",
+    "New York City"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "JORGE RAUL ROBLEJO LORIE",
+    "SERGIO OSWALDO BETANCOURT COLLAZO",
+    "REINALDO ABREU",
+    "LUIS RICARDO ALONSO",
+    "RAUL ROA",
+    "NICOLAS RODRIGUEZ AZTARAEN"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "SAC, MIAMI"
+}

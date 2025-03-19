@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This document discusses Mr. E. Howard Hunt's alias birth certificate and related matters.",
+  "tags": [
+    "E. Howard Hunt",
+    "alias birth certificate",
+    "tourist card",
+    "JFK Assassination"
+  ],
+  "title": "Mr. E. Howard Hunt Alias Birth Certificate",
+  "date": "1973-11-02",
+  "locations_mentioned": [
+    "Spain",
+    "Madrid"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "E. Howard Hunt",
+    "John S. Warner",
+    "Robert Bennett",
+    "Silbert",
+    "Skip Dunn",
+    "John Richards",
+    "James W. Franklin",
+    "Robert Johnson"
+  ],
+  "recipient": "Acting General Counsel",
+  "sender": "Chief, Cover & Commercial Staff"
+}

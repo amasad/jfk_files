@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Action Request",
+  "security_level": "SECRET",
+  "summary": "Personnel actions related to Floryan Karty's reassignment to Mexico City and Bangkok. Includes salary adjustments, official disability claim notices, and creditable service documentation.",
+  "tags": [
+    "Personnel Action",
+    "Reassignment",
+    "Salary Adjustment",
+    "Disability Claim",
+    "Creditable Service",
+    "Floryan Karty",
+    "Mexico City",
+    "Bangkok"
+  ],
+  "title": "Personnel Actions related to Floryan Karty",
+  "date": "1963-07-17",
+  "locations_mentioned": [
+    "Mexico City",
+    "Bangkok"
+  ],
+  "origin_agency": "DDP/WH",
+  "persons_mentioned": [
+    "Floryan Karty",
+    "Robert D. Cashman",
+    "Dwight M. Collins",
+    "John L. Bischoff",
+    "Joseph B. nagar"
+  ],
+  "recipient": "Finance Division",
+  "sender": "DDP/PE/2120/BANGKOK STATION/OPERATIONS BRANCH"
+}

@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document is a cable regarding BUENAVENTURA FRANCESCO (DELLUNDE) Y PUYANS, a Cuban national who was assessed as willing to aid KUBARK.",
+  "tags": [
+    "KUBARK",
+    "AMLASH",
+    "MHAPRON",
+    "BUENAVENTURA FRANCESCO",
+    "DELLUNDE",
+    "CUBAN EXILES",
+    "PBRUMEN"
+  ],
+  "title": "Cable Regarding BUENAVENTURA FRANCESCO (DELLUNDE) Y PUYANS",
+  "date": "1965-02-02",
+  "locations_mentioned": [
+    "PARIS",
+    "ROME",
+    "SANTIAGO CUBA",
+    "EUROPE"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "BUENAVENTURA FRANCESCO (DELLUNDE) Y PUYANS",
+    "CASTRO",
+    "BUNCE",
+    "GROWERY",
+    "THOMAS F. THIELE",
+    "DESMOND FITZGERALD"
+  ],
+  "recipient": "PARIS, ROME",
+  "sender": "DIRECTOR"
+}

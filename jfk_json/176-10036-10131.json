@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "CIA Information Telegram regarding General Nguyen Khanh's plans to make a final decision on action against the Diem regime in South Vietnam, dated September 19, 1963.",
+  "tags": [
+    "Nguyen Khanh",
+    "Diem Regime",
+    "Coup d'Etat",
+    "South Vietnam",
+    "Political Instability"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-09-19",
+  "locations_mentioned": [
+    "Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nguyen Khanh",
+    "Diem",
+    "Tran Kim Tuyen"
+  ],
+  "recipient": "STATE (AMBASSADOR LODGE), USMACV (GENERAL HARKINS), CINCPAC ARPAC PACAF PACFLT",
+  "sender": "CIA"
+}

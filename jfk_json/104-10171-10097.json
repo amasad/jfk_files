@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses accommodation addresses in the Mexico area needed for use by S/M agents being dispatched to Cuba before February 1st. It mentions Faurelio A. Martinez and provides an address in Mexico City.",
+  "tags": [
+    "accommodation addresses",
+    "Mexico",
+    "S/M agents",
+    "Cuba",
+    "Faurelio A. Martinez",
+    "MEXI 7156",
+    "MEXI 7184",
+    "OLT 713"
+  ],
+  "title": "Accommodation Addresses Needed in Mexico for Agents Dispatched to Cuba",
+  "date": "1963-01-26",
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Faurelio A. Martinez"
+  ],
+  "recipient": "SELL",
+  "sender": "POCO CITY"
+}

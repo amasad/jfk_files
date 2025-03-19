@@ -1,0 +1,26 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses DTDORIC HBEPITOME, references MEXI 6384, and identifies individuals: A, ALFONSO DIBILDOX, B, CNE, C, FUSA.",
+  "tags": [
+    "DTDORIC",
+    "HBEPITOME",
+    "MEXI 6384",
+    "ALFONSO DIBILDOX",
+    "CNE",
+    "FUSA",
+    "PALP"
+  ],
+  "title": "MEXI 6385: DTDORIC HBEPITOME",
+  "date": "1963-10-03",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ALFONSO DIBILDOX"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Intelligence Report",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "CIA Information Report regarding a recommendation by cabinet officers that Nhu be made Prime Minister in South Vietnam.",
+  "tags": [
+    "Vietnam",
+    "Ngo Dinh Nhu",
+    "Prime Minister",
+    "Cabinet Recommendation",
+    "Nguyen Ngoc Tho",
+    "Nguyen Hoang Cuong"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-10-15",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Nguyen Ngoc Tho",
+    "Nguyen Hoang Cuong",
+    "Diem"
+  ],
+  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC AID USIA OCI STATE/DIR",
+  "sender": "CIA"
+}

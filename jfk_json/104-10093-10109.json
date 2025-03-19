@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding JORGE ANTONIO ABASOLO GARCIA, a Cuban industrial engineer, his connections to Ernesto \"Che\" Guevara, and potential defection. Also mentions his brother GUSTAVO ABASOLO and their correspondence through diplomatic channels.",
+  "tags": [
+    "Industrial Engineer",
+    "Defection",
+    "Diplomatic Pouch",
+    "Soviet Union",
+    "Guevara",
+    "AMSEVER-2"
+  ],
+  "title": "REQUEST TRACES AND POA JORGE ANTONIO ABASOLO GARCIA",
+  "date": "1963-08-21",
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana",
+    "Cuba",
+    "Georgia Tech",
+    "Netherlands Embassy",
+    "Bermuda"
+  ],
+  "origin_agency": "DUNECTOR",
+  "persons_mentioned": [
+    "JORGE ANTONIO ABASOLO GARCIA",
+    "ERNESTO 'CHE' GUEVARA",
+    "MARIE FAZ SOMEILLAN",
+    "GUSTAVO ABASOLO",
+    "JOAQUIN MIRABAL",
+    "A-2"
+  ],
+  "recipient": "DIR INFOWAVE MNTY",
+  "sender": "OM MEXICO CITY"
+}

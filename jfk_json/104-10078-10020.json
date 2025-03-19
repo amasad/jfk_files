@@ -1,0 +1,29 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security_level": "CLASSIFIED",
+  "summary": "This cable discusses a Personnel Security Clearance Approval (PCSA) granted for Frank M. VARREN, Jr. of Sea Dads Industries, Miami to support WAVE cover corporation.",
+  "tags": [
+    "PCSA",
+    "Security Clearance",
+    "Covert Operation",
+    "Miami",
+    "Sea Dads Industries",
+    "WAVE"
+  ],
+  "title": "Requested PCSA/CSA for Frank M. VARREN, Jr., Sea Dads Industries, Miami to backstop WAVE cover corp.",
+  "date": "1963-12-16",
+  "locations_mentioned": [
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "G. A. LAUER",
+    "R. selk",
+    "Frank M. VARREN, Jr.",
+    "JHAVE",
+    "LADN"
+  ],
+  "recipient": "JHAVE",
+  "sender": "DIRECTOR"
+}

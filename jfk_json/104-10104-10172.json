@@ -1,0 +1,42 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch from the Chief of Station, JMWAVE, concerns IDEN A (Alfred J. Moran), a wealthy New Orleans businessman used by JMWAVE for cover operations and funding. It details his involvement with YOCOUGH, other JMWAVE assets, and requests a 201 number be assigned to him.",
+  "tags": [
+    "JMWAVE",
+    "YOCOUGH",
+    "Cover Operations",
+    "Funding Mechanism",
+    "IDEN A",
+    "Alfred J. Moran",
+    "New Orleans",
+    "Businessmen",
+    "201 File"
+  ],
+  "title": "Contact Report - IDEN A",
+  "date": "1965-05-19",
+  "locations_mentioned": [
+    "New Orleans",
+    "Louisiana",
+    "Miami"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "IDEN A",
+    "Alfred J. Moran",
+    "Eli A. SACHTSCHALE",
+    "IDEN D",
+    "Glean E. Magnuson",
+    "IDEN E",
+    "Robert T. Nieset",
+    "Rufus E. MANGROLL",
+    "Colin R. HOWGRIND",
+    "IDEN B",
+    "IDEN C",
+    "James Costello",
+    "Andrew K. Reuteman"
+  ],
+  "recipient": "Chief, WH",
+  "sender": "Chief of Station, JMWAVE"
+}

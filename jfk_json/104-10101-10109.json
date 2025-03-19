@@ -1,0 +1,41 @@
+{
+  "classification": "Mexico",
+  "document_type": "Dispatch",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document lists three individuals: FERNANDO PALENZUKIA VAQUET, MARIA FRANCISCA CRESPO FALCON, and HOWARD ANDERSON, along with their personal information such as date and place of birth, physical attributes, passport number, and address. The document also mentions operational details and codes.",
+  "tags": [
+    "FERNANDO PALENZUKIA VAQUET",
+    "MARIA FRANCISCA CRESPO FALCON",
+    "HOWARD ANDERSON",
+    "RYBAT",
+    "TYPIC",
+    "MKN",
+    "G.L.",
+    "DESMOND FITZGERALD",
+    "SAS/SEC",
+    "C/SAS",
+    "JU/3/MEXI",
+    "C/WB/3"
+  ],
+  "title": "MEXICO CITY - Information on Individuals",
+  "date": "2025",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "ARTEMISA, PINAR DEL RIO, CUBA",
+    "GUIRA DE MELENA, HABANA, CUBA",
+    "AVENIDA 35 No. 9809, MARIANAO, CUBA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "FERNANDO PALENZUKIA VAQUET",
+    "MARIA FRANCISCA CRESPO FALCON",
+    "HOWARD ANDERSON",
+    "MATEO PALENZUKIA",
+    "JOSEFA PALENZUKIA",
+    "ARTURO CRESPO",
+    "JOSEFINA CRESPO",
+    "DESMOND FITZGERALD"
+  ],
+  "recipient": "G.L.",
+  "sender": "DESMOND FITZGERALD"
+}

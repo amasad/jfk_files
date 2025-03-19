@@ -1,0 +1,40 @@
+{
+  "classification": "Security",
+  "document_type": "Report",
+  "security_level": "SECRET NOFORN",
+  "summary": "CIA report regarding plans of the Government of Vietnam to assassinate Ambassador Lodge and other high embassy officials, as well as Thich Tri Quang, and to burn the Chancery.",
+  "tags": [
+    "assassination",
+    "Henry Cabot Lodge",
+    "Vietnam",
+    "American Embassy",
+    "student demonstration",
+    "GVN agents",
+    "Thich Tri Quang",
+    "Nguyen Duy Bach",
+    "Presidential Security Service",
+    "NGO Dinh Nhu",
+    "Melvin L. Manfull",
+    "Frederick W. Flott",
+    "John M. Dunn"
+  ],
+  "title": "Plans of Government to assassinate Ambassador Lodge, other high embassy officials, and Thich Tri Quang, and burn the Chancery",
+  "date": "1963-10-09",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Henry Cabot Lodge",
+    "Thich Tri Quang",
+    "Nguyen Duy Bach",
+    "NGO Dinh Nhu",
+    "Melvin L. Manfull",
+    "Frederick W. Flott",
+    "John M. Dunn"
+  ],
+  "recipient": "Dirnsa",
+  "sender": "CIA"
+}

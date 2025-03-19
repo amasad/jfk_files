@@ -1,0 +1,42 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document contains specific information concerning Lam A, including a description of the subject, their activities during the war, and their involvement in various operations.",
+  "tags": [
+    "Lam A",
+    "Viet Nam",
+    "intelligence",
+    "Atlantic Operation",
+    "pacification program",
+    "UNIS",
+    "USIS"
+  ],
+  "title": "Specific Information concerning Lam A",
+  "date": "1963-07-21",
+  "locations_mentioned": [
+    "Viet Nam",
+    "Laos",
+    "Central Viet Nam",
+    "Da Lat",
+    "Hua Hong",
+    "Poland",
+    "East Germany",
+    "Saigon",
+    "Kamp",
+    "Vienne, US"
+  ],
+  "origin_agency": "Chief of Station, Viet Nam",
+  "persons_mentioned": [
+    "Lam A",
+    "Gregory G. SAMMAS",
+    "P. ALE (TOFU)",
+    "VERALL N. ANDREEV",
+    "Lassa D",
+    "MARKEN (LAM)",
+    "Col. Jean Gardeneral",
+    "VILLIEM"
+  ],
+  "recipient": "Chief, FE",
+  "sender": "Chief of Station, Viet Nam"
+}

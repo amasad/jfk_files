@@ -1,0 +1,24 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This cable references ARH & Company and Overseas Realty Survey Associates. It includes a reference to DIR 77179 and mentions Mexico City.",
+  "tags": [
+    "ARH & Company",
+    "Overseas Realty Survey Associates",
+    "DIR 77179",
+    "Mexico City",
+    "LILINK"
+  ],
+  "title": "MEXICO CITY PRIORITY MEXI",
+  "date": "1963-10-21",
+  "locations_mentioned": [
+    "Mexico City",
+    "420 Lexington Ave, New York",
+    "Seattle, Washington"
+  ],
+  "origin_agency": "WH",
+  "persons_mentioned": [],
+  "recipient": "LILINK",
+  "sender": "POSE"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Routing and Record Sheet",
+  "security_level": "SECRET",
+  "summary": "This document discusses the current address of Maurice Halperin, who is believed to be living in Havana, Cuba. The information was obtained from a source who received a Christmas card from Halperin. The document highlights Halperin's past activities and associations.",
+  "tags": [
+    "Maurice Halperin",
+    "Cuba",
+    "Christmas card",
+    "Source",
+    "Moscow",
+    "USSR",
+    "US delegation",
+    "Activities",
+    "Associations"
+  ],
+  "title": "Current Address of Maurice Halperin",
+  "date": "1962-12-27",
+  "locations_mentioned": [
+    "Miramar, Habana, Cuba",
+    "Moscow",
+    "USSR",
+    "Syracuse University"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Maurice Halperin",
+    "Preston E. James"
+  ],
+  "recipient": "TFW",
+  "sender": "Chief, Contact Division (Support) Stuntz"
+}

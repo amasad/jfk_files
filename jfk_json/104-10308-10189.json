@@ -1,0 +1,32 @@
+{
+  "classification": "SECRET",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable from MIDDAUGH to ZURC requesting assistance in obtaining books on espionage for a G-2 co-opted subject. Lists previously sent books and desired subjects.",
+  "tags": [
+    "espionage",
+    "books",
+    "G-2",
+    "co-opted subject",
+    "counter espionage",
+    "World War I",
+    "World War II",
+    "communist defectors",
+    "Operation North Pole",
+    "Holland"
+  ],
+  "title": "RYBAT INDEVOUT 301",
+  "date": "1963-07-11",
+  "locations_mentioned": [
+    "ZURC",
+    "BERN",
+    "LONDON",
+    "HOLLAND"
+  ],
+  "origin_agency": "DOMARK",
+  "persons_mentioned": [
+    "MIDDAUGH"
+  ],
+  "recipient": "ZURC",
+  "sender": "MIDDAUGH"
+}

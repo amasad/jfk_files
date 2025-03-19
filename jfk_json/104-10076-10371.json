@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram",
+  "security_level": "SECRET",
+  "summary": "This telegram discusses the travel of Soviets from Batabano to Isla de Pinos, as well as cargo traffic between the two locations. It details specific instances of trucks and ferries being used to transport personnel and goods.",
+  "tags": [
+    "Soviet",
+    "cargo traffic",
+    "Batabano",
+    "Isla de Pinos",
+    "ferry",
+    "trucks",
+    "military",
+    "transport"
+  ],
+  "title": "Travel of Soviets from Batabano to Isla de Pinos, Cargo Traffic Between Isla de Pinos and Batabano",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Cuba",
+    "Batabano",
+    "Isla de Pinos",
+    "Habana Province",
+    "Gerona"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AUDIL",
+    "CHERRERA",
+    "SURGIDERO DE BATABANO",
+    "EDILIO",
+    "GOMEZ",
+    "FINCA ALGOBIN",
+    "DE LA TORRE"
+  ],
+  "recipient": "DOP, OOP, SOD 6, CA 2, CA/PEG, CA/PROP, CI/OPS, FI, FI/D, FI/INTI, SR 7, WH 7, DD/1, AD/CI 2, AD/NE, AD/RR 36/NR/",
+  "sender": "UMWAVE"
+}

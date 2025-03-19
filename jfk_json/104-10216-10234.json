@@ -1,0 +1,28 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This memorandum details tests conducted on an open sight hood for the 7.62mm Belgium (FAL) Rifle, including tests of improved underloaded 7.62mm NATO rounds, listener trials to determine the distance at which the rifle's mechanical noise could be discerned, and an evaluation of the sight hood's fit on various rifles. It also covers the use of a scope in low light conditions and the delivery of sight hoods and ammunition.",
+  "tags": [
+    "FAL Rifle",
+    "Open Sight Hood",
+    "Silencer",
+    "Ammunition",
+    "Listener Trials",
+    "Low Light Testing",
+    "Sniper Scope"
+  ],
+  "title": "Test of Open Sight Hood for 7.62um Belgium (FAL) Rifle",
+  "date": "1964-07-01",
+  "locations_mentioned": [
+    "Isolation",
+    "Franconia"
+  ],
+  "origin_agency": "DDP/TSD/EB",
+  "persons_mentioned": [
+    "Bob Ricker",
+    "Daniel J. Bogan"
+  ],
+  "recipient": "THE RECORD",
+  "sender": "DANIEL J. BOGAN"
+}

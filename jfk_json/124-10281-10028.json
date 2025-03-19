@@ -1,0 +1,37 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "FBI memo regarding information received from the CIA about a potential kidnapping threat against the children of a CIA employee in Venezuela by the Communist Party of Venezuela. Fingerprints and photographs of the children were obtained for possible use in the event of a kidnapping.",
+  "tags": [
+    "Communist Party of Venezuela",
+    "CIA",
+    "Kidnapping",
+    "Venezuela",
+    "Fingerprints",
+    "Photographs"
+  ],
+  "title": "COMMUNIST PARTY OF VENEZUELA CENTRAL INTELLIGENCE AGENCY (CIA) VENEZUELA KIDNAPING",
+  "date": "1967-03-15",
+  "locations_mentioned": [
+    "Venezuela"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Thomas Keogh",
+    "Joseph Edward Keogh",
+    "Thomas Patrick Keogh, Jr.",
+    "Christina Margarita Keogh",
+    "Elizabeth Teresa Keogh",
+    "Francis Xavier Keogh",
+    "Thomas Patrick Keogh, III",
+    "Maria Rita Keogh",
+    "Rosen",
+    "I. Shroder",
+    "W. O. Cregar",
+    "Jane Roman",
+    "Carl Volker"
+  ],
+  "recipient": "Rosen",
+  "sender": "I. Shroder"
+}

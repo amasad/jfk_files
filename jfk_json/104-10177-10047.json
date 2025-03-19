@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Joaquin Mirabal, his background, connections, and activities. It also mentions Mrs. Albert Recio and NENICA GARCIA PA as informants.",
+  "tags": [
+    "Joaquin Mirabal",
+    "smuggling",
+    "informant",
+    "Cuba",
+    "LICRAFT"
+  ],
+  "title": "DIR CITE MEXI 2126",
+  "date": "1965-05-16",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "HABANA",
+    "CUBA",
+    "GARY, INDIANA"
+  ],
+  "origin_agency": "WH/SA",
+  "persons_mentioned": [
+    "Joaquin Mirabal",
+    "Ramirc Valdes",
+    "CASTRO",
+    "MARTINEZ SANCHEZ",
+    "Albert Recio",
+    "NENICA GARCIA PA",
+    "GUSTAVO"
+  ],
+  "recipient": "DDP, WH",
+  "sender": "C/1P3"
+}

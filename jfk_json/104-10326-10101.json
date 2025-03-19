@@ -1,0 +1,47 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This cable discusses a Washington Times article regarding a KGB offer to Hollywood and its possible connection to the LWOPUS case. It explores similarities between the KGB's approach and LWOPUS's offer of a manuscript, including financial motivations, volume of material, potential joint efforts, and concerns for safety.",
+  "tags": [
+    "KGB",
+    "Hollywood",
+    "LWOPUS",
+    "Washington Times",
+    "FIVA",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "Manuscript",
+    "Espionage",
+    "Yurasov",
+    "Yazkov",
+    "Anatoliy Yakovlev"
+  ],
+  "title": "WASHINGTON TIMES ARTICLE RE KGB OFFER TO HOLLYWOOD",
+  "date": "1992-04-04",
+  "locations_mentioned": [
+    "Moscow",
+    "Mexico City",
+    "Vilnius",
+    "New York City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Kim Philby",
+    "Anatoly Privalov",
+    "Oleg Nechiperenko",
+    "James Garrison",
+    "Anatoly Yazkov",
+    "Julius Rosenberg",
+    "Ethel Rosenberg",
+    "Josef Stalin",
+    "Leon Trotsky",
+    "Robert Lee Johnson",
+    "Glenn Michael Souther",
+    "Oliver Stone",
+    "Ambassador Johnson"
+  ],
+  "recipient": "VILNIUS",
+  "sender": "CIC/CEX"
+}

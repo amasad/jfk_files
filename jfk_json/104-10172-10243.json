@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the appropriate handling of information exchange between German services regarding AELADLE, suggesting direct communication between UPHILL and CAVATA/ASBV instead of KUBARK acting as a middleman to avoid affecting German security.",
+  "tags": [
+    "AELADLE",
+    "UPHILL",
+    "CAVATA",
+    "ASBV",
+    "KUBARK",
+    "German Services",
+    "BFV",
+    "German Security",
+    "Interrogation",
+    "Information Exchange"
+  ],
+  "title": "Bonn 4798: Information Exchange Regarding AELADLE",
+  "date": "1963-06-25",
+  "locations_mentioned": [
+    "Bonn",
+    "Germany"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "AELADLE"
+  ],
+  "recipient": "Director",
+  "sender": "Bonn"
+}

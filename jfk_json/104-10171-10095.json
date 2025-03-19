@@ -1,0 +1,26 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable lists three addresses in Mexico City: Armando B. Sanchez, Berta A. Martinez, and Antonio Busto. These addresses are requested by HQS as accommodation addresses in the MEXI area for use by S/ agents.",
+  "tags": [
+    "JMZIP",
+    "accommodation addresses",
+    "agents",
+    "MEXI"
+  ],
+  "title": "MEXI 7184",
+  "date": "1961-01-25",
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ARMANDO B. SANCHEZ",
+    "BERTA A. MARTINEZ",
+    "ANTONIO BUSTO",
+    "BELL"
+  ],
+  "recipient": "BELL",
+  "sender": "MEXICO CITY"
+}

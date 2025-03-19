@@ -1,0 +1,35 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memo",
+  "security_level": "SECRET",
+  "summary": "This file contains memos regarding the Permindex Corporation and the World Trade Center, including requests for information and background checks. It mentions Ferenc Nagy, Enrico Mandel-Mantello and other individuals associated with Permindex.",
+  "tags": [
+    "Permindex",
+    "World Trade Center",
+    "Ferenc Nagy",
+    "Enrico Mandel-Mantello",
+    "Dun & Bradstreet",
+    "Commercial Stair"
+  ],
+  "title": "PERMINDEX CORP. ICD DOCUMENTS",
+  "date": "1959-11-30",
+  "locations_mentioned": [
+    "Rome",
+    "New York City",
+    "Basel",
+    "Hungary"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ferenc Nagy",
+    "Enrico Mandel-Mantello",
+    "Fritz Schurch",
+    "Ernst W. Infeld",
+    "Ernst Feisst",
+    "Charles P. White",
+    "Lillian I. Grant",
+    "Lloyd McMahon"
+  ],
+  "recipient": "Chief, Contact Division (Support)",
+  "sender": "Chief, New York Office"
+}

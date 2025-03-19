@@ -1,0 +1,25 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "Dispatch from the Chief of Station, Mexico City to Chief, WH Division regarding PBQ Part I on Alfonso Dabilodox Torres. Requests provisional operational approval and a 201 number. Includes assigned cryptonym.",
+  "tags": [
+    "PBQ",
+    "Alfonso Dabilodox Torres",
+    "Cryptonym",
+    "Operational Approval",
+    "Mexico City"
+  ],
+  "title": "PBQ Part I - Alfonso Dabilodox Torres",
+  "date": "1963-11-13",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Alfonso Dabilodox Torres",
+    "Willard C. Curtis"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Chief of Station, Mexico City"
+}

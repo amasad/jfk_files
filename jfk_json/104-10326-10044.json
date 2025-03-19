@@ -1,0 +1,24 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a new story on Lee Harvey Oswald and the CIA in Japan. It suggests the COS have the embassy press officer refer the UPI correspondent to the Public Affairs Staff (PAS). PAS recommends treating the UPI correspondent like any other reporter and suggests directing questions to PAS.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "CIA",
+    "Japan",
+    "UPI",
+    "Public Affairs"
+  ],
+  "title": "NEW STORY ON LEE HARVEY OSWALD AND CIA IN JAPAN",
+  "date": "1996-09-13",
+  "locations_mentioned": [
+    "Japan"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "TOKYO",
+  "sender": "STAFF"
+}

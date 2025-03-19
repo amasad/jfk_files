@@ -1,0 +1,32 @@
+{
+  "classification": "Administrative",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document describes the organization and components of JMWAVE, including its Support Branch, Operations Branch, Covert Action Branch, External Operations Branch, Reports Section, Technical Services Section, and Communicators. It also includes organizational charts for JMWAVE and the Deputy Director for Plans.",
+  "tags": [
+    "JMWAVE",
+    "Organization",
+    "Support Branch",
+    "Operations Branch",
+    "Covert Action Branch",
+    "External Operations Branch",
+    "Reports Section",
+    "Technical Services Section",
+    "Communicators",
+    "Deputy Director for Plans",
+    "HUMINT",
+    "Paramilitary Operations",
+    "Covert Propaganda"
+  ],
+  "title": "Description of JMWAVE Components",
+  "date": "1963",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "Headquarters and intelligence community consumers",
+  "sender": "JMWAVE"
+}

@@ -1,0 +1,34 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This cable discusses the case of Hilton Lynn, a U.S. citizen involved in a drugs case in Merida, Mexico. It suggests ODCOIL MEXI should lead the investigation, avoiding KUBARK involvement. It also mentions the potential development of Ernesto Abreu Gomez for PERUKKN operations.",
+  "tags": [
+    "Hilton Lynn",
+    "drugs",
+    "Merida",
+    "ODCOIL",
+    "KUBARK",
+    "Ernesto Abreu Gomez",
+    "PERUKKN",
+    "PERUMEN"
+  ],
+  "title": "KAPOK PERUNEN",
+  "date": "1963-11-06",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Merida"
+  ],
+  "origin_agency": "WEBB MERIDA MEXICO CITY",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Hilton Lynn",
+    "Ernesto Abreu Gomez",
+    "W. King",
+    "J. C. KING",
+    "B. PRICEHARDT"
+  ],
+  "recipient": "MRID INFO",
+  "sender": "S. S. SCOT"
+}

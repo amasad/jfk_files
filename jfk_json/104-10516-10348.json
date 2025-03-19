@@ -1,0 +1,36 @@
+{
+  "classification": "REPORT",
+  "document_type": "INFORMATION REPORT",
+  "security_level": "SECRET",
+  "summary": "Report on Cuban government efforts to initiate commercial barter with Western European countries, focusing on negotiations for debt payments resulting from expropriations and potential trade agreements involving sugar, fertilizer, and other commodities.",
+  "tags": [
+    "Cuba",
+    "Cuban Government",
+    "Commercial Barter",
+    "Western Europe",
+    "Sugar",
+    "Fertilizer",
+    "Trade Negotiations",
+    "Expropriations",
+    "Debts",
+    "West Germany",
+    "Italy",
+    "France",
+    "Tobacco"
+  ],
+  "title": "EFFORTS OF CUBAN GOVERNMENT TO INITIATE COMMERCIAL BARTER WITH WEST EUROPEAN COUNTRIES",
+  "date": "1963-12-20",
+  "locations_mentioned": [
+    "CUBA",
+    "MEXICO",
+    "MEXICO CITY",
+    "WESTERN EUROPE",
+    "WEST GERMANY",
+    "ITALY",
+    "FRANCE"
+  ],
+  "origin_agency": "INTEL CYPIC",
+  "persons_mentioned": [],
+  "recipient": "TOCS",
+  "sender": "SUPDATA COURCE"
+}

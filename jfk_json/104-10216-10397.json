@@ -1,0 +1,26 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the AMLASH operation and the involvement of AMWHIP/2. It suggests minimizing contact with AMWHIP/2 until Joseph Langosch can provide background information.",
+  "tags": [
+    "AMLASH",
+    "AMWHIP/2",
+    "PBRUMEN",
+    "Langosch",
+    "Doubled Op"
+  ],
+  "title": "PEAT TYPIC AMLASH",
+  "date": "1965-06-25",
+  "locations_mentioned": [
+    "ROME"
+  ],
+  "origin_agency": "FI",
+  "persons_mentioned": [
+    "JOSEPH LANGOSCH",
+    "PRESLAND",
+    "DESMOND FITZGERALD"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "ROME"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "This document contains classified information related to recruitment activities, potential assets, and individuals of interest in Cuba. It references individuals identified as IDEN A, IDEN B, and IDEN C, and their connections to resistance groups and potential recruitment for ODYOKE. It also includes details on family members, residences, and visa applications.",
+  "tags": [
+    "recruitment",
+    "assets",
+    "resistance groups",
+    "ODYOKE",
+    "visa applications",
+    "intelligence"
+  ],
+  "title": "Classified Message Regarding Recruitment Activities in Cuba",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Matanzas",
+    "San Miguel del Padron",
+    "Guarabacoa",
+    "Villanova"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "AHLEB 29",
+    "IDEN A",
+    "IDEN B",
+    "IDEN C",
+    "ANTONIO CONCEPCION",
+    "RANUEL JUSTO HUINOS",
+    "NORMA FLORES",
+    "NANCY FLORES",
+    "WARKBOLD"
+  ],
+  "recipient": "SAS, CDP, C/CI, C/FI, CNE",
+  "sender": "Unknown"
+}

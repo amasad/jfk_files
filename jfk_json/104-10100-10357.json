@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable relays instructions to ANQUAR 1 regarding contact with \"David Baas\" (Matthew E. Ontrich), arranging a leave of absence, establishing contact with Luis Casas Campa, and providing a secure communication channel.",
+  "tags": [
+    "ANQUAR",
+    "RYBAT",
+    "TYPIC",
+    "MAPRON",
+    "Luis Casas Campa",
+    "Matthew E. Ontrich",
+    "David Baas",
+    "Cuba",
+    "Contact",
+    "Leave of Absence",
+    "Communication Channel"
+  ],
+  "title": "Message to ANQUAR 1 regarding contact with Matthew E. Ontrich",
+  "date": "1963-11-16",
+  "locations_mentioned": [
+    "Cuba",
+    "OUTEIR"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Matthew E. Ontrich",
+    "Luis Casas Campa",
+    "EDWARD A. HAREL"
+  ],
+  "recipient": "ANQUAR 1",
+  "sender": "SAB/EOD"
+}

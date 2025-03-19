@@ -1,0 +1,29 @@
+{
+  "classification": "JFK",
+  "document_type": "Textual Document",
+  "security_level": "SECRET",
+  "summary": "Discussion between a member of the SR Division and CoS Helsinki concerning Oswald's stay in Helsinki, including his contact with the Soviet Consulate there. The document includes information about the timetable of Oswald's stay in Finland in October 1959, travel times, and passenger list retention policies.",
+  "tags": [
+    "HELSINKI TRIP",
+    "USSR CONSULATE",
+    "Warren Commission",
+    "Finland",
+    "Soviet Consulate"
+  ],
+  "title": "DISCUSSION BETWEEN MEMBER SR DIVISION CONCERNING OSWALD'S STAY IN HELSINKI.",
+  "date": "1964-06-01",
+  "locations_mentioned": [
+    "Helsinki",
+    "Finland",
+    "USSR"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee H. Wigren",
+    "Frank Friberg",
+    "Robert Fulton",
+    "Oswald"
+  ],
+  "recipient": "SX-25605",
+  "sender": "CIRA/PS"
+}

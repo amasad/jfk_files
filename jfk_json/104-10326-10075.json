@@ -1,0 +1,26 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a draft briefing paper and the Lee Harvey Oswald files. It includes instructions to correct the briefing paper to reflect changes requested, information about the offer to provide the Oswald files being turned over to the FBI due to the sensitivity connected with the Kennedy assassination, and requests to delete or soften certain sections of the briefing paper related to unilateral operations, embassy security, and personnel requirements.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "Briefing Paper",
+    "FBI",
+    "Embassy Security",
+    "Personnel"
+  ],
+  "title": "DRAFT BRIEFING PAPER AND OSWALD FILES",
+  "date": "1995-08-12",
+  "locations_mentioned": [
+    "MINSK",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "NWBOLTON"
+  ],
+  "recipient": "IMMEDIATE MINSK",
+  "sender": "LIMIT C/CE/W/MB"
+}

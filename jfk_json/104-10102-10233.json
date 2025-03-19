@@ -1,0 +1,43 @@
+{
+  "classification": "Personnel",
+  "document_type": "Dispatch",
+  "security_level": "SECRET/NOFORN",
+  "summary": "This dispatch concerns SMEDIFY information regarding Tad SZULC (201-050539) and includes information on Ignacy SACHS, a cousin of SZULC who worked for the Polish Embassy.",
+  "tags": [
+    "SMEDIFY",
+    "Tadeusz SZULC",
+    "Ignacy SACHS",
+    "Polish Embassy",
+    "information"
+  ],
+  "title": "SMEDIFY Information Concerning Tad SZULC (201-050539)",
+  "date": "1962-06-20",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Brazil",
+    "Latin America",
+    "South America",
+    "Central America",
+    "New York",
+    "Washington",
+    "Panama"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Tad SZULC",
+    "Ignacy SACHS",
+    "Henryk HRANKROWSKI",
+    "Czeslaw SLOWAKIEWICZ",
+    "Raul FERNANDEZ",
+    "Seweryn SZULC",
+    "Mr. HORAN",
+    "Harold HORAN",
+    "John WILEY",
+    "Irene BARUCH",
+    "Wikinski",
+    "Drew PEARSON",
+    "Shah of Persia"
+  ],
+  "recipient": "Chief, WHD; Chief, EE",
+  "sender": "Chief of Station, Rio de Janeiro"
+}

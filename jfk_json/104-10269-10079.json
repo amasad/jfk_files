@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Cuban Vice Minister of Foreign Affairs Carlos Olivares's plans to travel to Brazil via Mexico to promote the Cuban Revolution. It requests information on Olivares and his travel plans.",
+  "tags": [
+    "Cuban Revolution",
+    "Carlos Olivares",
+    "Mexico",
+    "Brazil",
+    "Travel",
+    "Liaison"
+  ],
+  "title": "JMZIP - Cuban Vice Minister's Travel Plans",
+  "date": "1961-05-17",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico",
+    "Brazil"
+  ],
+  "origin_agency": "RIO DE JANERIO",
+  "persons_mentioned": [
+    "Carlos Olivares"
+  ],
+  "recipient": "BELL",
+  "sender": "RIO DE JANERIO"
+}

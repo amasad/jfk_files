@@ -1,0 +1,50 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch reports on JMWAVE's relationship with AMCARDON-1, including operational support, intelligence, and propaganda activities.",
+  "tags": [
+    "JMWAVE",
+    "AMCARDON-1",
+    "Propaganda",
+    "Operational Intelligence",
+    "Media Relations"
+  ],
+  "title": "TYPIC/OPERATIONAL Special Activities Report on JMWAVE's Relationship with AMCARDON-1",
+  "date": "1964-03-19",
+  "locations_mentioned": [
+    "South Florida",
+    "Miami",
+    "Cuba",
+    "Uruguay",
+    "Peru",
+    "Chile"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Andrew K. REUTEMAN",
+    "DUDLEY R. WILLINGS",
+    "John F. Kennedy",
+    "Luis FERNANDEZ Rocha",
+    "Manolo RAY Rivero",
+    "Carlos TODD y Lobo",
+    "Aureliano SANCHEZ Arango",
+    "Edmund LEAHY",
+    "Robert KENNEDY",
+    "Frank FIORINI",
+    "Eduardo SUAREZ Riva",
+    "Luis MUNOZ Marin",
+    "Juan BOSCH Gavino",
+    "Charles KEELY",
+    "Jorge VOLSKY Kraisler",
+    "Tad SZULC",
+    "Andrew ORDONO Camps",
+    "Carlos LANDIN Cruz",
+    "Alex E. CARLSON",
+    "Trevor ARMBRISTER",
+    "Armando Andres GUIROLA Forte",
+    "Charles GRIFFIN"
+  ],
+  "recipient": "Chief of Station, JMWAVE",
+  "sender": "Chief, Special Affairs Staff"
+}

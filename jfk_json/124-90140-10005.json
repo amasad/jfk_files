@@ -1,0 +1,28 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "FBI memo regarding Angela Prince Moutsos and her activities in Cuba, including her husband's connection to the CIA.",
+  "tags": [
+    "ANGELA PRINCE MOUTSOS",
+    "PEDROS MOUTSOS",
+    "CIA LIAISON MATERIAL",
+    "Cuba",
+    "Havana"
+  ],
+  "title": "ANGELA PRINCE MOUTSOS aka",
+  "date": "1963-03-01",
+  "locations_mentioned": [
+    "NY",
+    "Havana",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "ANGELA PRINCE MOUTSOS",
+    "PEDROS MOUTSOS",
+    "JOHN H. SHEEHAN"
+  ],
+  "recipient": "HQ",
+  "sender": "NY"
+}

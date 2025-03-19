@@ -1,0 +1,25 @@
+{
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses the release of a classified document related to Lee Harvey Oswald. It mentions a fax received that appears incomplete, including a cover sheet, a cable stating \"NO TRACES,\" and the first page of a Director cable requesting traces on Lee Harvey Oswald. The document also discusses the deletion of crypts and informing the ambassador and liaison service chiefs about the release date.",
+  "tags": [
+    "WNINTEL",
+    "RYBAT",
+    "Traces",
+    "Classified Document Release",
+    "Crypts"
+  ],
+  "title": "RELEASE OF CLASSIFIED DOCUMENT",
+  "date": "1996-02-08",
+  "locations_mentioned": [
+    "Copenhagen",
+    "Denmark"
+  ],
+  "origin_agency": "STAFF",
+  "persons_mentioned": [
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "IMMEDIATE DIRECTOR",
+  "sender": "C/EUR/NOR"
+}

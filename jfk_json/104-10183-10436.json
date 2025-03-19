@@ -1,0 +1,26 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a candidate mentioned in a previous reference (REF A) who is not intended for travel to Havana as per another reference (REF B), but rather for contact with PACETTE only. AMWHIP-1 was unable to find a candidate in time for the Havana trip mentioned in REF B. The cable also mentions deferring involving AMWHIP-1 with PACETTE pending the outcome of STATION attempts at contact.",
+  "tags": [
+    "AMWHIP-1",
+    "PACETTE",
+    "Havana",
+    "Travel",
+    "Contact",
+    "STATION"
+  ],
+  "title": "Candidate for Contact with PACETTE",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "PACETTE",
+    "DESMOND FITZGERALD"
+  ],
+  "recipient": "PARIS BRUSSELS MADRID JAMWAVE",
+  "sender": "DIRECTOR"
+}

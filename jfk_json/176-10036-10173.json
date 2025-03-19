@@ -1,0 +1,36 @@
+{
+  "classification": "National Security",
+  "document_type": "Cable",
+  "security_level": "TOP SECRET",
+  "summary": "This document is a cable from McGeorge Bundy at the White House to Ambassador Lodge in Saigon, dated October 30, 1963. It discusses the U.S. position on a potential coup in South Vietnam, particularly the extent to which the U.S. should influence or intervene in such an event.",
+  "tags": [
+    "coup",
+    "Vietnam",
+    "US policy",
+    "intervention",
+    "generals",
+    "Diem",
+    "Saigon",
+    "Harkins",
+    "Conein",
+    "Truehart"
+  ],
+  "title": "Cable from Bundy to Lodge Regarding Potential Coup in Vietnam",
+  "date": "1963-10-30",
+  "locations_mentioned": [
+    "Saigon",
+    "Washington"
+  ],
+  "origin_agency": "WH",
+  "persons_mentioned": [
+    "Bundy",
+    "Lodge",
+    "Harkins",
+    "Smith",
+    "Conein",
+    "Truehart",
+    "Diem"
+  ],
+  "recipient": "Lodge",
+  "sender": "Bundy"
+}

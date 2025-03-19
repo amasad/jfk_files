@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses DELORRY's interactions with Manuel (PINEIRO) Lozada and Saverio TUTINO regarding a potential trip to Italy. It includes information about phone calls, meeting arrangements, and travel plans involving individuals connected to Cuban affairs.",
+  "tags": [
+    "DELORRY",
+    "Manuel PINEIRO Lozada",
+    "Saverio TUTINO",
+    "Cuba",
+    "Italy",
+    "Travel Plans",
+    "AMLASH/1"
+  ],
+  "title": "Possible Travel to Italy by PINEIRO",
+  "date": "1963-03-15",
+  "locations_mentioned": [
+    "Cuba",
+    "Italy"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DELORRY",
+    "Manuel (PINEIRO) Lozada",
+    "Hilda Quintana",
+    "Saverio TUTINO"
+  ],
+  "recipient": "DIR INFO WAVE MILA",
+  "sender": "ROME"
+}

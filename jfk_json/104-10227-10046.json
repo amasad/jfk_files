@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A dispatch reports on an APOT source, Eduardo NUNEZ Garcia, who overheard a conversation involving Dr. Aureliano SAN Romani regarding a trip to Panama and Guatemala, where San Romani discussed creating a junta and expressed opinions about various political figures.",
+  "tags": [
+    "APOT",
+    "Eduardo NUNEZ Garcia",
+    "Aureliano SAN Romani",
+    "Panama",
+    "Guatemala",
+    "Junta",
+    "DRHORAS",
+    "CASTRO",
+    "CHIARI",
+    "Hurwitch",
+    "Galecano"
+  ],
+  "title": "Report on Conversation Involving Dr. Aureliano SAN Romani",
+  "date": "1961-12-18",
+  "locations_mentioned": [
+    "Panama",
+    "Guatemala",
+    "New Orleans",
+    "Washington D.C.",
+    "CHAT"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Eduardo NUNEZ Garcia",
+    "Aureliano SAN Romani",
+    "DRHORAS",
+    "CASTRO",
+    "CHIARI",
+    "Hurwitch",
+    "Galecano"
+  ],
+  "recipient": "Headquarters",
+  "sender": "Tellano"
+}

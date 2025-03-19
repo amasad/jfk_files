@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "This classified message discusses meetings with a Cuban target and a Cuban defector, intelligence gathering efforts, and concerns about security leaks and potential compromise of CIA operations. It also covers topics such as PCES activities, recruitment of individuals, and the disappearance of Roque Dalton.",
+  "tags": [
+    "CIA",
+    "Cuban Target",
+    "Cuban Defector",
+    "PCES",
+    "Roque Dalton",
+    "Intelligence",
+    "CEMEDIATE",
+    "WHDIVE",
+    "CHEHN",
+    "Guerrilla Warfare",
+    "Moscow Travel"
+  ],
+  "title": "Classified Message Regarding Cuban Target and Intelligence Activities",
+  "date": "1963-09-27",
+  "locations_mentioned": [
+    "Cuba",
+    "Moscow",
+    "San Salvador"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Shafick Handal",
+    "Jorge Arias Gomez",
+    "Raul Castellanos Figueroa",
+    "Roque Dalton"
+  ],
+  "recipient": "DIR",
+  "sender": "CIAOFFICER"
+}

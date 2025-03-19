@@ -1,0 +1,32 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document is a classified message from Mexico City, referencing individuals and locations, including George Steers and sites SEXI 7479 and SEXIT 7433.",
+  "tags": [
+    "Classified Message",
+    "Mexico City",
+    "George Steers",
+    "SEXI 7479",
+    "SEXIT 7433",
+    "GRASSBAY",
+    "LPSHRINK",
+    "EL 6",
+    "CI/CI",
+    "CIS 3",
+    "W 7",
+    "CKET 2022352",
+    "20085191"
+  ],
+  "title": "Classified Message Regarding George Steers and Mexico City Operations",
+  "date": "1963-11-22",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Unspecified",
+  "persons_mentioned": [
+    "George Steers"
+  ],
+  "recipient": "Unspecified",
+  "sender": "MEXICO CITY"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable from Mexico City regarding Hector Rafael Lapa Vazquez, a Mexican citizen with ties to U.S. nationals and suspected Soviet intelligence officers. Request for traces and initiation of POA on Lapa. Details Lapa's interactions with Soviet officials and his potential utilization as an asset.",
+  "tags": [
+    "Hector Rafael Lapa Vazquez",
+    "Sergey Seperyevich Konstantinov",
+    "KGB",
+    "Piotr Fedotov",
+    "Virginia Gomez Nieto",
+    "Ricardo Poery Cervantes",
+    "journalists",
+    "Soviet Intelligence",
+    "advertising",
+    "pro-American"
+  ],
+  "title": "MEXI 6445: LOIMOD OVE 24.06 - Investigation of Hector Rafael Lapa Vazquez",
+  "date": "1964-09-20",
+  "locations_mentioned": [
+    "Mexico City",
+    "Chicago",
+    "Rosselle",
+    "U.S."
+  ],
+  "origin_agency": "MEXICO CITY",
+  "persons_mentioned": [
+    "Hector Rafael Lapa Vazquez",
+    "Graciella Ponzio",
+    "Pricilla Lavocki",
+    "Sergey Seperyevich Konstantinov",
+    "Piotr Fedotov",
+    "Virginia Gomez Nieto",
+    "Ricardo Poery Cervantes"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

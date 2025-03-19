@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the impact of Hurricane Flora on Cuba and its potential effects on sabotage operations against Cuban shipping. It advises halting sabotage operations until the situation changes and making necessary adjustments to the approach.",
+  "tags": [
+    "sabotage",
+    "shipping",
+    "hurricane",
+    "flora",
+    "operations",
+    "Cuba",
+    "food",
+    "medicine",
+    "maritime",
+    "psychological impact"
+  ],
+  "title": "Hurricane Flora Damage to Cuba and Sabotage Operations",
+  "date": "1963-10-01",
+  "locations_mentioned": [
+    "Cura",
+    "Cuba",
+    "Frankfurt",
+    "Hague",
+    "Paris",
+    "LOMI"
+  ],
+  "origin_agency": "DEFCRAF",
+  "persons_mentioned": [
+    "FITZGERALD",
+    "AlanLIUS",
+    "John F. Kennedy"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "DAIDURG"
+}

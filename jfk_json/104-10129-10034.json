@@ -1,0 +1,32 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memo",
+  "security_level": "SECRET",
+  "summary": "This document appears to be a memo concerning the release of information under the President John F. Kennedy Assassination Records Act of 1992, with instructions for handling and distribution within the CIA. It includes references to photographs and various departments/offices.",
+  "tags": [
+    "CIA",
+    "John F. Kennedy Assassination Records Act of 1992",
+    "DDS/IOS",
+    "ADDS/IOS",
+    "SST/IOS",
+    "OSD",
+    "AB",
+    "PB",
+    "SAB",
+    "SB",
+    "CPSO F214442",
+    "Photographs",
+    "Release",
+    "Handling",
+    "Distribution"
+  ],
+  "title": "RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "2025-01-11",
+  "locations_mentioned": [],
+  "origin_agency": "DDS/IOS",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "OSD",
+  "sender": "ADDS/IOS"
+}

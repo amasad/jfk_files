@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document contains personality information on Guillermo ARASTAGUIA, pseudonym \"Rene,\" chief of the Department of Technical Operational Support (MI) in the Direccion General de Inteligencia (DGI). It includes details about his background, physical description, and possible connections to Anibal ESCALANTE and Ramiro VALDES.",
+  "tags": [
+    "Intelligence",
+    "Personnel",
+    "Guillermo ARASTAGUIA",
+    "DGI",
+    "Cuba",
+    "Counterintelligence"
+  ],
+  "title": "Guillermo ARASTAGUIA",
+  "date": "1964-08-11",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D. C.",
+    "Helsinki",
+    "Moscow"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "Guillermo ARASTAGUIA",
+    "Ramiro VALDES",
+    "Anibal ESCALANTE",
+    "Raul CASTRO"
+  ],
+  "recipient": "DIA, ARMY, NAVY, AIR, OCR, FBI, REP CINCLANT, CINCSO, LENS",
+  "sender": "CS"
+}

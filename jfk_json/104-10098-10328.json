@@ -1,0 +1,28 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a request from [S/] for 190 dollars in view of his wife's visit to Mexico City for Christmas. It also mentions [S/]'s living situation, his connection to a PCM member named Eliodorina Garcia, and upcoming meetings.",
+  "tags": [
+    "Christmas",
+    "wife",
+    "PCM",
+    "Elieodorina Garcia",
+    "meeting",
+    "funds"
+  ],
+  "title": "MEXI 7416",
+  "date": "1963-12-17",
+  "locations_mentioned": [
+    "Mexico City",
+    "Merida",
+    "Calle NO. 17, Colonia Montezuma"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "S/"
+  ],
+  "recipient": "TEGU",
+  "sender": "Director"
+}

@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Dispatch",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This dispatch transmits a memo to the Legal Attache in response to an inquiry about Martin Luther King, Jr.'s activities in Oslo and Norway. It confirms that they have no information about King's past or future visits and acknowledges the desire for confidentiality regarding their interest in King.",
+  "tags": [
+    "Martin Luther King, Jr.",
+    "Legal Attache",
+    "Oslo",
+    "Norway",
+    "FBI"
+  ],
+  "title": "Transmittal of Memo to Legal Attache Regarding Martin Luther King, Jr.",
+  "date": "1966-03-30",
+  "locations_mentioned": [
+    "Oslo",
+    "Norway"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Martin Luther King, Jr.",
+    "John F. Kennedy"
+  ],
+  "recipient": "Chief of Station, London",
+  "sender": "Chief"
+}

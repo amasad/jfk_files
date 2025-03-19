@@ -1,0 +1,28 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document is a cable concerning individuals ODON (ALVAREZ) DE LA CAMPA, GILBERTO (LIWAY) RODRIGUEZ, (ALDO (VERA) SERAFIN), and (MANOLO (UZIEL).",
+  "tags": [
+    "JMWAVE",
+    "PURUMEN",
+    "QUOLA",
+    "AVE 8524",
+    "IWF 74317"
+  ],
+  "title": "MADR (RFG DIR MEXI CITE WAVE 8525",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "MEXI"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "ODON (ALVAREZ) DE LA CAMPA",
+    "GILBERTO (LIWAY) RODRIGUEZ",
+    "ALDO (VERA) SERAFIN",
+    "MANOLO (UZIEL)"
+  ],
+  "recipient": "DOP, CI, CI/OPS, CI/OA, FI, SAS, VR",
+  "sender": "WAVE 8525"
+}

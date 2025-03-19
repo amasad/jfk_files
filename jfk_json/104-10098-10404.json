@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security_level": "SECRET",
+  "summary": "This document contains information regarding Soviet technicians in Cuba, Cuban military activities, and the general attitude towards the Soviet presence.",
+  "tags": [
+    "Soviet Technicians",
+    "Cuban Military",
+    "SANTIACÓ DE CURA",
+    "MADARA",
+    "PINAR DEL RIC",
+    "KATANZAS",
+    "VERASERO",
+    "Cuban Militia",
+    "Soviet presence",
+    "Military Equipment"
+  ],
+  "title": "Classified Message on Soviet Presence and Cuban Military Activities",
+  "date": "1962-12-24",
+  "locations_mentioned": [
+    "Cuba",
+    "SANTIACÓ DE CURA",
+    "MADARA",
+    "PINAR DEL RIC",
+    "SOROA",
+    "KATANZAS",
+    "VERASERO"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "CASTRO",
+    "ERIC BORSIONEM",
+    "REMIGIO",
+    "NENITA ROCA"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "NICO CITY"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses the subject's contact with Ernesto \"Che\" Guevara, motivation for leaving Cuba, pouch communication system, and instructions to influence the subject to stay in place with financial aid.",
+  "tags": [
+    "PERUMEN",
+    "ANSEVER-2",
+    "Ernest \"Che\" Guevara",
+    "Cuba",
+    "Netherlands Embassy",
+    "Cornelis Bijpus",
+    "E. Cabanes",
+    "Nueva Papelera de Puentes Grandes",
+    "Mario De La Guardia",
+    "Jorge Antonio Abasolo Garcia"
+  ],
+  "title": "MEXI 6761: Developments regarding subject's plans and communication channels",
+  "date": "unknown",
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "Netherlands Embassy",
+    "Puentes Grandes"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DIRECTOR",
+    "ANSEVER-2",
+    "Ernest \"Che\" Guevara",
+    "Cornelis Bijpus",
+    "E. Cabanes",
+    "Mario De La Guardia",
+    "Jorge Antonio Abasolo Garcia"
+  ],
+  "recipient": "WH 6",
+  "sender": "MEXICO CITY"
+}

@@ -1,0 +1,43 @@
+{
+  "classification": "Operations",
+  "document_type": "CIA Information Report",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is a CIA information report from October 8, 1963, providing a situation appraisal of South Vietnam as of October 5, 1963. It discusses coup plotting, demands by generals to President Diem, the atmosphere in Saigon, and potential surprises for the upcoming National Day celebrations. It also touches on the Viet Cong's lack of capitalizing on opportunities and potential GVN-DRV rapprochement.",
+  "tags": [
+    "coup plotting",
+    "Ngo Dinh Diem",
+    "martial law",
+    "Tran Van Don",
+    "Saigon",
+    "arrests",
+    "National Day celebrations",
+    "Viet Cong",
+    "student activities",
+    "GVN-DRV rapprochement",
+    "economic action",
+    "social action"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-10-08",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon",
+    "Cholon",
+    "Hanoi"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Tran Van Don",
+    "Ho Chi Minh",
+    "Joseph Alsop",
+    "Maneli",
+    "Lalouette",
+    "Tung",
+    "Harkins"
+  ],
+  "recipient": "JCS, SECDEF, NSA, NIC, CCI, STATE, INF, DIA, ARMY, ACSI, NAVY, AIR",
+  "sender": "CIA"
+}

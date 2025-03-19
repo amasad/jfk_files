@@ -1,0 +1,36 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the Latin American Study Seminar (LASS) tactics and the possibility of holding the seminar at an unfriendly site. It also outlines conditions for inviting LASS and potential issues to consider.",
+  "tags": [
+    "Latin American Study Seminar",
+    "LASS",
+    "seminar",
+    "KORNELOS",
+    "AYZIA",
+    "CORDERO",
+    "COSEC",
+    "MEXI",
+    "PALP",
+    "IBC Tactics",
+    "KURARK"
+  ],
+  "title": "Regarding Latin American Study Seminar tactics.",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "PARIS",
+    "Latin America"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "Manuel kragpr",
+    "John F. Kennedy",
+    "KORNELOS",
+    "AYZIA",
+    "CORDERO"
+  ],
+  "recipient": "PARIS/LCPIPTI",
+  "sender": "DIRECTOR"
+}

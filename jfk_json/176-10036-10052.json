@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security_level": "SECRET",
+  "summary": "This document contains information about Cuban exile plans to attack the Cuban mainland and launch Plan Omega, which involves reorganizing guerrilla groups, attacking Russian bases and Cuban forces, and coordinating a general insurrection. It also mentions the alliance receiving blueprints of major plants inside Cuba and the involvement of the Frente Anti-Comunista de Liberacion (FAL) within the Cuban Army.",
+  "tags": [
+    "Cuban exile plans",
+    "Plan Omega",
+    "guerrilla groups",
+    "Russian bases",
+    "Cuban forces",
+    "Frente Anti-Comunista de Liberacion (FAL)",
+    "Amaury Fraginals Alonso",
+    "Movimiento Revolucionario Popular (MRP)",
+    "Second Front of Escambray",
+    "Alpha 66"
+  ],
+  "title": "Central Intelligence Agency Information Report",
+  "date": "1963-06-28",
+  "locations_mentioned": [
+    "CUBA",
+    "ENGLAND",
+    "LONDON",
+    "VENEZUELA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMAURY FRAGINALS ALONSO",
+    "FIDEL CASTRO"
+  ],
+  "recipient": "BUNDY-SMITH",
+  "sender": "CIA"
+}

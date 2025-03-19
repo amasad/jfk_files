@@ -1,0 +1,46 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This document is a memorandum from Johnson to Rostow regarding a meeting of the Task Force on Vietnam on June 19, 1961. The meeting covered intelligence briefings, local currency costs, the situation in Laos, and other matters. Cottrell's proposal to break off the Geneva Conference and intervene in Laos was discussed, as well as a possible 100,000 man increase in GVN forces.",
+  "tags": [
+    "Vietnam Task Force",
+    "Intelligence Briefing",
+    "Cambodian Border Problem",
+    "Local Currency Costs",
+    "Laos Situation",
+    "Geneva Conference",
+    "GVN Forces",
+    "Military Intervention",
+    "Rice Exports",
+    "Border Problem"
+  ],
+  "title": "Meeting of Vietnam Task Force June 19 1961",
+  "date": "1961-06-20",
+  "locations_mentioned": [
+    "Saigon",
+    "Cambodia",
+    "Phnom Penh",
+    "Viet Nam",
+    "Laos",
+    "Thailand",
+    "Southeast Asia"
+  ],
+  "origin_agency": "NARA",
+  "persons_mentioned": [
+    "Johnson",
+    "Rostow",
+    "Sihanouk",
+    "Cottrell",
+    "Ben Wood",
+    "Thuan",
+    "Diem",
+    "Taylor",
+    "Jack Bell",
+    "Alexis Johnson",
+    "Bob Cleveland",
+    "Jack King"
+  ],
+  "recipient": "Rostow",
+  "sender": "Johnson"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Medical",
+  "document_type": "Hospital Bill",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document appears to be a hospital bill for Rigoberto Cruz Perez from a hospital in Hialeah, Florida, dated September 12, 1965. It includes charges for various services, payments, and outstanding balances.",
+  "tags": [
+    "hospital bill",
+    "medical expenses",
+    "patient records",
+    "insurance",
+    "Hialeah",
+    "Florida"
+  ],
+  "title": "Hospital Bill for Rigoberto Cruz Perez",
+  "date": "1965-09-12",
+  "locations_mentioned": [
+    "Miami, FLA.",
+    "HIALEAH, FLA"
+  ],
+  "origin_agency": "Unknown (Hospital)",
+  "persons_mentioned": [
+    "CRUZ, RIGOBERTO",
+    "A. VARGAS",
+    "H. M SIMON, JR., M.D.",
+    "RALPH L. PIPES. MD"
+  ],
+  "recipient": "RIGOBERTO (CRUZ)",
+  "sender": "Unknown (Hospital)"
+}

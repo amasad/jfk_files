@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a proposed operation involving unretrievable equipment and the potential risks to liaison equity. It explores alternative possibilities such as inductive tapping and the use of non-attributable batteries. The cable also requests information from Rome regarding available equipment and batteries.",
+  "tags": [
+    "Liaison",
+    "Equipment",
+    "Security",
+    "Inductive Tap",
+    "Batteries",
+    "Audio Target",
+    "UNSNAFU/19",
+    "HEFAIRY"
+  ],
+  "title": "Proposed Operation and Equipment Considerations",
+  "date": "1964-04-04",
+  "locations_mentioned": [
+    "Paris",
+    "Rome",
+    "Frankfurt"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMWEIF",
+    "UNBOX 8",
+    "UNSNAFU/19",
+    "BRENNAN",
+    "WALSH",
+    "OBTING",
+    "MERTZ",
+    "CRAVEN",
+    "LOETSS"
+  ],
+  "recipient": "Director",
+  "sender": "PARIS ROME FRANKFURT"
+}

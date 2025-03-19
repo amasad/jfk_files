@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This is a classified message regarding VIO L. NEVES, sent from DIR to WAVE and GYROSE, referencing RIOD 8317 and RICD 8316. The message includes routing and classification information.",
+  "tags": [
+    "Classified Message",
+    "VIO L. NEVES",
+    "RIOD 8317",
+    "RICD 8316",
+    "American Embassy",
+    "POL",
+    "APO 676"
+  ],
+  "title": "104-10512-10102 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "1962-08-25",
+  "locations_mentioned": [
+    "New York, N.Y.",
+    "American Embassy - POL"
+  ],
+  "origin_agency": "DIR",
+  "persons_mentioned": [
+    "VIO L. NEVES"
+  ],
+  "recipient": "WAVE, GYROSE",
+  "sender": "DIR"
+}

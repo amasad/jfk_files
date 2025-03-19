@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security_level": "SECRET",
+  "summary": "This memo discusses the potential of Hargrave Secret Service as a cover. It includes information from Chicago Field Office files, local FBI contacts, and Richard Cain of the Cook County Sheriff's Office. The memo suggests Cover may want to reconsider using Hargrave due to concerns about discretion and business practices.",
+  "tags": [
+    "Hargrave Secret Service",
+    "cover potential",
+    "Chicago Field Office",
+    "FBI",
+    "Albert Johnson",
+    "Richard Cain",
+    "Cook County Sheriff's Office",
+    "private detective agency",
+    "investigative correspondents"
+  ],
+  "title": "Hargrave Secret Service Cover Potential",
+  "date": "1963-12-23",
+  "locations_mentioned": [
+    "Chicago",
+    "6 West Randolph Street"
+  ],
+  "origin_agency": "Contact Division, Support Branch",
+  "persons_mentioned": [
+    "Al Thompson",
+    "George R. Hargrave",
+    "Albert Johnson",
+    "Richard Cain",
+    "R.F.B. Lohmann"
+  ],
+  "recipient": "Chief, Chicago Field Office",
+  "sender": "Chief, Contact Division, Support Branch"
+}

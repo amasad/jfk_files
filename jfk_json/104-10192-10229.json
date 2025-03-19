@@ -1,0 +1,33 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Orlando Bosch's suspended sentence, allegations of WOFACT activities, and potential publicization of JMWAVE activity.",
+  "tags": [
+    "JMWAVE",
+    "WOFACT",
+    "Orlando Bosch",
+    "Anti-Communist Exiles",
+    "Propaganda",
+    "Security",
+    "Combined OPS"
+  ],
+  "title": "DIRECTOR BELLA NAPELI",
+  "date": "1966-10-05",
+  "locations_mentioned": [
+    "Naples",
+    "Cuba",
+    "Cayo Gordo",
+    "Koy Largo",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Orlando Bosch",
+    "Jorge Cuitierrez Ulla",
+    "Jorge Vega",
+    "Felipe Rivero"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JAVE"
+}

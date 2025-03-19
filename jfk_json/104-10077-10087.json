@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses WELDRAKE's comments on a subject related to REP A, traces for ALFONSO ASELJON CONDES, and possible utilization by MADR station. Mentions contact with OAS Spain and offer of services to KUBARK.",
+  "tags": [
+    "WELDRAKE",
+    "ALFONSO ASELJON CONDES",
+    "OAS Spain",
+    "KUBARK",
+    "MADR station",
+    "traces"
+  ],
+  "title": "HQS REQUEST WELDRAKE'S COMMENTS ON SUBJ OF REP A",
+  "date": "1963-11-22",
+  "locations_mentioned": [
+    "Spain"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "ALFONSO ASELJON CONDES",
+    "VELDRAKE"
+  ],
+  "recipient": "MADR",
+  "sender": "HQS"
+}

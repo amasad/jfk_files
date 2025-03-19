@@ -1,0 +1,27 @@
+{
+  "classification": "Administrative",
+  "document_type": "Travel Briefing Data",
+  "security_level": "ADMINISTRATIVE - INTERNAL USE ONLY",
+  "summary": "Travel briefing data for Charlotte Bustos-Videla, departing June 30, 1974, to Trinidad. Includes security and travel precautions.",
+  "tags": [
+    "Travel Briefing",
+    "Charlotte Bustos-Videla",
+    "Trinidad",
+    "Security",
+    "Travel Precautions",
+    "State Integree",
+    "PCS"
+  ],
+  "title": "TRAVEL BRIEFING DATA",
+  "date": "1974-06-30",
+  "locations_mentioned": [
+    "Trinidad"
+  ],
+  "origin_agency": "WH",
+  "persons_mentioned": [
+    "BUSTOS-VIDELA, Charlotte",
+    "JOHN F. KENNEDY"
+  ],
+  "recipient": "N/A",
+  "sender": "SECURITY OFFICER"
+}

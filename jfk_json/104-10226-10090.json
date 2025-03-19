@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses intelligence regarding a potential uprising in Cuba. It suggests that while information points to a planned revolt, there's a strong possibility it's a deception or provocation operation by Castro's forces. Various exile groups are mentioned, and their involvement is investigated, with most denying knowledge of the planned uprising. The cable concludes that a genuine popular uprising is unlikely at the time and arranges for a broadcast to warn Cuban patriots about potential provocations.",
+  "tags": [
+    "uprising",
+    "Cuba",
+    "deception",
+    "provocation",
+    "exile groups",
+    "Castro",
+    "ANCORE-2",
+    "DRE",
+    "MRP",
+    "30 NOV",
+    "Juventud Anti-comunista Catolica",
+    "MRR",
+    "ELN",
+    "FND",
+    "FAL",
+    "Secundo Frente Escambray"
+  ],
+  "title": "IN14497: GYROSE INTEL - Potential Uprising in Cuba",
+  "date": "1962-08-31",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "JIAWAVE",
+  "persons_mentioned": [
+    "PEDRO INTERIAN GARCIA",
+    "AMRAZZ-1",
+    "AMICE-8",
+    "AMPAN-4",
+    "CESAR BARO"
+  ],
+  "recipient": "UFICO",
+  "sender": "JIAWAVE"
+}

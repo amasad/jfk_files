@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Manual",
+  "security_level": "SECRET",
+  "summary": "This document describes the 201 system, a method for identifying and controlling information about persons of specific interest to the Operations Directorate. It covers the 201 number, dossier, master record, OI codes, machine lists, opening and maintaining dossiers, restrictions, information requests, and dossier cancellation.",
+  "tags": [
+    "201 system",
+    "Operations Directorate",
+    "information control",
+    "OI codes",
+    "dossier management",
+    "intelligence"
+  ],
+  "title": "The 201 System - Annex B",
+  "date": "1974-11-15",
+  "origin_agency": "DDO",
+  "persons_mentioned": [],
+  "recipient": "DDO Components",
+  "sender": "DDO/RMO"
+}

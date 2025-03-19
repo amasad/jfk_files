@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "This memo discusses Ismael Rodriguez, the comptroller of Cubana Airlines, who was used as a source of information by the Bureau and as a courier for transmitting material between the US and Cuba for CIA operations.",
+  "tags": [
+    "CIA Liaison Material",
+    "Cubana Airlines",
+    "Courier",
+    "Ismael Rodriguez",
+    "Internal Security"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1961-08-17",
+  "locations_mentioned": [
+    "Cuba",
+    "New York City"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Ismael Rodriguez",
+    "David Hanlon",
+    "L'Allier",
+    "S.J. Papich"
+  ],
+  "recipient": "L'Allier",
+  "sender": "Papich"
+}

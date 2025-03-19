@@ -1,0 +1,30 @@
+{
+  "classification": "Security",
+  "document_type": "Request for Approval or Investigative Action",
+  "security_level": "SECRET",
+  "summary": "Request for covert security approval for Robert A. Maheu, who may be employed by the King of Jordan for public relations in the U.S.",
+  "tags": [
+    "Robert A. Maheu",
+    "Jordan",
+    "Public Relations",
+    "Security Approval",
+    "King of Jordan",
+    "Operational Approval"
+  ],
+  "title": "REQUEST FOR APPROVAL OR INVESTIGATIVE ACTION RE: Robert A. Maheu",
+  "date": "1959-10-07",
+  "locations_mentioned": [
+    "U.S.",
+    "Jordan"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Robert A. Maheu",
+    "King of Jordan",
+    "J. O'Connell",
+    "James E. Burkart",
+    "William R. Freeman"
+  ],
+  "recipient": "CI/Operational Approval and Support Division, Security Support Division/Office of Security",
+  "sender": "NE/2/Jordan"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "This document discusses the shipment of ten safes from the Mosler Safe Company to the Soviet Embassy in Havana, Cuba. It includes details about the safe models, serial numbers, combinations, and dial key numbers. The CIA is provided with a set of dial keys and keys for the inside compartments of the safes.",
+  "tags": [
+    "CIA Liaison",
+    "Soviet Embassy",
+    "Havana",
+    "Cuba",
+    "Mosler Safe Company",
+    "Safes",
+    "Internal Security",
+    "Counterintelligence"
+  ],
+  "title": "SOVIET EMBASSY HAVANA, CUBA",
+  "date": "1960-11-21",
+  "locations_mentioned": [
+    "United States",
+    "Soviet Embassy",
+    "Havana",
+    "Cuba",
+    "Washington"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Edgar Hoover",
+    "S. H. Morton",
+    "John W. Hanes"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI HQ"
+}

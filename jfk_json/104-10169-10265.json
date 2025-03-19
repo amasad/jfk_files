@@ -1,0 +1,48 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "This message discusses plans to establish secure communication between WAVE and A-3 groups, including dispatching AMJAVA-4 by BLACK for infiltration into Cuba.",
+  "tags": [
+    "WAVE",
+    "A-3",
+    "AMJAVA-4",
+    "BLACK",
+    "infiltration",
+    "Cuba",
+    "communication",
+    "security incident",
+    "courier",
+    "radio link",
+    "G2",
+    "raid",
+    "agent",
+    "HABANA",
+    "GIQUEL",
+    "ZABOTH",
+    "ESCAMBRAY",
+    "W/T OPR",
+    "OSVALDO RAMIREZ GROUP"
+  ],
+  "title": "Plans to Establish Secure Communication Between WAVE and A-3 Groups",
+  "date": "1961-02-15",
+  "locations_mentioned": [
+    "Cuba",
+    "HAVA",
+    "HABANA",
+    "13TH AVE",
+    "198 ST",
+    "BILTMORE",
+    "ESCAMBRAY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DUQUE",
+    "BELL",
+    "OSVALDO RAMIREZ",
+    "GIQUEL",
+    "ZABOTH"
+  ],
+  "recipient": "BELL",
+  "sender": "WAVE"
+}

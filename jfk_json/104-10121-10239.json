@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memo",
+  "security_level": "SECRET",
+  "summary": "Personnel records and employment details for Sara Sioux (Barnes) Gray and related individuals, including spouses, sons, and supervisors. Mentions dates of entry on duty (EOD) and security flags.",
+  "tags": [
+    "Personnel Records",
+    "Employment Details",
+    "Security Flag",
+    "Entry on Duty",
+    "GS Ratings"
+  ],
+  "title": "Personnel Information for Sara Sioux (Barnes) Gray and Related Individuals",
+  "date": "1962-09",
+  "persons_mentioned": [
+    "GRAY, Sara Sioux (Barnes)",
+    "GRAY, John Franklin",
+    "PANNER, Claude Griffith, Jr.",
+    "FENNER, Claude G.",
+    "MORALES, David Sanchez",
+    "POCKER, Charles Hunter",
+    "SHIVERS, Forrest",
+    "VORITS, Donald George"
+  ],
+  "recipient": "CIA",
+  "sender": "SKII:lls/SOCHET"
+}

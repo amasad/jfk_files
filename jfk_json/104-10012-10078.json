@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This document concerns the declassification of Warren Commission document CD-971, which refers to an investigation of anonymous telephone calls to the Canberra Embassy before and after the assassination of President Kennedy. Sir Charles Spry recommends against declassification.",
+  "tags": [
+    "Declassification",
+    "Warren Commission",
+    "CD-971",
+    "Canberra Embassy",
+    "Anonymous Telephone Calls",
+    "Australia",
+    "ASIO"
+  ],
+  "title": "Letter for Director from Sir Charles Spry (ASIO)",
+  "date": "1968-11-20",
+  "locations_mentioned": [
+    "Canberra",
+    "Australia"
+  ],
+  "origin_agency": "Far East Division",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Charles Spry",
+    "William E. Nelson"
+  ],
+  "recipient": "Director of Central Intelligence",
+  "sender": "Chief Far East Division"
+}

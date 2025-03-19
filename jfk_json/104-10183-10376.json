@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses WAVE plans to start training ALICE INFILS EAR and contains personal information, including names and dates of birth, of several individuals: DANILO POZO CASTRO, EUSTIQUIANO GARCIA LEZCANO, MIGUEL A. DIAZ ISALCUE, OSCAR OLIVA CANTUD, JUAN ESPINOSA GONZALEZ, and FRANCISCO DOMINGUEZ ELEJALDE. It also requests POAS subjects and a card set and discusses JESUS RIERA FERRO as a candidate for RADOP.",
+  "tags": [
+    "WAVE",
+    "ALICE INFILS EAR",
+    "POAS",
+    "RADOP",
+    "Training",
+    "ODENVY"
+  ],
+  "title": "WAVE Plans and Training",
+  "date": "1961-09-26",
+  "locations_mentioned": [
+    "Santiago de las Vegas",
+    "Marti",
+    "Matanzas",
+    "Havana"
+  ],
+  "origin_agency": "UMWAVE",
+  "persons_mentioned": [
+    "DANILO POZO CASTRO",
+    "EUSTIQUIANO GARCIA LEZCANO",
+    "MIGUEL A. DIAZ ISALCUE",
+    "OSCAR OLIVA CANTUD",
+    "JUAN ESPINOSA GONZALEZ",
+    "FRANCISCO DOMINGUEZ ELEJALDE",
+    "JESUS RIERA FERRO"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "UMWAVE"
+}

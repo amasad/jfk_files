@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses AMWHIP/1, a KUBARK asset, who will be in Rome and is willing to provide services to the STA, including cover for PERUMEN operations. It recommends establishing contact with AMWHIP/1 to discuss various operational possibilities and problems, including cover for SUBJ DIR 38810.",
+  "tags": [
+    "AMWHIP/1",
+    "KUBARK",
+    "PERUMEN",
+    "Rome",
+    "Covert Operations",
+    "Intelligence Asset"
+  ],
+  "title": "DIR 44488: AMWHIP/1 Visit to Rome",
+  "date": "1963-06-05",
+  "locations_mentioned": [
+    "Rome",
+    "Paris",
+    "New York",
+    "Milan"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Stephen I. Mungrave",
+    "FILL THOMPSON"
+  ],
+  "recipient": "ROME",
+  "sender": "DIRECTOR"
+}

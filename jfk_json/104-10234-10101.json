@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "This document discusses an investigation into the potential involvement of ACSI (Army Counterintelligence) in sponsoring AMTRUNK-9's trip. It details circumstantial evidence suggesting ACSI involvement, including statements from AMTRUNK-9's wife, a written note from AMFAUNA-3, and the identification of the agent handler \"Torres\". The document also mentions concerns about funds provided for the trip and potential insubordination or misrepresentation within ACSI. It further explores the possibility of KUBARK sponsorship and discrepancies in the stories told by AMTRUNK-9 and his wife regarding the trip's funding.",
+  "tags": [
+    "ACSI",
+    "AMTRUNK-9",
+    "AMFAUNA-3",
+    "Torres",
+    "KUBARK",
+    "Infiltration",
+    "Investigation",
+    "Funding",
+    "Trip Sponsorship",
+    "ODYOKE"
+  ],
+  "title": "Investigation into ACSI Involvement in AMTRUNK-9 Trip",
+  "date": "Unknown",
+  "locations_mentioned": [],
+  "origin_agency": "DIA",
+  "persons_mentioned": [
+    "AMTRUNK-9",
+    "AMICE-14",
+    "AMFAUNA-3",
+    "Torres",
+    "Jose Vasquez",
+    "AMTRUNK-15"
+  ],
+  "recipient": "ANTRUNK",
+  "sender": "DIR"
+}

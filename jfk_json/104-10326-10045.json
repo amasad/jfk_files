@@ -1,0 +1,28 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a news story about Lee Harvey Oswald and the CIA in Japan. It requests the name and phone number of the project office responsible for declassification of Kennedy assassination papers, as a UPI reporter is about to file a story based on local research and an interview with a retired Marine officer who claimed Oswald was recruited by the CIA while stationed in Japan in the 1950s.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "CIA",
+    "Japan",
+    "Kennedy Assassination",
+    "Declassification",
+    "UPI",
+    "Media",
+    "Marine Corps"
+  ],
+  "title": "NEWS STORY ON LEE HARVEY OSWALD AND CIA IN JAPAN",
+  "date": "1996-09-12",
+  "locations_mentioned": [
+    "Japan"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John F. Kennedy"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "TOKYO"
+}

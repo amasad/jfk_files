@@ -1,0 +1,44 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses potential meetings with CTBAN, LIFEAT coverage, tracing subjects, renewing post boxes, and sending a telegram to Manuel Vega y Socio.",
+  "tags": [
+    "RYBAT",
+    "TYPICH",
+    "ANROD",
+    "CTBAN",
+    "LIFEAT",
+    "AMBESS/1",
+    "LIKAYAK/2",
+    "LOWAS",
+    "MIGNEL SHULTZ",
+    "GERENDE",
+    "SCANTLING",
+    "MARQUEZ",
+    "MANUEL VEGA Y SOCIO",
+    "FRANCISCO MAREAMEZ",
+    "JULIO RODRIGUEZ",
+    "MOKKY"
+  ],
+  "title": "MEXI",
+  "date": "2025-MM-DD",
+  "locations_mentioned": [
+    "Mexico"
+  ],
+  "origin_agency": "Director",
+  "persons_mentioned": [
+    "CTBAN",
+    "LIKAYAK/2",
+    "LOWAS",
+    "MIGNEL SHULTZ",
+    "GERENDE",
+    "MARQUEZ",
+    "MANUEL VEGA Y SOCIO",
+    "FRANCISCO MAREAMEZ",
+    "JULIO RODRIGUEZ",
+    "MOKKY"
+  ],
+  "recipient": "Unknown",
+  "sender": "Director"
+}

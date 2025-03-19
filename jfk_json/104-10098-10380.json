@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable from Mexico City to the Director discusses the arrival of a staffer, identified as Richardson, and requests their identification and estimated time of arrival (ETA) for airport pickup.",
+  "tags": [
+    "HOS",
+    "Airport",
+    "Richardson",
+    "MANUILA",
+    "REDWOOD",
+    "REDSKIN",
+    "CSSOP 210-53"
+  ],
+  "title": "MEXI 7458: WELCOME HOS C/O. PLS PROVIDE IDEN AND ETA SO CAM HEET AIRPORT.",
+  "date": "1963-12-20",
+  "locations_mentioned": [
+    "Mexico City",
+    "Airport"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Richardson"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

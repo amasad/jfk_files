@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel",
+  "security_level": "Secret",
+  "summary": "FBI Miami Field Office reports an alleged plot by Carlos Hilario Gonzalez to kill Esteban Ventura, based on information from ANA ROSA GUERRA, an undercover CIA source working in Cuba. The information has been shared with local law enforcement, and Ventura will be advised of the threat.",
+  "tags": [
+    "EPE",
+    "GONZALEZ, CARLOS HILARIO",
+    "SUSP",
+    "CONSPR",
+    "MURDER",
+    "VENTURA, ESTEBAN",
+    "CIA",
+    "BERNARD BARKER",
+    "ANA ROSA GUERRA",
+    "ALBERTO BAYO COSGAYA",
+    "Cuban Air Force",
+    "Communist"
+  ],
+  "title": "CARLOS HILARIO GONZALEZ IS - CUBA; RA - CUBA",
+  "date": "1959-10-27",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami",
+    "Dade County"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Carlos Hilario Gonzalez",
+    "Esteban Ventura",
+    "ANA ROSA GUERRA",
+    "BERNARD BARKER",
+    "ALBERTO BAYO COSGAYA",
+    "JOHN R. BARRON"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "SAC, MIAMI"
+}

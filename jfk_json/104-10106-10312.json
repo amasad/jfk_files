@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document summarizes the case of Yurily Ivanovich NOSENKO, a Soviet KGB officer who defected in 1964 and was subsequently involuntarily confined in the U.S. by the Agency. It details his identification, background, approval for confinement, results of the case, termination status, comments, and file locations.",
+  "tags": [
+    "NOSENKO",
+    "defection",
+    "KGB",
+    "confinement",
+    "security",
+    "CI Staff",
+    "Office of Security",
+    "Richard Helms",
+    "Lawrence Houston"
+  ],
+  "title": "Yurily Ivanovich NOSENKO",
+  "date": "1964-1969",
+  "persons_mentioned": [
+    "Yurily Ivanovich NOSENKO",
+    "Richard Helms",
+    "Lawrence Houston",
+    "Charles Phalen",
+    "Bruce Solie"
+  ],
+  "recipient": "DDCI",
+  "sender": "Director of Security"
+}

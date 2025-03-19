@@ -1,0 +1,47 @@
+{
+  "classification": "Liaison",
+  "document_type": "MEMO",
+  "security_level": "SECRET",
+  "summary": "This document is a memo from the FBI regarding Lucien Conein. It discusses his affiliation with the CIA and his current assignment in Saigon, South Vietnam. It also details a request from the CIA that no information be furnished to the French regarding Conein's affiliation or whereabouts.",
+  "tags": [
+    "LUCIEN CONEIN",
+    "CIA",
+    "FBI",
+    "SAIGON",
+    "SOUTH VIETNAM",
+    "FRENCH"
+  ],
+  "title": "LUCIEN CONEIN",
+  "date": "1966-07-12",
+  "locations_mentioned": [
+    "Saigon, South Vietnam",
+    "Paris",
+    "Washington, D. C.",
+    "McLean, Virginia",
+    "Arlington County, Virginia",
+    "Fairfax County, Virginia",
+    "St. Louis"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "LUCIEN CONEIN",
+    "Tolson",
+    "DeLoach",
+    "Mohr",
+    "Wick",
+    "Casper",
+    "Callahan",
+    "Conrad",
+    "Felt",
+    "Gale",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Holmes",
+    "Gandy",
+    "Rosen",
+    "Monique Veber"
+  ],
+  "recipient": "PA",
+  "sender": "HQ"
+}

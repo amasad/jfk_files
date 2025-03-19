@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding clearance of Mr. Greer P. Hanvey and amendment to permit use of subject WAVE area as Maritime c/0.",
+  "tags": [
+    "SAS/PERSONNEL",
+    "JAWAVE",
+    "WAVE-7893",
+    "Maritime c/0"
+  ],
+  "title": "MR. GREER P. HANVEY CLEARED PER REF REQUEST.",
+  "date": "1963-12-05",
+  "locations_mentioned": [],
+  "origin_agency": "SAS",
+  "persons_mentioned": [
+    "ROY W. FORSLUND",
+    "GREER P. HANVEY",
+    "BRUCE B",
+    "ORVILLE C. DAVISON",
+    "DEFFREEO"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "SAS/PERSONNEL"
+}

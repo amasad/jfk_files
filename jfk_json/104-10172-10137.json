@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable requests priority POAs (Proof of Address) on EDDA (HERNANDEZ) GONZALEZ, BENICIA (GONZALEZ) GOMEZ and CADELAIDA (MARTINEZ) ANDREADES.",
+  "tags": [
+    "Proof of Address",
+    "EDDA (HERNANDEZ) GONZALEZ",
+    "BENICIA (GONZALEZ) GOMEZ",
+    "CADELAIDA (MARTINEZ) ANDREADES",
+    "WAVE",
+    "ODENVY"
+  ],
+  "title": "Request for Priority POAs on Cuban Nationals",
+  "date": "1962-12-10",
+  "locations_mentioned": [
+    "Cuba",
+    "LA VILLAS",
+    "Patterson, New Jersey",
+    "Miami, Florida",
+    "SAN FERNANDO DE LOS CAMARONES",
+    "ENFUEGOS"
+  ],
+  "origin_agency": "JMMAVE",
+  "persons_mentioned": [
+    "EDDA (HERNANDEZ) GONZALEZ",
+    "MIGUEL (HERNANDEZ) PEREZ",
+    "ESTELVINA (GONZALEZ) ZAYAS",
+    "BENICIA (GONZALEZ) GOMEZ",
+    "DIMASO (GONZALEZ) FERNÁNDEZ",
+    "SUSANA (CXIEZ) AQUADIO",
+    "CADELAIDA (MARTINEZ) ANDREADES"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMMAVE"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report on Juan Rodriguez Jobolca's interview, detailing his involvement with the DRF and DRE, and information about Salvador Jomolca, a guerrilla leader in Las Villas Province.",
+  "tags": [
+    "DRF",
+    "DRE",
+    "Guerrilla",
+    "Political Assassination",
+    "Las Villas",
+    "Havana"
+  ],
+  "title": "CITCUBA",
+  "date": "1962-07-16",
+  "locations_mentioned": [
+    "Havana",
+    "Las Villas Province",
+    "Rancho Veloz",
+    "Maywood, Los Angeles, California",
+    "Playa Ciron",
+    "Matenzas",
+    "Corralillo"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Juan Rodriguez Jobolca",
+    "Jose Deetjen",
+    "Manuel Salvat",
+    "Diaz Lanz",
+    "Salvador Jomolca",
+    "Campito",
+    "Nelson L. RAYNOCK"
+  ],
+  "recipient": "PM, KUTUBE",
+  "sender": "Chief of Station, GYROSE/Operational"
+}

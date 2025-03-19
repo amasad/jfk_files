@@ -1,0 +1,50 @@
+{
+  "classification": "Operations",
+  "document_type": "File",
+  "security_level": "SECRET",
+  "summary": "This file contains documents related to KDFACTOR, a photographic surveillance operation targeting the MHHARSH installation in Mexico City. The documents include operational reports, cable messages, and administrative information. The operation involved multiple surveillance points (KDLITERAL and KDABSINTHE) and several salaried assets. The file covers the period from 1958 to 1973, detailing the project's activities, security measures, and eventual termination.",
+  "tags": [
+    "KDFACTOR",
+    "Photographic Surveillance",
+    "MHHARSH Installation",
+    "Mexico City",
+    "KDLITERAL",
+    "KDABSINTHE",
+    "Counterintelligence",
+    "Surveillance",
+    "Assets",
+    "Termination Bonus",
+    "Technical Operations",
+    "CKPOLAR"
+  ],
+  "title": "Photographic Surveillance Operation",
+  "date": "1958-01-01",
+  "locations_mentioned": [
+    "Mexico City",
+    "Holland"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Oliver J. MANKUNAS",
+    "Bruce H. FERNALD",
+    "Raymond H. GERENDE",
+    "Jesse R. GARDALPHE",
+    "KDFACTOR-2",
+    "KDFACTOR-5",
+    "KDFACTOR-6",
+    "KDFACTOR-8",
+    "KDFACTOR-9",
+    "Charles F. HIPPEN",
+    "Dan Hardway",
+    "A MACAUAY",
+    "JENZMAN",
+    "Berk",
+    "Anita Potocki",
+    "Theodore G. Shackley",
+    "Lawrence C. Laser",
+    "Julie Paulas",
+    "Raymond J. Swider"
+  ],
+  "recipient": "Director",
+  "sender": "Chief of Station, Mexico City"
+}

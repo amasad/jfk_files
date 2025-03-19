@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "Top Secret",
+  "summary": "This document contains information on anti-Castro activities, organized crime, the CIA, and the assassination of John F. Kennedy.",
+  "tags": [
+    "Anti-Castro Activities",
+    "Organized Crime",
+    "CIA",
+    "Assassination",
+    "Kennedy, John"
+  ],
+  "title": "",
+  "date": "1975-01-01",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami",
+    "Caribbean",
+    "New York"
+  ],
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Marie Lorenz",
+    "Frank Sturgis",
+    "John F. Kennedy",
+    "Heinrich Lorenz"
+  ],
+  "recipient": "",
+  "sender": ""
+}

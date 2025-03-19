@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This cable discusses Pedroga as a possible lead to Eryva. It mentions Pedroga's connection to Lifanil, her possible identity as the wife of Xio Layva Fuentes, and her potential as a recruitment/defection target. It also notes negative traces on Pedroga and requests further action.",
+  "tags": [
+    "recruitment",
+    "defection",
+    "intelligence",
+    "LITAMIL",
+    "KYBAT",
+    "Pedroga",
+    "Eryva",
+    "Xio Layva Fuentes",
+    "Lifanil"
+  ],
+  "title": "RE PARA THREE & REF A LAQUEL PEDROSA BE LEIVA",
+  "date": "3/20/1963",
+  "locations_mentioned": [
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "PEDROSA BE LEIVA",
+    "LIFANIL",
+    "XIO LAYVA FUENTES",
+    "DERMOND FITZGERAL",
+    "PEDROGA"
+  ],
+  "recipient": "SAS/SOB",
+  "sender": "AC/BAB/CI"
+}

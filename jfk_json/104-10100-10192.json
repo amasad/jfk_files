@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the impact of Hurricane Flora on Cuba and its potential effect on sabotage operations against Cuban shipping. It instructs a temporary halt to these operations to reassess the situation.",
+  "tags": [
+    "Hurricane Flora",
+    "sabotage",
+    "Cuban shipping",
+    "maritime cargoes",
+    "food",
+    "medicine",
+    "Rio Cronso"
+  ],
+  "title": "HURRICANE FLORA DAMAGE TO CUBA AND SABOTAGE OPS",
+  "date": "1963-10-11",
+  "locations_mentioned": [
+    "Cuba",
+    "CURA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "FITZGERALD",
+    "Tislly Jones",
+    "Jack Dolency",
+    "THOMAS THIRLE",
+    "Vaugh/Luman",
+    "Roger Ruin",
+    "KURARD A. MARELIUS"
+  ],
+  "recipient": "HAMBURG, FRANKFURT, HAGUE, MADRID, PARIS, LONGI",
+  "sender": "DIRECTOR"
+}

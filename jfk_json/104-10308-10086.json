@@ -1,0 +1,47 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch reports on the activities of AMWORLD in mid-July 1964, detailing information obtained from former members IDEN A and IDEN B. It covers topics such as commando instruction, intelligence operations, naval activities, operational briefings, AMBIDDY/1's activities, recreational houses, engineering, and a planned assassination mission.",
+  "tags": [
+    "AMWORLD",
+    "Commando",
+    "AR-15",
+    "AR-10",
+    "Intelligence",
+    "PBPRIMER",
+    "AMBIDDY/1",
+    "Navy",
+    "Operations",
+    "KUBARK",
+    "PBRUMEN",
+    "Guerrilla",
+    "Assassination",
+    "AMTHUG/1"
+  ],
+  "title": "Report on Activities of AMWORLD",
+  "date": "1964-09-03",
+  "locations_mentioned": [
+    "Puerto CABEZAS",
+    "Nicaragua",
+    "Dominican Republic",
+    "Central America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Humberto CASAS",
+    "Tulio LEISECA",
+    "FNU ACEBO",
+    "Reynaldo GARCIA",
+    "Chino MOLE",
+    "Manoline GUTIERREZ",
+    "Ricardo \"The Mexican\"",
+    "Generoso BRINGA",
+    "Guayo HERNANDEZ",
+    "Marco ULLOA",
+    "Juan Jose ABREU",
+    "Andrew K. Reuteman"
+  ],
+  "recipient": "Chief of Station, JMWAVE",
+  "sender": "Deputy Chief, WH/SA"
+}

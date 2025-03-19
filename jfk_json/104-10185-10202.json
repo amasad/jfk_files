@@ -1,0 +1,33 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This memorandum details the requisition and establishment of Safehouse #405, including its location, lessee, cover story, case officer, and financial arrangements.",
+  "tags": [
+    "safehouse",
+    "domestic safehouse",
+    "requisition",
+    "central cover staff",
+    "lease",
+    "cover story",
+    "case officer",
+    "financial arrangements",
+    "security"
+  ],
+  "title": "Safehouse #405",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Silver Spring, Md.",
+    "Arlington, Virginia",
+    "Washington Metropolitan area"
+  ],
+  "origin_agency": "Safehouse Branch",
+  "persons_mentioned": [
+    "Barney Hildago",
+    "Roger McK. Shea",
+    "V. Rodriguez",
+    "Edward U. Denison"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Chief, Safehouse Branch"
+}

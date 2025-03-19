@@ -1,0 +1,33 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses agent messages, potential reassignment of LUCY (ESTER ARANGO), reporting on military preparations on the north coast, and potential wiretaps.",
+  "tags": [
+    "agent message",
+    "military preparations",
+    "wiretap",
+    "Cuba",
+    "Mexico",
+    "Miami"
+  ],
+  "title": "104-10076-10232 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "1963-11-28",
+  "locations_mentioned": [
+    "Mexico",
+    "Miami",
+    "US",
+    "Key West",
+    "North Coast",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "JAJAVE",
+    "ESTER ARANGO",
+    "JUAN CENDRA"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JAJAVE"
+}

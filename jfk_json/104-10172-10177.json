@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses Antonio Cuesta, an associate of Mrs. Geddes, who is a former crewmember of the Tejana III and a friend of AMDENIM-1. Cuesta is making inquiries about a boat and may return to PBRUMEN soon. The cable also mentions George Hopping as a reliable source of information.",
+  "tags": [
+    "Antonio Cuesta",
+    "Mrs. Geddes",
+    "Tejana III",
+    "AMDENIM-1",
+    "George Hopping",
+    "PBRUMEN",
+    "High Speed Boat",
+    "KUSODA",
+    "KUDESK",
+    "JMZIP",
+    "AMBEND-2"
+  ],
+  "title": "DIR INFO WAVE CITE BARR 0134 JMZIP KUSODA KUDESK",
+  "date": "1961-11-24",
+  "locations_mentioned": [
+    "BARR",
+    "PBRUMEN"
+  ],
+  "origin_agency": "JMBAR",
+  "persons_mentioned": [
+    "Antonio Cuesta",
+    "Mrs. Geddes",
+    "George Hopping"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMBAR"
+}

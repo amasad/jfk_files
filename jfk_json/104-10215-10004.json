@@ -1,0 +1,41 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "These documents relate to the request for domestic and military cover for Ross Crozier, including reasons for the request and updates on his location and duties.",
+  "tags": [
+    "cover",
+    "military cover",
+    "domestic cover",
+    "Ross Crozier",
+    "security"
+  ],
+  "title": "Request for Domestic Cover for Ross Crozier",
+  "date": "1963-06-25",
+  "locations_mentioned": [
+    "Headquarters",
+    "Washington, D.C.",
+    "Costa Rica",
+    "Guatemala",
+    "Cuba",
+    "Mexico City",
+    "Siem Maestra",
+    "Canal Zone",
+    "Coco Solo"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ross Crozier",
+    "Charlie Danish",
+    "Q. A. LADKER, Jr.",
+    "Desmond FitzGerald",
+    "Orville C. Dawson",
+    "Harold E. MORTR3",
+    "John H. Martin",
+    "Costa Rican",
+    "Castro",
+    "John F. Kennedy"
+  ],
+  "recipient": "Central Cover Staff; Chief, Central Cover Staff; Chief, Finance Division",
+  "sender": "Chief, SAS; Desmond FitzGerald; Chief, SAS/Support; Board J."
+}

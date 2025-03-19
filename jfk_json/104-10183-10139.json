@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding a study on the Cuban transport system, requesting that the study be obtained and forwarded to headquarters. It also discusses the approach for obtaining the study, whether openly or clandestinely.",
+  "tags": [
+    "Cuban transport system",
+    "study",
+    "clandestine approach",
+    "PBRUMEN",
+    "AMWHIP",
+    "MHVIPER"
+  ],
+  "title": "DIR 62066: Study ON CUBAN TRANSPORT System.",
+  "date": "1964-11-05",
+  "locations_mentioned": [
+    "Cuba",
+    "PARIS",
+    "MADR"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "THOMAS F. THIELE"
+  ],
+  "recipient": "(PARIS) 15-4",
+  "sender": "DIRECTOR"
+}

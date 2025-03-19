@@ -1,0 +1,28 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses traces of CANTO and refers to RYBAT.",
+  "tags": [
+    "AMLASH",
+    "CANTO",
+    "RYBAT",
+    "HQS Traces"
+  ],
+  "title": "250661 13 192 TO PARIS FROM DIRECTOR",
+  "date": "1964-08",
+  "locations_mentioned": [
+    "Paris"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "ORK VILLIAMS",
+    "Bruce B. Cheever",
+    "WILLIAM D. O'RYAN",
+    "W. Wainwright",
+    "Roger Pierre"
+  ],
+  "recipient": "PARIS",
+  "sender": "DIRECTOR"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses the identification of CARLOS (TEPEDINO) GONZALEZ, including physical characteristics.",
+  "tags": [
+    "Identification",
+    "Physical Description",
+    "CARLOS (TEPEDINO) GONZALEZ",
+    "PBRUMEN",
+    "AMWHIP",
+    "BESENSTEAL"
+  ],
+  "title": "DIR 15093: Identification of CARLOS (TEPEDINO) GONZALEZ",
+  "date": "1964-04-17",
+  "locations_mentioned": [
+    "GENEVA",
+    "BERN",
+    "MADRID",
+    "ROME",
+    "PARIS"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "CARLOS (TEPEDINO) GONZALEZ",
+    "Mr. Wainwright",
+    "BRONSON THEEDY",
+    "BRUCE B. CHEEEER"
+  ],
+  "recipient": "GENEVA, BERN, MADRID, ROME, PARIS",
+  "sender": "DIRECTOR"
+}

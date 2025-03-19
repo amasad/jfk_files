@@ -1,0 +1,39 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch discusses agreed activities between JMWAVE and ACSI, including refugee referral procedures, infiltration operations, and coordination of resources like W/T assets and secret writing. It also highlights concerns about cooperation from Lt. Col. Causes and potential issues at the Opa Locka center.",
+  "tags": [
+    "Agreed Activities",
+    "Refugee Referral",
+    "Infiltration Operation",
+    "W/T Assets",
+    "Secret Writing",
+    "Coordination",
+    "Opa Locka",
+    "GYROSE"
+  ],
+  "title": "Operational/GYROSE Agreed Activities",
+  "date": "1962-07-03",
+  "locations_mentioned": [
+    "Miami",
+    "Opa Locka",
+    "PBRUMEN",
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Maj. Watlington",
+    "Lt. Col. Carlos Causes",
+    "Dudley R. JENTONS",
+    "Charles B. WIESINGER",
+    "Andrew K. REUTEMAN",
+    "Col. Kail",
+    "Antonio CUESTA Valle",
+    "Lt. Laureano BATISTA Falla",
+    "Antonio ORDONEZ Hernandez",
+    "Col. Trudencio Ulibarri"
+  ],
+  "recipient": "Chief, Task Force W",
+  "sender": "Chief of Station, JMWAVE"
+}

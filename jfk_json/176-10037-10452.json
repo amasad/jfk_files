@@ -1,0 +1,33 @@
+{
+  "classification": "CIA",
+  "document_type": "Telegram Information Report",
+  "security_level": "SECRET",
+  "summary": "This document is an information report regarding views warning President Diem of a possible coup d'etat on the night of 1-2 August 1962.",
+  "tags": [
+    "coup d'etat",
+    "Ngo Dinh Diem",
+    "Duong Van Minh",
+    "Mai Huu Xuan",
+    "ARVN",
+    "VC",
+    "Saigon",
+    "Vietnam"
+  ],
+  "title": "Information Report Re: Views",
+  "date": "1962-08-01",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Ngo Dinh Diem",
+    "Duong Van Minh",
+    "Mai Huu Xuan",
+    "Nguyen Van Chau",
+    "Long"
+  ],
+  "recipient": "Unknown",
+  "sender": "CIA"
+}

@@ -1,0 +1,41 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "Memorandum for the record regarding a meeting with E. Howard Hunt concerning his memoirs, 'Undercover'. The meeting involved discussions and agreed-upon changes to classified and unclassified items in the manuscript, including those related to a fabricated Shanghai post, the Guatemalan Embassy in Mexico City, and a CIA-Uruguayan telephone monitoring operation.",
+  "tags": [
+    "E. Howard Hunt",
+    "Memoirs",
+    "Undercover",
+    "CIA",
+    "Classification",
+    "Deletions",
+    "Mexico City",
+    "Guatemalan Embassy",
+    "Telephone Monitoring",
+    "Press Release"
+  ],
+  "title": "Meeting with E. Howard Hunt Re His Memoirs, \"Undercover\"",
+  "date": "1974-09-30",
+  "locations_mentioned": [
+    "Washington Field Office",
+    "Mexico City",
+    "Guatemala",
+    "Uruguay",
+    "Hong Kong",
+    "China"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "E. Howard Hunt",
+    "Ray Rocca",
+    "William A. Snyder, Jr.",
+    "Thomas W. Coons",
+    "Henry Pleasants",
+    "Frank Holcomb",
+    "John D. Morrison, Jr.",
+    "Walter Pforzheimer"
+  ],
+  "recipient": "Acting DDO",
+  "sender": "John D. Morrison, Jr., Acting General Counsel"
+}

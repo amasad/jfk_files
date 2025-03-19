@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the transfer of items through Enrique (Vicente Socorras) and the Japanese Embassy. It mentions the receipt of Magnum pistols without bullets and radios, requesting information on the radios' range and the filters for the pistols. It references RYBAT, ANTURVY, SAGTEL, WAVE 8724, WAVE 8694, and ANTURVY-1.",
+  "tags": [
+    "JMWAVE",
+    "ENRIQUE (VICENTE SOCORRAS)",
+    "Japanese Embassy",
+    "Magnum pistols",
+    "Radios",
+    "ANTURVY",
+    "RYBAT",
+    "SAGTEL"
+  ],
+  "title": "DIR CITE WAVE 8724",
+  "date": "1963-12-09",
+  "locations_mentioned": [
+    "Japan"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "Vicente Socorras"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMWAVE"
+}

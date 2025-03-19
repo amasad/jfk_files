@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses Robert Maheu's alleged transportation of prostitutes for a foreign leader and wiretapping activities. It also mentions potential blackmail attempts against the U.S. government.",
+  "tags": [
+    "MAHEU, ROBERT",
+    "ROBERT A. MAHEU AND ASSOCIATES (RAMA)",
+    "PROSTITUTES",
+    "FOREIGN LEADERS",
+    "Mann Act",
+    "Wiretapping",
+    "Onassis Shipping Co",
+    "Blackmail",
+    "John Joseph Frank"
+  ],
+  "title": "ROBERT MAHEU'S TRANSPORTATION OF PROSTITUTES",
+  "date": "1957-10-10",
+  "locations_mentioned": [
+    "U. S.",
+    "CIUDAD TRUJILLO"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Robert Maheu",
+    "John Joseph Frank",
+    "Onassis"
+  ],
+  "recipient": "DIRECTOR, CIA",
+  "sender": "CIA"
+}

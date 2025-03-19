@@ -1,0 +1,26 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable references individuals identified as Luis (Goicochea), Israel (Garcia), Carlos (Diago), Manuel (Garcia) Suarez, and Juan (Mulatt) Sanchez. It also mentions a reference cable WAVE 6123 and discusses typic Antrunk Antrunk.",
+  "tags": [
+    "JMWAVE",
+    "ANTRUNK",
+    "GOICOCHEA",
+    "GARCIA",
+    "DIAGO",
+    "SUAREZ",
+    "SANCHEZ"
+  ],
+  "title": "Cable regarding individuals Luis (Goicochea), Israel (Garcia), Carlos (Diago), Manuel (Garcia) Suarez, and Juan (Mulatt) Sanchez",
+  "date": "1963-11-29",
+  "persons_mentioned": [
+    "LUIS (GOICOCHEA)",
+    "ISRAEL (GARCIA)",
+    "CARLOS (DIAGO)",
+    "MANUEL (GARCIA) SUAREZ",
+    "JUAN (MULAT) SANCHEZ"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMWAVE"
+}

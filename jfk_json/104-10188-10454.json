@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the approach to a liaison asset (Tapy/Watson) and details a refusal to serve as an informant due to security concerns. It mentions potential work with someone enjoying close relations with a cultural attaché. Instructions are given to delay further action until advised, and a request is made to identify a representative mentioned in a previous reference.",
+  "tags": [
+    "Liaison",
+    "Informant",
+    "Security",
+    "Cultural Attache",
+    "Russian Professors"
+  ],
+  "title": "DIR CITE SALV 5229: WHDV CUBA CUBANDEF",
+  "date": "UNKNOWN",
+  "locations_mentioned": [
+    "El Salvador",
+    "Cuba"
+  ],
+  "origin_agency": "Director",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Tapy",
+    "Watson",
+    "Harisonas"
+  ],
+  "recipient": "DDP, WILSA 8, CI, Cilops, ciles, VE",
+  "sender": "Director"
+}

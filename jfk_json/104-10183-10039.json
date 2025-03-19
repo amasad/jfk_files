@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding Karin Espinosa and her husband Miguel Angel Espinosa Bravo, a former Cuban ambassador to Norway, including information about his background, defection from the Castro government, and involvement in anti-Castro activities.",
+  "tags": [
+    "KARIN ESPINOSA",
+    "MIGUEL ANGEL ESPINOSA BRAVO",
+    "Cuban Exile",
+    "Anti-Castro Group",
+    "ODACID",
+    "PERUMEN",
+    "AMTHIP",
+    "KEYWAY"
+  ],
+  "title": "Cable regarding Karin Espinosa and Miguel Angel Espinosa Bravo",
+  "date": "1963-06-13",
+  "locations_mentioned": [
+    "Norway",
+    "Havana",
+    "Madrid",
+    "Berlin",
+    "Mexico",
+    "Buenos Aires"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "STEPHEN I. MUNGER",
+    "KARIN ESPINOSA",
+    "MIGUEL ANGEL ESPINOSA BRAVO",
+    "CASTRO"
+  ],
+  "recipient": "HOME",
+  "sender": "DIRECTOR"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "Unclassified",
+  "summary": "FBI report regarding an alleged Cuban plan to assassinate the President of Panama in order to create additional uprisings in that country. The information was provided by Orlando Piedra, formerly connected with Federal Police in Cuba.",
+  "tags": [
+    "Cuban Plot",
+    "Assassination",
+    "President of Panama",
+    "Orlando Piedra",
+    "Uprisings",
+    "Bolivar Ballarino",
+    "National Guard of Panama"
+  ],
+  "title": "ALLEGED CUBAN PLAN TO ASSASSINATE PRESIDENT OF PANAMA",
+  "date": "1964-03-17",
+  "locations_mentioned": [
+    "Cuba",
+    "Panama",
+    "New Orleans, Louisiana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Orlando Piedra",
+    "Fidel Castro",
+    "Bolivar Ballarino",
+    "J. J. Kelly",
+    "Jones Merriman",
+    "A. J. Decker",
+    "Graham E. Schmid",
+    "William Boya",
+    "Don Gorham",
+    "G. A. Day"
+  ],
+  "recipient": "State Department; Central Intelligence Agency; Department of the Army; Department of the Air Force; Department of the Navy",
+  "sender": "FBI New Orleans"
+}

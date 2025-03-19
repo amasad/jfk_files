@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "This document details a CIA operation involving the recruitment of a Cuban target through the cooperation of a Salvadoran intelligence chief. It outlines the importance of the target's knowledge of communist parties in El Salvador and other Central American countries, and the security measures in place to protect the operation.",
+  "tags": [
+    "SAL SALVAD",
+    "VINE 1",
+    "WH 1745",
+    "STEEL R",
+    "SALU",
+    "SSOL",
+    "WH DIV",
+    "CUBA",
+    "CUBAN DEFECTOR",
+    "SALV5296",
+    "SALVADORAN",
+    "INTEL CHIEF",
+    "CUBAN TARGET",
+    "DALTON"
+  ],
+  "title": "Recruitment of Cuban Target in El Salvador",
+  "date": "1963-09-28",
+  "locations_mentioned": [
+    "Cuba",
+    "El Salvador",
+    "Central America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "A. SALV5296",
+    "DALTON"
+  ],
+  "recipient": "WH DIV CUBA",
+  "sender": "DIR"
+}

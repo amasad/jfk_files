@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "REPORT",
+  "security_level": "SECRET",
+  "summary": "This document discusses the Cuban government's policy towards President Johnson's administration following President Kennedy's assassination. Fidel Castro was reportedly upset by the change in the U.S. administration and the Cuban government decided not to attack President Johnson publicly, waiting to see his stance on Cuba.",
+  "tags": [
+    "Cuban Government",
+    "Fidel Castro",
+    "President Johnson",
+    "Kennedy Assassination",
+    "Economic Blockade",
+    "Internal Subversion",
+    "Diplomacy",
+    "TDCSDB-3/658",
+    "TDCSDB-3/658, 582"
+  ],
+  "title": "CUBAN GOVERNMENT POLICY TOWARDS PRESIDENT JOHNSON'S ADMINISTRATION",
+  "date": "1963-12-18",
+  "locations_mentioned": [
+    "CUBA",
+    "WESTERN EUROPE"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "FIDEL CASTRO",
+    "JOHNSON",
+    "KENNEDY"
+  ],
+  "recipient": "STATE/INR DIA ARMY/ACS1 NAVY AIR JCS SECDEF NSA NIC XXXXX OCI ONE OCR ORR EXO STATE/DIR REPCINCLANT I&NS TREASURY...",
+  "sender": ""
+}

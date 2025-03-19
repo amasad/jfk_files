@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This report details information obtained from various sources regarding medical supplies to Cuba, film purchase requests, and personnel listings. It includes bulletins from anti-communist groups, letters concerning film purchases from Czechoslovakia, and commentary from Cuban medical figures.",
+  "tags": [
+    "Medical Supplies",
+    "Film Purchase",
+    "Personnel Listing",
+    "Anti-Communist Groups",
+    "Czechoslovakia",
+    "Universities",
+    "scientific institutions"
+  ],
+  "title": "Medical Information and Activities in Cuba",
+  "date": "1963-02-23",
+  "locations_mentioned": [
+    "Habana",
+    "Paris",
+    "Miami",
+    "Cuba",
+    "Czechoslovakia"
+  ],
+  "origin_agency": "MRSAVE",
+  "persons_mentioned": [
+    "J. F. Kennedy",
+    "Faras",
+    "Regino BOTTI",
+    "Antonio TOLEDO Zetacia",
+    "Virgilio FRAJO Nunez",
+    "Eduardo ROCO"
+  ],
+  "recipient": "Headquarters attn & atts.",
+  "sender": "ASSET"
+}

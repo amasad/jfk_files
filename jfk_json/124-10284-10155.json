@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security_level": "Secret",
+  "summary": "This document discusses Cuban political activities and rumors regarding the replacement of the Cuban Ambassador by someone named Bayo, possibly related to General Alberto Bayo.",
+  "tags": [
+    "Cuban Political Activities",
+    "Cuban Ambassador",
+    "Salazar-Sanchez",
+    "Bayo",
+    "Alberto Bayo",
+    "Castro Revolution",
+    "Revolutionary Activities",
+    "Switzerland",
+    "CIA"
+  ],
+  "title": "CUBAN POLITICAL ACTIVITIES",
+  "date": "1960-07-29",
+  "locations_mentioned": [
+    "Paris",
+    "France",
+    "Bern",
+    "Switzerland",
+    "Spain"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "EPE",
+    "Bayo",
+    "Alberto Polit",
+    "Burton Lifschultz",
+    "Salazar-Sanchez",
+    "Castro"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Paris"
+}

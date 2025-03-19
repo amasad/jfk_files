@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Herbert Yamada, including his history and travels, and states there is no objection to him with liaison checks providing no operational interest shown.",
+  "tags": [
+    "Herbert Yamada",
+    "Japan",
+    "Manila",
+    "France",
+    "Press"
+  ],
+  "title": "REQUEST TRAINED HERBERT YAMADA",
+  "date": "1963-12-16",
+  "locations_mentioned": [
+    "MEXICO",
+    "MANILA",
+    "HONG KONG",
+    "JAPAN",
+    "MEXICO CITY",
+    "BOSPHOS"
+  ],
+  "origin_agency": "KRAA",
+  "persons_mentioned": [
+    "Herbert Yamada"
+  ],
+  "recipient": "MEXICO MANILA HONG KONG",
+  "sender": "KRAA/CONS"
+}

@@ -1,0 +1,40 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document describes two JMWAVE cover facilities: Ace Marine Survey, Inc. and Ceres Enterprises, Inc. Ace Marine Survey is used to provide cover for a maritime vessel, the M/V SONORA. Ceres Enterprises provided cover for maritime vessels, the M/V BARB and the M/V JADE, but was deactivated due to a security breach.",
+  "tags": [
+    "JMWAVE",
+    "Cover Facility",
+    "Maritime Vessel",
+    "Ace Marine Survey, Inc.",
+    "Ceres Enterprises, Inc.",
+    "M/V SONORA",
+    "M/V BARB",
+    "M/V JADE",
+    "Miami",
+    "Florida",
+    "New Orleans",
+    "Louisiana",
+    "Offshore Navigation Company",
+    "Peterman & Peterman Associates"
+  ],
+  "title": "JMWAVE COVER FACILITY",
+  "date": "1967-03-06",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "New Orleans, Louisiana",
+    "Cuba",
+    "Chicago, Illinois"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "Alfred J. Moran",
+    "Richard W. Freeman",
+    "Norman S. Pallot",
+    "George E. Brown",
+    "Thomas B. Duff"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

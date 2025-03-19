@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Journalist Frank Pilgrin of the Manchester Guardian plans to attend Cuban anniversary celebrations. PLAFS to leave Cuba first week of January via Cubana to Mexico. EMOTH has requested KUBARK not attempt contact. KUBARK will receive debriefing results, if any, from SEOTH.",
+  "tags": [
+    "Journalist",
+    "Cuban Anniversary",
+    "PLAFS",
+    "Cubana",
+    "Mexico",
+    "KUBARK",
+    "SEOTH",
+    "Debriefing"
+  ],
+  "title": "Frank Pilgrin, Manchester Guardian, Cuban Anniversary Celebrations",
+  "date": "1963-01-01",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico"
+  ],
+  "origin_agency": "SBC",
+  "persons_mentioned": [
+    "Frank Pilgrin"
+  ],
+  "recipient": "KUBARK",
+  "sender": "EMOTH"
+}

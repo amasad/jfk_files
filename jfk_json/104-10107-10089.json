@@ -1,0 +1,40 @@
+{
+  "classification": "Liaison",
+  "document_type": "TELEPOUCH",
+  "security_level": "SECRET",
+  "summary": "This document discusses a request from Australian Justice A.R. Moffitt for information on Herbert Itkin, whom he described as a former CIA and FBI employee, in relation to an inquiry into organized crime. The CIA's Office of General Counsel (OGC) provided Moffitt with copies of three affidavits relevant to Itkin's affiliation with the CIA, stating that Itkin furnished information to the CIA over many years but did not collect information for them in England.",
+  "tags": [
+    "Herbert Itkin",
+    "Leslie V Jarvis",
+    "ASIO",
+    "A. R. Moffitt",
+    "Organized Crime",
+    "New South Wales",
+    "FBI",
+    "Office of General Counsel",
+    "Australia",
+    "William Crosey"
+  ],
+  "title": "MR. HERBERT ITKIN",
+  "date": "1973-11-16",
+  "locations_mentioned": [
+    "Melbourne",
+    "Canberra",
+    "Washington",
+    "New South Wales",
+    "England",
+    "USA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Herbert Itkin",
+    "Leslie V Jarvis",
+    "A. R. Moffitt",
+    "William Crosey",
+    "Theodore G. Shackley",
+    "Mr. Greany",
+    "Mr. Rocca"
+  ],
+  "recipient": "CHIEF OF BASE, MELBOURNE; CHIEF OF STATION, CANBERRA",
+  "sender": "CHIEF, EAST ASIA DIVISION"
+}

@@ -1,0 +1,26 @@
+{
+  "classification": "CUBA",
+  "document_type": "TELEGRAM INFORMATION REPORT",
+  "security_level": "SECRET",
+  "summary": "This document discusses a planned uprising by opposition groups in Cuba. Members of the UNIDAD REVOLUCIONARIA (UR) reported to the French Embassy in Habana that they were invited to a meeting organized by the DIRECTORIO REVOLUCIONARIO ESTUDIANTIL (DRE) and the MOVIMIENTO REVOLUCIONARIO DEL PUEBLO (MRP) to plan a stage of active warfare. The UR was advised not to participate, but the DRE and MRP planned an uprising for the last days of August, which would result in a general uprising of all internal resistance groups.",
+  "tags": [
+    "Uprising",
+    "Opposition Groups",
+    "UNIDAD REVOLUCIONARIA",
+    "DIRECTORIO REVOLUCIONARIO ESTUDIANTIL",
+    "MOVIMIENTO REVOLUCIONARIO DEL PUEBLO",
+    "Internal Resistance"
+  ],
+  "title": "PLANNED UPRISING BY OPPOSITION GROUPS IN CUBA",
+  "date": "1962-08-27",
+  "locations_mentioned": [
+    "CUBA",
+    "FRANCE",
+    "PARIS",
+    "HABANA"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [],
+  "recipient": "CINCLANT, CINCARIB",
+  "sender": "TFW/Intel"
+}

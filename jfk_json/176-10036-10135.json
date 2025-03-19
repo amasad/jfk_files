@@ -1,0 +1,35 @@
+{
+  "classification": "CIA",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "CIA Information Telegram regarding the planned suicide of Ambassador Buu Hoi's mother, Dieu Hue, in protest of Buddhist persecution in Vietnam.",
+  "tags": [
+    "Vietnam",
+    "Buddhism",
+    "Suicide",
+    "Protest",
+    "United Nations",
+    "Buu Hoi",
+    "Dieu Hue",
+    "An Quang Pagoda",
+    "Thich Thien Hoa"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-10-04",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon",
+    "Africa"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Buu Hoi",
+    "Dieu Hue",
+    "Lodge",
+    "Hilsman",
+    "Thich Thien Hoa"
+  ],
+  "recipient": "STATE",
+  "sender": "CIA"
+}

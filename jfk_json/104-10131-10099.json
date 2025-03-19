@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Memorandum regarding Alfonso Rudolph MICHIRICH, a subject of covert interest, including investigation assignments, known locations, and character references.",
+  "tags": [
+    "Covert Interest",
+    "Investigation",
+    "National Agency Checks",
+    "Character References",
+    "Alfonso Rudolph MICHIRICH"
+  ],
+  "title": "MICHIRICH, Alfonso Rudolph CA/ID/3",
+  "date": "1962-03-29",
+  "locations_mentioned": [
+    "Washington, D. C.",
+    "Columbus, Georgia",
+    "Wilcox, Arizona",
+    "Panama",
+    "Mexico",
+    "Baltimore, Md"
+  ],
+  "origin_agency": "Headquarters",
+  "persons_mentioned": [
+    "Alfonso Rudolph MICHIRICH",
+    "Milton C. FRANKLIN",
+    "T. H. HANLEY"
+  ],
+  "recipient": "Special Agent in Charge, Washington Field Office",
+  "sender": "BYRNEXpe"
+}

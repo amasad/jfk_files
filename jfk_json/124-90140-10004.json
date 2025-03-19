@@ -1,0 +1,26 @@
+{
+  "classification": "Security",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "FBI memo to CIA concerning Angela Prince Moutsos and her possible residence and activities in Cuba. Moutsos' husband, Pedros Moutsos, was a former CIA informant.",
+  "tags": [
+    "ANGELA PRINCE MOUTSOS",
+    "CIA LIAISON MATERIAL",
+    "Cuba",
+    "Informant"
+  ],
+  "title": "ANGELA PRINCE MOUTSOS",
+  "date": "1963-03-13",
+  "locations_mentioned": [
+    "Cuba",
+    "New York"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "ANGELA PRINCE MOUTSOS",
+    "Pedros Moutsos",
+    "John Edgar Hoover"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI HQ"
+}

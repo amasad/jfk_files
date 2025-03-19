@@ -1,0 +1,25 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "ROUTINE",
+  "summary": "This cable discusses the completion of SAMBORA LEGEND and the application for a Mexican visitor's visa by SUBJECT HMM 12212.",
+  "tags": [
+    "SAMBORA LEGEND",
+    "visa",
+    "Mexican visitor's visa",
+    "HMM 12212",
+    "courier"
+  ],
+  "title": "MEXICO CITY",
+  "date": "1963-12-19",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "MEXI"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Intonio de Jesus (Pineda) Cabrera"
+  ],
+  "recipient": "HQS",
+  "sender": "DIR"
+}

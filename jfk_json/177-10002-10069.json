@@ -1,0 +1,45 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "Memorandum from Dean Rusk to the President regarding the meeting with President Lopez Mateos, emphasizing the importance of maintaining friendly relations between Mexico and the United States.",
+  "tags": [
+    "Lopez Mateos",
+    "Mexico",
+    "John F. Kennedy",
+    "Cuba",
+    "Communist China",
+    "Alliance for Progress",
+    "Rio Grande",
+    "Narcotics",
+    "Tijuana",
+    "Colorado River",
+    "Bracero Program",
+    "Trade Policies",
+    "Chamizal Settlement"
+  ],
+  "title": "Your Meeting with President Lopez Mateos",
+  "date": "1964-02-18",
+  "locations_mentioned": [
+    "Mexico",
+    "United States",
+    "Los Angeles",
+    "El Paso",
+    "Ciudad Juarez",
+    "Rio Grande Valley",
+    "Yuma",
+    "Tijuana"
+  ],
+  "origin_agency": "STATE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lopez Mateos",
+    "Dean Rusk",
+    "Castro",
+    "Gustavo DIAZ Ordaz",
+    "De Gaulle",
+    "Orlich"
+  ],
+  "recipient": "The President",
+  "sender": "Dean Rusk"
+}

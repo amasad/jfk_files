@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Name Check and Index Request",
+  "security_level": "SECRET",
+  "summary": "Request to check records for Roman Fedorovich D'EDKOV and Vilasa Nikolaevna D'EDKOV, applicants for entry visas to India, with Roman scheduled to be an English teacher at the Soviet Embassy in New Delhi.",
+  "tags": [
+    "Name Check",
+    "Index Request",
+    "Soviet Embassy",
+    "Visa Application",
+    "English Teacher",
+    "Counterintelligence"
+  ],
+  "title": "Name Check and Consolidation Request for Roman Fedorovich D'EDKOV and Vilasa Nikolaevna D'EDKOV",
+  "date": "1964-08-10",
+  "locations_mentioned": [
+    "New Delhi, India",
+    "Ariansk, USSR",
+    "Minsk, USSR"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "D'EDKOV, Roman Fedorovich",
+    "D'EDKOV, Vilasa Nikolaevna"
+  ],
+  "recipient": "RID/INDEX",
+  "sender": "(Requesters name)"
+}

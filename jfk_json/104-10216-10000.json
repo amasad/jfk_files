@@ -1,0 +1,33 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the Department of State authorizing visas to the AMLASH family, with a proviso that they are bona fide visitors and not immigrants. It also includes a debriefing of AMLASH-1 in Madrid, where he expressed his intention to settle in Spain. The file number is 201-252234.",
+  "tags": [
+    "visa",
+    "AMLASH",
+    "refugee",
+    "debriefing",
+    "immigration",
+    "Spain",
+    "medical practice"
+  ],
+  "title": "Director 627921",
+  "date": "1980-03-04",
+  "locations_mentioned": [
+    "Madrid",
+    "US",
+    "Spain"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "AMLASH-1",
+    "KHO",
+    "PALMER",
+    "CANTRELL",
+    "STOVER",
+    "BERGER"
+  ],
+  "recipient": "MADRID",
+  "sender": "STAFF"
+}

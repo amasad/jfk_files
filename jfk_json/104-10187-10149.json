@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses potential meetings and discussions in El Salvador and Guatemala regarding Cuban subversion, as well as potential pitches to AMMUG leads.",
+  "tags": [
+    "AMMUG",
+    "Cuban Subversion",
+    "El Salvador",
+    "Guatemala",
+    "Meetings",
+    "Briefings",
+    "Pitches",
+    "Liaison"
+  ],
+  "title": "STAFF EMPLOYEES WILL TRAVEL SALV",
+  "date": "1964-08-27",
+  "locations_mentioned": [
+    "SAN SALVADOR",
+    "GUATEMALA CITY",
+    "GUAT",
+    "TEGU"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "RIVERA",
+    "PERALTA"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "SALV GUAT"
+}

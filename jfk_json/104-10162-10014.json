@@ -1,0 +1,32 @@
+{
+  "classification": "Administrative",
+  "document_type": "Routing and Record Sheet",
+  "security_level": "SECRET",
+  "summary": "This document is a routing and record sheet from the Western Hemisphere Division concerning Ivan Gavrilevich ALFEROV, who requested an Argentine visa for temporary duty at the Soviet Embassy. It includes routing information, document numbers, and distribution details.",
+  "tags": [
+    "routing sheet",
+    "Ivan Gavrilevich ALFEROV",
+    "Argentine visa",
+    "Soviet Embassy",
+    "REDCAP sheet",
+    "full headquarters traces"
+  ],
+  "title": "Operational/REDCAP - Ivan Gavrilevich ALFEROV",
+  "date": "1958-10-21",
+  "locations_mentioned": [
+    "Argentina",
+    "Buenos Aires",
+    "Soviet Embassy"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ivan Gavrilevich ALFEROV",
+    "Lozupone",
+    "Barone",
+    "J. C. KING",
+    "OLIVER G. GALBOND",
+    "ALFEROV, Ivan Havrilovich"
+  ],
+  "recipient": "Chief of Station, Buenos Aires",
+  "sender": "Chief, Western Hemisphere Division"
+}

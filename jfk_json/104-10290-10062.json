@@ -1,0 +1,30 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memo",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document appears to be related to the release of information under the John F. Kennedy Assassination Records Act of 1992. It includes alphanumeric codes, geographic locations, and potentially names or organizations. Further analysis is needed to determine the specific content.",
+  "tags": [
+    "JFK Assassination Records Act",
+    "Release 2025",
+    "104-10290-10062",
+    "14-00000",
+    "96803",
+    "86002",
+    "California"
+  ],
+  "title": "RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "2025-01-01",
+  "locations_mentioned": [
+    "CALIFORNIA",
+    "SAN FRANCISCO"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "SUZUKI",
+    "FELTRO",
+    "OPPINER"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

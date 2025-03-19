@@ -1,0 +1,27 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a request for guidance regarding potential questioning of JYVAPOROUS about sharing files on Lee Harvey Oswald with the USG and Norman Mailer.",
+  "tags": [
+    "RYBAT",
+    "GTDANCER",
+    "WNINTEL",
+    "JYVAPOROUS",
+    "OLEAN",
+    "RECIPROCITY",
+    "LIAISON"
+  ],
+  "title": "REQUEST FOR GUIDANCE",
+  "date": "1995-07-31",
+  "locations_mentioned": [
+    "MINSK"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "NORMAN MAILER"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MINSK"
+}

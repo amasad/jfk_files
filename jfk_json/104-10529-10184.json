@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the provision of funds to Ari Campista, president of the Guanabara Chemical Workers Federation, for use in December elections. It also requests details from RWINBEING as RIOD is developing a parallel election and wants to avoid conflict among democrats. Additionally, RIOD is preparing to provide funds to Buga Gomes da Costa of the Alcohol and Sugar Workers.",
+  "tags": [
+    "Elections",
+    "Funding",
+    "Labor Unions",
+    "Political Influence",
+    "Covert Action"
+  ],
+  "title": "INFO PACT RIOD (ROUTINE) CITE DIR 81525",
+  "date": "1963",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "RIO DE JANEIRO",
+    "Guanabara"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "BOIZELLE",
+    "Ari Campista",
+    "Bugo Gomes da Costa"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

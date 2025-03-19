@@ -1,0 +1,43 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the recruitment and potential defection of AMWEST/1, contact between AMWESTs and AMWHIPs, and a possible provocation attempt involving Antonio Carrillo. It also mentions a Cuban exile named Juan Ventura Valner.",
+  "tags": [
+    "recruitment",
+    "defection",
+    "provocation",
+    "AMWEST",
+    "AMWHIP",
+    "Carrillo",
+    "AMLASH",
+    "PBRUMEN",
+    "KUBARK",
+    "Cuban Exile",
+    "Juan Ventura Valner"
+  ],
+  "title": "AMWEST/1 Recruitment and Potential Defection; Possible Provocation Attempt",
+  "date": "1966-03-29",
+  "locations_mentioned": [
+    "Rome",
+    "Bonn",
+    "Paris",
+    "Germany",
+    "Frankfurt",
+    "Bern",
+    "Geneva",
+    "PBRUMEN"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "MARVIN FRANCIS",
+    "JOHN F. KENNEDY",
+    "ANTONIO CARRILLO",
+    "AMLASH/1",
+    "MANGANELLO",
+    "WILLIAM V. BROE",
+    "JUAN VENTURA VALNER"
+  ],
+  "recipient": "BONN",
+  "sender": "DIRECTOR"
+}

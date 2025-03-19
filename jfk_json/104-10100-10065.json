@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding RUPEK DUDIN and ARLETTE FRANCOISE HEZARIFEND.",
+  "tags": [
+    "RUPEK DUDIN",
+    "ARLETTE FRANCOISE HEZARIFEND",
+    "CARTIER",
+    "RYBAT",
+    "ZROCEAN"
+  ],
+  "title": "104-10100-10065: KUDESK ZROCKAN 5974",
+  "date": "1963-03-02",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "PARIS, FRANCE"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ARLETTE FRANCOISE HEZARIFEND",
+    "RUPEK DUDIN",
+    "JOHN F. KENNEDY"
+  ],
+  "recipient": "MEXICO CITY",
+  "sender": "DIRECTOR"
+}

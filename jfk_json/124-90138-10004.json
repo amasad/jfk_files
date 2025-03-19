@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "FBI memo regarding CIA liaison material and Enrique Garcia Armenteros. CIA has placed a man in Cuba to develop information related to a Bureau lead.",
+  "tags": [
+    "CIA",
+    "Liaison",
+    "Cuba",
+    "Enrique Garcia Armenteros",
+    "Internal Security",
+    "Jane Roman",
+    "Nationalities Intelligence Section"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1963-10-15",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Enrique Garcia Armenteros",
+    "Jane Roman",
+    "D. J. Brennan",
+    "S. J. Papich",
+    "Wannall",
+    "Dunn"
+  ],
+  "recipient": "D. J. Brennan",
+  "sender": "S. J. Papich"
+}

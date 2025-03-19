@@ -1,0 +1,26 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a briefing paper for CODEL Shelby regarding Oswald files, a historical conversation with a local service about those files, and a diplomatic note submitted by the Ambassador requesting the files on Oswald.",
+  "tags": [
+    "Oswald files",
+    "briefing paper",
+    "CODEL Shelby",
+    "diplomatic note",
+    "Kennedy assassination"
+  ],
+  "title": "BRIEFING PAPER AND OSWALD FILES",
+  "date": "1995-08-16",
+  "locations_mentioned": [
+    "MINSK"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "SHELBY",
+    "ANDREI SANIKOV"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "STAFF"
+}

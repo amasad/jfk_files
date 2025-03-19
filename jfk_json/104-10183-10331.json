@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses discussions between Cubans and MAIJA reps, including topics such as the PICHI MELLA case, the \"GRUPO FRANCES,\" and concerns about GENAO. It also mentions documents confiscated from a Dominican communist courier.",
+  "tags": [
+    "Cubans",
+    "MAIJA reps",
+    "PICHI MELLA",
+    "GRUPO FRANCES",
+    "GENAO",
+    "Dominican communist courier",
+    "JMWAVE",
+    "KAPOK",
+    "DYVOUR",
+    "PBRUMEN"
+  ],
+  "title": "SANTO DOMINGO 2564: DISCUSSIONS BETWEEN CUBANS AND MAIJA REPS",
+  "date": "1964-10-16",
+  "locations_mentioned": [
+    "SANTO DOMINGO",
+    "CUBA",
+    "NEW YORK",
+    "VENEZUELA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "PICHI MELLA",
+    "VICTOR",
+    "LUIS GENAD",
+    "FIDELIO DESPRADEL",
+    "MINAYA",
+    "FERNANDO DE LA ROSA"
+  ],
+  "recipient": "DIRECTOR, JMWAVE, CARACAS",
+  "sender": "SANTO DOMINGO"
+}

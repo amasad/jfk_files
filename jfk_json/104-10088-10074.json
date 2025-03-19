@@ -1,0 +1,34 @@
+{
+  "classification": "Administrative",
+  "document_type": "Handbook",
+  "security_level": "SECRET",
+  "summary": "This document describes the 201 system, which is a method for identifying persons of specific interest to the Operations Directorate, controlling and filing pertinent information, and producing lists of 201 personalities according to various categories. It covers the 201 number, dossier, master record, maintenance procedures, dossier charges, restricted dossiers, information requests, cancellation, and machine listings.",
+  "tags": [
+    "201 system",
+    "Operations Directorate",
+    "personnel identification",
+    "file management",
+    "dossiers",
+    "machine listings",
+    "records management",
+    "Central Files",
+    "purging",
+    "restricted dossiers",
+    "automated index",
+    "cancellation"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "locations_mentioned": [
+    "Headquarters",
+    "field stations",
+    "New York",
+    "Paris",
+    "Geneva",
+    "Vienna"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [],
+  "recipient": "Various",
+  "sender": "Unknown"
+}

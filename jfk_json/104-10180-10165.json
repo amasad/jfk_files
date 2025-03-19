@@ -1,0 +1,33 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses potential security breaches, Clinton's possible involvement, and counter-revolutionary activities.",
+  "tags": [
+    "AMIRE-1",
+    "BELL",
+    "CARACUS",
+    "Clinton",
+    "Counter-Revolution",
+    "Security Measures",
+    "Operations"
+  ],
+  "title": "Classified Message Regarding Security Concerns and Operations",
+  "date": "1961-05-09",
+  "locations_mentioned": [],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "BELL",
+    "CARACUS",
+    "Clinton",
+    "Eugenio",
+    "Pete",
+    "Paco",
+    "Tiger",
+    "Pachana",
+    "Henry06",
+    "BINIARIS"
+  ],
+  "recipient": "BELL",
+  "sender": "CARACUS"
+}

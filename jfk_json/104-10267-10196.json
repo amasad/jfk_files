@@ -1,0 +1,42 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "This document details a request for training for a six-man leader group scheduled to arrive at SOLATIO on July 11. It includes details on their previous training, specific skills requested for training, and logistical support for transportation.",
+  "tags": [
+    "Training",
+    "SOLATIO",
+    "Leadership",
+    "Tradecraft",
+    "Caching",
+    "Observation",
+    "Reporting",
+    "Airlift",
+    "AMANCHOR",
+    "JMWAVE"
+  ],
+  "title": "Request for Training for Six-Man Leader Group",
+  "date": "1966-07-07",
+  "locations_mentioned": [
+    "EGLIN"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "ANLILAC/29",
+    "IGNACIO",
+    "AMLILAC/33",
+    "MANUEL",
+    "AMHINT/56",
+    "FRANK",
+    "ANSKIRT/I",
+    "PABLO",
+    "ANTRUNK/21",
+    "LUIS",
+    "AXLUNT/2",
+    "FILIPE",
+    "AMPOLISH/1",
+    "SIMON"
+  ],
+  "recipient": "DIRECTOR, EGLIN",
+  "sender": "JMWAVE"
+}

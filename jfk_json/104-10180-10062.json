@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "Intelligence report detailing activities of Ernesto Guevara, the 26th of July Movement, Manuel Ray, FEU, and Batista's contracting of French military officers.",
+  "tags": [
+    "Ernesto Guevara",
+    "26th of July Movement",
+    "Manuel Ray",
+    "FEU",
+    "Batista",
+    "Cuba",
+    "Revolution",
+    "Guerrilla Warfare"
+  ],
+  "title": "Classified Message 6",
+  "date": "1958-12-16",
+  "locations_mentioned": [
+    "Las Villas",
+    "Manacas",
+    "Santa Clara",
+    "Santo Domingo",
+    "Sierra Maestra",
+    "Coliseo",
+    "Matanzas",
+    "Cayo Hueso",
+    "Havana"
+  ],
+  "origin_agency": "HAVANA COUNTY MICROFILM SERVICE",
+  "persons_mentioned": [
+    "Ernesto Guevara",
+    "George K Harper",
+    "Conrad Bequer Diaz",
+    "Fidel Castro",
+    "Manuel Ray",
+    "Batista",
+    "Amaria",
+    "AMBARK-1",
+    "Harry Graham"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "HAVANA COUNTY MICROFILM SERVICE"
+}

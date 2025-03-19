@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Travel Processing Sheet",
+  "security_level": "SECRET",
+  "summary": "This is a travel processing sheet for Teddik Piccilly, detailing security checks, polygraph results, and briefings prior to departure to Mexico City in 1959. It covers knowledge of security regulations, travel precautions, cover story, dependents briefing, personal affairs, correspondence, conduct, and audio-surveillance matters.",
+  "tags": [
+    "travel",
+    "security",
+    "polygraph",
+    "briefing",
+    "Mexico City",
+    "Piccilly",
+    "personnel"
+  ],
+  "title": "TRAVEL PROCESSING SHEET for Teddik Piccilly",
+  "date": "1959-12-06",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "H.H.",
+  "persons_mentioned": [
+    "Teddik Piccilly",
+    "R.H.J. Stater"
+  ],
+  "recipient": "N/A",
+  "sender": "Security Officer"
+}

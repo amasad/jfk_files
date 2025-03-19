@@ -1,0 +1,23 @@
+{
+  "classification": "Operations",
+  "document_type": "Manual",
+  "security_level": "SECRET",
+  "summary": "This document outlines the 201 system, which is a method for identifying individuals of interest to the Operations Directorate, controlling and filing pertinent information about them, and producing lists of 201 personalities according to various categories.",
+  "tags": [
+    "201 system",
+    "Operations Directorate",
+    "file management",
+    "personnel records",
+    "OI codes",
+    "dossiers",
+    "machine listings",
+    "record maintenance",
+    "purging",
+    "access control"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "DDO",
+  "recipient": "DDO components",
+  "sender": "DDO/RMO"
+}

@@ -1,0 +1,25 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discussing a plan involving a MEXI officer carrying a letter and instructions to MNTY, and the preparation of MEXI identity documents. Also includes a C/S comment about AMMIING-1 wanting to write to his wife in Cuba.",
+  "tags": [
+    "MNTY",
+    "MEXI",
+    "Identity Documents",
+    "Cuba",
+    "AMMIING-1"
+  ],
+  "title": "MEXI 9336: RYBAT TYPIC AMMUG",
+  "date": "1964-05-07",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMMIING-1"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

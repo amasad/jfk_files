@@ -1,0 +1,27 @@
+{
+  "classification": "JFK",
+  "document_type": "PAPER",
+  "security_level": "SECRET",
+  "summary": "Director Cable regarding travel to Sao Paulo, concerned with briefing and training of BETIDE.",
+  "tags": [
+    "DIRECTOR CABLE",
+    "TRAVEL PLANS",
+    "BRIEFING",
+    "TRAINING",
+    "BETIDE"
+  ],
+  "title": "DIRECTOR CABLE RE TRAVEL TO SAO PAULO.",
+  "date": "1963-12-14",
+  "locations_mentioned": [
+    "SAO PAULO",
+    "RIO DE JANEIRO"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ALEXANDER SHATTON",
+    "DESMOND FITZGERALD",
+    "J. C. KING"
+  ],
+  "recipient": "JMWAVE",
+  "sender": "DIRECTOR"
+}

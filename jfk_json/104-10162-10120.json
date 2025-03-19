@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Form",
+  "security_level": "SECRET",
+  "summary": "Response to Green List request concerning Santiago Alvarez Fernandez, including aliases, birth date, citizenship, present activity, occupational specialties, military service, past occupations, description, family members, and other significant data.",
+  "tags": [
+    "Santiago Alvarez Fernandez",
+    "Green List",
+    "Espionage",
+    "CE Activity",
+    "Miami",
+    "Cuba"
+  ],
+  "title": "RESPONSE TO GREEN LIST REQUEST NO 108574",
+  "date": "1961-01-30",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Miami, Florida"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Santiago Alvarez Fernandez",
+    "Margaret Meogai",
+    "Santiaro Alfapez",
+    "Lucia Fernantez"
+  ],
+  "recipient": "FI/D",
+  "sender": "WE/L"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discussing the preparation of two documents for a case, including a driver's license and voter registration, and instructions for forwarding them to a specific address.",
+  "tags": [
+    "KURIOT",
+    "Driver's License",
+    "Voter Registration",
+    "Alias",
+    "Mail Recovery",
+    "EMPLEADO",
+    "Travelers Advisory Service"
+  ],
+  "title": "DIR 20506: KURIOT PREPARING TWO DOCUMENTS",
+  "date": "1964-05-11",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "WASHINGTON, D.C.",
+    "S.W. STATION"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "KURIOT",
+    "BRUCE EL CHEEVER",
+    "DESMOND FITZGERALD",
+    "M. Walker",
+    "Dick Scutt"
+  ],
+  "recipient": "MEXICO CITY",
+  "sender": "DIRECTOR"
+}

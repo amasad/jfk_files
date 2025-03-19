@@ -1,0 +1,34 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding the clearance status of Mr. O'Connell and his travel itinerary.",
+  "tags": [
+    "Clearance",
+    "Travel",
+    "Hong Kong",
+    "Singapore",
+    "Kuala Lumpur",
+    "Bangkok",
+    "Saigon",
+    "Phnom Penh",
+    "Manila"
+  ],
+  "title": "Mr. O'Connell's Clearance Status and Travel Itinerary",
+  "date": "1963-04-05",
+  "locations_mentioned": [
+    "Hong Kong",
+    "Singapore",
+    "Kuala Lumpur",
+    "Bangkok",
+    "Saigon",
+    "Phnom Penh",
+    "Manila"
+  ],
+  "origin_agency": "SEAC INFO DIR (SING)",
+  "persons_mentioned": [
+    "O'Connell"
+  ],
+  "recipient": "Appropriate Stations",
+  "sender": "FJDUST"
+}

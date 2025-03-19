@@ -1,0 +1,43 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security_level": "Unclassified",
+  "summary": "This memorandum details the S/W (secret writing) training provided to agent AMLASH/1 in Paris during August 1962, including instruction on techniques, materials, and communication protocols. It also outlines the supplies issued to the agent and specific procedures for maintaining secure correspondence.",
+  "tags": [
+    "S/W",
+    "secret writing",
+    "training",
+    "AMLASH/1",
+    "KUBARK",
+    "clandestine communication",
+    "security",
+    "correspondence",
+    "agent",
+    "Paris",
+    "carbon paper",
+    "developer",
+    "accommodation address",
+    "indicators",
+    "control"
+  ],
+  "title": "Summary of S/W Training and Issuance of Materials for AGENT AMLASH/1",
+  "date": "1962-08-29",
+  "locations_mentioned": [
+    "Paris, France",
+    "Madrid, Spain",
+    "New York City",
+    "PBRUMEN",
+    "Copenhagen"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMLASH/1",
+    "Richard M. Fallucci",
+    "Wallace A. Growery",
+    "Ramon",
+    "Maria Dolores Gomez",
+    "Humphrey R. Boncavil"
+  ],
+  "recipient": "Record",
+  "sender": "Richard M. Fallucci, TPE C/O"
+}

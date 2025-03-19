@@ -1,0 +1,25 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This cable discusses surfacing evidence of Castro's financing of terrorist and pro-Cuban acts.",
+  "tags": [
+    "Castro",
+    "Terrorist Acts",
+    "Pro-Cuban Acts",
+    "Financing"
+  ],
+  "title": "DIR 89778: Evidence of Castro Financing",
+  "date": "1963-12-17",
+  "locations_mentioned": [
+    "Cuba",
+    "Rome"
+  ],
+  "origin_agency": "Director",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Castro"
+  ],
+  "recipient": "PRIORITY ROME",
+  "sender": "DIRECTOR"
+}

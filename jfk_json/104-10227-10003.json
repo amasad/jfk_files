@@ -1,0 +1,30 @@
+{
+  "classification": "Soviet",
+  "document_type": "Memo",
+  "security_level": "SECRET",
+  "summary": "This document details the methodology used to transcribe a portion of a tape from June 11, 1962, involving Nosenko. Multiple professional Russian transcribers were tasked with transcribing the tape, focusing on specific phrases where previous transcriptions indicated Nosenko had claimed to be in the United States and used the alias Nikolayev in both England and the United States. The new transcriptions consistently indicated that Nosenko stated he had used the alias Nikolayev in England and the Soviet Union ('u nas').",
+  "tags": [
+    "Nosenko",
+    "Transcription",
+    "Russian",
+    "Alias",
+    "Nikolayev",
+    "Soviet Union",
+    "Tape Analysis"
+  ],
+  "title": "Transcription Analysis of 11 June 1962 Tape",
+  "date": "1962-06-11",
+  "locations_mentioned": [
+    "England",
+    "Soviet Union",
+    "United States"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Nosenko",
+    "Kozlov",
+    "Berest"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

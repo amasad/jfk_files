@@ -1,0 +1,35 @@
+{
+  "classification": "Intelligence Report",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document contains an intelligence report about plans for a coup d'etat in Central Vietnam by the reformed VNQDD. The report details the organization's structure, planned actions, and potential consequences, including the possible exploitation by the Viet Cong.",
+  "tags": [
+    "coup d'etat",
+    "VNQDD",
+    "Vietnam",
+    "Central Vietnam",
+    "political instability",
+    "Buddhist association",
+    "Viet Cong"
+  ],
+  "title": "Central Intelligence Agency Information Report: Plans for a Coup D'Etat in Central Vietnam by the Reformed VNQDD",
+  "date": "1963-05-18",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Central Vietnam",
+    "Saigon",
+    "Thua Thien Province",
+    "Quang Nam Province",
+    "Da Nang"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nguyen Van Luc",
+    "Ngo Dinh Can",
+    "Archbishop Ngo Dinh Thuc",
+    "Nguyen Van Cu",
+    "Diem"
+  ],
+  "recipient": "",
+  "sender": ""
+}

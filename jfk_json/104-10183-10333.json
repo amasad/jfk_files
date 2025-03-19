@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Message Form",
+  "security_level": "SECRET",
+  "summary": "This document is a message from the Director to JMWAVE regarding the Inter-University Committee for Political and Social Action and the purchase of a home for AMMUG/1. It also mentions Langosch's request for AMMUG/1 services in Frankfurt.",
+  "tags": [
+    "JMWAVE",
+    "AMMUG",
+    "Inter-University Committee for Political and Social Action",
+    "WOGAME",
+    "Langosch",
+    "Frankfurt",
+    "Home Purchase"
+  ],
+  "title": "Message Regarding AMMUG/1 and Inter-University Committee",
+  "date": "1966-12-07",
+  "locations_mentioned": [
+    "Baltimore",
+    "Frankfurt"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John A. Castoroye",
+    "Jacob D. Esterline",
+    "Langosch"
+  ],
+  "recipient": "JMWAVE",
+  "sender": "Director"
+}

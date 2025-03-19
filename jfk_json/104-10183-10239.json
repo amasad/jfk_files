@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable describes AMWHIP/1 arriving in Europe for a business trip including KUBARK errands in Paris and Geneva. They will arrive in Rome around May 5 and contact the station for any services needed.",
+  "tags": [
+    "AMWHIP",
+    "KUBARK",
+    "Paris",
+    "Geneva",
+    "Rome",
+    "CIA",
+    "PBRUMEN",
+    "KEYWAY"
+  ],
+  "title": "AMWHIP/1 Business Trip to Europe, including KUBARK errands",
+  "date": "1961-04-23",
+  "locations_mentioned": [
+    "Europe",
+    "Paris",
+    "Geneva",
+    "Rome"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMWHIP/1"
+  ],
+  "recipient": "Rome Station",
+  "sender": "Headquarters"
+}

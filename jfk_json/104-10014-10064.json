@@ -1,0 +1,44 @@
+{
+  "classification": "Soviet",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses KGB Official Nikonov, grandson of Vyacheslav Molotov, and his new role as Deputy to KGB Director Bakatin. Nikonov reviewed KGB files on Lee Harvey Oswald and found no evidence of Oswald being a KGB agent. Nikonov also inquired into the fate of Raoul Wallenberg.",
+  "tags": [
+    "KGB",
+    "Nikonov",
+    "Oswald",
+    "Wallenberg",
+    "Liaison",
+    "Molotov",
+    "Bakatin",
+    "Fulbright",
+    "Smith",
+    "Heiberg"
+  ],
+  "title": "KGB Official Nikonov",
+  "date": "1991-11-20",
+  "locations_mentioned": [
+    "Moscow",
+    "St Petersburg",
+    "USSR",
+    "U.S.",
+    "Maryland",
+    "Annapolis",
+    "PRC",
+    "Germany",
+    "Sweden"
+  ],
+  "origin_agency": "STAFF",
+  "persons_mentioned": [
+    "SEEGER, EDWA",
+    "NIKONOV",
+    "BAKATIN",
+    "SMITH",
+    "HEIBERG",
+    "OSWALD",
+    "WALLENBERG",
+    "MOLOTOV"
+  ],
+  "recipient": "MOSCOW INFO DIRECTOR",
+  "sender": "ST PETERSBURG"
+}

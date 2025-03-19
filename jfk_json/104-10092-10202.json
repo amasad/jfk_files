@@ -1,0 +1,25 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable from Mexico City requests a priority visa for Silvia Anna processed by October 1st, noting the unlikelihood of the cable reaching Patana before October 7th.",
+  "tags": [
+    "visa",
+    "priority",
+    "Mexico City",
+    "Silvia Anna",
+    "Patana"
+  ],
+  "title": "MEXI 6338: VISA REQUEST FOR SILVIA ANNA",
+  "date": "1963-09-11",
+  "locations_mentioned": [
+    "Mexico City",
+    "Patana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Silvia Anna"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

@@ -1,0 +1,50 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a plan to establish a clandestine radio station in Mexico, named \"RADIO CUBA LIBRE,\" to communicate with a sabotage team in Cuba. LITAMIL-5 is tasked with contacting LIOOZE-1 in Havana and delivering a code book to \"JESUS BADAL,\" who is in contact with KUBARK PBPRIME. The radio transmitter was received as a gift, and LITAMIL-5's voice will be used for the broadcasts.",
+  "tags": [
+    "JMZIP",
+    "RYBAT",
+    "BARBOSA Tomar",
+    "LITAMIL-5",
+    "LIOOZE-1",
+    "HAVA",
+    "MEXICANA",
+    "SABOTAGE TEAM",
+    "CUBA",
+    "MEXI",
+    "RADIO",
+    "HMNW 9598",
+    "ENRIQUE COLLAZO",
+    "LAEGENFELDER",
+    "JESUS BADAL",
+    "KUBARK PBPRIME",
+    "TAMAYO FNU",
+    "INDIO AZUL",
+    "CARA",
+    "RADIO CUBA LIBRE"
+  ],
+  "title": "MEXI 8621: JMZIP RYBAT - BARBOSA Tomar",
+  "date": "1961-08-06",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "HAVA",
+    "CUBA",
+    "MEXI",
+    "VEDADO",
+    "CARA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "LITAMIL-5",
+    "LIOOZE-1",
+    "ENRIQUE COLLAZO",
+    "LAEGENFELDER",
+    "JESUS BADAL",
+    "TAMAYO FNU"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

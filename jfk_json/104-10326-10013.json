@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the USG's Assassination Records Review Board (ARRB) interest in obtaining BKGB (Belarusian KGB) records related to Lee Harvey Oswald's time in Minsk. It details previous inquiries, obstacles faced due to Belarusian privacy laws, and potential future requests for assistance. It also mentions Norman Mailer's access to these records and the BKGB's subsequent dissatisfaction.",
+  "tags": [
+    "ARRB",
+    "BKGB",
+    "Lee Harvey Oswald",
+    "Assassination Records",
+    "Minsk",
+    "Belarus",
+    "Norman Mailer",
+    "WNINTEL",
+    "JYVAPOROUS"
+  ],
+  "title": "BKGB Access Support to USG Assassination Record Review Board",
+  "date": "1998-03-06",
+  "locations_mentioned": [
+    "Minsk",
+    "Belarus"
+  ],
+  "origin_agency": "STAFF",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Norman Mailer",
+    "Aleksandr Veras",
+    "Lev Pimenau",
+    "Aleksandr Ablameika",
+    "Gennadiy Narkevich",
+    "Marina Oswald"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MINSK"
+}

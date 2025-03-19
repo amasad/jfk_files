@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch and Attachment",
+  "security_level": "SECRET",
+  "summary": "This document includes a dispatch from Chief, Task Force W to Chief of Station, JMWAVE, regarding the transmittal of fourteen CIA reports and an index. The attachment includes an index of CIA reports with subjects ranging from the Office of the Secretary of the Presidency to lists of Cubans entering the U.S. with false visas. Another attachment details an interview with Ignacio Pla Martinez, a member of the DRE and FUAC, regarding anti-communist activities. A third document refers to the liquidation of the resistance in Sagua la Grande.",
+  "tags": [
+    "CIA Reports",
+    "Index",
+    "DRE",
+    "FUAC",
+    "Anti-Communist Activities",
+    "False Visas",
+    "Resistance Movement"
+  ],
+  "title": "GYROSE/Operational-Transmittal of CAC Reports and Related Intelligence",
+  "date": "1962-05-02",
+  "locations_mentioned": [
+    "Habana",
+    "Miami",
+    "Calle Milan",
+    "Arroyo Apolo",
+    "Matanzas",
+    "Isle of Pines",
+    "Guantanamo Navy Base",
+    "Sagua la Grande",
+    "Orienta Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ignacio Pla Martinez",
+    "Manuel Somora, Jr.",
+    "Lazero Hernandes",
+    "Nelson L. RAYNOCZ",
+    "Nelson L. RAYMOND",
+    "Eduardo Tomas TORRES Ramos",
+    "Jesus Gregorio PEREZ",
+    "John F. Kennedy"
+  ],
+  "recipient": "Chief of Station, JMWAVE",
+  "sender": "Chief, Task Force W"
+}

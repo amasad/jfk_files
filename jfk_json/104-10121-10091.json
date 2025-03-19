@@ -1,0 +1,20 @@
+{
+  "classification": "Security",
+  "document_type": "Travel Briefing Data",
+  "security_level": "SECRET",
+  "summary": "This document contains travel briefing data for an individual with file number 70418, rank GS-15, and TCS status. The briefing covers various aspects such as previous travel, security regulations, travel precautions, personal affairs, personal conduct, association with foreigners, hostile audio surveillance, cover problems, and responsibility abroad. The briefing was conducted on 6/28/87 by a security officer.",
+  "tags": [
+    "Travel Briefing",
+    "Security",
+    "Operational Security",
+    "Counterintelligence",
+    "Personal Conduct",
+    "Foreign Travel"
+  ],
+  "title": "Travel Briefing Data",
+  "date": "1987-06-28",
+  "origin_agency": "Security",
+  "persons_mentioned": [],
+  "recipient": "Subject File",
+  "sender": "Security Officer"
+}

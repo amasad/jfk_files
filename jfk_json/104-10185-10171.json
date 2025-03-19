@@ -1,0 +1,24 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding IS AMUG-1 debriefing and forwarding of Spanish version, requesting guidance on passing a copy to COL ARRIAGA and sending an additional copy for station retention.",
+  "tags": [
+    "AMUG-1",
+    "debriefing",
+    "Spanish version",
+    "liaison",
+    "COL ARRIAGA",
+    "station retention"
+  ],
+  "title": "IS AMUG-1 DEBRIEFING (SPANISH VERSION) FORWARDED",
+  "date": "1966-05-25",
+  "locations_mentioned": [],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "COL ARRIAGA"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "ANPI/APOTHALP"
+}

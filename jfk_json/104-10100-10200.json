@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "CLASSIFIED",
+  "summary": "This cable discusses information related to Richard Walker, University of South Carolina, and mentions individuals such as Lloyd George and Steve Kisha.",
+  "tags": [
+    "PL/CLOP",
+    "201-73071",
+    "KAPOK",
+    "LCHARVEST",
+    "RICHARD WALKER",
+    "LLOYD GEORGE",
+    "STEVE KISHA",
+    "MEXICO CITY"
+  ],
+  "title": "CLASSIFIED MESSAGE",
+  "date": "1964-02-06",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "SOUTH CAROLINA"
+  ],
+  "origin_agency": "CI",
+  "persons_mentioned": [
+    "RICHARD WALKER",
+    "LLOYD GEORGE",
+    "STEVE KISHA",
+    "Mr. Mertz"
+  ],
+  "recipient": "DEPARTMENT INTERNATIONAL RELATIONS",
+  "sender": "MEXI"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the potential hazard of UNSKAPU/9 firing to AMLASH/1 and suggests methods to determine the background of UNSNAFU/19's statement about U/9 being a \"dirty KUBARK agent.\" It proposes using AMWHIP/1 and his jeweler friend in Havana, Jose Iglesias, to relay information to ANLASH/1.",
+  "tags": [
+    "UNSKAPU/9",
+    "AMLASH/1",
+    "UNSNAFU/19",
+    "KUBARK",
+    "AMWHIP/1",
+    "Jose Iglesias",
+    "Havana",
+    "ANLASH/1"
+  ],
+  "title": "DIR 95504: UNSKAPU/9 Firing and Potential Hazard to AMLASH/1",
+  "date": "1965-03-24",
+  "locations_mentioned": [
+    "Paris",
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "W. INWRIGHT",
+    "JOSE IGLESIAS",
+    "THOMAS F. THIELE",
+    "DESPOND FITZGERALD"
+  ],
+  "recipient": "PARIS",
+  "sender": "DIRECTOR"
+}

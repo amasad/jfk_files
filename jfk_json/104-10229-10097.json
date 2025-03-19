@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "These cables discuss PBRUMEN exiles in Miami and their proposed security proposals. It also mentions Manuel Perez Borroto, an ex-Batista police captain.",
+  "tags": [
+    "PBRUMEN",
+    "exiles",
+    "Miami",
+    "security",
+    "Manuel Perez Borroto",
+    "Batista",
+    "police captain"
+  ],
+  "title": "Cables regarding PBRUMEN Exiles and Manuel Perez Borroto",
+  "date": "1963-01-14",
+  "locations_mentioned": [
+    "Miami",
+    "Costa Rica",
+    "Cienfuegos"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "H.F.SWENSON",
+    "J.C.KING",
+    "E.A.MARELIUS",
+    "Manuel Perez Borroto"
+  ],
+  "recipient": "SAN JOSE, JMWAVE, JLWAVE",
+  "sender": "DIRECTOR"
+}

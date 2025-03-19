@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security_level": "Unclassified",
+  "summary": "FBI memo regarding Paul Hickman's alleged involvement in arms sales to the Castro government and his contact with a Soviet Embassy representative.",
+  "tags": [
+    "Paul Hickman",
+    "Communist Party-Cuba",
+    "Arms Sales",
+    "Soviet Embassy",
+    "CIA Liaison"
+  ],
+  "title": "PAUL HICKMAN INFORMATION CONCERNING Communist Party-Cuba",
+  "date": "1959-12-02",
+  "locations_mentioned": [
+    "Zurich, Switzerland",
+    "Cuba",
+    "Bern, Switzerland"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Paul Hickman",
+    "F. A. Frohboese",
+    "S. J. Papich",
+    "Jane Roman",
+    "Senator Smathers"
+  ],
+  "recipient": "F. A. Frohboese",
+  "sender": "S. J. Papich"
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "FBI memo to CIA regarding FRANC PECAR and JOSEPH RAYMOND MEROLA, discussing CIA's interest in contacting PECAR to persuade him to return to Yugoslavia under CIA control. FBI does not recommend approaching PECAR.",
+  "tags": [
+    "FRANC PECAR",
+    "JOSEPH RAYMOND MEROLA",
+    "Yugoslav Intelligence Service",
+    "YIS",
+    "Commercial Representative",
+    "Recalled to Yugoslavia",
+    "CIA Control",
+    "Informants",
+    "Clearance"
+  ],
+  "title": "FRANC PECAR and JOSEPH RAYMOND MEROLA",
+  "date": "1963-04-10",
+  "locations_mentioned": [
+    "Yugoslavia",
+    "U. S.",
+    "New York"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "FRANC PECAR",
+    "JOSEPH RAYMOND MEROLA"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI HQ"
+}

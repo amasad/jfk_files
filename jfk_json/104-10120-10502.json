@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Indices Search Request",
+  "security_level": "SECRET",
+  "summary": "This document is an indices search request form, likely used to search for information related to specific individuals or topics within a larger collection of documents. It includes fields for names, file numbers, and analysis of search results.",
+  "tags": [
+    "indices search",
+    "file search",
+    "document retrieval",
+    "records management",
+    "Martin Luther King",
+    "Philip Noel-Baker",
+    "Dominique Pire"
+  ],
+  "title": "Indices Search Request",
+  "date": "1963-01",
+  "persons_mentioned": [
+    "KING MARTIN LUTHER",
+    "NOEL-BAKER, Philip Jott",
+    "PIRE, Dominique George",
+    "PIRE"
+  ]
+}

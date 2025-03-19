@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "Unclassified",
+  "summary": "Cable regarding Ash & Company and Overseas Riralty Survey Associates in Mexico City.",
+  "tags": [
+    "Ash & Company",
+    "Overseas Riralty Survey Associates",
+    "Mexico City",
+    "LILING",
+    "RRF DIR 77179",
+    "SIS CEN",
+    "Station"
+  ],
+  "title": "104-10100-10247 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "1963-10-21",
+  "locations_mentioned": [
+    "Mexico City",
+    "New York",
+    "Seattle",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "L.G. HORK",
+    "J.C.",
+    "JOHN F. KENNEDY"
+  ],
+  "recipient": "Station",
+  "sender": "WH/3/Mexico"
+}

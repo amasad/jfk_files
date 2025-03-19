@@ -1,0 +1,27 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a telephone conversation regarding a possible Soviet government connection to the assassination and assigns responsibility for contact with a Polish driver to KUBARK.",
+  "tags": [
+    "Soviet",
+    "Assassination",
+    "KUBARK",
+    "Polish Driver",
+    "Telephone Conversation"
+  ],
+  "title": "ROKETING",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "CANBERRA",
+    "U.S.",
+    "SYDNEY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "William Johnson",
+    "John F. Kennedy"
+  ],
+  "recipient": "STDEY INFO CANBERRA",
+  "sender": "DIRECTOR"
+}

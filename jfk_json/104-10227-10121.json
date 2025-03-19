@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the aftermath of the Cuban operation, focusing on press and congressional commentary regarding KUBARK and other activities in the ODYOKE area. It addresses misinformation, reviews of the operation, and ongoing intelligence briefings to Congress.",
+  "tags": [
+    "KUBARK",
+    "PBPRIME",
+    "Cuban Operation",
+    "Congress",
+    "Intelligence"
+  ],
+  "title": "Comments Concerning KUBARK Aftermath of Cuban Operation",
+  "date": "1961-05-02",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington"
+  ],
+  "origin_agency": "Director",
+  "persons_mentioned": [
+    "L.B. Kirkpatrick",
+    "John F. Kennedy",
+    "Maxwell Taylor",
+    "Allen W. Dulles"
+  ],
+  "recipient": "Attached List",
+  "sender": "Director"
+}

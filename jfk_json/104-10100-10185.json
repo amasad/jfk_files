@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses pouching a letter to AMSOUR-2 via Mexico for mailing to Juan Gomez Blanco in Peru.",
+  "tags": [
+    "AMSOUR-2",
+    "Juan Gomez Blanco",
+    "Peru",
+    "Mailing",
+    "MEXI"
+  ],
+  "title": "Letter to AMSOUR-2 Being Pouched MEXI",
+  "date": "1963-11-01",
+  "locations_mentioned": [
+    "MEXICO",
+    "MEXICO CITI",
+    "PERUMEN"
+  ],
+  "origin_agency": "SIG CEN",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "J.S. KNO",
+    "E. A. KANEL",
+    "Juan Gomez Blanco"
+  ],
+  "recipient": "DIR",
+  "sender": "HUS"
+}

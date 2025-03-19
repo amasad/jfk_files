@@ -1,0 +1,34 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses statements made by Luis Alberto de Jesus Condo (Cajisal) to MEXI. It mentions individuals who handled Bobby Maduro and Juan Mendez, and suggests if the subject desires travel, AMOTS will assist him.",
+  "tags": [
+    "JMZIP",
+    "AMIRON",
+    "NIL",
+    "ING",
+    "AMOTS",
+    "MEXI",
+    "CIN2645",
+    "WAVE"
+  ],
+  "title": "MEXI INFO BELL CITE WAVE 4342",
+  "date": "1961-03-09",
+  "locations_mentioned": [
+    "MEXI",
+    "WAVE AREA"
+  ],
+  "origin_agency": "WAVE",
+  "persons_mentioned": [
+    "LUIS ALBERTO DE JESUS CONDO",
+    "BOBBY MADURO",
+    "JUAN MENDEZ",
+    "RIVERO",
+    "EMILIO FERNANDEZ",
+    "EUGEN-08",
+    "PLINIO PRIETO"
+  ],
+  "recipient": "BELL",
+  "sender": "WAVE"
+}

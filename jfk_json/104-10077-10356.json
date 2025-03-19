@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses caching and making dead drops in light of AMMEE-1 GEDER DSE surveillance and concerns regarding AMSTEE-2 and ANTAURA-147 KEYWAY.",
+  "tags": [
+    "AMMEE-1",
+    "GEDER DSE",
+    "AMSTEE-2",
+    "ANTAURA-147",
+    "KEYWAY",
+    "Caching",
+    "Dead Drops",
+    "Surveillance",
+    "EXFILTRATIOS",
+    "RYBAT",
+    "TYPIC",
+    "AMWER",
+    "AMPAUNA",
+    "REUTEMAN",
+    "DAIBOLD"
+  ],
+  "title": "TIMEDIATE WAVE",
+  "date": "1963-12-10",
+  "locations_mentioned": [],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "P.A.MAGGIO",
+    "REUTEMAN",
+    "DAIBOLD",
+    "S. Munger",
+    "T Bussetri"
+  ],
+  "recipient": "FORECTOR",
+  "sender": "C/SAS/MOR/FI"
+}

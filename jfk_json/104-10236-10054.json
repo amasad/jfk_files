@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the possibility of extending coverage of the Cuban problem from Jamaica, but believes a delegation such as AMBUD whose presence overt would prove counterproductive. It also discusses the progress made in gaining covert support through RUABBE for CI effort against Cubans and requests HQS consider assignments proposed by COS.",
+  "tags": [
+    "Jamaica",
+    "AMBUD",
+    "RUABBE",
+    "CI",
+    "Cubans",
+    "BUSTAMANTE",
+    "DIAZ SILVEIRA",
+    "KUBARK",
+    "ODYOKE",
+    "KUTUBE",
+    "KUWOLF",
+    "Haitian",
+    "Dominican"
+  ],
+  "title": "KNGS 0202: Cuban Problem Coverage from Jamaica",
+  "date": "1962-10-03",
+  "locations_mentioned": [
+    "Cuba",
+    "Jamaica"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "BUSTAMANTE",
+    "DIAZ SILVEIRA"
+  ],
+  "recipient": "DIR WAVE INFO",
+  "sender": "COS"
+}

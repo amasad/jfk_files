@@ -1,0 +1,42 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "This document discusses Eduardo Espinosa y Prieto, a Mexican Ambassador, and his potential ties to Soviet intelligence. It includes information from the FBI and requests permission to share information with German authorities.",
+  "tags": [
+    "Eduardo Espinosa y Prieto",
+    "Soviet Intelligence",
+    "Mexican Ambassador",
+    "FBI",
+    "BfV",
+    "Bundesamt fuer Verfassungsschutz",
+    "German authorities",
+    "Tamara Espinosa",
+    "Kapustin",
+    "MVD agent"
+  ],
+  "title": "[Restricted]",
+  "date": "1961-07-27",
+  "locations_mentioned": [
+    "Mexico City",
+    "Warsaw",
+    "New York City",
+    "Shanghai",
+    "Bogota",
+    "Mexico",
+    "Caracas",
+    "Togoland",
+    "U.S.",
+    "USSR"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "Eduardo Espinosa y Prieto",
+    "Tamara Espinosa",
+    "Kapustin",
+    "S. J. Papich",
+    "Petrov"
+  ],
+  "recipient": "HQ",
+  "sender": "CIA"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses DESIGNET (IDZN A), a former long term resident of FERUMEIN, traveling on business for IDEN B. Mentions KIRA MISKOLCAPLE, a Rome contact, and a request for contact in Mexico City for a brief exit.",
+  "tags": [
+    "KAPOK",
+    "KEYWAY",
+    "PERUMEN",
+    "IDZN A",
+    "FERUMEIN",
+    "IDEN B",
+    "KIRA MISKOLCAPLE",
+    "ARCANEAN",
+    "MEXICO CITY"
+  ],
+  "title": "72346 KAPOK KEYWAY PERUMEN",
+  "date": "1963-09-XX",
+  "locations_mentioned": [
+    "MEXICO",
+    "ROME",
+    "ITALY",
+    "SUISSE",
+    "IBERIA",
+    "MEXICO CITY"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "DESIGNET",
+    "IDZN A",
+    "IDEN B",
+    "KIRA MISKOLCAPLE",
+    "KUBARIKER"
+  ],
+  "recipient": "MEXICO ROME WAVE",
+  "sender": "DIRECTOR"
+}

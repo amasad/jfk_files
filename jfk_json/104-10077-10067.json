@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the renewal of Frank A. Johnson's contract, which expired on October 28, 1963. It requests information regarding the original contract terms and headquarters payroll details.",
+  "tags": [
+    "contract renewal",
+    "Frank A. Johnson",
+    "JMWAVE",
+    "payroll",
+    "UFGT-4905",
+    "UFGT-4735",
+    "DIR 31166"
+  ],
+  "title": "Contract Renewal for Frank A. Johnson",
+  "date": "1963-11-21",
+  "locations_mentioned": [
+    "JMWAVE"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Frank A. Johnson",
+    "Richard Gaminage",
+    "Desmond Itzgerald",
+    "Orville C. Dans"
+  ],
+  "recipient": "JHNAVE",
+  "sender": "DIRECTOR"
+}

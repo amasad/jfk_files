@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "FBI document regarding a letter in Spanish and a request for investigation by the High General Staff (HGS), Madrid, Spain, to locate and identify the sender of the letter.",
+  "tags": [
+    "FBI",
+    "Legat Paris",
+    "Director FBI",
+    "CIA",
+    "Assassination of President Kennedy",
+    "High General Staff",
+    "Madrid",
+    "Spain",
+    "Investigation",
+    "Spanish Letter",
+    "ANTILIN"
+  ],
+  "title": "SEE FBI 62-109090-356",
+  "date": "1964-10-28",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Spain"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [],
+  "recipient": "Director, FBI",
+  "sender": "LEG, PA"
+}

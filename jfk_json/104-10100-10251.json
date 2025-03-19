@@ -1,0 +1,51 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses Castro's claim that the CIA attempted to sabotage a Cuban merchant ship in Genoa, Italy, with a defective bomb.",
+  "tags": [
+    "sabotage",
+    "Cuban merchant ship",
+    "CIA",
+    "bomb",
+    "Genoa",
+    "Italy",
+    "Castro",
+    "FBIS",
+    "KUBARK DEX",
+    "security forces",
+    "Las Villas"
+  ],
+  "title": "Castro Reveals Alleged CIA Sabotage Attempt",
+  "date": "1962-10-22",
+  "locations_mentioned": [
+    "Madrid",
+    "Casablanca",
+    "Rabat",
+    "Paris",
+    "Hamburg",
+    "Brussels",
+    "London",
+    "Milan",
+    "Ottawa",
+    "Mexico City",
+    "Genoa",
+    "Italy",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Janet Nixon",
+    "Castro",
+    "Desmond FitzGerald",
+    "West Parker",
+    "Joyner",
+    "Jack Delaney",
+    "Steve Bunge",
+    "Pickard P. Banes",
+    "Vaughn Sherman",
+    "Eduard A. Mellius"
+  ],
+  "recipient": "Director",
+  "sender": "C/SAS"
+}

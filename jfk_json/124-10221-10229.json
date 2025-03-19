@@ -1,0 +1,35 @@
+{
+  "classification": "Secret",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security_level": "Secret",
+  "summary": "FBI document regarding PEDRO LUIS DIAZ LANZ, RENALDO BLANCO HERNANDEZ, and ALBERTO EUSEBIO MOJENA, who are suspected of being associated with FIDEL CASTRO and operating from Ft. Lauderdale, Florida.",
+  "tags": [
+    "PDL",
+    "ASSOC",
+    "PILOT",
+    "CASTRO",
+    "FIDEL",
+    "TRA",
+    "FLIGHT PLAN",
+    "DESTINATION",
+    "RCK"
+  ],
+  "title": "PEDRO LUIS DIAZ LANZ; RENALDO BLANCO HERNANDEZ; ALBERTO EUSEBIO MOJENA IS CUBA",
+  "date": "1958-08-27",
+  "locations_mentioned": [
+    "Havana",
+    "Kingston, Jamaica",
+    "Palisades Airport",
+    "Ft. Lauderdale, Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "PEDRO LUIS DIAZ LANZ",
+    "FIDEL CASTRO",
+    "REINALDO BLANCO HERNANDEZ",
+    "ALBERTO EUSEBIO MOJENA",
+    "DAVID R. MCLEAN"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "SAC, SJ"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses potential assets for accessing Valentin Vasilyevich Bakulin and requests traces on Arturo Carrillo Esparza and Cynthia Chlebicki.",
+  "tags": [
+    "LCIMPROVE",
+    "SPOT",
+    "BAKULIN",
+    "PROPAGANDA FILMS",
+    "SOVEMB",
+    "POA"
+  ],
+  "title": "MEXI 5444: REDWOOD LCIMPROVE SPOT APPROACH TO BAKULIN",
+  "date": "1963",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "UNAM",
+    "Harvey, Illinois"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "VALENTIN VASILYEVICH BAKULIN",
+    "SEYMOUR D. TRINNICH",
+    "ARTURO CARRILLO ESPARZA",
+    "CYNTHIA CHLEBICKI"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

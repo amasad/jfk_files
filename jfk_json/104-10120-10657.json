@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cross Reference",
+  "security_level": "CONFIDENTIAL",
+  "summary": "Cross-reference file linking multiple individuals and their associated file numbers, possibly related to an investigation.",
+  "tags": [
+    "relationships",
+    "files",
+    "investigation",
+    "CIA"
+  ],
+  "title": "CROSS REFERENCE FOR PERS. SD FILES",
+  "date": "1960-08-02",
+  "persons_mentioned": [
+    "GETHULE L. CULLY DUPFEY",
+    "SL. DUFFY",
+    "THAI JOSEPH BURKE",
+    "STRANT L. BTT",
+    "FRANCIS LEO CARROLL",
+    "EDWARD C. PENIMORE",
+    "FES E. KK LAU",
+    "Thomas F. MC COY",
+    "CLIRE LOUTH LUCE"
+  ],
+  "recipient": "CIA",
+  "sender": "FE/tubss"
+}

@@ -1,0 +1,23 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable from Mexico City regarding CARLOS CRUZ MORALES, PRESIDENTE FEDERACION UNIVERSITARIO DE SOCIEDADES ESTUDIANTILES (FUSA).",
+  "tags": [
+    "KUWOLF",
+    "LICOAX",
+    "FUSA",
+    "Student Organizations"
+  ],
+  "title": "MEXI 6772: CARLOS CRUZ MORALES, PRESIDENTE FEDERACION UNIVERSITARIO DE SOCIEDADES ESTUDIANTILES (FUSA)",
+  "date": "1963-11-12",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "CARLOS CRUZ MORALES"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

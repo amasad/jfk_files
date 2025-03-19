@@ -1,0 +1,36 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "FBI investigation into a letter alleging possession of a document stolen from the Warren Commission, potentially harmful to President Johnson, and attempts to sell it to Paris-Match. The letter's author, Antilin PERIS, is believed to be using an alias and claims involvement of someone from the UK Embassy in Paris. The investigation involves the High General Staff (HGS) in Madrid, Spain, to locate and interview the letter's sender.",
+  "tags": [
+    "Warren Commission",
+    "Assassination",
+    "President Kennedy",
+    "Antilin PERIS",
+    "Paris-Match",
+    "UK Embassy",
+    "Madrid",
+    "HGS",
+    "Alias"
+  ],
+  "title": "WC, ASSISTANCE, NEWS MEDIA",
+  "date": "1964-10-28",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Spain",
+    "Barcelona",
+    "Dallas"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "President Johnson",
+    "Norman Philcox",
+    "John Hanly",
+    "Antilin PERIS"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Paris"
+}

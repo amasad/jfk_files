@@ -1,0 +1,27 @@
+{
+  "classification": "Liaison",
+  "document_type": "AIRTEL",
+  "security_level": "Secret",
+  "summary": "This Airtel from the Legat in Bern to the Director of the FBI concerns miscellaneous information related to the assassination of President John F. Kennedy. It encloses copies of interview results with ANGHEL DRAGOMIR and incorporates a translated letter with comments. Mentions a referral to the Bureau for investigation and clarifies the identity of another government agency involved.",
+  "tags": [
+    "ANGHEL DRAGOMIR",
+    "Research Branch (Covert CID)",
+    "Embassy, Vienna",
+    "Investigation",
+    "Translated Letter"
+  ],
+  "title": "ASSASSINATION OF PRESIDENT JOHN FITZGERALD KENNEDY 11/22/63, DALLAS, TEXAS MISC. INFO CONCERNING",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Dallas, Texas",
+    "Bern",
+    "Vienna, Austria"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "JOHN FITZGERALD KENNEDY",
+    "ANGHEL DRAGOMIR"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Bern"
+}

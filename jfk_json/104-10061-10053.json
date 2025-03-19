@@ -1,0 +1,50 @@
+{
+  "classification": "Liaison",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report on Antonio RODRIGUES Echanabal. Includes biographical information, diplomatic postings, and defection from the Cuban government. Requests debriefing results from French authorities.",
+  "tags": [
+    "Antonio RODRIGUES Echanabal",
+    "Cuba",
+    "Defection",
+    "Diplomacy",
+    "Haiti",
+    "Guatemala",
+    "Pakistan",
+    "France",
+    "Martinique",
+    "UNION"
+  ],
+  "title": "Report on Antonio RODRIGUES Echanabal",
+  "date": "1962-02-05",
+  "locations_mentioned": [
+    "Paris",
+    "Cuba",
+    "Haiti",
+    "Port-au-Prince",
+    "Dominican Republic",
+    "Guatemala",
+    "Karachi, Pakistan",
+    "Belgium",
+    "Washington, D. C.",
+    "Germany",
+    "France",
+    "Martinique"
+  ],
+  "origin_agency": "MB",
+  "persons_mentioned": [
+    "Antonio RODRIGUES Echanabal",
+    "Edith JONES",
+    "Antonio RODRIGUEZ Jones",
+    "Yvonne JONES",
+    "Castro",
+    "Batista",
+    "Duvalier",
+    "Trujillo",
+    "M. de Vosjell",
+    "MORIDER F. BINGHAM",
+    "Anne Silbert"
+  ],
+  "recipient": "Chief of Station, Paris",
+  "sender": "Chief, MB"
+}

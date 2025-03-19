@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report on Fidel Castro's planned visit to Moscow and Algiers in April 1963, including the purpose of the visits and the relationships between Castro, Khrushchev, Ben Bella, and Boumedienne.",
+  "tags": [
+    "Fidel Castro",
+    "Moscow",
+    "Algiers",
+    "Soviet Union",
+    "Algeria",
+    "Khrushchev",
+    "Ben Bella",
+    "Boumedienne",
+    "Diplomatic Relations",
+    "May Day",
+    "Socialist Camp",
+    "Missile Crisis"
+  ],
+  "title": "Fidel Castro's Coming Visit to Moscow and Algiers",
+  "date": "1963-04-23",
+  "locations_mentioned": [
+    "Moscow",
+    "Algiers",
+    "Cuba",
+    "USSR"
+  ],
+  "origin_agency": "NARA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Khrushchev",
+    "Ben Bella",
+    "Boumedienne"
+  ],
+  "recipient": "Intelligence Community",
+  "sender": "OCI"
+}

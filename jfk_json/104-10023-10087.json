@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Handbook Annex",
+  "security_level": "SECRET",
+  "summary": "This document is Annex B of Chapter III from CSHB 70-1-1, dated November 15, 1974, which details the 201 system used by the Operations Directorate for identifying, controlling, and filing information about persons of interest. It outlines the 201 number, dossier, master record, main index reference, and OI codes. The document also describes procedures for opening, maintaining, purging, charging, restricting, and canceling 201 dossiers, as well as requesting information and machine listings.",
+  "tags": [
+    "201 system",
+    "dossier",
+    "OI codes",
+    "file management",
+    "information retrieval",
+    "records management"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "locations_mentioned": [
+    "Munich",
+    "Germany"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "WILLIAM PENDLETON CROIX"
+  ],
+  "recipient": "DDO/RMO",
+  "sender": "ISG"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "Administrative",
+  "document_type": "Handbook Excerpt",
+  "security_level": "SECRET",
+  "summary": "This document describes the 201 system used by the Operations Directorate for identifying, controlling, and filing information on persons of interest. It covers 201 numbers, dossiers, master records, OI codes, machine lists, dossier creation, maintenance, restrictions, information requests, and cancellation procedures.",
+  "tags": [
+    "201 system",
+    "Operations Directorate",
+    "intelligence",
+    "counterintelligence",
+    "records management",
+    "dossiers",
+    "OI codes",
+    "machine listings",
+    "file management",
+    "information retrieval",
+    "security"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "locations_mentioned": [
+    "Germany",
+    "Munich",
+    "Mexico",
+    "New York",
+    "Paris",
+    "Geneva",
+    "Vienna"
+  ],
+  "origin_agency": "DDO/RMO",
+  "persons_mentioned": [
+    "CROIX, WILLIAM PENDLETON"
+  ],
+  "recipient": "DDO/RMO",
+  "sender": "Information Services Group (ISG)"
+}

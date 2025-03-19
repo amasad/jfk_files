@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document outlines policy guidance directives for Cuban intelligence representatives in the Dominican Republic, prepared by the General Directorate of Intelligence (DGI). It prioritizes information gathering on collective action against Cuba, the status of leftist forces, the Dominican Republic Armed Forces, the Dominican Communist Party, training camps, counterrevolutionary organizations, repressive corps, CIA Santo Domingo, political parties, solidarity with Cuba movement, relations with the United States, the Church, and internal situation of the armed forces.",
+  "tags": [
+    "intelligence",
+    "Dominican Republic",
+    "DGI",
+    "policy guidance",
+    "leftist forces",
+    "armed forces",
+    "counterrevolutionary organizations",
+    "CIA",
+    "political parties",
+    "solidarity with Cuba",
+    "United States",
+    "Church"
+  ],
+  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in the Dominican Republic",
+  "date": "1963-06-1964",
+  "locations_mentioned": [
+    "Cuba",
+    "Dominican Republic",
+    "Santo Domingo",
+    "Miami"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "Juan Bosch Gaviño",
+    "Miguel Angel Quevedo",
+    "Carlos Prío"
+  ],
+  "recipient": "REPCINCLANT I&NS",
+  "sender": "General Directorate of Intelligence (Direccion General de Inteligencia--DGI)"
+}

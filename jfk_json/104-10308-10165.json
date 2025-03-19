@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a visit by Mario Rogerio Mestrinho de Mello to Cuba, rumors of an assassination attempt on Fidel Castro, travel restrictions, rumors about Lee Harvey Oswald in Mexico, and correspondence between Marianna Argüelles and A-1.",
+  "tags": [
+    "Marianna Argüelles",
+    "Mario Rogerio Mestrinho de Mello",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Cuba",
+    "Mexico",
+    "Assassination",
+    "Travel Restrictions",
+    "A-1",
+    "ANSTRUT"
+  ],
+  "title": "RIOD 2944: GRYBAI TYPIC YORITE ANSTRUT",
+  "date": "1969-12-18",
+  "locations_mentioned": [
+    "Brazil",
+    "Havana",
+    "Cuba",
+    "Mexico",
+    "Algiers",
+    "Moscow"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Mario Rogerio Mestrinho de Mello",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Marianna Argüelles",
+    "BASTIGO PINTO",
+    "JOSE GLANUZAKHET"
+  ],
+  "recipient": "Director",
+  "sender": "RIO DE JANEIRO"
+}

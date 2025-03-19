@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Two cables from Mexico City. The first discusses letters addressed to Angel Guadalupe Rivera and a request for a letter drop FORTI CRYSTAL-1. The second cable mentions Jerzy Plebanski attending a symposium in Dallas on gravitational collapse and related topics. It also references MEXI 7218 and PBSWING as a source. A review of Gobernacion file reveals Plebanski granted permission to leave Mexico for conferences in the U.S.",
+  "tags": [
+    "Angel Guadalupe Rivera",
+    "FORTI CRYSTAL-1",
+    "Jerzy Plebanski",
+    "gravitational collapse",
+    "PBSWING",
+    "MEXI 7218",
+    "Gobernacion",
+    "Dallas",
+    "International Symposium",
+    "Southwest Center for Advanced Studies"
+  ],
+  "title": "Cables Regarding Letter Drop and Jerzy Plebanski's Travel to Dallas",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico City",
+    "Dallas"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Angel Guadalupe Rivera",
+    "Jerzy Plebanski"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

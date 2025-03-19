@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security_level": "SECRET",
+  "summary": "This document is an information report from the Central Intelligence Agency (CIA) regarding (fnu) RELOVA, an officer of the Direccion General de Inteligencia (DGI) in Cuba. The report includes details about RELOVA's residences, travels, and activities, gathered from various sources and supplemented by CIA records.",
+  "tags": [
+    "DGI",
+    "Cuban Intelligence",
+    "Osvaldo RELOVA",
+    "Travel",
+    "Cuba",
+    "Canada",
+    "Mexico",
+    "Inspection Trip"
+  ],
+  "title": "(fnu) RELOVA",
+  "date": "1964-09-01",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D. C.",
+    "Mexico",
+    "Habana",
+    "Kingston",
+    "Canada",
+    "Toronto",
+    "Montreal"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "(fnu) RELOVA",
+    "Osvaldo RELOVA Penichet",
+    "Jesus YANES Rodriguez",
+    "Alberta MENDUCA",
+    "Mr. BARRAL"
+  ],
+  "recipient": "STATE, DIA, ARMY, NAVY, NSA, OCR, FBI, REP CINCLANT, CINCSO",
+  "sender": "CENTRAL INTELLIGENCE AGENCY"
+}

@@ -1,0 +1,50 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This memorandum details a debriefing of David M. WILSTED (ps) on June 1, 1960, regarding Project LINOG and its operations in Mexico City. It covers topics such as the reformation of the telephone system by Telefonos de Mexico, S.A. through sub-contractor Intel, the challenges this poses to LIFEAT work, and the use of basehouses for tapping phone lines. The memo also discusses personnel involved in the tapping operations, security measures, and specific locations being monitored, including Cuban, Russian, Polish, and Soviet interests.",
+  "tags": [
+    "Project LINOG",
+    "David M. WILSTED",
+    "Telefonos de Mexico",
+    "Intel",
+    "LIFEAT",
+    "telephone tapping",
+    "basehouses",
+    "Cuban",
+    "Russian",
+    "Polish",
+    "Soviet",
+    "RAFANELLI",
+    "SECHEN"
+  ],
+  "title": "Debriefing of David M. WILSTED (ps)",
+  "date": "1960-06-06",
+  "locations_mentioned": [
+    "Mexico City",
+    "Czech Embassy",
+    "Colonias",
+    "Calero 39",
+    "Juanacatlan 179",
+    "Atlixco 47",
+    "Tenanzingo",
+    "Aristoteles 80",
+    "Suderman & Horacio",
+    "Cuautla 131"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "David M. WILSTED",
+    "John G. Heyn",
+    "John Kennedy",
+    "Robert Brown",
+    "Robert Bryant",
+    "Charles Bray",
+    "RAFANELLI",
+    "SECHEN",
+    "Rene",
+    "Jose"
+  ],
+  "recipient": "Record",
+  "sender": "WHD, CI/OPS, FI/OPS, FI/D"
+}

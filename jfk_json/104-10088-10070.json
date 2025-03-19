@@ -1,0 +1,21 @@
+{
+  "classification": "Security",
+  "document_type": "Instruction",
+  "security_level": "SECRET",
+  "summary": "This document outlines the functions of headquarters components regarding covert approvals and related matters, including operational and security approvals, proprietary approvals, liaison with US officials, and special services.",
+  "tags": [
+    "Covert Approvals",
+    "Security",
+    "Operations",
+    "Counter Intelligence",
+    "Liaison",
+    "Double Agents",
+    "Defection",
+    "Recruitment"
+  ],
+  "title": "COVERT APPROVALS AND RELATED MATTERS",
+  "date": "1958-07-17",
+  "origin_agency": "CIA",
+  "recipient": "Clandestine Services",
+  "sender": "Deputy Director (Plans)"
+}

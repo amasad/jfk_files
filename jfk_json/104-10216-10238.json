@@ -1,0 +1,24 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses Manuel Cantillo Toirac, new second secretary at the Cuban Embassy in Madrid, who is reportedly connected to Cuban Security, and the development of a close friendship with Cantillo.",
+  "tags": [
+    "Cuban Embassy",
+    "Madrid",
+    "Cuban Security",
+    "Friendship"
+  ],
+  "title": "AMLASAL",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Madrid",
+    "Cuba"
+  ],
+  "origin_agency": "DIR",
+  "persons_mentioned": [
+    "Manuel Cantillo Toirac"
+  ],
+  "recipient": "UIT",
+  "sender": "AMLASAL"
+}

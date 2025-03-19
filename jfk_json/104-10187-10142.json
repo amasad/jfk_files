@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding briefing to the President concerning Cuban subversion and use of material, emphasizing the need for professional handling and security.",
+  "tags": [
+    "Cuban subversion",
+    "security breaches",
+    "briefing",
+    "President",
+    "Rivera",
+    "DEFECTOR",
+    "CLBAN 55"
+  ],
+  "title": "Briefing on Cuban Subversion",
+  "date": "1964-09-08",
+  "locations_mentioned": [
+    "SAN SALVADOR",
+    "CUBA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Rivera"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "SAN SALVADOR"
+}

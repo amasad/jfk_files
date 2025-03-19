@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document appears to be a technical interrogation report from the Office of Security. It is marked as 'GROUP 1'. It also mentions the House Select Committee on Assassinations.",
+  "tags": [
+    "LIRING-3",
+    "C-798301",
+    "Olyguph Report",
+    "Office of Security",
+    "Technical Interrogation Report",
+    "CCS/NC",
+    "House Select Committee on Assassinations",
+    "John F. Kennedy Assassination Records Act of 1992"
+  ],
+  "title": "LIRING-3",
+  "date": "1978-08-01",
+  "locations_mentioned": [
+    "CIA Headquarters"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "ED LOPEZ"
+  ],
+  "recipient": "Unknown",
+  "sender": "Office of Security"
+}

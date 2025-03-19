@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable/Memorandum",
+  "security_level": "SECRET",
+  "summary": "These documents concern operational activities related to AMMUG/1, including travel arrangements, liaison with foreign agencies, and requests for watchlisting individuals of interest. Specific individuals mentioned include Roberto Rodriguez Llompart, Eugenio Gonzalez Alvarez, and others involved in Cuban commercial activities in London.",
+  "tags": [
+    "AMMUG/1",
+    "Liaison",
+    "Travel",
+    "Watchlisting",
+    "Cuban Commercial Office",
+    "Counterintelligence"
+  ],
+  "title": "Operational Activities related to AMMUG/1",
+  "date": "1970-12-31",
+  "locations_mentioned": [
+    "Miami",
+    "Springfield, Virginia",
+    "Casablanca",
+    "The Hague",
+    "London",
+    "Paris",
+    "Madrid",
+    "Netherlands"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lester L. Rhodes",
+    "Donald Rater",
+    "Roberto Rodriguez Llompart",
+    "Eugenio Gonzalez Alvarez",
+    "Dionisio Arranz Tremols",
+    "Blanca Calvet",
+    "Bernice Turbeville"
+  ],
+  "recipient": "Chief, CI/OA; Director",
+  "sender": "WH/MIAMI; Madrid Station; The Hague Station; Leasing Officer"
+}

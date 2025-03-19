@@ -1,0 +1,25 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding AMUG-1 debriefing and forwarding a Spanish version to Col Arriaga.",
+  "tags": [
+    "AMUG-1",
+    "debriefing",
+    "Spanish version",
+    "Col Arriaga",
+    "Liaison"
+  ],
+  "title": "IS AMUG-1 DEBRIEFING (SPANISH VERSION) FORWARDED HGGW-3947",
+  "date": "1960-05-25",
+  "locations_mentioned": [
+    "Guatemala"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Col Arriaga"
+  ],
+  "recipient": "Director",
+  "sender": "GUATE"
+}

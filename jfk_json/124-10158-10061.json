@@ -1,0 +1,41 @@
+{
+  "classification": "JFK Assassination System",
+  "document_type": "TEXTUAL DOCUMENT",
+  "security_level": "Secret",
+  "summary": "FBI document regarding Mark Lane's planned talk in Zurich, Switzerland, about Lee Oswald's innocence in the Kennedy assassination, sponsored by Heinrich Buchbinder.",
+  "tags": [
+    "LANE",
+    "MARK",
+    "ACT",
+    "SURVEILLANCE",
+    "OSWALD",
+    "KENNEDY",
+    "ASSASSINATION",
+    "BUCHBINDER",
+    "HEINRICH",
+    "TROTSKYITE",
+    "SWISS MOVEMENT AGAINST ATOMIC ARMAMENT",
+    "SBGAA",
+    "DIMMER",
+    "JOHN",
+    "CIA",
+    "ZURICH",
+    "SWITZERLAND"
+  ],
+  "title": "LEG, BR to DIRECTOR, FBI",
+  "date": "1965-01-08",
+  "locations_mentioned": [
+    "Zurich",
+    "Switzerland"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "LANE, MARK",
+    "OSWALD, Lee",
+    "KENNEDY",
+    "DIMMER, JOHN",
+    "BUCHBINDER, HEINRICH"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "LEG, BR"
+}

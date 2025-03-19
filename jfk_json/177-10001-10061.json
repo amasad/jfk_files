@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "REPORT",
+  "security_level": "SECRET",
+  "summary": "This document discusses the alert status of Cuban diplomatic missions following the assassination of President Kennedy. It details the increased vigilance and security measures implemented by the missions in response to potential hostile activity.",
+  "tags": [
+    "diplomatic missions",
+    "vigilance",
+    "security measures",
+    "Cuban government",
+    "hostile activity"
+  ],
+  "title": "ALERT STATUS OF CUBAN DIPLOMATIC MISSIONS, AS RESULT OF THE ASSASSINATION OF PRESIDENT KENNEDY",
+  "date": "1963-12-13",
+  "locations_mentioned": [
+    "CUBA",
+    "HAVANA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "BUNDY-SMITH",
+    "ALEXANDER",
+    "BELK",
+    "BERECK",
+    "CLABE",
+    "DINGEMAN",
+    "CAEL",
+    "1UARESTAL",
+    "JOHNSON",
+    "KILDUFF",
+    "KLEIN",
+    "KOMER",
+    "SAUNDERS",
+    "SCHLESINGE",
+    "SMITH, WM, Y"
+  ],
+  "recipient": "",
+  "sender": ""
+}

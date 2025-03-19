@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Information Report",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is an Information Report from the CIA regarding Strategic Hamlets in South Vietnam, dated February 20, 1962. It discusses Ngo Dinh Nhu's views on the Strategic Hamlets program as a method for defense and development in Vietnam.",
+  "tags": [
+    "Strategic Hamlets",
+    "Vietnam",
+    "Ngo Dinh Nhu",
+    "Counterinsurgency",
+    "Modernization",
+    "Democratization",
+    "Rural Development",
+    "Security",
+    "Cadres",
+    "American Observer",
+    "Bui Van Luong",
+    "Interministerial Commission"
+  ],
+  "title": "Information Report Re: Strategic Hamlets",
+  "date": "1962-02-20",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Ngo Dinh Diem",
+    "Bui Van Luong"
+  ],
+  "recipient": "STATE ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC USIA OCI ONE OCR ORR 00 AID DIA",
+  "sender": "CIA"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This cable discusses Nicolas Mendoza informing HAVASTA that his brother, Ignacio, had not left Havana as planned, and now plans to remain in Havana a few more days in hopes of obtaining permission from the Cuban government to leave legally.",
+  "tags": [
+    "Mendoza",
+    "HAVASTA",
+    "Ignacio",
+    "Cuba",
+    "Hero Station",
+    "Ray"
+  ],
+  "title": "HAVA 5939: IGUACIO HAD NOT LEFT HAVA AS PLANCED",
+  "date": "1960-11-18",
+  "locations_mentioned": [
+    "Havana",
+    "Miami",
+    "Cuba"
+  ],
+  "origin_agency": "HAVANA",
+  "persons_mentioned": [
+    "NICOLAS MENDOZA",
+    "Ray",
+    "IGUACIO"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "HAVANA"
+}

@@ -1,0 +1,26 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Miss Norma Valverde's flight cancellation and subsequent travel arrangements via Aerolineas Panama. It includes routing information and dissemination restrictions.",
+  "tags": [
+    "flight cancellation",
+    "travel arrangements",
+    "Norma Valverde",
+    "Aerolineas Panama",
+    "routing information",
+    "dissemination restrictions"
+  ],
+  "title": "MISS NORMA VALVERDE VARIG FLT CANCELLED AT MEXICO CITY",
+  "date": "1963-12-07",
+  "locations_mentioned": [
+    "Mexico City",
+    "Panama"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Norma Valverde"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

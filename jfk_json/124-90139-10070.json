@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "FBI memo to CIA regarding Herbert Levy and his previous interactions with a CIA representative concerning information about India. Levy provided information on Cuban economic matters and possible violations of export regulations.",
+  "tags": [
+    "CIA Liaison",
+    "Herbert Levy",
+    "Cuban Economic Matters",
+    "Export Regulations",
+    "India",
+    "St. Regis Paper Company",
+    "International Ore and Fertilizer Company",
+    "Jute Bags",
+    "Hessian Cloth"
+  ],
+  "title": "HERBERT LEVY",
+  "date": "1961-12-11",
+  "locations_mentioned": [
+    "Salt Lake City, Utah",
+    "Houston, Texas",
+    "Washington, D.C.",
+    "India",
+    "Cuba",
+    "New York City, New York"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Herbert Levy",
+    "John Edgar Hoover"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI"
+}

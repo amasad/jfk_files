@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This memo from March 29, 1967, details WI/I's activities related to the Council for Latin America, specifically addressing involvement with four organizations: Confederación Mexicana de Cámaras Industriales, Instituto de Investigaciones Sociales y Económicas, Centro Nacional de Estudios Sociales, and American Chamber of Commerce of Mexico. It outlines funding, objectives, and personnel associated with these organizations, including agent activities and project statuses.",
+  "tags": [
+    "Council for Latin America",
+    "Confederación Mexicana de Cámaras Industriales",
+    "Instituto de Investigaciones Sociales y Económicas",
+    "Centro Nacional de Estudios Sociales",
+    "American Chamber of Commerce of Mexico",
+    "MISEREOR",
+    "LIEF project",
+    "LESIFER project",
+    "KOWACE",
+    "rightist political organizations",
+    "mass media propaganda"
+  ],
+  "title": "Response to Memo on \"Council for Latin America\"",
+  "date": "1967-03-29",
+  "locations_mentioned": [
+    "Mexico",
+    "Aachen, Germany"
+  ],
+  "origin_agency": "WH/I",
+  "persons_mentioned": [
+    "N. J. Katten",
+    "LISIFER-3",
+    "LEUFT-1"
+  ],
+  "recipient": "Chief, WH/CA",
+  "sender": "N. J. Katten, C/WH/I"
+}

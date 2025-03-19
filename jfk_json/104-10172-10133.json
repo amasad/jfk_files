@@ -1,0 +1,25 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses a RADOP candidate provided by AMDENIM-1 for infiltration into PBRUMEN, replacing a subject who failed a communication assessment test. It also requests a POA on BENICIA (GONZALEZ) GOMEZ.",
+  "tags": [
+    "RADOP",
+    "AMDENIM-1",
+    "PBRUMEN",
+    "Commo Assessment",
+    "BENICIA (GONZALEZ) GOMEZ",
+    "POA"
+  ],
+  "title": "104-10172-10133 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "1963-01-16",
+  "locations_mentioned": [
+    "PBRUMEN"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "BENICIA (GONZALEZ) GOMEZ"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMWAVE"
+}

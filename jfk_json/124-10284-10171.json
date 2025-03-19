@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "Secret",
+  "summary": "This FBI report details the investigation of Maria Josefa Mendizabal Arvier, a secretary to ex-Venezuelan president Marcos Perez Jimenez, suspected of providing information to Alberto Bayo, Jr., who is believed to be involved in Cuban intelligence activities. The report includes information on Mendizabal's immigration status, contacts, and interviews, and seeks a decision from the Department regarding her activities.",
+  "tags": [
+    "EPE",
+    "INTV",
+    "ARVIER, MARIA JOSEFA MENDIZABAL",
+    "AKA",
+    "EMP",
+    "RES",
+    "ASSOC",
+    "POLIT",
+    "INTEL ACT",
+    "MARCOS PEREZ JIMENEZ",
+    "ALBERTO BAYO, JR."
+  ],
+  "title": "MARIA JOSEFA MENDIZABAL ARVIER, aka Maria Mendizabal, \"Nene\" Mendizabal",
+  "date": "1959-12-31",
+  "locations_mentioned": [
+    "Miami",
+    "Havana",
+    "Miami Beach, Florida",
+    "New York City"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "MARIA JOSEFA MENDIZABAL ARVIER",
+    "MARCOS PEREZ JIMENEZ",
+    "ALBERTO BAYO, JR.",
+    "JOHN R. BARRON",
+    "WILLIAM B. HOLLOMAN",
+    "ALBERTO REVUELTA",
+    "CARLOS SISO",
+    "INES DAVILA",
+    "CARLOS PULIDO",
+    "EDUARDO MX GONZALEZ"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "BARRON, JOHN R."
+}

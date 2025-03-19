@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch concerns Alfonso Dibtido Torres and requests Provisional Operational Approval along with a 201 number. It also mentions that the Subject's cryptonym, assigned 15 October 1965 by the Station, follows under separate cover.",
+  "tags": [
+    "FEQ Part I",
+    "Alfonso Dibtido Torres",
+    "Cryptonym",
+    "Operational Approval",
+    "201 Number",
+    "Indexing"
+  ],
+  "title": "FEQ Part I - Alfonso Dibtido Torres",
+  "date": "1963-11-13",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Alfonso Dibtido Torres",
+    "Willard C. Curtis",
+    "John F. Kennedy"
+  ],
+  "recipient": "Chief, WE Division",
+  "sender": "Chief of Station, Mexico City"
+}

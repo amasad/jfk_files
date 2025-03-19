@@ -1,0 +1,30 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This cable discusses the potential impact of disclosing information related to Oswald's tapes and the use of NOCs (Non-Official Covers) on the liaison relationship with Mexican authorities, particularly concerning joint TELTAP operations and the sensitivity surrounding the NWBOLTON relationship.",
+  "tags": [
+    "JFK Assassination",
+    "TELTAP",
+    "Mexican Liaison",
+    "NWBOLTON",
+    "NOC",
+    "Counterintelligence",
+    "Narcotrafficking",
+    "Terrorism"
+  ],
+  "title": "JFK ASSASSINATION ISSUES",
+  "date": "1994-12-02",
+  "locations_mentioned": [
+    "Mexico City",
+    "Russian Embassy",
+    "Cuban Embassy"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Oswald",
+    "Fuller"
+  ],
+  "recipient": "Director",
+  "sender": "MEXICO CITY"
+}

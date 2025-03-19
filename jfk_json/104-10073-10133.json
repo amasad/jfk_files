@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security_level": "CONFIDENTIAL",
+  "summary": "Report discussing Castro agents in the US attempting to determine military training camp locations and operations. Includes names of suspected individuals such as Mowerco Nunez and Angel Banos.",
+  "tags": [
+    "Castro agents",
+    "military training camps",
+    "Mowerco Nunez",
+    "Angel Banos",
+    "Cuban national",
+    "Carlos Prio Socarras"
+  ],
+  "title": "Information Report on Castro Agents in the US",
+  "date": "1961-06-01",
+  "locations_mentioned": [
+    "US"
+  ],
+  "origin_agency": "Army",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Carlos Prio Socarras",
+    "Mowerco Nunez",
+    "Angel Banos",
+    "Gutierrez Menoyor Jesus Dieguez",
+    "Eva Gutiérrez"
+  ],
+  "recipient": "STATE, ARMY, NAVY, AIR, FBI",
+  "sender": "Army representative assigned to the office of preparation"
+}

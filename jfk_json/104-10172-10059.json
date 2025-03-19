@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "ROUTINE",
+  "summary": "This cable discusses the infiltration of several individuals via GHA JEAN III, including ALCO VERA SERAFIT, BRAIDIO CONTRERA, ANGEL POSADA GUTIERREZ, RINALDO HERNANDEZ BLANCO, RAFAEL GARCIA AUDIO, EZNIGNO PEREZ, PEDRO SERCIO CUELLAR ALONSO, and JOSE FERNANDEZ SADUE. It requests approval to run OPN JEAN 111.",
+  "tags": [
+    "infiltration",
+    "GHA JEAN III",
+    "approval request",
+    "OPN JEAN 111"
+  ],
+  "title": "INFILTRATION VIA GHA JEAN III",
+  "date": "1951-03-23",
+  "locations_mentioned": [
+    "CATHARIAN, SANTA CLARA",
+    "MACOT, ORIENTE",
+    "HAVANA, CUBA",
+    "FIRAR DEL RIO",
+    "SANTIAGO DE CUBA"
+  ],
+  "origin_agency": "WAVE",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "BELL",
+    "ALCO VERA SERAFIT",
+    "BRAIDIO CONTRERA",
+    "ANGEL POSADA GUTIERREZ",
+    "RINALDO HERNANDEZ BLANCO",
+    "RAFAEL GARCIA AUDIO",
+    "EZNIGNO PEREZ",
+    "PEDRO SERCIO CUELLAR ALONSO",
+    "JOSE FERNANDEZ SADUE",
+    "CESAR RUBIO BOXCO"
+  ],
+  "recipient": "BELL",
+  "sender": "WAVE"
+}

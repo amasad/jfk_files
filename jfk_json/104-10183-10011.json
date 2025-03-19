@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding AMWHIP's visit to Rome during the week of October 13, 1963, and contact plans. It also includes routing and file information.",
+  "tags": [
+    "AMWHIP",
+    "Rome",
+    "Contact Plan",
+    "SAS",
+    "EOB",
+    "PBRUMEN",
+    "KEYWAY",
+    "NIACP"
+  ],
+  "title": "DIR 75462: AMWHIP Visit to Rome",
+  "date": "1963-10-14",
+  "locations_mentioned": [
+    "Rome"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMWHIP",
+    "RHawra",
+    "THOMAST",
+    "EDWARD A. MARELIUS"
+  ],
+  "recipient": "ROME",
+  "sender": "DIRECTOR"
+}

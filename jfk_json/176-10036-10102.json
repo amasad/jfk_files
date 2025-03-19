@@ -1,0 +1,35 @@
+{
+  "classification": "Intel",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is a CIA Information Telegram discussing discussions between President Diem of South Vietnam and Vice President Chen Cheng of Nationalist China in March 1963. The discussions covered topics such as increased Chinese Nationalist military support for South Vietnam, the use of South Vietnam as a base for Chinese Nationalist military operations against mainland China, and joint operations into North Vietnam and Laos.",
+  "tags": [
+    "Vietnam",
+    "China",
+    "Taiwan",
+    "Military Support",
+    "Joint Operations",
+    "Neutrality",
+    "Counterattack"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-03-19",
+  "locations_mentioned": [
+    "South Vietnam",
+    "China (Taiwan)",
+    "Saigon",
+    "Dalat",
+    "North Vietnam",
+    "Laos",
+    "Thailand",
+    "Cambodia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Diem",
+    "Chen Cheng",
+    "Sihanouk"
+  ],
+  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC AID USIA OCI ONE OCR STATE/DIR ORR OB 00 EXO",
+  "sender": ""
+}

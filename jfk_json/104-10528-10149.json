@@ -1,0 +1,30 @@
+{
+  "classification": "Assassination Records",
+  "document_type": "Record",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document contains names, codes, and references related to individuals and locations, likely pertaining to intelligence or operational activities. It includes names such as Manuel Aregon and Alfonso Dielleox, along with codes like CA/35 and 4043, and references to PARIS/PIPI. The document also mentions RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992.",
+  "tags": [
+    "Manuel Aregon",
+    "Alfonso Dielleox",
+    "PARIS/PIPI",
+    "CA/35",
+    "PALP",
+    "DANDORIC",
+    "TORKS",
+    "ASTOINTICATIO",
+    "4043",
+    "Kennedy Assassination"
+  ],
+  "title": "Intelligence Record",
+  "date": "1963-10-01",
+  "locations_mentioned": [
+    "Paris"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Manuel Aregon",
+    "Alfonso Dielleox"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

@@ -1,0 +1,24 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses an individual named Alfredo Davins and refers to TYPIC AMLONG and RONIS.",
+  "tags": [
+    "AMLONG",
+    "RONIS",
+    "Alfredo Davins",
+    "SAS/EOD",
+    "DRIG D.FONIS"
+  ],
+  "title": "DIR 14184 TYPIC AMLONG",
+  "date": "1963-10-08",
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ALFREDO DAVINS",
+    "J.C. ZING"
+  ],
+  "recipient": "PRITY MEXI"
+}

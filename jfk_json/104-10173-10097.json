@@ -1,0 +1,43 @@
+{
+  "classification": "Personnel",
+  "document_type": "Report",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Report on Valentin Sergeyevich Loginov, a Soviet Attache stationed in Havana. The report details his background, personality, activities, and potential vulnerabilities.",
+  "tags": [
+    "Soviet",
+    "KGB",
+    "Loginov",
+    "Havana",
+    "Recruitment",
+    "Counterintelligence",
+    "LICOZY/5",
+    "YATSKOV",
+    "AMSLOUCH/3",
+    "BARANOV",
+    "DRUSS"
+  ],
+  "title": "Valentin Sergeyevich Loginov Personnel File",
+  "date": "1966",
+  "locations_mentioned": [
+    "Havana",
+    "Moscow",
+    "Latin America",
+    "USSR",
+    "U.S. Embassy",
+    "Soviet Embassy"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Valentin Sergeyevich Loginov",
+    "NECHIPORENKO",
+    "LICOZY/5",
+    "YATSKOV",
+    "Elizabeth Duncan Wilde",
+    "Faul Dillon",
+    "BARANOV",
+    "Uriy DRUSS",
+    "AMSLOUCH/3"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

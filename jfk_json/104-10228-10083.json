@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Report on the failed Bay of Pigs invasion, detailing rebel losses and factors contributing to their defeat.",
+  "tags": [
+    "Bay of Pigs",
+    "Invasion",
+    "Cuba",
+    "Revolutionaries",
+    "Military Action",
+    "CIA",
+    "Kennedy Administration"
+  ],
+  "title": "Report on Cuban Invasion at Cochinos Bay",
+  "date": "1961-04-19",
+  "locations_mentioned": [
+    "Cuba",
+    "Cochinos Bay",
+    "Las Villas Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Richard M. Bissell"
+  ],
+  "recipient": "All Stations and Bases",
+  "sender": "Director"
+}

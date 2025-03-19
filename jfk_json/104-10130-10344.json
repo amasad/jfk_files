@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Travel Briefing",
+  "security_level": "SECRET",
+  "summary": "This document is a travel briefing for Boris D. Tarasoff, an employee of the FDD/00 office, for a trip to Mexico City in August 1960. The briefing covers topics such as security regulations, travel precautions, personal conduct, and cover.",
+  "tags": [
+    "Travel",
+    "Briefing",
+    "Mexico City",
+    "Security",
+    "Foreign Travel",
+    "TDY"
+  ],
+  "title": "TRAVEL BRIEFING",
+  "date": "1960-08-13",
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "TARASOFF, Boris D",
+    "Thomas L. Claft"
+  ],
+  "recipient": "Boris D. Tarasoff",
+  "sender": "Thomas L. Claft"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Intel",
+  "document_type": "Telegram",
+  "security_level": "SECRET",
+  "summary": "This telegram discusses opportunities for the exploitation of the new management of the National Police and Security Service in Vietnam, focusing on intelligence and national police development. It proposes detailed programs for additional assistance, training, and U.S. personnel for liaison and project management. It also outlines the development of a National Communist Party Penetration Service and the consolidation of civil police functions under the Secretary of State for Interior.",
+  "tags": [
+    "National Police",
+    "Security Service",
+    "Vietnam",
+    "Intelligence",
+    "Communist Party Penetration",
+    "USOM",
+    "CAS",
+    "Training",
+    "Liaison",
+    "Project Management"
+  ],
+  "title": "Embtel 660 (Saigon) Re: Task Force on Vietnam",
+  "date": "1961-11-16",
+  "locations_mentioned": [
+    "Vietnam",
+    "HUE",
+    "NHA TRANG",
+    "BAN ME THUOT",
+    "BIEN HOA",
+    "SAIGON",
+    "CHOLON",
+    "CAN THO"
+  ],
+  "origin_agency": "DOS",
+  "persons_mentioned": [
+    "NGUYEN VAN Y",
+    "NGUYEN VAN (LA)",
+    "NOLTING"
+  ],
+  "recipient": "Secretary of State",
+  "sender": "SAIGON"
+}

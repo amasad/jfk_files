@@ -1,0 +1,24 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document pertains to office hours and monitoring frequencies for various stations, with the approval of the Chief Mission and COS. It includes instructions for stations with and without SELCAL monitors, and mentions residence capability during a closure period.",
+  "tags": [
+    "office hours",
+    "monitoring frequencies",
+    "SELCAL",
+    "closure period",
+    "stations",
+    "Chief Mission",
+    "COS"
+  ],
+  "title": "Office Hours and Monitoring Instructions",
+  "date": "2025",
+  "locations_mentioned": [],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "Various Stations",
+  "sender": "Unknown"
+}

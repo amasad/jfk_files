@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses attempts to locate AMTRUNK-9 and A-9 after possible capture in Cuba, and advises caution in contacting certain individuals who may alert Cuban authorities.",
+  "tags": [
+    "AMTRUNK",
+    "AMLASH",
+    "Cuba",
+    "Cardena",
+    "infiltration",
+    "contacts"
+  ],
+  "title": "DIR 83150: Locating AMTRUNK-9 and A-9",
+  "date": "1965-02-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Cardenas",
+    "Matanzas",
+    "Miami",
+    "Havana",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Castro",
+    "Eloy Gutierrez Menoyo",
+    "Candido Diaz",
+    "Pedro Barbi (or Balbi) Febles",
+    "Mario Gil Gonzalez",
+    "Jose Vazquez Nerey",
+    "Gloria Cabrera",
+    "Thomas F. Thiele",
+    "Desmond FitzGerald"
+  ],
+  "recipient": "PARIS JMWAVE",
+  "sender": "DIRECTOR"
+}

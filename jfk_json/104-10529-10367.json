@@ -1,0 +1,30 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding cartridges delivered to Corpus Christi.",
+  "tags": [
+    "cartridges",
+    "Corpus Christi",
+    "MEXI",
+    "MIDW",
+    "WH/LOG",
+    "Logistics",
+    "Ammunition",
+    "Cargo"
+  ],
+  "title": "MEXI",
+  "date": "1963-10-16",
+  "locations_mentioned": [
+    "Mexico City",
+    "Corpus Christi"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Polly Pike",
+    "William E. Brooks",
+    "Charles F. Reimer"
+  ],
+  "recipient": "MEXI",
+  "sender": "MIDW"
+}

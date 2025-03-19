@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discussing Vicente Herrero Diaz, a Cuban national in Panama, and requesting POA for him for use in local public opinion research, monitoring, and support of JMRAKE activities.",
+  "tags": [
+    "Vicente Herrero Diaz",
+    "Cuban National",
+    "Panama",
+    "Public Opinion Research",
+    "JMRAKE",
+    "KUCAGE",
+    "CONTE AGUERO",
+    "FRENTE ANTICOMUNISTA",
+    "CONSEJO REVOLUCIONARIO"
+  ],
+  "title": "REQUEST POA FOR VICENTE HERRERO DIAZ",
+  "date": "1961-12-16",
+  "locations_mentioned": [
+    "Panama City",
+    "Cuba",
+    "La Habana"
+  ],
+  "origin_agency": "PANAMA CITY",
+  "persons_mentioned": [
+    "VICENTE HERRERO DIAZ",
+    "CRESCENCIO HERRERO HERNANDEZ",
+    "EUGENIA DEAZ DIAZ",
+    "CONTE AGUERO"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "PANAMA CITY"
+}

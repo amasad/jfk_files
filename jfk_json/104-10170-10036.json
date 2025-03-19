@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses a potential channel between JOSE ARTECONA and PBRUMEN through IDEN B using a \"diplomatic pouch\" for messages and small arms. IDEN A suggests ARTECONA present his request to his KUBARK contact in Miami.",
+  "tags": [
+    "DRE",
+    "Directorate Revolutionario Estudiantil",
+    "KUBARK",
+    "PBRUMEN",
+    "JOSE ARTECONA",
+    "IDEN A",
+    "IDEN B",
+    "Small Arms",
+    "Diplomatic Pouch",
+    "Miami",
+    "HAGU"
+  ],
+  "title": "SJAN 0835: Potential Channel Between Artecona and PBRUMEN",
+  "date": "1962-11-08",
+  "locations_mentioned": [
+    "San Juan",
+    "Miami"
+  ],
+  "origin_agency": "SAN JUAN",
+  "persons_mentioned": [
+    "JOSE ARTECONA",
+    "CARLOS \"TRIPA\" ARTECONA",
+    "IDEN A",
+    "IDEN B",
+    "KARNLEY"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "SAN JUAN"
+}

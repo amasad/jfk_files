@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report on Julian NOVAS Fernandez, identified as a Cuban Intelligence Officer, with details on his assignment in Kingston, Jamaica, as Commercial Attache.",
+  "tags": [
+    "Cuban Intelligence Service",
+    "Cuban Embassy",
+    "Mexico City",
+    "Kingston",
+    "Jamaica",
+    "Commercial Attache",
+    "Diplomatic Passport"
+  ],
+  "title": "Julian NOVAS Fernandez",
+  "date": "1964-08-27",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico City",
+    "Kingston",
+    "Jamaica",
+    "Habana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Julian NOVAS Fernandez",
+    "Amarilis Marta VALDES Hijuelos",
+    "Gerardo SANCHEZ Robert"
+  ],
+  "recipient": "DIA, NAVY, AIR, I&NS, NSA, REP CINCLANT CINCSO",
+  "sender": "Headquarters"
+}

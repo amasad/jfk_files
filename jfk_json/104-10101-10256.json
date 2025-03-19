@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses the activities of PETRY and OTTA, including their assigned routing indicators and handling of KUBARK traffic. It also mentions the handling procedures and authentication protocols.",
+  "tags": [
+    "KUBARK",
+    "Traffic",
+    "Routing Indicator",
+    "Authentication",
+    "OTTOKE",
+    "AXANET",
+    "RUSION",
+    "MINIMER",
+    "PETRY",
+    "OTTA",
+    "OTTAMA"
+  ],
+  "title": "Message Regarding PETRY and OTTA Activities",
+  "date": "1963",
+  "locations_mentioned": [],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "PETRY",
+    "OTTA"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

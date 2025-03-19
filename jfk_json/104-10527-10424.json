@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a FBIS ticker item regarding Castro's claim that his security forces discovered an attempted sabotage of the Cuban merchant ship LAS VILLAS by the CIA in Ganda, Italy.",
+  "tags": [
+    "FBIS",
+    "Castro",
+    "Sabotage",
+    "Cuban Merchant Ship",
+    "LAS VILLAS",
+    "CIA",
+    "Ganda",
+    "Italy",
+    "Bomb"
+  ],
+  "title": "FBIS TICKER ITEM FROM CASTRO'S SPEECH",
+  "date": "2025-11-22",
+  "locations_mentioned": [
+    "HAMBURG",
+    "BRUSS",
+    "MEXICO CITY",
+    "CASABLANCA",
+    "DETROIT",
+    "LONDON",
+    "MILAN",
+    "ITALY",
+    "Ganda",
+    "Cuba"
+  ],
+  "origin_agency": "SAS/EOE",
+  "persons_mentioned": [
+    "JANET NIXON",
+    "CASTRO",
+    "Jack De Lacy",
+    "Steve Munger",
+    "Vougba Sherara",
+    "Toe Lyach",
+    "ADUARD A. WELIUC",
+    "rico Baker",
+    "DEEMOND FITZARRALD"
+  ],
+  "recipient": "HAME BRUS HGUOND CASB OTT PART MEXI",
+  "sender": "C/SAS 5"
+}

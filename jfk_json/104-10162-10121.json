@@ -1,0 +1,30 @@
+{
+  "classification": "Security",
+  "document_type": "Form",
+  "security_level": "SECRET",
+  "summary": "Request for approval or investigative action related to Santiago ALVAREZ Fernandes and project PM Trainees in Cuba. Mentions security checks and list statuses.",
+  "tags": [
+    "Operational Approval",
+    "Security Approval",
+    "Name Check",
+    "Investigation",
+    "Cuba",
+    "PM Trainees",
+    "Pro List",
+    "Green List"
+  ],
+  "title": "REQUEST FOR APPROVAL OR INVESTIGATIVE ACTION",
+  "date": "1963-01-30",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "Security Support Division/Office of Security",
+  "persons_mentioned": [
+    "Santiago ALVAREZ Fernandes",
+    "Margaret Mosa",
+    "Joseph Piccolo",
+    "Jacob D. Esterline"
+  ],
+  "recipient": "CI/Operational Approval and Support Division",
+  "sender": "Margaret Mosa"
+}

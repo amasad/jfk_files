@@ -1,0 +1,53 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This dispatch details information provided by Francisco Luis Rodrigues Gonzales, a Cuban refugee, regarding resistance activity in Cuba. It includes details about the Revolutionary Student Directorate, sabotage activities, and a planned insurrection in the Sierra Maestra area. It also mentions the capture and imprisonment of group members, including two Americans from Guantanamo Naval Base.",
+  "tags": [
+    "Revolutionary Student Directorate",
+    "Resistance Activity",
+    "Sabotage",
+    "Insurrection",
+    "Sierra Maestra",
+    "Prisoners",
+    "G-2",
+    "Boniato Prison",
+    "Guantanamo Naval Base"
+  ],
+  "title": "WEB/PBRUEN - Resistance Activity in Cuba",
+  "date": "1962-08-31",
+  "locations_mentioned": [
+    "Cuba",
+    "Spain",
+    "Sierra Maestra",
+    "Oriente Province",
+    "Las Villas",
+    "Havana",
+    "Santuario del Cobre",
+    "Bayamo",
+    "Santiago de Cuba",
+    "Boniato Prison",
+    "Guantanamo Naval Base",
+    "Playa Giron",
+    "Fortaleza de la Cabaña",
+    "Imias",
+    "Pinar del Rio",
+    "Wajay"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Francisco Luis Rodrigues Gonzales",
+    "Diaz Lanz",
+    "Angel 06 Fontanills",
+    "Alberto Muller",
+    "Rolando Valdés D'Wolf",
+    "Eduardo Díaz Lanz",
+    "Jorge Cruz Peña",
+    "Castro",
+    "Aníbal Rodriguez",
+    "Hans",
+    "Helen Caporla"
+  ],
+  "recipient": "Acting Chief, WE; Chief of Station, Madrid",
+  "sender": "Chief, Task Force"
+}

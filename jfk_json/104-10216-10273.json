@@ -1,0 +1,43 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch reports on the progress of ANTRUNK operations for November 1964, including preparations for ANTRUNK X, recruitment efforts, and communication with assets. It also details operational expenditures and projected plans for future operations.",
+  "tags": [
+    "ANTRUNK",
+    "WHAPRON",
+    "TYPIC",
+    "Operational",
+    "Recruitment",
+    "Ratline",
+    "Infiltration",
+    "MHAPRON",
+    "MEXI"
+  ],
+  "title": "TYPIC/WHAPRON/ANTRUNK/Operational ABSTRACT: ANTRUNK Progress Report for Period 1-30 November 1964",
+  "date": "1964-12-10",
+  "locations_mentioned": [
+    "Madrid",
+    "Mexico City",
+    "Montreal",
+    "Havana"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "ANTRUNK-13",
+    "ANTRUNK-19",
+    "IDEN A",
+    "AMAGREE-1",
+    "AMAKA-1",
+    "ANTRUNK-16",
+    "ANTRUNK-20",
+    "ANTRUNK-10",
+    "AMLASH-1",
+    "AMICE-14",
+    "ANTRUNK-11",
+    "Francisco BORGES",
+    "Andrew E. REUTERAN"
+  ],
+  "recipient": "Deputy Chief, WH/SA",
+  "sender": "Chief of Station, JMWAVE"
+}

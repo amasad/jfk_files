@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Regulation",
+  "security_level": "SECRET",
+  "summary": "This document outlines CIA regulations and definitions regarding its relationships with individuals, including agents, assets, sources, collaborators, and contract personnel. It details the criteria and approvals required for using individuals in various capacities, restrictions on operational use, and management policies for non-staff personnel.",
+  "tags": [
+    "AGENT",
+    "ASSET",
+    "SOURCE",
+    "COLLABORATOR",
+    "WITTING",
+    "UNWITTING",
+    "Nonstaff Personnel",
+    "Contract Personnel",
+    "Independent Contractors",
+    "Covert Approvals",
+    "Operational Use",
+    "Restrictions"
+  ],
+  "title": "CIA Regulations on Relationships with Individuals",
+  "date": "1978-03-09",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Webster"
+  ],
+  "recipient": "HCSA"
+}

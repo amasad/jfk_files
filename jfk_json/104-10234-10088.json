@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Message Form",
+  "security_level": "SECRET",
+  "summary": "Cable regarding AMLASH and APWHIP activities, mentioning contact in Miami and coordination efforts.",
+  "tags": [
+    "AMLASH",
+    "APWHIP",
+    "Miami",
+    "Coordination",
+    "XPORTELA",
+    "JMHAVE PARIS"
+  ],
+  "title": "Cable Regarding AMLASH and APWHIP Activities",
+  "date": "1965-01-27",
+  "locations_mentioned": [
+    "Paris",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "W. Wainwright",
+    "Desmond Fitzgerald",
+    "John L. Hart",
+    "XPORTELA"
+  ],
+  "recipient": "DOO, DOP, ADDP, C/WE Z, C/CI, C/FI2, VR, FILE",
+  "sender": "DIR"
+}

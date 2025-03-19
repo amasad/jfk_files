@@ -1,0 +1,40 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This memo confirms the cancellation of accommodation addresses for several individuals, including Andrew L. Jackoldow, David S. Morales, and others.",
+  "tags": [
+    "accommodation addresses",
+    "cancellation",
+    "facilities",
+    "security"
+  ],
+  "title": "ACCOMMODATION ADDRESSES",
+  "date": "1961-11-17",
+  "locations_mentioned": [
+    "Staten Island, N. Y.",
+    "Long Beach, California",
+    "Falls Church, Va.",
+    "Van Nuys, California",
+    "Providence, Rhode Island",
+    "Queens, New York",
+    "Ridgewood, N.J",
+    "Washington, D.C."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "J. J. MALANE",
+    "Andrew L. JACKOLDOW",
+    "David S. MORALES",
+    "Charles A. BERTELLI",
+    "Jacob SACKLOVE",
+    "Harold HAMILTON",
+    "Bernard Alvin PARKS",
+    "Maria Fernandezy SANCHE",
+    "Carmen Rodriguizy MENDOZA",
+    "Norman R. HARTHERODT",
+    "VICTOR R. WHITE"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Deputy Director of Security (Investigations and Support)"
+}

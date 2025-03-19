@@ -1,0 +1,53 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document provides an overview of the Mexico City Station's operations, including Cuban, Soviet, and other activities. It discusses personnel, resources, and recommendations for improving effectiveness.",
+  "tags": [
+    "Mexico City",
+    "Station Operations",
+    "Cuban Operations",
+    "Soviet Operations",
+    "Technical Operations",
+    "Personnel",
+    "Registry",
+    "LIENVOY",
+    "LIFEAT",
+    "LILIK",
+    "Counterintelligence",
+    "Recruitment",
+    "Surveillance",
+    "Double Agents",
+    "Refugees",
+    "Communications",
+    "Budget",
+    "Propaganda",
+    "Peasant Projects",
+    "Satellite Branch",
+    "Chinese Communists",
+    "Physical Surveillance",
+    "Polygraph",
+    "Files",
+    "Housing"
+  ],
+  "title": "Mexico City Station Operations Report",
+  "date": "1964",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Havana",
+    "Soviet Union",
+    "United States",
+    "Latin America",
+    "Guatemala",
+    "Philippines"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lee Harvey Oswald",
+    "Lopes Mateos"
+  ],
+  "recipient": "Chief, WE Division",
+  "sender": "Unknown"
+}

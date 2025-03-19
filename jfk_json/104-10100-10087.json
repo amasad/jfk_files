@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discussing individuals IDEN A [GIULIO MONDELLO] and IDEN B [NERIOLO (LINOTYPE) FIRM, TURIN] and their connections to Cuba and Italy.",
+  "tags": [
+    "Giulio Mondello",
+    "Neriolo",
+    "Linotype",
+    "Cuba",
+    "Italy",
+    "FIAT",
+    "TV Tube Factory",
+    "Turin"
+  ],
+  "title": "DIR 72347: IDEN A [GIULIO MONDELLO] AND IDEN B [NERIOLO (LINOTYPE) FIRM, TURIN]",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Rome",
+    "Cuba",
+    "Italy",
+    "Turin"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Giulio Mondello"
+  ],
+  "recipient": "MEXICO ROME",
+  "sender": "DIRECTOR"
+}

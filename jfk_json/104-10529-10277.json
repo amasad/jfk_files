@@ -1,0 +1,26 @@
+{
+  "classification": "MEXI",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding DEVISTA-1 contacts in SALV, suggested Communists as possible contacts.",
+  "tags": [
+    "DEVISTA-1",
+    "SALV",
+    "Communists",
+    "MEXI",
+    "Saly 4839",
+    "PCI"
+  ],
+  "title": "104-10529-10277 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "1963-09-26",
+  "locations_mentioned": [
+    "MEXI",
+    "SALV"
+  ],
+  "origin_agency": "SIS",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "DEVISTA-I",
+  "sender": "CIT OUR 03692"
+}

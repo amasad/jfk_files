@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Lazaro Gutierrez Menoyo's note from a Cuban prison to Pedro M. Diaz in Miami. It also mentions Eloy Gutierrez Menoyo and traces on Diaz.",
+  "tags": [
+    "Lazaro Gutierrez Menoyo",
+    "Pedro M. Diaz",
+    "Eloy Gutierrez Menoyo",
+    "Cuban Prison",
+    "Communications Channel"
+  ],
+  "title": "Cable Regarding Communication from Cuban Prison",
+  "date": "1971-03-30",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami, Florida"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Lazaro Gutierrez Menoyo",
+    "Pedro M. Diaz",
+    "Eloy Gutierrez Menoyo",
+    "Dr. Zabaleta Gutierrez"
+  ],
+  "recipient": "Unknown",
+  "sender": "MADRID"
+}

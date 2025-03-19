@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Benito Ruiz Suarez, his background, connections, and travel habits. It requests traces and POA on him, noting his DOB, wife's name, and former role as a manager at the Hotel Nacional in Havana. He is identified as a former agent and sole Cuban delegate to the ACTA convention.",
+  "tags": [
+    "Benito Ruiz Suarez",
+    "ACTA Convention",
+    "Hotel Nacional",
+    "travel",
+    "visas",
+    "Cuban delegate"
+  ],
+  "title": "REQUEST TRACES AND POA BENITO RUIZ SUAREZ",
+  "date": "2025",
+  "locations_mentioned": [
+    "Mexico City",
+    "Los Afados",
+    "Habanzas",
+    "Santa Cruz del Sur",
+    "Habana",
+    "Havana",
+    "Santiago de las Vegas",
+    "Guanabacia",
+    "Miami",
+    "Caribbean Area"
+  ],
+  "origin_agency": "C/WM 5",
+  "persons_mentioned": [
+    "Benito Ruiz Suarez",
+    "Adela Lobianco Casa",
+    "Castro",
+    "Simon Lines",
+    "Erman Lavin",
+    "Brandon John F. Ruiz"
+  ],
+  "recipient": "DOP, ADDP, C/CI, C/SAS 5, FF VR",
+  "sender": "MEXI 4687"
+}

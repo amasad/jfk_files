@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Two classified messages, both dated 08 June 62. The first details arrangements for AMBUD-1's visit to PACY, including meetings and tours. It also mentions financing for BOCAL. The second identifies Marco Robles, Minister of Government and Justice.",
+  "tags": [
+    "AMBUD-1",
+    "PACY",
+    "BOCAL",
+    "Marco Robles",
+    "Government",
+    "Justice"
+  ],
+  "title": "Arrangements for AMBUD-1 Visit & Robles Identification",
+  "date": "1962-06-08",
+  "locations_mentioned": [
+    "Panama",
+    "Guatemala",
+    "El Salvador",
+    "Honduras"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMBUD-1",
+    "Narcisco Caray",
+    "Carlos Arosemena",
+    "Luis Alfaro",
+    "HYHULA-1",
+    "Dulcido Gonzalez",
+    "Chiari",
+    "Formin Galileo Solis",
+    "Massey",
+    "Marco Robles"
+  ],
+  "recipient": "WAVE INFO DIR MANA GUAT SALV TEGU SANJ",
+  "sender": "DTO"
+}

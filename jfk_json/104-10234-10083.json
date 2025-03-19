@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses information acquired from ARMAND (MARTINEZ) Y VIRELLESI regarding MRR activity, a potential uprising in Cuba, and key individuals involved.",
+  "tags": [
+    "MRR",
+    "KUBARK",
+    "Castro",
+    "Uprising",
+    "Internal Revolt",
+    "BANOS area"
+  ],
+  "title": "ASSIFIED MESSAGE",
+  "date": "1965-01-15",
+  "locations_mentioned": [
+    "Cuba",
+    "BANOS area",
+    "CRIENTE"
+  ],
+  "origin_agency": "Imwave",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "CASTRO",
+    "MARTINEZ",
+    "ALREJEIRAS",
+    "CALIEJEIRAS Y DELGADO",
+    "SABAS"
+  ],
+  "recipient": "DIR",
+  "sender": "ACTING DC/WH/SA-3"
+}

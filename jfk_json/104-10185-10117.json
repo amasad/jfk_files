@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report on Jose Fernandez, also known as 'El Gallego,' detailing his roles in the Cuban military, his history, and his perceived political leanings.",
+  "tags": [
+    "JOSE FERNANDEZ",
+    "El Gallego",
+    "Cuban Intelligence Service",
+    "Army Training Schools",
+    "Artillery Schools",
+    "Playa Giron",
+    "Military Academy at Camp Managua",
+    "Soviet Union",
+    "Anti-Communist",
+    "Training",
+    "General Staff",
+    "Cuban Rebel Army"
+  ],
+  "title": "JOSE FERNANDEZ",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D. C.",
+    "Rome",
+    "Habana",
+    "Habana Province",
+    "United States",
+    "Playa Giron",
+    "Camp Managua",
+    "Soviet Union",
+    "Moscow",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOSE FERNANDEZ",
+    "El Gallego",
+    "BATISTA",
+    "CASTRO",
+    "Fidel CASTRO",
+    "Raul CASTRO",
+    "Enrique LISTER",
+    "Francis",
+    "Alice"
+  ],
+  "recipient": "STATE, DIA, ARMY, NAVY, AIR, NSA, OCR, FBI, REP, CINCLANT, CINCSO, I&NS",
+  "sender": "CSCI"
+}

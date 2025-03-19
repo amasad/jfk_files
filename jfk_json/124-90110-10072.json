@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "This memo from the CIA to the FBI discusses Franc Pecar, who arrived in Miami on April 4, 1963. The CIA is considering contacting Pecar during his visit to Vienna for recruitment purposes and requests information from the FBI regarding Pecar's activities in the United States.",
+  "tags": [
+    "Franc Pecar",
+    "Joseph Raymond Merola",
+    "William Kenny",
+    "Recruitment",
+    "Vienna",
+    "Miami",
+    "FBI",
+    "CIA"
+  ],
+  "title": "",
+  "date": "1963-04-09",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Vienna",
+    "United States",
+    "Yugoslavia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Franc Pecar",
+    "Joseph Raymond Merola",
+    "William Kenny",
+    "S. J. Papich",
+    "James Angleton"
+  ],
+  "recipient": "HQ",
+  "sender": "CIA"
+}

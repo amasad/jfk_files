@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security_level": "SECRET",
+  "summary": "Antonio Varona of the Cuban Revolutionary Council seeks support from President Chiari of Panama to overthrow the Castro regime, but Panama denies the request to establish a training base for Cuban exiles.",
+  "tags": [
+    "Cuban Revolutionary Council",
+    "Antonio Varona",
+    "President Chiari",
+    "Panama",
+    "Castro Regime",
+    "Cuban Exiles",
+    "Training Base"
+  ],
+  "title": "ATTEMPT OF ANTONIO VARONA, OF CUBAN REVOLUTIONARY COUNCIL, TO OBTAIN SUPPORT OF PRESIDENT CHIARI OF PANAMA IN ACTION TO OVERTHROW CASTRO REGIME",
+  "date": "1962-08-24",
+  "locations_mentioned": [
+    "CUBA",
+    "PANAMA",
+    "PANAMA CITY",
+    "SAN JOSE",
+    "COSTA RICA",
+    "MIAMI"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "ANTONIO VARONA LOREDO",
+    "ROBERTO CHIARI",
+    "KENNEDY",
+    "MARCOS ROBLES",
+    "JOSE MIRO CARDONA"
+  ],
+  "recipient": "TFW/R2 TFW PA-PROP 2 WH/PACY 1 TFW/INT 2 TFW/WAVE 1 WH/3/CR 1 TFW/FI 2 TFW/SI1 1 WH/3/P2 1 TFW/CI 2 1 TFW/PM1OS/SSD/Bauman",
+  "sender": "C/TFWIntel"
+}

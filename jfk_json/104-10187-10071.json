@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security_level": "SECRET",
+  "summary": "This document discusses meetings and intelligence related to the POES (Communist Party of El Salvador), including potential risks of discovery and the need to maintain operational security. It mentions individuals involved in the POES and their activities, as well as concerns about security leaks and potential damage to relations. The document also outlines actions taken to gather information on guerrilla warfare and other activities.",
+  "tags": [
+    "POES",
+    "Communist Party",
+    "El Salvador",
+    "Intelligence",
+    "Guerrilla Warfare",
+    "Security",
+    "Moscow",
+    "Contacts",
+    "Recruitment",
+    "Salv",
+    "FSA",
+    "AUS Leads",
+    "President",
+    "Meetings"
+  ],
+  "title": "Intelligence on POES Activities and Concerns",
+  "date": "1963-09-27",
+  "locations_mentioned": [
+    "Moscow",
+    "San Salvador",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Shafick Handal",
+    "Jorge Arias Gomez",
+    "Raul Castellanos Figueroa",
+    "Jose Manlio Argueta",
+    "Renan Rodas Lazo",
+    "Pedro Raul Farsan Medrano",
+    "Roberto Armijo Navarrete",
+    "Borne Dalton"
+  ],
+  "recipient": "DIR",
+  "sender": "ESCIATE"
+}

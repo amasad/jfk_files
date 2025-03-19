@@ -1,0 +1,27 @@
+{
+  "classification": "Administrative",
+  "document_type": "Travel Order",
+  "security_level": "SECRET",
+  "summary": "Travel order for Boris D. Tarasoff to travel from Washington, D.C. to Mexico City for TOY replacement duties.",
+  "tags": [
+    "Travel",
+    "Mexico City",
+    "TOY Replacement",
+    "Home Leave"
+  ],
+  "title": "Travel Order for Boris D. Tarasoff",
+  "date": "1960-07-05",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Boris D. Tarasoff",
+    "Charles A. Moore",
+    "J. C. King",
+    "MICHAEL BEENS"
+  ],
+  "recipient": "Boris D. Tarasoff",
+  "sender": "J. C. King"
+}

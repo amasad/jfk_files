@@ -1,0 +1,36 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "This document discusses Ernesto Mitrani Levy, a Cuban national who worked at the Cuban Consulate in Mexico City and was suspected of cooperating with anti-Castro forces. It details his interactions with the U.S. Embassy, CIA, and Cuban officials, as well as his potential defection.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "LHO",
+    "Ernesto Mitrani Levy",
+    "Cuba",
+    "Cuban Consulate",
+    "Mexico City",
+    "CIA",
+    "Anti-Castro",
+    "Defection"
+  ],
+  "title": "LEE HARVEY OSWALD IS-R-Cuba",
+  "date": "1964-03-13",
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana",
+    "Los Angeles"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "ERNESTO MITRANI LEVY",
+    "MARGARITA MUNGUIA",
+    "JOSE ANTONIO PORTUONDO",
+    "DAVID PHILLIPS",
+    "JOSEPH T. GENCO",
+    "FELIX VALDES"
+  ],
+  "recipient": "LEG, MX",
+  "sender": "TRENT, ROLAND E."
+}

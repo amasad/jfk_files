@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable from Mexico City requesting traces and POA for Jorge Antonio Abasolo Garcia, a Cuban industrial engineer with connections to Ernesto \"Che\" Guevara, and reporting on his brother Gustavo Abasolo, who is anti-Castro and potentially willing to provide information. The cable also mentions Abasolo's planned departure from Cuba and his ex-wife's family connections.",
+  "tags": [
+    "Jorge Antonio Abasolo Garcia",
+    "Gustavo Abasolo",
+    "Ernesto \"Che\" Guevara",
+    "Cuba",
+    "Mexico",
+    "Soviet Union",
+    "Recruitment",
+    "LIFIRE"
+  ],
+  "title": "MEXI 5620: JORGE ANTONIO ABASOLO GARCIA - Traces and POA Request",
+  "date": "1963-08-22",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Havana",
+    "Georgia",
+    "Atlanta",
+    "Netherlands",
+    "Bermuda"
+  ],
+  "origin_agency": "MEXICO CITY",
+  "persons_mentioned": [
+    "Jorge Antonio Abasolo Garcia",
+    "Gustavo Abasolo",
+    "Ernesto \"Che\" Guevara",
+    "Marie Paz Someillan",
+    "Joaquin Mirabal"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "MEXICO CITY"
+}

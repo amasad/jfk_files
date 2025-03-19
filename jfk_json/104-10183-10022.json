@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Message",
+  "security_level": "CLASSIFIED",
+  "summary": "This document discusses potential assets for operations in Italy targeting PERUNEN, focusing on AMHIP 1 and other candidates like CHAS FOA and IDEN C. It addresses their suitability, access, and potential risks, including contamination of reputations and the need for cover stories.",
+  "tags": [
+    "PERUNEN",
+    "Italy",
+    "AMHIP 1",
+    "CHAS FOA",
+    "IDEN C",
+    "Recruitment",
+    "Assets",
+    "Operations",
+    "Covert Operations",
+    "FEGDE",
+    "BELL"
+  ],
+  "title": "Potential Assets for Operations in Italy Targeting PERUNEN",
+  "date": "2025",
+  "locations_mentioned": [
+    "Italy",
+    "Europe",
+    "New York",
+    "Rome",
+    "Suisse"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "AMHIP 1",
+    "BELL",
+    "CHAS FOA",
+    "IDEN C"
+  ],
+  "recipient": "DOP, CI, CI/OPS, CI/OA, CCS 2, FI, SAS 8, RF 2",
+  "sender": "DIRECTOR"
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message Form",
+  "security_level": "SECRET",
+  "summary": "This document identifies James Earl Ray as the accused assassin, providing his physical description, aliases, criminal record, and details of his escape from Missouri State Penitentiary.",
+  "tags": [
+    "James Earl Ray",
+    "assassination",
+    "identification",
+    "criminal record",
+    "escape",
+    "LNERGO",
+    "aliases",
+    "Missouri State Penitentiary"
+  ],
+  "title": "Identification of James Earl Ray as Accused Assassin",
+  "date": "1968-04-19",
+  "persons_mentioned": [
+    "Richard Ober",
+    "James Earl Ray",
+    "James McBride",
+    "James Walton",
+    "W.C. Herron",
+    "James O'Connor"
+  ],
+  "recipient": "DCI, DIDCI, DOP, AODD, CS/RF c/EUR, C/WH, CIFE",
+  "sender": "CIOP/DC"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Commission",
+  "document_type": "Dispatch",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "This document is a dispatch from the Chief of KUDOVE regarding Warren Commission testimony excerpts related to Presidential protection and interagency cooperation.",
+  "tags": [
+    "Warren Commission",
+    "Presidential Protection",
+    "Interagency Cooperation",
+    "Secret Service",
+    "FBI",
+    "Alan H. Belmont",
+    "Lee Harvey Oswald",
+    "Defector",
+    "Security"
+  ],
+  "title": "Warren Commission Testimony - Selected Excerpts",
+  "date": "1965-02-02",
+  "locations_mentioned": [
+    "United States",
+    "Moscow",
+    "Switzerland",
+    "Paris",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Fletcher M. Knight",
+    "Alan H. Belmont",
+    "J. Edgar Hoover",
+    "Lee Harvey Oswald",
+    "Allen Dulles",
+    "John McCloy"
+  ],
+  "recipient": "Chiefs of all Stations",
+  "sender": "Chief, KUDOVE"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document is a cable discussing various individuals and departments related to international relations, including Richard Walker Hiversiti South Caroltha and staff members Lloyd George, Steve, and Mr. Morris.",
+  "tags": [
+    "International Relations",
+    "Richard Walker",
+    "Lloyd George",
+    "Steve",
+    "Mr. Morris",
+    "MEXICO CITY",
+    "KAPOK LCHARVEST"
+  ],
+  "title": "VR/CLOP",
+  "date": "1963-10-12",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "SOUTH CAROLINA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "RICHARD WALKER",
+    "Lloyd George",
+    "Steve",
+    "Mr. Morris"
+  ],
+  "recipient": "Chairman, DEPARTMENT INTERNATIONAL RELATIONS",
+  "sender": "BRACK FRAR"
+}

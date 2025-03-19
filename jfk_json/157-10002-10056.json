@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "Arthur Schlesinger Jr. wrote to President Kennedy on June 10, 1961, regarding CIA reorganization, covert action, paramilitary warfare, Cuba, and policy control. He suggests that CIA operations have not been effectively subordinate to U.S. foreign policy. He also suggests that State can be informed of such operations at an early enough stage to affect the conception and preliminary planning of the operation.",
+  "tags": [
+    "CIA",
+    "Covert Action",
+    "Paramilitary Warfare",
+    "Cuba",
+    "Policy Control",
+    "State Department",
+    "Foreign Policy",
+    "Controlled American Source (CAS)",
+    "Singapore"
+  ],
+  "title": "CIA REORGANIZATION",
+  "date": "1961-06-10",
+  "locations_mentioned": [
+    "Cuba",
+    "Singapore",
+    "Pakistan",
+    "Japan",
+    "Indonesia",
+    "Vienna",
+    "Chile",
+    "Paris"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "SCHLESINGER, ARTHUR JR",
+    "KENNEDY, JOHN F.",
+    "Allen Dulles",
+    "Tom Mann",
+    "Goodwin, R."
+  ],
+  "recipient": "THE PRESIDENT",
+  "sender": "SCHLESINGER, ARTHUR JR"
+}

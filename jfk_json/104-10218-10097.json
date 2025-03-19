@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable details the arrest and expulsion of ANUPAS-1 from Guatemala for attempting to transport Coxie propaganda. ANUPAS-1 tried to enter Guatemala on November 3, was denied entry, returned on November 7, arrested on November 8, and expelled to Mexico on November 8. The arrest received press coverage.",
+  "tags": [
+    "ANUPAS-1",
+    "Coxie propaganda",
+    "Guatemala",
+    "Expulsion",
+    "Arrest",
+    "Mexico",
+    "Tourist Card",
+    "US Passports"
+  ],
+  "title": "ANUPAS-1 Incident in Guatemala",
+  "date": "1961-11-03",
+  "locations_mentioned": [
+    "Guatemala",
+    "Guatemala City",
+    "Mexico",
+    "Tapachula"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ANUPAS-1",
+    "Rodrigo Asturias Amado",
+    "MONZON"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "GUATEMALA CITY"
+}

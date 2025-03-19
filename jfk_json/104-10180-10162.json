@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses the need for individuals to leave Cuba, potential security risks (ELVIKA JOVANE DE SAYAS), and communication protocols. It also mentions financial arrangements and potential alternate communication channels.",
+  "tags": [
+    "exfiltration",
+    "security",
+    "communication",
+    "finance",
+    "counterintelligence"
+  ],
+  "title": "Cable regarding exfiltration from Cuba and security concerns",
+  "date": "1961-05-18",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "HENRY",
+    "CLINTON",
+    "HAPPY",
+    "EUGENIO",
+    "ELVIKA JOVANE DE SAYAS",
+    "ROBERTO",
+    "PETE",
+    "FELIPE",
+    "YUGOSLAV"
+  ],
+  "recipient": "CARACAS",
+  "sender": "KANOROPIHRBEIH"
+}

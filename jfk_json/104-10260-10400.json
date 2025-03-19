@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch transmits blank documents, including a City of Newark, New Jersey Birth Certificate, a New York driver's license instruction sheet, a National Geographic Travel-Lite Series blank Identity Card, a Flamingo Hotel identity Card, a blank Social Security card, a cachet of the Department of Labor of the Commonwealth of Puerto Rico with ink pad and assorted cellophane sheets used for lamination.",
+  "tags": [
+    "KIRIOT",
+    "Blank Documents",
+    "Birth Certificate",
+    "Driver's License",
+    "Identity Card",
+    "Social Security card",
+    "Lamination"
+  ],
+  "title": "Transmittal of Blank Documentatia",
+  "date": "1959-07-31",
+  "locations_mentioned": [
+    "Newark, New Jersey",
+    "New York",
+    "Puerto Rico",
+    "Habana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Stanley R. Zanka"
+  ],
+  "recipient": "Chief, KF10T",
+  "sender": "Chief of Station, Habana"
+}

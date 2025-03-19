@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the approach to a Cuban defector, Rivera, and concerns about surfacing names of GAN trainees due to potential risks and lack of juridical grounds. It also recommends deletions and adjustments to a draft CAS paper regarding Cuban aggression planning and proposes a course of action involving arrests and the presentation of evidence to the OAS.",
+  "tags": [
+    "Cuban Defector",
+    "GAN Trainees",
+    "Salvadorans",
+    "OAS",
+    "Operation"
+  ],
+  "title": "Cable regarding Cuban Defector and GAN Trainees",
+  "date": "1965-01-20",
+  "locations_mentioned": [
+    "SAN SALVADOR",
+    "CUBA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DELADISE",
+    "RIVERA",
+    "CALVELLA"
+  ],
+  "recipient": "DIR",
+  "sender": "STATION"
+}

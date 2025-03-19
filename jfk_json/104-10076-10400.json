@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses the potential arming of Cuban Komar and P-6 class boats and requests information on individuals and communication capabilities. It also mentions financial transactions and requests file checks on individuals.",
+  "tags": [
+    "Komar boats",
+    "P-6 boats",
+    "rockets",
+    "depth charges",
+    "fuel",
+    "fishing boats",
+    "radio communications",
+    "financial transactions",
+    "file check",
+    "NUEVE",
+    "FRANCISCO",
+    "Pepe",
+    "Luis Gonzalez",
+    "Enrique Vicente Socorras",
+    "Canada"
+  ],
+  "title": "Classified Message Regarding Cuban Boat Armaments and Personnel",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "Canada"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Luis Gonzalez",
+    "Jorge Gutierrez",
+    "Enrique Vicente Socorras"
+  ],
+  "recipient": "Director",
+  "sender": "UMWAVE"
+}

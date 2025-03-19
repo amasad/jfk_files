@@ -1,0 +1,26 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security_level": "SECRET",
+  "summary": "This dispatch discusses LIENVOY-8, a person believed to have been terminated from the LIFEAT and LIENVOY project but still covered by the LIEKVOY Project. Headquarters requests information on the present status of LIENVOY-8, including whether he has been terminated or is still being used, and if so, an analysis of his reliability and any security problems.",
+  "tags": [
+    "LIENVOY",
+    "LIFEAT",
+    "Project Renewal",
+    "Security Problem",
+    "Agent Service Record",
+    "Termination Report"
+  ],
+  "title": "LIENVOY-8",
+  "date": "1963-10-23",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "WE Division",
+  "persons_mentioned": [
+    "LIENVOY-8",
+    "ODTOKE"
+  ],
+  "recipient": "Chief of Station, Mexico City",
+  "sender": "Chief, WE Division"
+}

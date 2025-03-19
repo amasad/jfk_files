@@ -1,0 +1,36 @@
+{
+  "classification": "Intel",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This telegram reports on Ngo Dinh Nhu's statements regarding the potential withdrawal of American aid from South Vietnam. Nhu discussed revising policies on receiving aid and prioritizing different categories of aid, emphasizing self-sufficiency. The telegram also mentions instructions to encourage local weapons production and concerns among Vietnamese Air Force officers about the potential collapse of the regime without American support.",
+  "tags": [
+    "Ngo Dinh Nhu",
+    "American Aid",
+    "South Vietnam",
+    "Withdrawal",
+    "Strategic Hamlets",
+    "Self-Sufficiency",
+    "Vietnamese Air Force",
+    "Ministry of Interior",
+    "Foreign Aid Policy"
+  ],
+  "title": "Ngo Dinh Nhu's Statement on Withdrawal of American Aid",
+  "date": "1963-04-20",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Phuoc Tuy Province",
+    "Binh Tuy Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Pham Duc Tien",
+    "Huynh Huu Hien",
+    "Dang Dinh Linh",
+    "Tran Do Cung",
+    "Ha Duong Doan"
+  ],
+  "recipient": "N/A",
+  "sender": "CIA"
+}

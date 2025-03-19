@@ -1,0 +1,32 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security_level": "Unclassified",
+  "summary": "This document details a meeting between the CIA and the Warren Commission on March 12, 1964, discussing the investigation of Lee Harvey Oswald's activities in Mexico City, CIA's file on Oswald, information sharing with other agencies, and potential leads related to Jack Ruby.",
+  "tags": [
+    "CIA meeting",
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "Jack Ruby",
+    "Information Sharing",
+    "Telephone Intercepts"
+  ],
+  "title": "MEETING WITH THE WARREN COMMISSION ON 12 MARCH 1964",
+  "date": "1964-03-12",
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana",
+    "Langley"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Helms, Richard",
+    "Rocca, Raymond",
+    "Oswald, Lee Harvey",
+    "Ruby, Jack",
+    "Rankin"
+  ],
+  "recipient": "Unknown",
+  "sender": "CIA"
+}

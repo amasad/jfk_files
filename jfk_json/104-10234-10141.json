@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable reports on a widespread purge underway in Cuba of military officers, government officials, and Communist Party leaders. It also discusses the trial of Cubans for plotting to overthrow Fidel Castro and the resulting student reactions. The document analyzes the underlying causes of the purges and suggests potential PSYCH EXPLOITATION in media.",
+  "tags": [
+    "purge",
+    "military officers",
+    "government officials",
+    "Communist Party",
+    "Fidel Castro",
+    "trial",
+    "student reactions",
+    "economy",
+    "PSYCH EXPLOITATION"
+  ],
+  "title": "Report on Purge in Cuba",
+  "date": "1966-03-18",
+  "locations_mentioned": [
+    "Havana",
+    "Cuba",
+    "U.S.",
+    "China",
+    "Yugoslavia",
+    "Indonesia"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Efigenio Ameijeiras",
+    "Rolando Cubela",
+    "Ramon Guin",
+    "Blas Roca Calderio",
+    "Raul Roa Garcia",
+    "Faure Chomon",
+    "NKRUMAH",
+    "SUKARNO"
+  ],
+  "recipient": "TO",
+  "sender": "DIRECTOR"
+}

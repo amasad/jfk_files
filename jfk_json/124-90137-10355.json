@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security_level": "Secret",
+  "summary": "FBI memo to CIA regarding EDUARDO ESPINOSA Y PRIETO and his possible connections to communist activities. The FBI clarifies information about bank drafts he wrote and advises against suggesting he financed Communist Party activities in a summary to the Bundesunt fuer Verfassungsschutz (BFV), Germany.",
+  "tags": [
+    "CIA LIAISON MATERIAL",
+    "INTERNAL SECURITY",
+    "MEXICO",
+    "Communism",
+    "Financing",
+    "Bank Drafts",
+    "Alicia Merino Fuentes",
+    "Bundesunt fuer Verfassungsschutz",
+    "BFV",
+    "Germany"
+  ],
+  "title": "[Restricted]",
+  "date": "1961-08-28",
+  "locations_mentioned": [
+    "Mexico City, D. F.",
+    "New York City",
+    "Germany"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "EDUARDO ESPINOSA Y PRIETO",
+    "Alicia Merino Fuentes",
+    "John Edgar Hoover"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI HQ"
+}

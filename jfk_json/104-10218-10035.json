@@ -1,0 +1,40 @@
+{
+  "classification": "Mexico",
+  "document_type": "Project Outline",
+  "security_level": "SECRET",
+  "summary": "This document outlines a project to support a U.S. contract agent (LIHUFF/1) operating in Mexico City, focusing on intelligence gathering and covert action related to right-wing political elements in Mexico. The project aims to provide insights into the stability of the Mexican government and potentially contribute to MHSPAWN objectives. It details the agent's background, objectives, operational assets, security considerations, and budget.",
+  "tags": [
+    "right-wing politics",
+    "covert action",
+    "Mexico",
+    "intelligence",
+    "LIHUFF/1",
+    "LICHANT/1",
+    "MHSPAWN",
+    "political stability",
+    "U.S. Chamber of Commerce of Mexico City",
+    "Instituto de Investigaciones Sociales y Economicos",
+    "MURO",
+    "Lic. Agustin NAVARRO Vasquez"
+  ],
+  "title": "Project Outline: Support for Singleton Contract Agent Operating in Right-Wing Political Milieu in Mexico",
+  "date": "1965-07-01",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico",
+    "Panama",
+    "Latin America"
+  ],
+  "origin_agency": "KUBARK (CIA)",
+  "persons_mentioned": [
+    "Sheland Cuntis",
+    "Willard C. CURTIS",
+    "LIHUFF/1",
+    "Lic. Agustin NAVARRO Vasquez",
+    "LICHANT/1",
+    "Hugo SALINAS Price",
+    "Jorge SIEGRIST Clamont"
+  ],
+  "recipient": "Headquarters",
+  "sender": "Station Mexico City"
+}

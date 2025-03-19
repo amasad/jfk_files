@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Kingston station reports on the Jamaican government's stance on involvement in the Cold War and covert operations against Cuba, advising against overt involvement due to concerns for the Jamaican community in Cuba and potential loss of cooperation.",
+  "tags": [
+    "Jamaican Government",
+    "Cold War",
+    "Covert Operations",
+    "Cuba",
+    "RUABBE",
+    "ODYOKE",
+    "AMBUD",
+    "GYROSE",
+    "DIAT SILVEIRA",
+    "KUBARK"
+  ],
+  "title": "KNGS 0208: JAMAICAN POLITICAL CLIMATE RE ESTABLISHMENT AMBUD DELEGATION",
+  "date": "1962-10-10",
+  "locations_mentioned": [
+    "Jamaica",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "FRANK (DIAT) SILVEIRA"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "KINGSTON"
+}

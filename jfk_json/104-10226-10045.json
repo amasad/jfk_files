@@ -1,0 +1,39 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "Memorandum regarding a briefing of Mr. Maurice Oldfield, MI-6, by WR/4, Clark Simmons concerning Robert Horton Geddes and his contacts with the CIA regarding potential Cuban Navy defection.",
+  "tags": [
+    "Robert Horton Geddes",
+    "Maurice Oldfield",
+    "MI-6",
+    "CIA",
+    "Cuban Navy",
+    "Defection",
+    "Counterintelligence",
+    "Provocateur"
+  ],
+  "title": "Briefing of Mr. Maurice Oldfield, MI-6, by WR/4, Clark Simmons",
+  "date": "1961-05-04",
+  "locations_mentioned": [
+    "Lima, Peru",
+    "Nassau",
+    "Havana",
+    "Miami",
+    "Boca Raton",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Maurice Oldfield",
+    "Clark Simmons",
+    "Cleveland C. Cramer",
+    "John C. Roberts",
+    "Robert Horton Geddes",
+    "Cabbage/4",
+    "Cabbage/1",
+    "R. Hopkins"
+  ],
+  "recipient": "Record",
+  "sender": "John G. Roberts, DC/WR/6"
+}

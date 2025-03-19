@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security_level": "SECRET",
+  "summary": "This document discusses an article in the Miami Herald that claims Manuel Ray has replaced Miro as exile chief with the blessing of the United States. The article has caused concern in the local Cuban colony, and the CIA is considering discrediting the story and reassuring Miro.",
+  "tags": [
+    "Miami Herald",
+    "Manuel Ray",
+    "Miro",
+    "Cuban Exile",
+    "James Buchanan",
+    "Disinformation",
+    "CIA",
+    "JMWAVE",
+    "Operation",
+    "Propaganda"
+  ],
+  "title": "Miami Herald Article on Manuel Ray Replacing Miro",
+  "date": "1962-05-27",
+  "locations_mentioned": [
+    "Miami",
+    "Cuba"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Miro",
+    "Manuel Ray",
+    "James Buchanan",
+    "Rolilo Betancourt",
+    "Joasi Godoy",
+    "Adolf Berle",
+    "William S. Wirald"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMWAVE"
+}

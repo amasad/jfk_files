@@ -1,0 +1,43 @@
+{
+  "classification": "Assassination Records",
+  "document_type": "File",
+  "security_level": "SECRET",
+  "summary": "This file contains material reviewed at CIA Headquarters by House Select Committee on Assassinations staff members regarding Maurice Hyman Halperin. It includes FBI and State Department reports and telegrams, as well as a document transfer and cross-reference sheet, a routing and record sheet, and a dispatch from the Chief of Station, Mexico City concerning a booklet written by Halperin.",
+  "tags": [
+    "HALPERIN",
+    "MAURICE HYMAN",
+    "FBI",
+    "State Department",
+    "House Select Committee on Assassinations",
+    "Mexico City",
+    "Universidad Obrera de Mexico",
+    "Partido Popular Socialista",
+    "Soviet Union",
+    "McCarran Act",
+    "Communist"
+  ],
+  "title": "HALPERIN, MAURICE HYMAN",
+  "date": "1961-10-20",
+  "locations_mentioned": [
+    "CIA Headquarters",
+    "New York",
+    "Boston",
+    "Washington",
+    "Moscow",
+    "Mexico City",
+    "USSR"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHANNA SMITH",
+    "Jane Constance Kroll Rogers",
+    "Benjamin FASTOV",
+    "David C. HALPERIN",
+    "Albert Maltz",
+    "Vicente LOMBARDO Toledano",
+    "Millard C. CURTIS",
+    "Maurice Halperin"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Chief of Station, Mexico City"
+}

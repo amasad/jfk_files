@@ -1,0 +1,37 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security_level": "Unclassified",
+  "summary": "This memorandum requests the services of a Collins Modem Field Service Engineer to assist with the installation and testing of two Collins Radio Company Model TE-216D-160 High Frequency Data Modems. The Office of Communications intends to test the feasibility of transmitting Secure (encrypted) Voice over a narrow band, high frequency, radio circuit and determine their suitability for high speed data transmission.",
+  "tags": [
+    "Communications",
+    "Collins Radio Company",
+    "High Frequency Data Modems",
+    "Encrypted Voice",
+    "Data Transmission",
+    "Field Service Engineer",
+    "Contract",
+    "Station D",
+    "VTC",
+    "Engineering Services",
+    "TOP SECRET clearance"
+  ],
+  "title": "Request for Services of Collins Modem Field Service Engineer",
+  "date": "1967-02-01",
+  "locations_mentioned": [
+    "Newport Beach, California",
+    "Station D",
+    "VTC"
+  ],
+  "origin_agency": "Office of Communications",
+  "persons_mentioned": [
+    "Donald Warren Waycott",
+    "Jack W. Andrews",
+    "John W. Coffey",
+    "Richard H. Lansdale",
+    "Harlon a. Werthell",
+    "Dow H. Inter"
+  ],
+  "recipient": "Director of Logistics",
+  "sender": "John W. Coffey, Director of Communications"
+}

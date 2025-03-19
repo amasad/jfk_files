@@ -1,0 +1,32 @@
+{
+  "classification": "Intelligence",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document discusses Vietnamese Communist activities in the Saigon area, including the infiltration of VC into Saigon, the deployment of an armed platoon for special operations, and plans to set up a base among laborers for future operations. It also mentions potential sabotage and kidnappings, and an unconfirmed report about a possible large-scale attack.",
+  "tags": [
+    "Vietnam",
+    "Communist Activities",
+    "Saigon",
+    "VC",
+    "Infiltration",
+    "Sabotage",
+    "Kidnapping",
+    "Military Operations",
+    "Intelligence"
+  ],
+  "title": "Vietnam Communist Activities",
+  "date": "1962-08-23",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Go Vap",
+    "Loc Thuan",
+    "Tay Ninh Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nguyen Trong Dinh",
+    "Nguyen Trong Vinh"
+  ],
+  "recipient": "STATE, ARMY/ACSI, NAVY, AIR, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, ORR, OO, DIA, EX, AID, USMACV, MAAG, USOM, CINCPAC, PACFLT, ARPAC, PACAF"
+}

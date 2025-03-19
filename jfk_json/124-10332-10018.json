@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Textual Document",
+  "security_level": "Secret",
+  "summary": "This FBI report from August 4, 1961, discusses the closure of the investigation into Santiago Alvarez Rodriguez due to his relative inactivity in Cuban revolutionary matters. The report mentions CIA's past operational interest in Alvarez during the Bay of Pigs invasion and their current interest in his son, Santiago Alvarez. It also references a CIA communication about Alvarez's involvement with the publication 'Esbirros,' a scandal sheet against various Cuban groups.",
+  "tags": [
+    "Santiago Alvarez Rodriguez",
+    "Cuban Revolution",
+    "CIA",
+    "Esbirros",
+    "Anti-Castro Activities",
+    "William Herrington",
+    "Justin F. Gleichauf",
+    "Frente Revolucionario Democratico (FRD)"
+  ],
+  "title": "SANTIAGO ALVAREZ RODRIGUEZ",
+  "date": "1961-08-04",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "SANTIAGO ALVAREZ RODRIGUEZ",
+    "FIDEL CASTRO",
+    "WILLIAM HERRINGTON",
+    "JUSTIN F. GLEICHAUF",
+    "LEMAN L. STAFFORD, JR.",
+    "JAMES D. HAYES"
+  ],
+  "recipient": "HQ",
+  "sender": "MM"
+}

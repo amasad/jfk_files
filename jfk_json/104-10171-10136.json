@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report regarding a suspicious Crotioto Mission in the US for Salvador Rodriguez Santena, involving the International Rescue Committee and Charles Sternberg.",
+  "tags": [
+    "International Rescue Committee",
+    "Salvador Rodriguez Santena",
+    "Crotioto Mission",
+    "Charles Sternberg",
+    "Cuba"
+  ],
+  "title": "Suspicious Concerning Possible Crotrioto Mission in US for Salvador Rodriguez Santena",
+  "date": "2025",
+  "locations_mentioned": [
+    "US",
+    "Miami, Florida",
+    "New York, New York"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Salvador Rodriguez Santena",
+    "Charles Sternberg",
+    "Cusa Lecou"
+  ],
+  "recipient": "POL",
+  "sender": "SNUC"
+}

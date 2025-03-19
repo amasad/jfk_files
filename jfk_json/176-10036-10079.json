@@ -1,0 +1,30 @@
+{
+  "classification": "TELEGRAM",
+  "document_type": "TELEGRAM INFORMATION REPORT",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document discusses the possible severance of Cambodian-South Vietnamese diplomatic relations.",
+  "tags": [
+    "diplomatic relations",
+    "Cambodia",
+    "South Vietnam",
+    "severance",
+    "Le Van Dong",
+    "Royal Cambodian Government",
+    "RKG",
+    "cabinet meeting"
+  ],
+  "title": "Possible severence of Cambodian",
+  "date": "1962-09-17",
+  "locations_mentioned": [
+    "SOUTH VIETNAM",
+    "CAMBODIA",
+    "VIETNAM",
+    "SAIGON"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "LE VAN DONG"
+  ],
+  "recipient": "STATE ARMY NAVY AIR USMACV MAAG USOM CINCPAC PACFLT ARPAC PACAF 9TH FIELD STATION",
+  "sender": "CENTRAL INTELLIGENCE AGENG"
+}

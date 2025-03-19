@@ -1,0 +1,26 @@
+{
+  "classification": "Operations",
+  "document_type": "Memo",
+  "security_level": "Background Use Only",
+  "summary": "This memo details Edward G. Tichborn's bank account at Bank of America, Wilshire-Sweetzer Branch, Los Angeles. It includes instructions for depositing operational advances and salary payments into his Commercial Account. The memo mentions a $2,000 operational advance check mailed from Washington on January 15, 1960, and a $650 salary check to be mailed to the same bank.",
+  "tags": [
+    "Bank Account",
+    "Operational Advance",
+    "Salary",
+    "Commercial Account",
+    "Edward G. Tichborn",
+    "Bank of America"
+  ],
+  "title": "Edward G. Tichborn's Bank Account Details and Payment Instructions",
+  "date": "1960-01-19",
+  "locations_mentioned": [
+    "Washington",
+    "Los Angeles"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Edward G. Tichborn"
+  ],
+  "recipient": "CIA",
+  "sender": "E.S.V."
+}

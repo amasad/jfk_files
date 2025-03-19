@@ -1,0 +1,23 @@
+{
+  "classification": "Mexico",
+  "document_type": "Receipt",
+  "security_level": "SECRET",
+  "summary": "This document is a receipt for authentication materials related to Jaime Sanchez Papo (Alias). It acknowledges the receipt of a Mexican Driver's License and a Mexican Voters Certificate.",
+  "tags": [
+    "Authentication Materials",
+    "Jaime Sanchez Papo",
+    "Alias",
+    "Mexican Driver's License",
+    "Mexican Voters Certificate",
+    "TSD/DB",
+    "Operational Use",
+    "Returned Documents"
+  ],
+  "title": "RECEIPT FOR AUTHENTICATION MATERIALS",
+  "date": "1964-05-27",
+  "persons_mentioned": [
+    "Jaime Sanchez Papo"
+  ],
+  "recipient": "TSD/DB",
+  "sender": "TSD/DB"
+}

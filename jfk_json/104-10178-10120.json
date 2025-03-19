@@ -1,0 +1,21 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable relays information about the positive identification of James Earl Ray as the accused assassin based on LNERGO fingerprint formula. It also requests the information be passed to a liaison.",
+  "tags": [
+    "fingerprint",
+    "James Earl Ray",
+    "assassination",
+    "LNERGO",
+    "identification"
+  ],
+  "title": "LNERGO Fingerprint Formula for James Earl Ray",
+  "date": "1968-04-22",
+  "persons_mentioned": [
+    "James Earl Ray",
+    "Richard Ober"
+  ],
+  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BRASILIA, BRUSSELS, BUENOS AIRES, CARACAS, COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEO, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE JANEIRO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "sender": "DIRECTOR"
+}

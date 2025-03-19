@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document contains personality information on (fnu) RELOVA, pseudonym \"Wilberto,\" an officer of the Direccion General de Inteligencia (DGI) in Cuba. It includes details about his residence, travel history, and personal characteristics, as well as information from a former Cuban Intelligence officer.",
+  "tags": [
+    "RELOVA",
+    "DGI",
+    "Cuban Intelligence",
+    "Osvaldo RELOVA Penichet",
+    "Wilberto",
+    "Cuba"
+  ],
+  "title": "RELOVA",
+  "date": "1964",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington",
+    "Mexico",
+    "Habana",
+    "Jamaica",
+    "Kingston",
+    "Canada"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "RELOVA",
+    "Osvaldo RELOVA Penichet",
+    "BARRAL"
+  ],
+  "recipient": "Addressees (unspecified)",
+  "sender": "Headquarters"
+}

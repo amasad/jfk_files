@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discussing a request to contact Mr. Free to Rodrigue. Conzales, an instructor at Berlitz School, and relay a message from his son Filio, who was recently arrested and released, advising him not to return to Cuba.",
+  "tags": [
+    "KUSODA",
+    "Cuba",
+    "Berlitz School",
+    "Arrest",
+    "Message Relay"
+  ],
+  "title": "Cable Regarding Contact with Mr. Free to Rodrigue and Message from Son",
+  "date": "1961-03-09",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "WH/4/SECURITY",
+  "persons_mentioned": [
+    "J. J. MULLANE",
+    "JOVE",
+    "PHRECTOR JABELL",
+    "RODRIGUE. CONZALES",
+    "Filio"
+  ],
+  "recipient": "JOVE",
+  "sender": "PHRECTOR JABELL"
+}

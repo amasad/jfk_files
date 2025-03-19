@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses HDOS's efforts to impact Hotels Internacional and the possibility of PASSON AB PUEREL becoming a director for Mexico and Central America. It also mentions a search for suitable GRICA to fill a cover post.",
+  "tags": [
+    "HDOS",
+    "Hotels Internacional",
+    "PASSON AB PUEREL",
+    "GRICA",
+    "Cover Post",
+    "Mexico",
+    "Central America"
+  ],
+  "title": "RYBAT",
+  "date": "1963-10-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Central America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "B E. Reichnardt",
+    "R. HERBERT",
+    "Mr. Corange"
+  ],
+  "recipient": "ICO CITY",
+  "sender": "ACVI/3"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram",
+  "security_level": "Secret",
+  "summary": "This document is a telegram from the CIA regarding statements made by Manolo Ray, an exile leader of the Movimiento Revolucionario del Pueblo (MRP), concerning internal resistance in Cuba and his opposition to an invasion. Ray believes Castro's overthrow should be achieved by internal resistance and that the MRP has widespread support within Cuba. The telegram also discusses the MRP's need for arms and trained exiles, and Ray's prediction that Castro's downfall is imminent.",
+  "tags": [
+    "MR",
+    "MOVIMIENTO REVOLUCIONARIO DEL PUEBLO",
+    "ACA",
+    "INTERNAL RESISTANCE",
+    "Exile",
+    "People's Revolutionary Movement",
+    "Internal Resistance",
+    "Arms",
+    "Explosives",
+    "Infiltration",
+    "Communication Experts",
+    "Civil War"
+  ],
+  "title": "Statements of Manola Ray, Exile Leader of the People's Revolutionary Movement",
+  "date": "1961-10-24",
+  "locations_mentioned": [
+    "Cuba",
+    "England",
+    "London",
+    "Caracas"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Manolo Ray",
+    "Castro"
+  ],
+  "recipient": "STATE, ARMY/ACSI NAVY AIR JCS SECDEF I&NS TREASURY REPC INCLANT NSANIC USIA OCI ONE OCR CORREDOO EXO FBI",
+  "sender": "CIA"
+}

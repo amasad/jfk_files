@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This is a classified message regarding AMWHIP's availability in Geneva and Paris, as well as Carrillo and Robreno.",
+  "tags": [
+    "AMWHIP",
+    "Geneva",
+    "Paris",
+    "Carrillo",
+    "Robreno",
+    "KUBARK"
+  ],
+  "title": "DESENSITIZED PARUMEN AMWHIP",
+  "date": "1964-04-17",
+  "locations_mentioned": [
+    "GENEVA",
+    "BERN",
+    "MADRID",
+    "ROME",
+    "PARIS",
+    "NEW YORK"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMWHIP",
+    "CARRILLO",
+    "ROBRENO",
+    "Wainwright",
+    "Locks",
+    "Bronson Treedy",
+    "Bruce B. Cheever"
+  ],
+  "recipient": "GENEVA BERN MADRID ROME PARIS",
+  "sender": "DIRECTOR"
+}

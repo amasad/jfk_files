@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This report details the arrival of Soviet merchant vessels in Cuban ports between September and October 1962, specifying the types and quantities of cargo delivered. It includes information on vessels transporting war materiel, petroleum, general cargo, and other supplies.",
+  "tags": [
+    "Soviet Merchant Vessels",
+    "Cuban Ports",
+    "War Materiel",
+    "Petroleum",
+    "General Cargo",
+    "Shipping Documents",
+    "Isabela de Sagua",
+    "Habana",
+    "Cienfuegos",
+    "Santiago de Cuba",
+    "Nuevitas",
+    "Anti-Castro",
+    "Cargo Unloading"
+  ],
+  "title": "Soviet Merchant Vessels in Cuban Ports",
+  "date": "1962-10-25",
+  "locations_mentioned": [
+    "Cuba",
+    "Isabela de Sagua",
+    "Habana",
+    "Cienfuegos",
+    "Santiago de Cuba",
+    "Nuevitas",
+    "Black Sea",
+    "Antilla",
+    "Guantanamo"
+  ],
+  "origin_agency": "FACO",
+  "persons_mentioned": [
+    "Alice B. CAPONONG",
+    "Douglas C. MISLEY",
+    "Vilma MARKWALTER",
+    "Andrew K. REUTENAN",
+    "John F. Kennedy",
+    "Melquia"
+  ],
+  "recipient": "Headquarters",
+  "sender": "JUVAVE"
+}

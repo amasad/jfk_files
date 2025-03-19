@@ -1,0 +1,34 @@
+{
+  "classification": "Security",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This file contains information on Luis Posada Carriles, including polygraph results, requests for investigation, and operational approvals.",
+  "tags": [
+    "Posada",
+    "Luis",
+    "Carriles",
+    "WKSCARLET-3",
+    "CUBANA",
+    "AIRCRAFT",
+    "CRASH"
+  ],
+  "title": "POSADA, LUIS CLEMENTE",
+  "date": "1972-04-26",
+  "locations_mentioned": [
+    "Venezuela",
+    "Caracas",
+    "Barbados",
+    "Cuba",
+    "Rome"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Luis Posada Carriles",
+    "Philip Share",
+    "Nancy L Davis",
+    "Theodore G. Shackley",
+    "Richard L. Conolly"
+  ],
+  "recipient": "Deputy Director Security",
+  "sender": "Chief, CI/Operations"
+}

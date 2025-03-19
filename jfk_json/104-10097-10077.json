@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable requests training for Marta (Valdes) Iernandez, an employee of the Ministry of Health and Welfare in Havana, who recently completed studies in Mexico under the World Health Organization. No traces were found in Mexico.",
+  "tags": [
+    "training",
+    "Marta Valdes Iernandez",
+    "Ministry of Health",
+    "World Health Organization",
+    "Mexico",
+    "Havana",
+    "statistician"
+  ],
+  "title": "REQUEST PRITY POA TO INCLUDE COMMO TRAINING FOR MARTA (VALDES) IERNANDEZ",
+  "date": "1963-12-09",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "CUBA",
+    "HAVANA",
+    "MEXI"
+  ],
+  "origin_agency": "LOVECEN C",
+  "persons_mentioned": [
+    "MARTA (VALDES) IERNANDEZ",
+    "LUCAS",
+    "JULIA"
+  ],
+  "recipient": "DIR ILFO",
+  "sender": "HEXI 7300"
+}

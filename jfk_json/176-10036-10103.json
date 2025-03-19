@@ -1,0 +1,30 @@
+{
+  "classification": "CIA",
+  "document_type": "Telegram",
+  "security_level": "CONFIDENTIAL",
+  "summary": "CIA information telegram regarding the seeking of American support for the overthrow of the Diem regime in South Vietnam.",
+  "tags": [
+    "Vietnam",
+    "Diem Regime",
+    "Overthrow",
+    "Political Opposition",
+    "American Aid",
+    "Strategic Hamlet Program",
+    "Viet Cong"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-03-20",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Tran Kim Tuyen"
+  ],
+  "recipient": "Unknown",
+  "sender": "CIA"
+}

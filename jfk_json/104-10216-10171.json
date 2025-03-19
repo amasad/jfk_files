@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This memorandum details tests conducted on modified sights for the 7.62 Belgium (FAL) Rifle. The tests involved a Williams Peep sight and a telescopic sight, with the aim of improving the rifle's accuracy and range. The tests revealed issues with both sights, including erratic performance and mounting difficulties.",
+  "tags": [
+    "7.62 Belgium (FAL) Rifle",
+    "Williams Peep sight",
+    "Telescopic sight",
+    "Weapon Testing",
+    "Ammunition",
+    "Accuracy"
+  ],
+  "title": "Tests of Modified Sights for 7.62 Belgium (FAL) Rifle",
+  "date": "1964-06-10",
+  "locations_mentioned": [
+    "Isolation"
+  ],
+  "origin_agency": "TSD/EB",
+  "persons_mentioned": [
+    "Donald R. Dunn",
+    "James Barb",
+    "Glen Winstead",
+    "Daniel J. Hogan",
+    "Cal Hicks"
+  ],
+  "recipient": "Record",
+  "sender": "DANIEL J. HOGAN"
+}

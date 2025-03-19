@@ -1,0 +1,28 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This document discusses the 201 system, which is a method for identifying persons of interest and controlling information about them. It includes details on opening, maintaining, controlling, and closing 201 files, as well as the use of OI codes and machine listings.",
+  "tags": [
+    "201 system",
+    "information control",
+    "OI codes",
+    "machine listings",
+    "Dossier Maintenance",
+    "File Restriction"
+  ],
+  "title": "House Select Committee on Assassinations Request for Information on 201 Criteria (S)",
+  "date": "1978-02-28",
+  "locations_mentioned": [
+    "Germany",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "William F. Donnelly",
+    "Shepanek",
+    "Cleffi"
+  ],
+  "recipient": "O/SA/DO/O",
+  "sender": "C/ISS"
+}

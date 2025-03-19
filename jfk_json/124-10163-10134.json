@@ -1,0 +1,42 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "CIA memorandum to the FBI regarding Adolph Jay Albrecht, Charlotte Aberg, and Karl-Erik Ridderstrale. Albrecht reported to the American Embassy in Stockholm that Aberg told him Ridderstrale predicted President Kennedy's assassination. The CIA's files contain no recorded traces on Albrecht, Aberg, or Ridderstrale.",
+  "tags": [
+    "JFK",
+    "Assassination",
+    "Suspect",
+    "Ridderstrale",
+    "Karl-Erik",
+    "Albrecht",
+    "Adolph Jay",
+    "Aberg",
+    "Charlotte",
+    "Name Check",
+    "Sweden",
+    "American Embassy",
+    "Stockholm",
+    "Security Officer",
+    "Fidel Castro"
+  ],
+  "title": "JFK, ASSISTANCE, SUSPECT, RIDDERSTRALE, KARL-ERIK, ALBRECHT, ADOLPH JAY, ABERG, CHARLOTTE, NAME CHECK",
+  "date": "1964-12-04",
+  "locations_mentioned": [
+    "Stockholm, Sweden",
+    "New Jersey",
+    "New York City",
+    "London"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Adolph Jay Albrecht",
+    "Charlotte Aberg",
+    "Karl-Erik Ridderstrale",
+    "John F. Kennedy",
+    "Fidel Castro",
+    "S. J. Papich"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Deputy Director for Plans"
+}

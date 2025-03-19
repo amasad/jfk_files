@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Reminder",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a rent reminder from SUMIT HILL PROPERTIES, INC. to Mr. Roger Shea, regarding overdue rent for August 1, 1964.",
+  "tags": [
+    "Rent",
+    "Overdue Payment",
+    "SUMIT HILL PROPERTIES, INC.",
+    "Roger Shea",
+    "Silver Spring",
+    "Maryland"
+  ],
+  "title": "Rent Reminder to Mr. Roger Shea",
+  "date": "1964-08-17",
+  "locations_mentioned": [
+    "Silver Spring",
+    "Maryland"
+  ],
+  "origin_agency": "SUMIT HILL PROPERTIES, INC.",
+  "persons_mentioned": [
+    "Roger Shea"
+  ],
+  "recipient": "Roger Shea",
+  "sender": "SUMIT HILL PROPERTIES, INC."
+}

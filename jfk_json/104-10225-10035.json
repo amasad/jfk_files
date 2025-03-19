@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the employment and background checks of AMMUG/1, including their cover status, salary, and attempts to purchase a house locally. It also mentions issues with informing WOGAME about employment changes and requests early acknowledgment to expedite the house purchase.",
+  "tags": [
+    "JMWAVE",
+    "AMMUG/1",
+    "Inter-University Committee for Political and Social Action",
+    "XMBEROUS",
+    "WOGAME",
+    "SCHEAFFER",
+    "Employment",
+    "Cover Status",
+    "Background Checks",
+    "House Purchase"
+  ],
+  "title": "JMWAVE 4480: AMMUG/1 Employment and Background",
+  "date": "1965-12-25",
+  "locations_mentioned": [
+    "Baltimore"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "AMMUG/1",
+    "SCHEAFFER",
+    "WOGAME"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMWAVE"
+}

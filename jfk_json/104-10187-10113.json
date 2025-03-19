@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the handling of a Cuban defector, referred to as DALTON. It assesses his potential value as an agent against Cuban intelligence and the obstacles he presents if released. It also covers the protection of equity in a Cuban target, recruitment efforts, and the arrest of guerrillas trained in Cuba.",
+  "tags": [
+    "Cuban defector",
+    "intelligence",
+    "recruitment",
+    "guerrillas",
+    "Salvador"
+  ],
+  "title": "Cuban Defector",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Cuba",
+    "San Salvador",
+    "Mexico",
+    "CUSA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DALTON",
+    "John F. Kennedy"
+  ],
+  "recipient": "WH8",
+  "sender": "SAN SALVATEIS"
+}

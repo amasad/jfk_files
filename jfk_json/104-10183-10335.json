@@ -1,0 +1,26 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses AMMUG/1, an agent, and their cover status. It mentions a change in cover to meet tax requirements and facilitate a house purchase.",
+  "tags": [
+    "AMMUG/1",
+    "cover status",
+    "tax requirements",
+    "house purchase",
+    "JMWAVE",
+    "PBRUMEN",
+    "agent"
+  ],
+  "title": "JMWAVE 4480",
+  "date": "1965-12-06",
+  "locations_mentioned": [
+    "Baltimore"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "SCHEAFFER"
+  ],
+  "recipient": "WOGAME",
+  "sender": "JMWAVE"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Reports arrests and increased militia vigilance in the northern coastal area of Matanzas Province, Cuba, as of December 1963.",
+  "tags": [
+    "arrests",
+    "militia",
+    "surveillance",
+    "coastal area",
+    "Matanzas Province",
+    "Rio Palma",
+    "Marti",
+    "Itabo",
+    "Maximo Gomez"
+  ],
+  "title": "ARRESTS AND MILITIA VIGILANCE IN THE NORTHERN COASTAL AREA",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Cuba",
+    "Matanzas Province",
+    "Rio Palma",
+    "Marti",
+    "Itabo",
+    "Maximo Gomez"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "Humberto Bergara",
+    "Irene (Milian)",
+    "Juan Manuel (Milian)",
+    "Magdalena ((Montesino))",
+    "Lazaro Coralio (Alejandro) Montesino)"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JMWAVE"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "REPORT",
+  "security_level": "SECRET",
+  "summary": "This document contains information on the reactions of Cuban officials in Santiago, Chile, to the assassination of President Kennedy on November 22, 1963. The officials express concerns about potential repercussions and the possibility of the U.S. blaming Cuba for the assassination.",
+  "tags": [
+    "Assassination",
+    "President Kennedy",
+    "Cuba",
+    "Cuban Embassy",
+    "Santiago",
+    "Chile",
+    "Jose Toha",
+    "Pedro Martinez Pirez",
+    "Fair Play for Cuba Committee",
+    "Third World War",
+    "Goulart",
+    "Invasion of Cuba"
+  ],
+  "title": "COMMENTS OF CUBAN OFFICIALS ON THE ASSASSINATION OF PRESIDENT KENNEDY",
+  "date": "11/23/1963",
+  "locations_mentioned": [
+    "CUBA",
+    "CHILE, SANTIAGO",
+    "VALPARAISO",
+    "HABANA",
+    "LATIN AMERICA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "KENNEDY",
+    "JOSE TOHA",
+    "PEDRO MARTINEZ PIREZ",
+    "GOULART"
+  ],
+  "recipient": "CINCSO CINCLANT",
+  "sender": "CIA"
+}

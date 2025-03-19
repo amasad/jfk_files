@@ -1,0 +1,33 @@
+{
+  "classification": "Administrative",
+  "document_type": "Diary",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document contains entries from a daily planner, including appointments, meetings, and social engagements. The entries span from 1959 to 1960 and include names of individuals and organizations.",
+  "tags": [
+    "appointments",
+    "meetings",
+    "social engagements",
+    "daily planner"
+  ],
+  "title": "Daily Planner Entries, 1959-1960",
+  "date": "1959-12-31",
+  "locations_mentioned": [
+    "Baltimore",
+    "Vienna",
+    "Hague",
+    "Iran"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Allen Dulles",
+    "Richard Helms",
+    "Robert Reynolds",
+    "Robert Miller",
+    "Robert Bliss",
+    "John Hanes",
+    "Bakhtiar"
+  ],
+  "recipient": "N/A",
+  "sender": "N/A"
+}

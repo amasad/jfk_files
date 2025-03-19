@@ -1,0 +1,53 @@
+{
+  "classification": "Mexico",
+  "document_type": "MEMORANDUM",
+  "security_level": "SECRET",
+  "summary": "This memorandum discusses the upcoming meeting between President Johnson and President Lopez Mateos of Mexico. It outlines major points of interest to both the United States and Mexico, including hemisphere relations, control of Castro Communism, Red China, the Alliance for Progress, disputed tracts on the Rio Grande, control of narcotics, a desalinization plant at Tijuana, the salinity problem on the Lower Colorado, the Bracero Program, U.S. trade policies, and the Chamizal Settlement.",
+  "tags": [
+    "Lopez Mateos",
+    "Mexico",
+    "President Johnson",
+    "Hemisphere Relations",
+    "Castro Communism",
+    "Red China",
+    "Alliance for Progress",
+    "Rio Grande",
+    "Narcotics Control",
+    "Tijuana",
+    "Salinity Problem",
+    "Bracero Program",
+    "Trade Policies",
+    "Chamizal Settlement"
+  ],
+  "title": "",
+  "date": "1964-02-18",
+  "locations_mentioned": [
+    "Mexico",
+    "United States",
+    "Los Angeles",
+    "El Chamizal",
+    "Cuba",
+    "Communist China",
+    "Panama",
+    "Costa Rica",
+    "Brazil",
+    "Rio Grande",
+    "Tijuana",
+    "Lower Colorado",
+    "Yuma",
+    "El Paso",
+    "Ciudad Juarez"
+  ],
+  "origin_agency": "STATE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lopez Mateos",
+    "Gustavo DIAZ Ordaz",
+    "Castro",
+    "Orlich",
+    "De Gaulle",
+    "Dean Rusk"
+  ],
+  "recipient": "THE PRESIDENT",
+  "sender": "DEAN RUSK"
+}

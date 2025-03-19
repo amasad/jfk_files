@@ -1,0 +1,31 @@
+{
+  "classification": "Soviet",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a trace on Vladimir Kuznetsov, possibly identical with Vladimir Sergeyevich Kuznetsov, a GRU staff officer. Mentions his rank, assignment to the Third Anglo-American Directorate, and attendance at the Military Diplomatic Academy. Notes that the subject is not identical with another Vladimir Sergeyevich Kuznetsov who served in Jakarta. Requests further tracing upon receipt of patronymic and additional bio data.",
+  "tags": [
+    "GRU",
+    "Kuznetsov",
+    "Trace",
+    "Counterintelligence",
+    "Liaison"
+  ],
+  "title": "WNINTEL CKTOP (PDGRAVE WIGALE) TRACE ON VLADIMIR KUZNETSOV",
+  "date": "1976-09-17",
+  "locations_mentioned": [
+    "Brussels",
+    "Washington",
+    "Moscow",
+    "Jakarta"
+  ],
+  "origin_agency": "SE/BIO INFO SE/CI/X, SE/X/EU, EABNLYBY",
+  "persons_mentioned": [
+    "VLADIMIR KUZNETSOV",
+    "VLADIMIR SERGEYEVICH KUZNETSOV",
+    "DOREEN PETERSON",
+    "P.W. JÓNSSONAL. SULLIVAN",
+    "M. NOSTER"
+  ],
+  "recipient": "BRUSSELS",
+  "sender": "SE/BIO"
+}

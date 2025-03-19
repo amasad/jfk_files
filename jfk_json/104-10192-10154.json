@@ -1,0 +1,25 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding Cuban youth plans for sabotage on 30 April by JUVENTUD ACCION CUBANA ANTICOMUNISTA.",
+  "tags": [
+    "sabotage",
+    "Cuban youth",
+    "JUVENTUD ACCION CUBANA ANTICOMUNISTA",
+    "bombs"
+  ],
+  "title": "Setting Off of Bombs by Juventud Accion Cubana Anticomunista",
+  "date": "1960-05-07",
+  "locations_mentioned": [
+    "Cuba",
+    "Habana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "HANS ARTURO BODEWIG 7 LEUENBERGER",
+    "Charles Beckman"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "HAVANA"
+}

@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses JOSE LUIS (ZALA) and his possible connection to 201-338838, who is registered with AFOZEER Service.",
+  "tags": [
+    "JOSE LUIS (ZALA)",
+    "AFOZEER Service",
+    "201-338838",
+    "Ultimas Novedades S.A.",
+    "RYBAT",
+    "MEXI"
+  ],
+  "title": "MEXICO CITY 1 OCT 452",
+  "date": "1963-10-01",
+  "locations_mentioned": [
+    "MEXI",
+    "MEXICO CITY"
+  ],
+  "origin_agency": "DIA",
+  "persons_mentioned": [
+    "JOSE LUIS (ZALA)",
+    "JOHN F. KENNEDY"
+  ],
+  "recipient": "DIRECTOR",
+  "sender": "JESIAVE"
+}

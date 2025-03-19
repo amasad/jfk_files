@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security_level": "Secret",
+  "summary": "Memorandum regarding Manuel Pineiro, a high-ranking official in the Cuban G-2 organization, and CIA's tentative conclusion that Pineiro is identical with Petronio, who has been mentioned in messages made available to the Bureau and CIA.",
+  "tags": [
+    "CIA Liaison",
+    "Cuban Intelligence",
+    "G-2",
+    "Intercepted Communications",
+    "Nationalities Intelligence Section"
+  ],
+  "title": "MANUEL PINEIRO",
+  "date": "1963-10-10",
+  "locations_mentioned": [
+    "Havana",
+    "Colombia",
+    "Venezuela",
+    "Panama"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Manuel Pineiro",
+    "Anita Potocki",
+    "D. J. Brennan, Jr",
+    "S. J. Papich",
+    "Petronio",
+    "Roberto"
+  ],
+  "recipient": "Mr. D. J. Brennan, Jr",
+  "sender": "Mr. S. J. Papich"
+}

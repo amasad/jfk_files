@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This memo discusses a report regarding the potential use of the yacht Potomac by the Alpha 66 organization for transporting weapons. An unsolicited phone call to LAFO reported the vessel was taking on a cargo of weapons crated as Argentine beef, and destined to leave soon for Seattle. The informant identified Wes Davis and Cliff Roberts as being on board.",
+  "tags": [
+    "Alpha 66",
+    "Potomac",
+    "Weapons",
+    "Argentina",
+    "Seattle",
+    "Wes Davis",
+    "Cliff Roberts",
+    "USCG",
+    "Floating Museum",
+    "Barbados"
+  ],
+  "title": "Reported Use of Yacht Potomac by Alpha 66",
+  "date": "1962-11-27",
+  "locations_mentioned": [
+    "Long Beach",
+    "Seattle",
+    "Newport Beach",
+    "Los Angeles",
+    "Barbados",
+    "San Diego"
+  ],
+  "origin_agency": "LAFO",
+  "persons_mentioned": [
+    "Theodore Roosevelt",
+    "Wes Davis",
+    "Cliff Roberts",
+    "L. Lessing",
+    "F. D. Roosevelt",
+    "D. L. Wheeler",
+    "Bill Spivaky"
+  ],
+  "recipient": "UUCG",
+  "sender": "LAFO"
+}

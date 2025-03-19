@@ -1,0 +1,52 @@
+{
+  "classification": "Assassination",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable requests addresses to construct an identikit composite of James Earl Ray and provides code for the composite. It notes a scar on the forehead was omitted from the composite and that the left ear protrudes more than the right.",
+  "tags": [
+    "James Earl Ray",
+    "Identikit",
+    "Composite",
+    "FBI"
+  ],
+  "title": "DIRECTOR 93260",
+  "date": "1968-04-20",
+  "locations_mentioned": [
+    "ASUNCION",
+    "BANGKOK",
+    "BEIRUT",
+    "BERLIN",
+    "BOGOTA",
+    "BUENOS AIRES",
+    "COPENHAGEN",
+    "FRANKFURT",
+    "THE HAGUE",
+    "HONG KONG",
+    "LA PAZ",
+    "LONDON",
+    "MADRID",
+    "MONTEVIDEO",
+    "NEW DELHI",
+    "MANILA",
+    "MUNICH",
+    "PANAMA CITY",
+    "PARIS",
+    "RIO DE JANEIRO",
+    "ROME",
+    "SANTO DOMINGO",
+    "SANTIAGO",
+    "SAO PAULO",
+    "STOCKHOLM",
+    "TEGUCIGALPA",
+    "TOKYO",
+    "VIENNA",
+    "ZURICH"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Richard Obor",
+    "James Earl Ray"
+  ],
+  "recipient": "ASUNCION, BANGKOK, BEIRUT, BERLIN, BOGOTA, BUENOS AIRES, COPENHAGEN, FRANKFURT, THE HAGUE, HONG KONG, LA PAZ, LONDON, MADRID, MONTEVIDEO, NEW DELHI, MANILA, MUNICH, PANAMA CITY, PARIS, RIO DE JANEIRO, ROME, SANTO DOMINGO, SANTIAGO, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "sender": "DIRECTOR"
+}

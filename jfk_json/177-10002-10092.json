@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Intelligence Report",
+  "security_level": "Top Secret",
+  "summary": "Brazilian Ambassador assesses the potential impact of the Johnson administration on US foreign and domestic policies following President Kennedy's assassination.",
+  "tags": [
+    "Lyndon B. Johnson",
+    "John F. Kennedy",
+    "Brazilian Embassy",
+    "Foreign Policy",
+    "Domestic Policy",
+    "Soviet Union",
+    "Western Europe",
+    "Latin America",
+    "Civil Rights",
+    "Fiscal Reform",
+    "Medical Aid",
+    "Aid to the Aged",
+    "Roberto Campos"
+  ],
+  "title": "BRAZILIAN AMBASSADOR ASSESSES JOHNSON ADMINISTRATION",
+  "date": "11/26/1963",
+  "locations_mentioned": [
+    "Washington",
+    "Rio de Janeiro",
+    "Brazil",
+    "France",
+    "Western Europe",
+    "Latin America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lyndon B. Johnson",
+    "Roberto Campos"
+  ],
+  "recipient": "RIO DE JANEIRO: FOREIGN MINISTRY",
+  "sender": "BRAZILIAN EMBASSY"
+}

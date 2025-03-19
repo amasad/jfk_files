@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "This memo discusses Petros Moutsos, a former CIA informant in the Greek Maritime Organization (OENO), who is now being considered for a mission in Cuba. The CIA plans to have him jump ship in New Orleans and travel to Cuba, where he will gather information. They also hope he can re-establish contact with his wife, Angela Boyer, to gain access to communist circles in Cuba.",
+  "tags": [
+    "CIA",
+    "Petros Moutsos",
+    "Greek Maritime Organization",
+    "OENO",
+    "Cuba",
+    "Informant",
+    "Angela Boyer",
+    "Communist"
+  ],
+  "title": "PETROS MOUTSOS",
+  "date": "1960-09-14",
+  "locations_mentioned": [
+    "Greece",
+    "Cuba",
+    "New Orleans",
+    "Havana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Petros Moutsos",
+    "Jane Roman",
+    "Angela Boyer",
+    "L'Allier",
+    "S. J. Papich",
+    "Donahoe"
+  ],
+  "recipient": "L'Allier",
+  "sender": "Papich"
+}

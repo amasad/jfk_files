@@ -1,0 +1,25 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "This document discusses James Angleton of the CIA providing information to the FBI on a confidential basis and the procedure for handling this information to protect Angleton and the CIA as sources.",
+  "tags": [
+    "James Angleton",
+    "CIA",
+    "FBI",
+    "Bureau Source 100",
+    "Informant",
+    "Source Protection",
+    "Intelligence"
+  ],
+  "title": "JAMES ANGLETON",
+  "date": "1954-04-30",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "James Angleton",
+    "A. H. Belmont",
+    "W. A. Branigan"
+  ],
+  "recipient": "BELMONT",
+  "sender": "BRANIGAN"
+}

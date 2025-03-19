@@ -1,0 +1,28 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses identities of Donald Emerson and Raul Avila, both secretaries in COSSC and COSEC respectively. Mentions HERPITONE.",
+  "tags": [
+    "COSSC",
+    "COSEC",
+    "Identities",
+    "HERPITONE",
+    "Donald Emerson",
+    "Raul Avila"
+  ],
+  "title": "Identities of Donald Emerson and Raul Avila",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "PARIS",
+    "MEXICO CITY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Manuel Ar",
+    "Donald Emerson",
+    "Raul Avila"
+  ],
+  "recipient": "PARIS/LOFTMEXICO CITY",
+  "sender": "DIRECTOR"
+}

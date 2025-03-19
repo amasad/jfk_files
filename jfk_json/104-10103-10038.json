@@ -1,0 +1,36 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "The Director of Finance reports on a search of records to determine if any payment was made to Howard Hunt for approximately $30,000 that required no accounting. The office searched expense runs, Madrid Station, JMWAVE, and FR/Washington Office accountings, Mr. Hunt's travel claims, and Mr. Hunt's advance account. No operational expenditures were found except for $1,600 approved for write-off by Desmond Fitzgerald without further accounting.",
+  "tags": [
+    "Howard Hunt",
+    "Office of Finance",
+    "Expense Records",
+    "Madrid Station",
+    "JMWAVE",
+    "FR/Washington Office",
+    "Travel Claims",
+    "Advance Account",
+    "Non-Official Cover",
+    "Desmond Fitzgerald",
+    "Chase Manhattan Bank",
+    "Operational Expenditures"
+  ],
+  "title": "Howard Hunt",
+  "date": "1974-02-27",
+  "locations_mentioned": [
+    "Madrid",
+    "Paris",
+    "Washington"
+  ],
+  "origin_agency": "Office of Finance",
+  "persons_mentioned": [
+    "Howard Hunt",
+    "Desmond Fitzgerald",
+    "Thomas B. Yale",
+    "Karamessines"
+  ],
+  "recipient": "Inspector General",
+  "sender": "Director of Finance"
+}

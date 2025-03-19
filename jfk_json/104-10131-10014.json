@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Action Request",
+  "security_level": "SECRET",
+  "summary": "Personnel action request for Harold F. Swenson, reassigning him from Buenos Aires to an unspecified location, effective date to be determined.",
+  "tags": [
+    "reassignment",
+    "personnel action",
+    "Harold F. Swenson",
+    "Buenos Aires",
+    "DDP",
+    "Task Force W",
+    "Office of the Chief",
+    "ATTACHE, POL OFF",
+    "OPS OFF"
+  ],
+  "title": "REQUEST FOR PERSONNEL ACTION",
+  "date": "1962-10-29",
+  "locations_mentioned": [
+    "Buenos Aires, Argentina"
+  ],
+  "origin_agency": "DDP",
+  "persons_mentioned": [
+    "SWENSON, Harold F.",
+    "LOUIS W. ARMSTRONG"
+  ],
+  "recipient": "Office of Personnel",
+  "sender": "LOUIS W. ARMSTRONG, C/TFM/Pers."
+}

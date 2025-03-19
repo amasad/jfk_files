@@ -1,0 +1,28 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding traces on STOLIAKOV and ALFIRIEV. Concerned BIOGENESIS is traces on STOLYAROV and ALFIROV.",
+  "tags": [
+    "STOLIAKOV",
+    "ALFIRIEV",
+    "BIOGENESIS",
+    "Traces",
+    "Counterintelligence"
+  ],
+  "title": "Traces on STOLIAKOV and ALFIRIEV",
+  "date": "1958-09-26",
+  "locations_mentioned": [
+    "BUENOS AIRES"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "S. VINCENT BARONE",
+    "GADWELL KIM ALIASINI",
+    "R. S. BAMPSON",
+    "STOLYAROV",
+    "ALFIROV"
+  ],
+  "recipient": "BUENOS AIRES",
+  "sender": "DIRECTOR"
+}

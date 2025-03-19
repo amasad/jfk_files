@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "This document pertains to Pedro Luis Diaz Lanz, Renaldo Blanco Hernandez, and Alberto Eusebio Mojena, focusing on intelligence related to Cuba. It includes information provided to the United States Customs Office in Miami and references classified information received from CIA, San Juan.",
+  "tags": [
+    "PDL",
+    "ADMIN",
+    "INSTR",
+    "Pedro Luis Diaz Lanz",
+    "Renaldo Blanco Hernandez",
+    "Alberto Eusebio Mojena",
+    "Customs Office",
+    "CIA",
+    "Informants"
+  ],
+  "title": "",
+  "date": "1958-10-02",
+  "locations_mentioned": [
+    "San Juan",
+    "Havana",
+    "Miami",
+    "Guantanamo Bay, Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "ROBERT JAMES DWYER",
+    "DAVID R. MCCLAIN",
+    "FIGUERO",
+    "GOMEZ",
+    "EDUARDO HERNANDEZ",
+    "HOWARD R. ALBAUGH",
+    "GEORGE E. DAVIS, JR.",
+    "RICARDO LORIE",
+    "LEMAN L. STAFFORD, JR.",
+    "PEDRO DIAZ"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "SAC, MM"
+}

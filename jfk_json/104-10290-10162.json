@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document discusses the ordering and shipment of arms and motors, potential caches, and related investigations.",
+  "tags": [
+    "arms cache",
+    "motor shipments",
+    "investigation",
+    "MOWTHEAJ",
+    "outboards"
+  ],
+  "title": "Report on Arms Cache and Motor Shipments",
+  "date": "1963-09-25",
+  "locations_mentioned": [
+    "Canada",
+    "Haukpoan, Illinois",
+    "Amsterdam",
+    "Brussels"
+  ],
+  "origin_agency": "CARA",
+  "persons_mentioned": [
+    "MOWTHEAJ"
+  ],
+  "recipient": "LIATBOR",
+  "sender": "COMA SOURCE"
+}

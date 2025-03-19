@@ -1,0 +1,28 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "A Washington Post article discusses CIA activities in Mexico City during the JFK assassination timeframe, specifically mentioning a wiretap operation carried out with the cooperation of the Mexican government. The CIA had attempted to block the release of these documents, declassified under the JFK Assassination Records Collection Act of 1992, fearing it might endanger similar ongoing operations. The station is asked to comment on any reaction by liaison (particularly KDSOMBRERO) or unilateral assets to this disclosure.",
+  "tags": [
+    "WNINTEL",
+    "KDSOMBRERO",
+    "KDMARTINI",
+    "Mexico City",
+    "TelTaps",
+    "JFK Assassination",
+    "CIA",
+    "Wiretap",
+    "Soviet Embassy",
+    "Washington Post"
+  ],
+  "title": "WASHINGTON POST ARTICLE ON MEXICO CITY TELTAPS",
+  "date": "1995-09-22",
+  "locations_mentioned": [
+    "Mexico City",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [],
+  "recipient": "MEXICO CITY",
+  "sender": "LIMIT LA/MCGMXB"
+}

@@ -1,0 +1,40 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a group of Chinese architects traveling from Mexico to Rio de Janeiro and efforts to assess and potentially debrief or defect members of the group. It details contacts made with Yang Ting-Pao and Liang Szu-Cheng, and mentions an upcoming meeting between Wu Ching-Hsiang and his U.S. citizen brother.",
+  "tags": [
+    "CHICOM",
+    "delegation",
+    "architects",
+    "UIA",
+    "Havana",
+    "Mexico",
+    "Rio de Janeiro",
+    "assessment",
+    "debriefing",
+    "defection",
+    "Yang Ting-Pao",
+    "Liang Szu-Cheng",
+    "Wu Ching-Hsiang",
+    "KUBARK",
+    "SIROLOGIST"
+  ],
+  "title": "Chicom Delegation in Mexico and Rio de Janeiro",
+  "date": "1963-10-16",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Mexico City",
+    "Havana",
+    "China",
+    "Shanghai"
+  ],
+  "origin_agency": "Director",
+  "persons_mentioned": [
+    "Yang Ting-Pao",
+    "Liang Szu-Cheng",
+    "Wu Ching-Hsiang"
+  ],
+  "recipient": "RIOD, MEXI",
+  "sender": "DIRECTOR"
+}

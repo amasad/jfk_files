@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses the U.S. House of Representatives Select Committee on Assassinations' investigation into the assassinations of President Kennedy and Dr. Martin Luther King, focusing on leads in Portugal, the UK, and Mexico related to James Earl Ray. The committee seeks assistance from Portuguese National Police and access to their files. The CIA is cooperating with the committee but prefers overt functions to be handled by LEGATTS or others publicly identifiable.",
+  "tags": [
+    "James Earl Ray",
+    "House Select Committee on Assassinations",
+    "Portugal",
+    "UK",
+    "Mexico",
+    "Investigation",
+    "Assassination",
+    "Martin Luther King",
+    "G. Robert Blakey",
+    "LEGATTS"
+  ],
+  "title": "RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "date": "1977-11-14",
+  "locations_mentioned": [
+    "Portugal",
+    "UK",
+    "Mexico",
+    "Lisbon",
+    "London"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Martin Luther King",
+    "James Earl Ray",
+    "G. Robert Blakey"
+  ],
+  "recipient": "LISBON INFO LONDON MEXICO CITY",
+  "sender": "DIRECTOR"
+}

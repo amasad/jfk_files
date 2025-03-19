@@ -1,0 +1,50 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable from JAMAVE to DIRECTON discusses various intelligence operations and requests information on individuals and activities related to Cuba and Latin America, including arms shipments, chartered flights, and personnel lists. It also provides clarifications on the identities of code names used in the message.",
+  "tags": [
+    "Intelligence",
+    "Operations",
+    "Cuba",
+    "Latin America",
+    "Arms Shipments",
+    "Personnel",
+    "Chartered Flights",
+    "Code Names",
+    "AMKHAN-2",
+    "RYBAT",
+    "TYPIC",
+    "COMMO",
+    "TARROT"
+  ],
+  "title": "DIR CITE WAVE 8097 - Intelligence Operations in Cuba and Latin America",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Latin America",
+    "Habana",
+    "MEXI",
+    "ALGEREAN"
+  ],
+  "origin_agency": "JAMAVE",
+  "persons_mentioned": [
+    "TITO",
+    "PABLO SANDOVAL CRANE",
+    "LUCY",
+    "NIKE",
+    "VORK",
+    "MARIA CHRISTINA",
+    "FRANCO",
+    "IZQUIERDO",
+    "DIAZ",
+    "OSVALDO DIAZ",
+    "RESTITUTO ROBAINA",
+    "ESTER ARANGO",
+    "MIGUEL MAYOR",
+    "DANIEL IZQUIERDO",
+    "GRIESSE",
+    "ENRIQUE"
+  ],
+  "recipient": "DIRECTON",
+  "sender": "JAMAVE"
+}

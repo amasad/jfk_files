@@ -1,0 +1,53 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This document contains a report from a Colombian investigator regarding illicit armament traffic in Costa Rica in 1950. The report details the involvement of American citizens and Communist elements in the arms trade and suggests measures to improve Costa Rica's detective capabilities.",
+  "tags": [
+    "Illicit Armament Traffic",
+    "Costa Rica",
+    "Colombia",
+    "Arms Trade",
+    "Communism",
+    "Richard Rown",
+    "Charles Lufborrow",
+    "Arturo Botero",
+    "Carlos Valdes Gonzalez",
+    "Jose Figueres",
+    "Legion Caribe"
+  ],
+  "title": "Colombian Police Report on Clandestine Arms Traffic in Costa Rica",
+  "date": "1950-09-11",
+  "locations_mentioned": [
+    "Costa Rica",
+    "Bogotá",
+    "Golfito",
+    "Puerto Limon",
+    "Panama",
+    "Palmar",
+    "Piedras Blancas",
+    "Sierpe",
+    "La Lucha",
+    "Mexico",
+    "Guatemala",
+    "Venezuela"
+  ],
+  "origin_agency": "Colombian National Chief of Detectives",
+  "persons_mentioned": [
+    "Carlos RODRIGUEZ Teller",
+    "Arturo Botero",
+    "Richard Rown",
+    "Charles Lufborrow",
+    "Carlos VALDES Gonzalez",
+    "Jose FIGURES",
+    "Fulgencio LEQUERICA Velez",
+    "Teodoro Picado",
+    "Gilberto Vieira",
+    "José Figueres Ferrer",
+    "Prío Socrrás",
+    "Manuel Angel Rafres",
+    "Fidel Castro"
+  ],
+  "recipient": "STATE",
+  "sender": "Colombian National Chief of Detectives"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "Confidential",
+  "summary": "This document discusses the arrest of Federal Deputy Cesar Del Angel Fuentes for agitational activities in Guerrero and his role in the Acapulco murders.",
+  "tags": [
+    "EGD",
+    "ASSOC",
+    "ARRESTED",
+    "ROLE",
+    "ACAPULCO MURDERS"
+  ],
+  "title": "Arrest of Federal Deputy Cesar Del Angel Fuentes for Agitational Activities in Guerrero",
+  "date": "1967-08-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Guerrero",
+    "Acapulco",
+    "Veracruz"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Cesar Del Angel Fuentes",
+    "Elena Garro de Paz"
+  ],
+  "recipient": "STATE/INR DIA NMCC/MC (SECDEF) ARMY NAVY AIR CIA/NMCC NIC NSA OCR SDO AID FBI USIA ONE ORR DCS",
+  "sender": "CIA"
+}

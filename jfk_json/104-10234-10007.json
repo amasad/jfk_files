@@ -1,0 +1,47 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses Delorry's arrival in Italy, ETA to Cuba, contacts with Annie de Quendoz, German Camado-Blanco, Rolio (Montenegro) Guasp, Saverio Tutino, Protestant clerics in Cuba, and Cubamb in Belgium.",
+  "tags": [
+    "Delorry",
+    "Italy",
+    "Cuba",
+    "Annie de Quendoz",
+    "German Camado-Blanco",
+    "Rolio (Montenegro) Guasp",
+    "Saverio Tutino",
+    "Protestant clerics",
+    "Cubamb",
+    "Belgium"
+  ],
+  "title": "ROME 9301",
+  "date": "1966-03-11",
+  "locations_mentioned": [
+    "Italy",
+    "Rome",
+    "Cuba",
+    "Havana",
+    "Lisbon",
+    "Prague",
+    "Belgium"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Delorry",
+    "Fidel",
+    "Annie de Quendoz",
+    "Che Guevara",
+    "German Camado-Blanco",
+    "Luis Amado-Blanco",
+    "Rolio (Montenegro) Guasp",
+    "Manuel Perez Hernandez",
+    "Ricardo Subirana y Lobo",
+    "Saverio Tutino",
+    "Cesare Zacchi",
+    "Gustavo Carcos y Bergnes"
+  ],
+  "recipient": "DIR",
+  "sender": "Rome"
+}

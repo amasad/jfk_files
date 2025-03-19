@@ -1,0 +1,38 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses an agent (S/1) and his wife's upcoming visit to Mexico City. It includes a request for funds to cover the visit and to purchase gifts for the children. The cable also mentions S/1's assignment and living arrangements, as well as a scheduled meeting with ATS.",
+  "tags": [
+    "CI",
+    "CI/OPS",
+    "CI/IC",
+    "CI/CA",
+    "VR",
+    "MEXICO CITY",
+    "SVLUCK",
+    "MERIDA",
+    "XMAS",
+    "SANTA CLAUS",
+    "TEGU",
+    "PESOS",
+    "PARTY LEADERS",
+    "POR",
+    "PCA READERS",
+    "ATS"
+  ],
+  "title": "Cable Regarding Agent S/1 and Wife's Visit to Mexico City",
+  "date": "1963-12-16",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "MERIDA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "SVLUCK",
+    "ELIODORINA GARCIA"
+  ],
+  "recipient": "TEGU",
+  "sender": "HM 8"
+}

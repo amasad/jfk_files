@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses JUNAVE 1, LANGOSCH, AMMLUC 1, Cuban Intel, and potential recruitment efforts.",
+  "tags": [
+    "JUNAVE 1",
+    "LANGOSCH",
+    "AMMLUC 1",
+    "Cuban Intel",
+    "Recruitment",
+    "Guerrilleros",
+    "CUBA",
+    "MEXI"
+  ],
+  "title": "DIR CITE SALV 5312",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "CUBA",
+    "MEXI"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "LANGOSCH",
+    "AMMLUC 1",
+    "JUNAVE 1",
+    "KITA",
+    "JUHILLI"
+  ],
+  "recipient": "DIR",
+  "sender": "SALV"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "This is a Task Force Status Report from 1963, covering covert operations in Southeast Asia, specifically Cambodia, North Vietnam, and South Vietnam. It details plans to assist a dissident Cambodian leader, psywar activities in North Vietnam, and civic action training in South Vietnam.",
+  "tags": [
+    "Task Force Southeast Asia",
+    "Covert Operations",
+    "Cambodia",
+    "North Vietnam",
+    "South Vietnam",
+    "Son Ngoc Thanh",
+    "Sihanouk",
+    "Psywar",
+    "Civic Action",
+    "Montagnard Cadres"
+  ],
+  "title": "Task Force Status Report",
+  "date": "1963-00-00",
+  "locations_mentioned": [
+    "Cambodia",
+    "Saigon",
+    "North Vietnam",
+    "Haiphong",
+    "Lay Kay",
+    "South Vietnam"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Son Ngoc Thanh",
+    "Sihanouk",
+    "Rosson"
+  ],
+  "recipient": "Unknown",
+  "sender": "CIA"
+}

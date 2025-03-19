@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Memorandum regarding the arrest of AMLEO-3, Jose Ricardo RABEL Nunez, and related information about Mitchell L. WER-BELL.",
+  "tags": [
+    "AMLEO-3",
+    "Arrest",
+    "Mitchell L. WER-BELL",
+    "Cubans",
+    "Exfiltration",
+    "JMWAVE",
+    "VENUS"
+  ],
+  "title": "Call from Mr. Dick Philips (State) Regarding the Arrest of AMLEO-3",
+  "date": "1965-09-03",
+  "locations_mentioned": [
+    "Dominican Republic",
+    "Latin America",
+    "Florida",
+    "Philadelphia",
+    "Atlanta"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Dick Philips",
+    "Mitchell L. WER-BELL",
+    "Jose Ricardo RABEL Nunez",
+    "Gilberto Fondora",
+    "Miguel Ramos",
+    "John F. Kennedy"
+  ],
+  "recipient": "WH/C/OPS",
+  "sender": "Bryan Mills, C/WH/C/MO/PM"
+}

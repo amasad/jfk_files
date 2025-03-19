@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document identifies several individuals and businesses, including Carlos Tepedino Gonzales, Juan Ventura Valker, Tisiman and Lipp Inc., and Carletto Inc.",
+  "tags": [
+    "Carlos Tepedino Gonzales",
+    "Juan Ventura Valker",
+    "Tisiman and Lipp Inc.",
+    "Carletto Inc.",
+    "Jewelry Manufacturers",
+    "FEP",
+    "KEYWAY",
+    "PERUNCH",
+    "AMETR"
+  ],
+  "title": "Identifiers of FEP",
+  "date": "1963-06-04",
+  "locations_mentioned": [
+    "ROME",
+    "NEW YORK CITY",
+    "GENEVA",
+    "SUISSE"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "CARLOS TEPEDINO GONZALES",
+    "JUAN VENTURA VALKER",
+    "Dr. A. ROMANO"
+  ],
+  "recipient": "ROME",
+  "sender": "DIRECTOR"
+}

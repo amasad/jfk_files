@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security_level": "SECRET",
+  "summary": "This memo discusses the activities of the Directorio Revolucionario Estudiantil (DRE) in Cuba, including information about arms shipments and planned sabotage activities against the Castro regime.",
+  "tags": [
+    "Directorio Revolucionario Estudiantil",
+    "DRE",
+    "arms",
+    "munitions",
+    "sabotage",
+    "explosives",
+    "bridges",
+    "railroads",
+    "ship",
+    "yacht",
+    "Castro government",
+    "security",
+    "Havana",
+    "JMWAVE",
+    "GYROSE/PW",
+    "Task Force W"
+  ],
+  "title": "Activities of the DRE (Directorio Revolucionario Estudiantil)",
+  "date": "1962-07-20",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Minas del rrio, Oriente Province",
+    "Miami, Florida, USA",
+    "Latin American country"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jose Ricardo Rabel Ortega",
+    "Jose Ricardo Rabel Hunez",
+    "Fernando Gomez Fonseca",
+    "Laureano (\"Lino\") Pequeno",
+    "Manuel Gomez",
+    "Neil T. PICKWORTH"
+  ],
+  "recipient": "Chief of Station, JMWAVE; Chief, Task Force W",
+  "sender": "Neil T. PICKWORTH"
+}

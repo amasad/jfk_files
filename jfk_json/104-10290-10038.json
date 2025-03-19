@@ -1,0 +1,42 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document contains information on FERNANDO PALKUZUKIA, MARIA FRANCISCA CRESPO FALCON, and HOWARD ANDERSON in Mexico City. It includes personal details such as date and place of birth, physical descriptions, passport numbers, and addresses. The document also lists various codes and initials such as RIDAT TIPIC, DIR 86283, SAS/SEC: MKH or G, ΙΛΙ/3/ΜΕΧΙ, C/WH/3, C/WMD, and references to EASING OFFICER, SACREA, and DESMOND FITZGERALD.",
+  "tags": [
+    "MEXICO CITY",
+    "FERNANDO PALKUZUKIA",
+    "MARIA FRANCISCA CRESPO FALCON",
+    "HOWARD ANDERSON",
+    "RIDAT TIPIC",
+    "DIR 86283",
+    "SAS/SEC: MKH or G",
+    "ΙΛΙ/3/ΜΕΧΙ",
+    "C/WH/3",
+    "C/WMD",
+    "EASING OFFICER",
+    "SACREA",
+    "DESMOND FITZGERALD"
+  ],
+  "title": "Information on Individuals in Mexico City",
+  "date": "2025",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "ARTEMISA, PINAR DEL RIO, CUBA",
+    "HARIANAO, CUBA",
+    "GUIRA DE MELENA, GAZANA, CUBA"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "FERNANDO PALKUZUKIA",
+    "MARIA FRANCISCA CRESPO FALCON",
+    "HOWARD ANDERSON",
+    "NATZO",
+    "JOSEFA",
+    "ARTURO",
+    "JOSEFINA",
+    "DESMOND FITZGERALD"
+  ],
+  "recipient": "Unknown",
+  "sender": "C/SAS"
+}

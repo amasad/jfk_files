@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Form",
+  "security_level": "SECRET",
+  "summary": "Travel briefing data for Joseph Piccolo Jr. departing on 9/15/87 to Mexico City, Mexico. Includes details on cover, previous travel, security approvals, emergency contacts, security regulations, travel precautions, and personal affairs.",
+  "tags": [
+    "Travel Briefing",
+    "Mexico City",
+    "Security",
+    "Joseph Piccolo Jr.",
+    "DDP/WH"
+  ],
+  "title": "TRAVEL BRIEFING DATA",
+  "date": "1987-09-15",
+  "locations_mentioned": [
+    "Mexico City, Mexico",
+    "Belgium-Brussels"
+  ],
+  "origin_agency": "DDP/WH",
+  "persons_mentioned": [
+    "PICCOLO, Joseph Jr.",
+    "John F. Kennedy"
+  ],
+  "recipient": "N/A",
+  "sender": "SECURITY OFFICER"
+}

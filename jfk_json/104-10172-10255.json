@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses checking with Noshenko regarding PD DIPPERS 19 and 20 and PDLADLE re Wallenberg. It also mentions file 201-5935, E2 IMPDET.A.",
+  "tags": [
+    "Noshenko",
+    "PD DIPPERS",
+    "PDLADLE",
+    "Wallenberg",
+    "201-5935",
+    "E2 IMPDET"
+  ],
+  "title": "OUTGOING MESSAGE - Checking with Noshenko and Wallenberg Investigation",
+  "date": "1976-10-20",
+  "locations_mentioned": [
+    "STOCKHOLM"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "NOSENKO",
+    "WALLENBERG",
+    "BARBARA BRYANTEW"
+  ],
+  "recipient": "STOCKHOLM",
+  "sender": "STAFF"
+}

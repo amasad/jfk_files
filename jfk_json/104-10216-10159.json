@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "This memorandum details the provision of improved sights for the 7.62 Belgium (FAL) rifle, including rear sight hoods, instructions, tool kits, and ammunition. It notes the infeasibility of developing a scope and mount within the given timeframe and provides contact information for additional details.",
+  "tags": [
+    "7.62 Belgium (FAL) Rifle",
+    "Improved Sight",
+    "Ammunition",
+    "Weapon Modification",
+    "Engineering Branch"
+  ],
+  "title": "Improved Sight for 7.62 Belgium (FAL) Rifle",
+  "date": "1964-06-24",
+  "locations_mentioned": [
+    "Belgium"
+  ],
+  "origin_agency": "TSD/Engineering Branch",
+  "persons_mentioned": [
+    "Walter L. Erhardt",
+    "D. J. Hogan",
+    "D. R. Dunn",
+    "Bushnell"
+  ],
+  "recipient": "C/WH/SA/MOB/PM",
+  "sender": "C/TSD/EB"
+}

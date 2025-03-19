@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable regarding AMLASH/1 (Cuban asset) in Madrid, meeting with a representative, and future plans. Request for contact information for IDEN B upon arrival in Madrid.",
+  "tags": [
+    "AMLASH",
+    "Cuban Asset",
+    "Madrid",
+    "LNERGO",
+    "Media",
+    "IDEN B",
+    "Meeting",
+    "Plans"
+  ],
+  "title": "NINTEL ANLASH",
+  "date": "1980-01-02",
+  "locations_mentioned": [
+    "Madrid",
+    "U.S. "
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMLASH/1",
+    "IDEN A",
+    "IDEN B",
+    "STURBITTS",
+    "THOMPSON"
+  ],
+  "recipient": "MADRID",
+  "sender": "DIRECTOR"
+}

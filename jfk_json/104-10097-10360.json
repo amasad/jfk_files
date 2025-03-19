@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a potential asset (SUBJ) who has access to significant plans and activities within the Ministry of Industries and is frequently consulted by Ernesto \"Che\" Guevara. The asset is considered a highly qualified engineer and could provide valuable information. The cable also mentions the need for secure communication channels and cautions against using the asset for contact with individuals trusted by Guevara but not by the agency.",
+  "tags": [
+    "LICRAFT-1",
+    "BROTHER 28",
+    "AMSEVER-2",
+    "HEMBASSY",
+    "Che Guevara",
+    "Ministry of Industries",
+    "Soviet machinery",
+    "PBPRIME",
+    "KUBANK",
+    "CASTRO"
+  ],
+  "title": "KAPOK PERUMEN",
+  "date": "2025",
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "Cuba"
+  ],
+  "origin_agency": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Ernesto \"Che\" Guevara",
+    "Castro"
+  ],
+  "recipient": "C/WH.5",
+  "sender": "DIRECTOR"
+}

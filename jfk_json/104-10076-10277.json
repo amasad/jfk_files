@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document is a SECRET cable discussing individuals and operations related to Cuba, including names like OTTO, AQUILES, Doctor Jimenes (AURELIO MARTINEZ), JOSE CAMPOS PEREZ, and AGUILA. It mentions activities on LIBERTAD 12 and CAYO LEVISA, along with concerns about security and communication. The cable also refers to previous communications (WAVE 8699, WAVE 8780) and mentions NAV comments on individuals related to ANCLATTER-5 and KMARTINEZ.",
+  "tags": [
+    "RYBAT",
+    "TYPIC",
+    "AMBANTY",
+    "FEDGUR",
+    "COMMO",
+    "OTTO",
+    "AQUILES",
+    "JIMENES",
+    "AURELIO MARTINEZ",
+    "JOSE CAMPOS PEREZ",
+    "AGUILA",
+    "LIBERTAD 12",
+    "CAYO LEVISA",
+    "ANCLATTER-5",
+    "KMARTINEZ",
+    "TOMAS BENE (INGUANZO) ORTIZ"
+  ],
+  "title": "DIR CITE WAVE 8883",
+  "date": "1963-02-08",
+  "locations_mentioned": [
+    "HAVANA",
+    "CAYO LEVISA"
+  ],
+  "origin_agency": "ACTION, C/SAS 5",
+  "persons_mentioned": [
+    "OTTO",
+    "AQUILES",
+    "Doctor Jimenes",
+    "AURELIO MARTINEZ",
+    "JOSE CAMPOS PEREZ",
+    "RICARDO",
+    "CELINA",
+    "AGUILA",
+    "TOMAS BENE (INGUANZO) ORTIZ"
+  ],
+  "recipient": "INFO DOP, ADDP, RI/AN DUMMY, D/OC 2, VR",
+  "sender": "DIR"
+}

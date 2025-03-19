@@ -1,0 +1,40 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security_level": "SECRET",
+  "summary": "Report regarding Jose Xavier CORTES Hernandez and his interactions with the Cuban Embassy in Mexico City.",
+  "tags": [
+    "Jose Xavier CORTES Hernandez",
+    "Jose Antonio PORTUONDO Valdor",
+    "Cuban Ambassador",
+    "Mexico City",
+    "Roman Catholic Church",
+    "Knights of Columbus",
+    "auto-agression",
+    "Carlos OLIVARES",
+    "German Lence",
+    "Castrista priest",
+    "Mexican Apostolic Catholic Church"
+  ],
+  "title": "Report on Jose Xavier CORTES Hernandez",
+  "date": "1960-12-15",
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Dolores R. CASSAVETIS",
+    "Willard C. CURTIS",
+    "Jose Xavier CORTES Hernandez",
+    "Jose Antonio PORTUONDO Valdor",
+    "Father BOZA",
+    "Carlos OLIVARES",
+    "German Lence",
+    "Father Manuel PEREZ Alondo",
+    "Archbishop Miguel Dario Miranda"
+  ],
+  "recipient": "Headquarters, EMB, PAO, NA, AA, INS, LA, JIPUCK",
+  "sender": "Mexico City"
+}

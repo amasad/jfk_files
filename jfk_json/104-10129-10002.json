@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personal History Statement",
+  "security_level": "Unclassified",
+  "summary": "This is a Personal History Statement for Emilio Americo Rodriguez, dated August 31, 1961. It includes personal data, citizenship information, education history, employment history, military service information, financial status and marital status.",
+  "tags": [
+    "Personal History",
+    "Employment",
+    "Citizenship",
+    "Education",
+    "Military Service",
+    "Financial Status",
+    "Marital Status",
+    "Contract Agent"
+  ],
+  "title": "Personal History Statement",
+  "date": "1961-08-31",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Miami, Fla.",
+    "Perrine 57, Fla.",
+    "New Orleans, LA.",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Emilio Americo Rodriguez",
+    "Eugenio Gonzalez",
+    "John E. Englekiak",
+    "Charles C. White",
+    "Arnesto N. Rodriguez",
+    "Pauline Juanita Ross Rodriguez",
+    "Arnest Napoleon Rodriguez",
+    "Casanova Emilia"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

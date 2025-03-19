@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security_level": "SECRET SENSITIVE",
+  "summary": "Memorandum from the Chief of the Minneapolis Office to the Chief of the Contact Division regarding a Cuban refugee group and their activities. The memo discusses providing assistance to the group in exchange for agency control and includes a list of key individuals involved in shuttling supplies and people between Cuba and the US.",
+  "tags": [
+    "Cuban refugees",
+    "supply routes",
+    "medical supplies",
+    "ammunition",
+    "weapons",
+    "recruiting",
+    "executive personnel"
+  ],
+  "title": "Cuban Refugee Group",
+  "date": "1962-08-31",
+  "locations_mentioned": [
+    "Cuba",
+    "Cleveland, Ohio",
+    "Minneapolis",
+    "Marathon Shores, Florida",
+    "Miami, Florida",
+    "Havana"
+  ],
+  "origin_agency": "Minneapolis Office",
+  "persons_mentioned": [
+    "George Hauer",
+    "Gene Rittenburg",
+    "Ernesto Rodrigues y Moreno",
+    "Laureano Batista",
+    "Victor Paneque",
+    "Vernon R. Sando",
+    "Augustin Batista",
+    "Crowley"
+  ],
+  "recipient": "Chief, Contact Division",
+  "sender": "Chief, Minneapolis Office"
+}

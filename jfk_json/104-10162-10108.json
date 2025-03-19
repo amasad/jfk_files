@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Receipt",
+  "security_level": "SECRET",
+  "summary": "This document is a receipt for authentication materials related to Javier Alvares de la Torre, including his Cuban passport, exit permit, and vaccination certificate. The passport contains a U.S. non-immigrant visa. The recipient acknowledges receiving the materials from TSD/IB.",
+  "tags": [
+    "Authentication Materials",
+    "Cuban Passport",
+    "Exit Permit",
+    "Vaccination Certificate",
+    "Javier Alvares de la Torre",
+    "U.S. Non-Immigrant Visa",
+    "TSD/IB",
+    "INS",
+    "I-94"
+  ],
+  "title": "RECEIPT FOR AUTHENTICATION MATERIALS",
+  "date": "1961-01-09",
+  "locations_mentioned": [
+    "Cuba",
+    "Santiago de Cuba",
+    "Miami",
+    "U.S.",
+    "U.S"
+  ],
+  "origin_agency": "TSD/IB",
+  "persons_mentioned": [
+    "Javier Alvares de la Torre",
+    "John F. Kennedy"
+  ],
+  "recipient": "TSD/IB",
+  "sender": "Unknown"
+}

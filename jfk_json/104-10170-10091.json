@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Field Information Report",
+  "security_level": "SECRET",
+  "summary": "This report details the plans and activities of the Directorio Revolucionario, a Cuban student organization, including their efforts to plan an uprising against the government and their contacts with various factions.",
+  "tags": [
+    "Directorio Revolucionario",
+    "Cuban student organization",
+    "uprising",
+    "Juri Sinches",
+    "F2D group",
+    "Echavarria",
+    "Jose Antonio Echevarria"
+  ],
+  "title": "Plans and Activities of the Directorio Revolucionario",
+  "date": "1957-03-11",
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Santiago de Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Juri Sinches",
+    "Fidel Castro",
+    "Ruben Batista",
+    "Carlos Prio Socarras",
+    "Jose Antonio Echevarria",
+    "Menelao Mora"
+  ],
+  "recipient": "Washington",
+  "sender": "HAVA"
+}

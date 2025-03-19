@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "Cable discusses concerns regarding AMULLA-1 and potential risks to future operations due to his handling of information. It outlines plans to implement stricter controls on materials obtained from AMULLA-1 to protect sensitive information.",
+  "tags": [
+    "JMWAVE",
+    "COPADOP",
+    "ACH",
+    "BELLS",
+    "JZIP",
+    "RYBAT",
+    "PREFAUFGA",
+    "BUGA1739",
+    "CUDA",
+    "ITALIA",
+    "RASCO",
+    "AGUIRRE",
+    "MORAN",
+    "MDC",
+    "AMULLAPINHO",
+    "KUBARK",
+    "AMBUD",
+    "IDYLODYOKE",
+    "PBPRIME",
+    "AMULLA-1",
+    "NOFORN"
+  ],
+  "title": "Cable Regarding AMULLA-1 and Information Security",
+  "date": "1961-06-19",
+  "locations_mentioned": [
+    "ITALIA"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "JOSE IGNACIO RASCO",
+    "RAFAEL AGUIRRE",
+    "LUCAS MORAN",
+    "AMULLAPINHO",
+    "AMBUD"
+  ],
+  "recipient": "C/BELL 8",
+  "sender": "DIRECTOR"
+}

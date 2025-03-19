@@ -1,0 +1,42 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security_level": "Secret",
+  "summary": "This document discusses a Cuban alien, code named FISHFACE, who is providing information on anti-Castro activities in the United States to a Cuban intelligence service. The document requests clearance for the Cuban alien to furnish data regarding a meeting of anti-Castro leaders to his Cuban principal.",
+  "tags": [
+    "FBI",
+    "DOLPHIN",
+    "CUBA",
+    "Anti-Castro Activities",
+    "FISHFACE",
+    "Cuban Intelligence Service",
+    "Double Agent",
+    "Political Prisoners",
+    "Soviet Union",
+    "Miami"
+  ],
+  "title": "[Restricted]",
+  "date": "1967-03-23",
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Miami"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Fidel Castro",
+    "Palayo Garcia",
+    "Manuel Fernandez",
+    "Manuel Urrutia",
+    "Manuel Ray",
+    "Felipe Pazos",
+    "Raul Chibas",
+    "Rufo Lopez Fresquet",
+    "Danilo Mesa",
+    "Elena Mederos",
+    "Efreu Gonzalez"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, MM"
+}

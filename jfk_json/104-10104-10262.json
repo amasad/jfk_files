@@ -1,0 +1,27 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security_level": "SECRET",
+  "summary": "MI-5 has provided information on Jim Garrison's activities to the FBI via a report on Americans in correspondence with the Bertrand Russell Peace Foundation. The foundation appears to be trying to persuade Garrison to write an article about the Kennedy assassination.",
+  "tags": [
+    "Jim Garrison",
+    "MI-5",
+    "Bertrand Russell Peace Foundation",
+    "Kennedy assassination"
+  ],
+  "title": "Memorandum on James Garrison's Activities",
+  "date": "1967-12-20",
+  "locations_mentioned": [
+    "London",
+    "Orleans",
+    "Louisiana"
+  ],
+  "origin_agency": "EURBC",
+  "persons_mentioned": [
+    "John Greaney",
+    "James Garrison",
+    "Philip R. Fendig"
+  ],
+  "recipient": "Office of General Counsel",
+  "sender": "E/BC"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Security",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security_level": "Secret",
+  "summary": "This document discusses Nina Stevens, Aline Mosby, Priscilla Johnson, unauthorized disclosure of classified information, and the subject's return trip itinerary.",
+  "tags": [
+    "PPJM",
+    "RECRUITMENT",
+    "AMERICAN CODE CLERK",
+    "DIPLOMAT IN MOSCOW",
+    "KGB",
+    "Nina Stevens",
+    "Aline Mosby",
+    "Priscilla Johnson",
+    "Unauthorized Disclosure",
+    "Classified Information",
+    "Itinerary"
+  ],
+  "title": "Untitled",
+  "date": "1963-04-09",
+  "locations_mentioned": [
+    "Moscow",
+    "Soviet Union",
+    "Delhi",
+    "Far East"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "EDWARDS, SHEFFIELD",
+    "DIRECTOR, FBI",
+    "Nina Stevens",
+    "Aline Mosby",
+    "Priscilla Johnson",
+    "Ray Hutchins"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "EDWARDS, SHEFFIELD"
+}

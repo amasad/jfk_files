@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Report",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document contains various reports and information regarding Hada Rosete, including her background, activities, and affiliations. Mentions her work in media, involvement with the Revolutionary Council, and contact information.",
+  "tags": [
+    "Hada Rosete",
+    "Revolutionary Council",
+    "Finance Department",
+    "Media",
+    "Uruguay",
+    "FRD",
+    "ANBUD",
+    "POA",
+    "Propaganda"
+  ],
+  "title": "Reports and Information on Hada Rosete",
+  "date": "1962-12-10",
+  "locations_mentioned": [
+    "Havana",
+    "Cuba",
+    "Uruguay",
+    "Miami"
+  ],
+  "origin_agency": "FRD",
+  "persons_mentioned": [
+    "Hada Rosete",
+    "Luis BOTIFOLL"
+  ],
+  "recipient": "Files",
+  "sender": "MONT"
+}

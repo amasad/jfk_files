@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security_level": "Secret",
+  "summary": "FBI report regarding Rolando L. Cubela y Secades and a potential plan to eliminate Fidel Castro. The report discusses Cubela's contact with the CIA through Carlos Tepedino and concerns about providing Cubela with equipment. It also mentions a plan to kill Fidel Castro, which was allegedly reconsidered with President Johnson's knowledge.",
+  "tags": [
+    "Cubela",
+    "Secades",
+    "Castro",
+    "CIA",
+    "Tepedino",
+    "Assassination Plan"
+  ],
+  "title": "Rolando L. Cubela Y Secades - IS - CUBA",
+  "date": "1964-07-29",
+  "locations_mentioned": [
+    "Cuba",
+    "Europe",
+    "Paris"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Rolando L. Cubela y Secades",
+    "Fidel Castro",
+    "Carlos Tepedino",
+    "Robert Kennedy",
+    "Lyndon B. Johnson",
+    "Carrillo"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, Miami"
+}

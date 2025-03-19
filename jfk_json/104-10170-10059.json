@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security_level": "SECRET",
+  "summary": "This document discusses Dominican support of Cuban exiles.",
+  "tags": [
+    "Cuban exiles",
+    "Dominican Republic",
+    "arms caching",
+    "Dominican Air Force",
+    "Dominican Navy",
+    "Folch",
+    "Luna",
+    "Las Pena",
+    "Punta Luna",
+    "Monte Cri",
+    "Santo Domingo"
+  ],
+  "title": "DOMINICAN CACHING OPERATIONS",
+  "date": "1964-08-04",
+  "locations_mentioned": [
+    "Dominican Republic",
+    "Santo Domingo",
+    "Las Pena",
+    "Punta Luna",
+    "Monte Cri",
+    "Santiago"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "CANTO DOMINGO",
+    "FOLCH",
+    "LUNA",
+    "John F. Kennedy"
+  ],
+  "recipient": "DIR WAVE INFO PACY LANT",
+  "sender": "SUPERATAEM-1"
+}
