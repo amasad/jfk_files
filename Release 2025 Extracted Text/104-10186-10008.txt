@@ -1,0 +1,89 @@
+104-10186-10008
+2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+SEC
+COS/Athens
+COS/Bogota
+COS/Brasilia
+COS/Buenos Aires
+COS/Caracas
+COS/Cordoba
+COS/Georgetown
+COS/Guayaquil
+COS/Guatemala City
+COS/Kingston
+COS/La Paz
+COS/Lima
+COS/Managua
+COS/Mexico City
+COS/Monterrey
+COS/Montevideo
+COS/Panama City
+COS/Paramaribo
+COS/Porto Alegre
+COS/Port au Prince
+COS/Port au Prince
+COS/Quito
+COS/Recife
+COS/Rio de Janeiro
+COS/San Jose
+COS/San Salvador
+COS/Santiago
+COS/Santo Domingo
+COS/Sao Paulo
+COS/Tegucigalpa
+REP/LANT
+COS/Algiers
+COS/Casablanca
+COS/Rabat
+COS/Tunis
+COS/Dar es Salaam
+COS/Pretoria
+COS/Yaounde
+COS/Bamako
+COS/Conakry
+COS/Dakar
+COS/Accra
+COS/Lagos
+COS/Kinshasa
+COS/Bujumbura
+COS/Addis Ababa
+COS/Khartoum
+COS/Seoul
+COS/Bangkok
+COS/Saigon
+COS/Djakarta
+COS/Vientiane
+COS/Tokyo
+COS/Hong Kong
+COS/Jerusalem
+COS/Amman
+COS/Beirut
+COS/Cairo
+COS/Karachi
+COS/New Delhi
+COS/Colombo
+COS/Nicosia
+99
+99
+99
+99
+99
+99
+COS/Berlin
+COS/Berne
+COS/Geneva
+COS/Vienna
+COS/Copenhagen
+COS/Stockholm
+COS/Helsinki
+COS/Oslo
+COS/Paris
+COS/Ottawa
+COS/London
+COS/Rome
+COS/The Hague
+COS/Brussels
+COS/Lisbon
+COS/Madrid
+COS/Barcelona
+COS/New York

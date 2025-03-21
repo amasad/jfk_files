@@ -1,0 +1,783 @@
+14-00000
+104-10333-10011
+2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+AGENCY INTERNAL USE ONLY
+PRIVILEGED ATTORNEY WORK PRODUCT
+OGC-94-52916
+19 September 1994
+MEMORANDUM FOR:
+David P. Holmes
+Deputy General Counsel
+FROM:
+Robert J. Eatinger. Jr.
+Assistant General Counsel
+Litigation Division, OGC
+SUBJECT:
+DCI Sources and Methods Authority With Respect
+to JFK Assassination Records
+1. Per your request, I have attached a copy of the
+President John F. Kennedy Assassination Records Collection Act of
+1992 (ARCA), Pub. L. 102-526, 106 Stat. 3443-3458, reprinted at
+44 U.S.C. § 2107 note. For your convenience, I have highlighted
+the pertinent provisions that will aid in responding to an
+inquiry regarding the statute's effect on the DCI's statutory
+authority to protect intelligence sources and methods.
+2. The clear language and intent of the law is to supersede
+statutes that prohibit disclosure of information, except for some
+irrelevant subject areas, such as tax records. The statute
+provides that "it shall take precedence over any other law
+(except section 6103 of the Internal Revenue Code), judicial
+decision construing such law, or common law doctrine that would
+otherwise prohibit" the disclosure of information subject to the
+Act. ARCA § 11(a). This language, taken with the provisions
+discussed below which limit the intelligence sources and methods
+that may be protected and set a strict procedural scheme by which
+information is to be reviewed under the ARCA, effectively
+supersedes the DCI's National Security Act authority with respect
+to intelligence sources and methods information subject to the
+ARCA.
+3. Section 6 of the ARCA provides the grounds for which the
+release of information may be "postponed." The statute
+contemplates that all information will eventually be released.
+Indeed, it specifies that all information will be made available
+to the public no later than 25 years after the passage of the
+ARCA (which occurred in October 1992) unless the president
+certifies that continued postponement is necessary. ARCA
+§ 4(g) (2) (D). With respect to intelligence-related information,
+ARCA_allows postponement if:
+"(1) the threat to
+...
+intelligence operations
+...
+is
+of such gravity that it outweighs the public interest, and
+such public disclosure would reveal-.
+PRIVILEGED ATTORNEY WORK PRODUCT
+AGENCY-INTERNAL USE ONLY
+14-00000
+AGENCY INTERNAL USE ONLY
+PRIVILEGED ATTORNEY WORK PRODUCT
+SUBJECT: DCI Sources and Methods Authority With Respect to JFK
+Assassination Records
+(A) an intelligence agent whose identity currently
+requires protection;
+(B) an intelligence source or method which is
+currently utilized, or reasonably expected to be
+utilized, by the United States Government and which has
+not been officially disclosed, the disclosure of which
+would interfere with the conduct of intelligence
+activities; or
+...
+...
+(C) any other matter currently relating to
+intelligence operations the disclosure of which
+would demonstrably impair the national security of the
+United States."
+ARCA § 6(1) (Emphasis added.)
+4. The originating agency is to make the first review to
+identify information that meets the standards for postponement.
+ARCA § 4(c)(2)(D)(i). For CIA, this effort is being undertaken
+by the Historical Review Group, in consultation with the
+Directorate of Operations and other appropriate Agency
+components. Information the originating agencies identify for
+postponement must be transmitted to the Review Board. ARCA
+§ 4(c)(2)(Ε). The Review Board "shall consider and render
+decisions on a determination by a Government office to seek to
+postpone the disclosure of assassination records." ARCA §
+7(1)(1). Specifically, the "Review Board sha'l consider and
+render decisions on whether an assassination record or
+particular information in a record qualifies for postponement of
+disclosure under the Act." ARCA § 7(1)(2)(B).
+5. If the Review Board determines to order the disclosure
+of information that the originating agency feit met the criteria
+for postponement, it "shall notify the head of the originating
+body of its determination and publish a copy of the determination
+in the Federal Register within 14 days after the determination is
+made." ARCA § 9(c)(4)(A). If the information contained in an
+assassination record is "obtained or developed solely within the
+executive branch, the President shall have the sole and
+nondelegable authority to require the disclosure or postponement
+of ... the information under the standards set forth in
+Section 6." ARCA § 9(d)(1) (emphasis added). The President's
+decision must be certified to the Review Board within 30 days of
+the Review Boards determination. Id. Records postponed by the
+President must be re-reviewed every 5 years. ARCA § 9 (d)(2).
+2
+PRIVILEGED ATTORNEY WORK PRODUCT
+AGENCY-INTERNAL USE ONLY
+14-00000
+AGENCY-INTERNAL USE ONLY
+PRIVILEGED ATTORNEY WORK PRODUCT
+SUBJECT: DCI Sources and Methods Authority With Respect to JFK
+Assassination Records
+6. I would be happy to discuss this further if you so
+desire. You might also want to contact John Pereira (x30373)
+since he has met with some or all of the Review Board members.
+Attachment
+Robert J. Eatinger, Jr.
+3
+PRIVILEGED ATTORNEY WORK PRODUCT
+AGENCY-INTERNAL USE ONLY
+14-00000
+SUBJECT: DCI Sources and Methods Authority w/Respect
+to JFK Assassination Records
+OGC-94-52916
+DCI/OGC/RJEatinger:76105 (19 Sept 94)
+Original
+Addressee
+w/attach) (hand delivered)
+1 OGC Registry (w/attach.)
+1 Lit File
+1 RBB (OGC/ILD)
+1 C/HRG (J.Pereira-404 Ames)
+1 RJE Soft File (w/attach)
+1 RJE Signer
+1 PDP
+1 KK-fyi
+1 PAS-fyi
+14-00000
+CIA SPECIAL COLLECTIONS
+RELEASE IN FULL
+2000
+DRAFT
+CHAPTER XIV -- ASSASSINATION RECORDS REVIEW BOARD
+Part 1400-GUIDANCE FOR INTERPRETATION AND IMPLEMENTATION
+OF THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS
+COLLECTION ACT OF 1992" (ARCA)
+Sec.
+1400.1 Scope of assassination record.
+1400.2 Scope of additional records and information.
+1400.3 Sources of assassination records and additional records and
+information.
+17
+14-00000
+DRAFT
+1400.4 Types of materials included in scope of assassination record and
+additional records and information.
+1400.5 Requirement that assassination records be released in their entirety.
+1400.6 Originals and copies.
+1400.7 Additional guidance.
+1400.8 Implementing the ARCA - Notice of Assassination Record Designation.
+Authority: 44 U.S.C. 2107 note.
+§ 1400.1
+Scope of assassination record,
+(a) An assassination record includes, but is not limited to, all records,
+public and private, regardless of how labeled or identified, that document,
+describe, report on, analyze, or interpret activities, persons, or events reasonably
+related to the assassination of President John F. Kennedy and investigations of or
+inquiries into the assassination.
+(b) An assassination record further includes, without limitation:
+(1) All records as defined in Sec. 3(2) of the ARCA;
+(2) All records collected by or segregated by all federal, state, and local
+government agencies in conjunction with any investigation or analysis of or
+inquiry into the assassination of President Kennedy (for example, any intra-
+agency investigation or analysis of or inquiry into the assassination; any inter-
+agency communication regarding the assassination; any request by the House
+Select Committee on Assassinations to collect documents and other materials; or
+18
+14-00000
+DRAFT
+any inter- or intra-agency collection or segregation of documents and other
+materials);
+(3) Other records or groups of records listed in the Notice of
+Assassination Record Designation, as described in §1400.8 of this chapter.
+§1400.2 Scope of additional records and information.
+The term additional records and information includes:
+(a) All documents used by government offices and agencies during their
+declassification review of assassination records as well as all other documents,
+indices, and other material (including but not limited to those that disclose
+cryptonyms, code names, or other identifiers that appear in assassination
+records) that the Assassination Records Review Board has a reasonable basis to
+believe may constitute an assassination record or would assist in the
+identification, evaluation or interpretation of an assassination record. The
+Assassination Records Review Board will identify in writing those records and
+other materials it intends to seek under this section.
+(b) All training manuals, instructional materials, and guidelines created or
+used by the agencies in furtherance of their review of assassination records.
+(c) All records, lists, and documents describing the procedure by which the
+agencies identified or selected assassination records for review.
+(d) Organizational charts of government agencies.
+(e) Records necessary and sufficient to describe the agency's:
+19
+14-00000
+DRAFT
+(1) Records policies and schedules;
+(2) Filing systems and organization;
+(3) Storage facilities and locations;
+(4) Indexing symbols, marks, codes, instructions, guidelines, methods and
+procedures;
+(5) Search methods and procedures used in the performance of the agencies'
+duties under the ARCA; and
+(6) Reclassification to a higher level, transfer, destruction, or other
+information (e.g., theft) regarding the status of assassination records.
+(f) Any other record that does not fall within the scope of assassination
+record as described in §1400.1, but which has the potential to enhance, enrich,
+and broaden the historical record of the assassination.
+§1400.3 Sources of assassination records and additional records and
+information.
+Assassination records and additional records and information may be located at,
+or under the control of, without limitation:
+(a) Agencies, offices, and entities of the executive, legislative, and judicial
+branches of the federal government;
+(b) Agencies, offices, and entities of the executive, legislative, and judicial
+branches of state and local governments;
+20
+14-00000
+DRAFT
+(c) Record repositories and archives of federal, state, and local governments,
+including presidential libraries;
+(d) Record repositories and archives of universities, libraries, historical
+societies, and other similar organizations;
+(e) Individuals who possess such records by virtue of service with a
+government agency, office, or entity;
+(f) Persons, including individuals and corporations, who have obtained such
+records from sources identified in subparagraphs (a) through (e) of this section;
+(g) Persons, including individuals or corporations, who have themselves
+created or have obtained such records from sources other than those identified in
+subparagraphs (a) through (e) of this section;
+(h) Federal, state, and local courts where such records are being held under
+seal; or
+(i) Foreign governments.
+§1400.4 Types of materials included in scope of assassination record and
+additional records and information.
+The term record in assassination record and additional records and information
+includes, for purposes of interpreting and implementing the ARCA:
+(a) papers, maps, and other documentary material;
+(b) photographs;
+(c) motion pictures;
+21
+14-00000
+DRAFT
+(d) sound and video recordings;
+(e) machine readable information in any form; and
+(f) artifacts.
+§1400.5
+Requirement that assassination records be released in their entirety.
+An assassination record shall be disclosed in its entirety except for
+portions specifically postponed pursuant to the grounds for postponement of
+public disclosure of records established in Sec. 6 of the ARCA, and no portion of
+any assassination record shall be withheld from public disclosure solely on
+grounds of non-relevance unless, in the Assassination Records Review Board's
+sole discretion, release of part of a record is sufficient to comply with the intent
+and purposes of the ARCA.
+§1400.6
+Originals and copies.
+(a) For purposes of determining whether originals or copies of assassination
+records will be made part of the President John F. Kennedy Assassination
+Records Collection (the JFK Assassination Records Collection) established under
+the ARCA, the following shall apply:
+(1) In the case of papers, maps, and other documentary materials, the
+Assassination Records Review Board may determine that record copies of
+Government records, either the signed original, original production or a
+reproduction that has been treated as the official record maintained to chronicle
+22
+14-00000
+DRAFT
+government functions or activities, may be placed in the JFK Assassination
+Records Collection;
+(2) In the case of other papers, maps, and other documentary material, the
+Assassination Records Review Board may determine that a true and accurate
+copy in lieu of the original may be placed in the JFK Assassination Records
+Collection;
+(3) In the case of photographs, the original negative, whenever
+available (otherwise, the earliest generation print that is a true and accurate
+copy) may be placed in the JFK Assassination Records Collection;
+(4) In the case of motion pictures, the camera original, whenever
+available (otherwise, the earliest generation print that is a true and accurate
+copy), may be placed in the JFK Assassination Records Collection;
+(5) In the case of sound and video recordings, the original recording,
+whenever available (otherwise, the earliest generation copy that is a true and
+accurate copy), may be placed in the JFK Assassination Records Collection;
+(6) In the case of machine-readable information, a true and accurate
+copy of the original (duplicating all information contained in the original and in
+a format that permits retrieval of the information) may be placed in the JFK
+Assassination Records Collection; and
+(7) In the case of artifacts, the original objects themselves may be
+placed in the JFK Assassination Records Collection.
+23
+14-00000
+DRAFT
+(b) To the extent records from foreign governments are included in the JFK
+Assassination Records Collection, copies of the original records shall be sufficient
+for inclusion in the collection.
+(c) In cases where a copy, as defined in paragraph (a) of this section above, is
+authorized by the Assassination Records Review Board to be included in the JFK
+Assassination Records Collection, the Assassination Records Review Board may,
+at its discretion if it determines it to be necessary to ensure the integrity of the
+JFK Assassination Records Collection, require a certified copy. In cases where an
+original, as defined in paragraph (a) of this section, is required for inclusion in
+the JFK Assassination Records Collection the Assassination Records Review
+Board may, at its discretion, accept the best available copy. In such cases that
+records included in the collection, whether originals or copies, contain illegible
+portions, such records shall have attached thereto a certified transcription of the
+illegible language to the extent practicable.
+(d) For purposes of implementing the ARCA, the term copy means a true and
+accurate photocopy duplication by a means appropriate to the medium of the
+original record that preserves and displays the integrity of the record and the
+information contained in it.
+(e) Nothing in this section shall be interpreted to suggest that additional
+copies of any assassination records contained in the JFK Assassination Records
+Collection are not also assassination records that, at the Assassination Records
+24
+14-00000
+DRAFT
+Review Board's discretion, may also be placed in the JFK Assassination Records
+Collection.
+(f) Nothing in this section shall be interpreted to prevent or preclude copies
+of any assassination records, and particularly assassination records in
+audiovisual or machine readable formats, from being made from time to time in
+the professional judgment of and at the discretion of the National Archives and
+Records Administration for purposes of preservation or reformatting to conform
+to different hardware and/or software requirements.
+§1400.7
+(a) A government agency, office, or entity includes, for purposes of
+interpreting and implementing the ARCA, all current, past, and former
+departments, agencies, offices, divisions, foreign offices, bureaus, and
+deliberative bodies of any federal, state, or local government and includes all
+inter- or intra-agency working groups, committees, and meetings that possess or
+created records relating to the assassination of President John F. Kennedy.
+(b) The inclusion of artifacts in the scope of the term assassination
+record is understood to apply solely for purposes of establishing the JFK
+Assassination Records Collection and for fully implementing the terms of the
+ARCA and has no direct or indirect bearing on the interpretation or
+implementation of any other statute or regulation.
+In the case of artifacts deemed to be assassination records and included in
+25
+Additional guidance.
+14-00000
+DRAFT
+the JFK Assassination Records Collection, the provision to the public of
+photographs, drawings, or similar materials depicting the artifacts shall be
+sufficient to comply with the ARCA's requirement that copies of assassination
+records be provided to the public upon request. Additional display of or
+examination by the public of artifacts in the JFK Assassination Records Collection
+shall occur under the terms and conditions established by the National Archives
+and Records Administration to ensure their preservation and protection for
+posterity.
+(d) The terms and, or, any, all, and the plural and singular forms of nouns
+shall be understood in their broadest and most inclusive sense and shall not be
+understood to be terms of limitation.
+(e) Unless the Assassination Records Review Board in its sole discretion
+directs otherwise, records that are identified with respect to a particular person
+shall include all records relating to that person that use or reflect their true name
+or any other name, pseudonym, codeword, symbol, number, cryptonym or alias
+used to identify that person.
+(f) Unless the Assassination Records Review Board in its sole discretion
+directs otherwise, records that are identified by the Assassination Records
+Review Board with respect to a particular operation or program shall include all
+records pertaining to that program by any other name, pseudonym, codeword,
+symbol, number or cryptonym.
+26
+14-00000
+DRAFT
+§1400.8 Implementing the ARCA -- Notice of Assassination Record
+Designation.
+(a) A Notice of Assassination Record Designation shall be the mechanism for
+the Assassination Records Review Board to announce publicly its determination
+that a record or group of records meets the definition of assassination records.
+(b) Notice of all designations will be published in the Federal Register within
+30 days of the decision to designate such records as assassination records.
+In determining that a record or group of records meets the definition of
+assassination records, the Assassination Records Review Board must determine
+that the record or group of records will more likely than not enhance, enrich, and
+broaden the historical record of the assassination.
+14-00000
+102D CONGRESS
+2d Session
+}
+SENATE
+Calendar No. 552
+{
+REPORT
+102-328
+THE PRESIDENT JOHN F. KENNEDY ASSASSINATION
+RECORDS COLLECTION ACT OF 1992
+REPORT
+OF THE
+COMMITTEE ON GOVERNMENTAL AFFAIRS
+UNITED STATES SENATE
+TO ACCOMPANY
+S. 3006
+TO PROVIDE FOR THE EXPEDITIOUS DISCLOSURE OF RECORDS
+RELEVANT TO THE ASSASSINATION OF PRESIDENT JOHN F.
+KENNEDY
+★59-010
+JULY 22 (legislative day, JULY 20), 1992. Ordered to be printed
+U.S. GOVERNMENT PRINTING OFFICE
+WASHINGTON: 1992
+S.Rept. 102-328 Ο 92
+1
+14-00000
+21
+tion, it is important to emphasize and clarify the legislative intent
+and importance of particular provisions of the Act.
+Defining assassination records
+"Assassination records" are defined in Section 3. The definition
+of "assassination records" is a threshold consideration for the suc-
+cessful implementation of the Act. Its scope will be the barometer
+of public confidence in the release of assassination records. While
+the records of past presidential commissions and congressional
+committees established to investigate the assassination of President
+Kennedy are included as assassination records under this Act, it is
+intended and emphasized that the search and disclosure of records
+under this Act must go beyond those records. While such records
+are valuable, they reflect the views, theories, political constraints,
+and prejudices of past inquiries. Proper implementation of this Act
+and providing the American public with the opportunity to judge
+the surrounding history of the assassination for themselves, re-
+quires including not only, but going beyond, the records of the
+Warren and Rockefeller Commissions, and the Church and House
+Select Assassination Committees.
+The term "assassination record" was not more specifically de-
+fined by the Committee because to do so before more is known
+about the universe of records would have been premature, and
+would have further injected the government between the records
+and the American public. There is a sufficient volume of known as-
+sassination records to organize and review at the outset. However,
+it is intended that the Review Board issue guidance to assist in ar-
+ticulating the scope or universe of assassination records as govern-
+ment offices and the Review Board undertakes their responsibil-
+ities. Such guidance will be valuable notwithstanding the fact that
+government offices will begin to organize and review their records
+before the Review Board is established. Government offices are re-
+quired to begin the review and disclosure of records upon enact-
+ment to expedite public access to the many records which do not
+require additional review or postponement. However, the ultimate
+work of the Review Board will involve not only the review of
+records recommended for postponement, but requiring government
+offices to provide additional information and records, where appro-
+priate. Guidance, especially that developed in consultation with the
+public, scholars, and affected government offices, will prove valua-
+ble to ensure the fullest possible disclosure and create public confi-
+dence in a working definition that was developed in an independ-
+ent and open manner.
+Autopsy Records
+The Act specifically excludes from the definition of "assassi-
+nation records" the autopsy records and copies or reproductions
+made from such records donated by the Kennedy family pursuant
+to a deed of gift executed on October 29, 1966. These records in-
+clude the autopsy photographs and X-rays of President Kennedy.
+The Committee believes that this exclusion is a sound policy. The
+Committee believes that there is a compelling justification for pro-
+tecting the privacy of the Kennedy family from the unwarranted
+14-00000
+19
+the date of enactment unless, in the case of executive branch
+records, the President demonstrates that public disclosure will
+result in an identifiable harm to the national security, intelligence
+operations, or foreign relations of the United States.
+The Assassination Records Review Board is an independent
+agency within the executive branch. The five-member Review
+Board will be appointed by the President with the advice and con-
+sent of the United States Senate. The confirmation hearings will be
+conducted by the Committee on Governmental Affairs. The Act re-
+quires that the Review Board include at least one historian and
+one attorney, and that each member is a national recognized pro-
+fessional in his or her field. The legislation requires that prior to
+making the appointments, the President is required to consider rec-
+ommendations from the American Historical Association, the Orga-
+nization of American Historians, the Society of American Archi-
+vists, and the American Bar Association.
+To ensure a comprehensive search and disclosure of assassination
+records, particularly to enable the public to obtain information and
+records beyond the scope of previous official inquiries, the Review
+Board has the authority to direct any government office to produce
+additional information and records which it believes are related to
+the assassination. It has the authority to subpoena private persons
+and to enforce the subpoenas through the courts.
+The Review Board is authorized for a two-year period and it may
+be extended by a majority vote of the Review Board for up to an
+additional year. The Review Board-could decide to extend it exist-
+ence to less than one year if that is the time determined as neces-
+sary to complete its work. Annual financial reports and other peri-
+odic reports are required to be provided to the Congress. The re-
+ports must include statements of progress, the level of cooperation
+of government offices and agencies, and the possible need for addi-
+tional time or authority from Congress.
+IV. BACKGROUND AND NEED FOR LEGISLATION
+On November 22, 1963, President John F. Kennedy was assassi-
+nated. It was a tragic and defining moment in American history.
+The desire by the American public to understand who assassinated
+President Kennedy, and why, has resulted in several official inves-
+tigations and a broad spectrum of private inquiries and scholar-
+ship. Unfortunately, in the eyes of the public, each investigation
+and inquiry served to raise additional questions, and did so while
+increasing the volume of secret government records about the as-
+sassination. In 1992, the public demand, fostered by increased
+media attention, the opening of secret files by changing govern-
+ments around the world, and other factors, culminated in the rec-
+ognition by the Congress and the Executive Branch that the
+records related to the assassination of President Kennedy should be
+fully disclosed.
+In addition to the legislation considered by the Committee, and
+its counterpart considered by the House Committee on Government
+Operations, four other related, though more limited, measures
+were introduced in the House of Representatives in 1992. Two bills
+mandating the release of all Kennedy assassination investigation
+14-00000
+7506
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Proposed Rules
+(B) For dependents of active duty
+members in pay grades of E-5 and
+above, $25; and,
+$25.
+(C) For retirees and their dependents.
+(vi) The copayment for prescription
+drugs per prescription, for a maximum
+30-day supply. is as follows:
+(A) For dependents of active duty
+mombors in pay grades E-1 through E-
+4,$5;
+(B) For dependents of active duty
+members in pay grades of E-5 and
+above, $5; and,
+(C) For retirees and their dependents,
+$9.
+(vii) The copayment for ambulanco
+services is as follows:
+(A) For dependents of active duty
+members in pay grades of E-1 through.
+E-4. $10;
+(B) For dependents of active duty
+members in pay grades of E-S and
+above, $15; and,
+$20..
+(C) For retirees and their dependents,
+(e) Inpatient cost sharing
+requirements under the Uniform HMO
+Benefit (1) In general. In lieu of usual
+CHAMPUS cost sharing requirements
+(see § 194.4(1)), special cost sharing
+amounts are required. The specific
+requirements shall be uniform and shall
+be published as a notice annually by the
+Assistant Secretary of Defense (Health
+Affairs)
+(2) Structure of cost sharing. For
+servicos other than mental illness or
+substance use treatment, there is a
+nominal copayment for active duty
+dependents and for retired members.
+dependents of retired members, and
+survivors. For inpatient mental health
+and substance use treatment, a separate
+per day charge is established.
+(3) Amount of inpatient cost sharing
+requirements. Beginning in fiscal year
+1995, the inpatient cost sharing
+requirements are as follows:
+(i) For acute care admissions and
+other non-mental health/substance use
+treatment admissions, the per diem
+charge is as follows, with a minimum
+charge of $25 per admission:
+(A) For dependents of active duty
+members in pay grades E-1 through E-
+4,$11;
+(B) For dependents of active duty
+members in pay grades of E-5 and
+above, $11; and,
+(C) For retirees and their dependents.
+$11.
+(ii) For mental health/substanco use
+treatment admissions, and for partial
+hospitalization services, the per diem
+charge is as follows, with a minimum
+charge of $25 per admission:
+(A) For dependents of active duty
+members in pay grades E-1 through E-
+4. $20;
+(B) For dependents of active duty
+members in pay grades of E-S and
+above, $20; and,
+(C) For retirees and their dependents,
+$40.
+(1) Updates. The enrollment fees for
+fiscal year 1995 set under paragraph (c)
+of this section and the per services
+specific dollar amounts for fiscal year
+1995 set under paragraphs (d) and (e) of
+this section may be updated for
+subsequent years to the extent necessary.
+to maintain compliance with statutory
+requirements pertaining to government
+costs. This updating does not apply to
+cost sharing that is expressed as a
+porcentage of allowable charges; these
+percentages will remain unchanged.
+(g) Applicability of the Uniform HMO
+Benefit to Uniformed Services
+Treatment Facilities Managed Care
+Program. The provisions of this section
+concerning the Uniform HMO Benefit
+shall apply to the Uniformed Sørvices
+Treatment Facilities Managed Care
+Program, effective October 1, 1995.
+Under that program, non-CHAMPUS
+eligible beneficiaries have the same
+payment responsibilities as CHAMPUS
+eligible beneficiaries.
+Dated. February 2, 1995.
+LM. Bynum,
+Alternate OSD Federal Hexister Liaison
+Officer, Department of Defense.
+[FR Doc. 95-3028 Filod 2-7-95.8 45 aral
+BILLING CODE 6000-04-44
+ASSASSINATION RECORDS REVIEW
+BOARD
+36 CFR Part 1400
+Guidance on Interpreting and
+Implementing the President John F.
+Kennedy Assassination Records
+Collection Act of 1992
+AGENCY: Assassination Records Review
+Board (ARRB).
+ACTION: Proposed interpretive
+regulation.
+SUMMARY: The ARRB proposes to issue
+regulations providing guidance on the
+interpretation of certain terms defined
+in and the implementation of the
+President John F. Kennedy
+Assassination Records Collection Act of
+1992.
+DATES: To be considered, comments
+between the hours of 9:30 am. and 4:30
+p.m., Monday through Friday (except
+legal holidays). Comments may also be
+faxed to the Board at (202) 724-0457.
+Comments received may be inspected in
+the Board's public reading room, located
+at the address shown above, between 10
+a.m. and 3 p.m. Monday through Friday
+(except legal holidays). Parsons wishing
+to inspect comments in the Board's
+public reading room should call the
+Board's office beforehand at (202) 724-
+0088 for further information.
+FOR FURTHER INFORMATION CONTACT:
+Sheryl L. Walter (General Counsel).
+(202) 724-0088.
+SUPPLEMENTARY INFORMATION:
+Background
+The President John F. Konnedy
+Assassination Records Collection Act of
+1992, 44 U.S.C. 2107 note (as amended)
+(ARCA), established the President John
+F. Kennedy Assassination Records
+Collection (the JFK Collection) at the
+National Archives and Records
+Administration (NARA). In establishing
+the process for public disclosure of all
+records relating to the assassination,
+Congress created an independent agency
+within the executive branch, the
+Assassination Records Review Board
+(the Board), which consists of five
+citizens appointed by the President.
+Under the statute, the Board is
+empowered to dende "whether a record
+constitutes an assassination record." 44
+U.S C. 2107 note, Sec. 7(1)(2)(A).
+Congress further made clear its intent
+that the Board "issue guidance to assist
+in articulating the scope or universe of
+assassination records." President John
+F. Kennedy Assassination Records
+Collection Act of 1992, S.Rep. 102-328.
+102d Cong.. 2d Sess. (1992) at 21.
+In constructing the proposed guidance
+set out here, the Board seeks to
+Implement congressional intent that the
+JFK Collection contain "the most
+comprehensive disclosure of records
+related to the assassination of President
+Kennedy." Id. at 18. The Board is also
+mindful of Congress's instruction that
+the Board apply a "broad and
+encompassing" working definition of
+"assassination record" in order to
+achieve the goal of assembling the
+fullest historical record on this tragic
+event in American history and on the
+investigations that were undertaken in.
+the assassination's aftermath. The Board
+must be received on or before March 10, recognizes that many agencies have
+1995.
+ADDRESSES: Comments should be
+mailed to the Assassination Records
+Review Board at 600 E Street, NW,
+Second floor, Washington, D.C. 20530 or
+delivered in person to that address
+already begun to organize and review
+records responsive to the ARCA even
+before the Board was appointed and
+began its work. Nevertheless, the
+Board's aim is that this guidance will
+ald in the ultimate assembly and public
+14-00000
+7507
+Federal Register / Vol. 60, No. 26 / Wednesday, February 8, 1995 / Proposed Rules
+assassination records as well as all other
+documents, indices; records, and other
+material that disclose cryptonyms, code
+names, or other identification material
+in assassination records.
+(b) All training manuals, instructional
+materials, and guidelines created or
+used by the agencies in furthorance of
+their roview of assassination records.
+(c) All records, lists, and documents
+describing the procedure by which the
+agencies identified or sclected
+assassination records for review.
+(d) Organizational charts of
+government agencies.
+1400.4 Types of materials included in scope describe the agency's:
+(e) Records necessary and sufficient to
+of assassination record and additional
+records and information.
+records be released in their entirely
+President Kennedy's assassination. Id. at 1400.5 Requirement that assassination
+21. The Board also soeks to provide
+notice of the scope of its intended
+exercise of authority to seek additional
+information or records in order to fulfill
+its functions and responsibilitios under
+the ARCA.
+In addition, the Board proposes to
+create a mochanism to facilitate the
+Board's ongoing work and to further
+ensure future public access to the
+broadest possible historical record. This
+mechanism will be known as the
+"Catalog of Assassination Records"
+(COAR). The COAR is intended to be an
+official listing of all records determined
+by the Board to meet the definition of
+"assassination record" and included in
+the JFK Collection.
+Request for Comments
+The Board seeks public comment on
+its proposed interpretive regulations
+intended to provide guidance on the
+Intorpretation of the term assassination
+record, the intended scope of its
+exercise of authority to seek additional
+Information or records, and its
+additional proposals for implemontation
+of the ARCA.
+List of Subjects in 36 CFR Part 1400
+Administrative practice and
+procedure, Archives and records.
+Accordingly, the Assassination
+Records Review Board hereby proposes
+to establish a new chapter XIV in title
+36 of the Code of Federal Regulations to
+ruad as follows:
+(1) Records policies and schedules:
+(2) Filing systems and organization:
+and
+(3) Storage facilitios and locations.
+1400.6 Originals and copies.
+1400

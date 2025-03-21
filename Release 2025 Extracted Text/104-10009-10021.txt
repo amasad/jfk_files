@@ -1,0 +1,180 @@
+1000000
+104-10009-10021
+2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+BECKET
+FIELD DISTRIBUTION BD #5847
+-
+AF DIVISION
+Johannesburg
+Lagos
+Nairobi
+FE DIVISION
+Bangkok
+Djakarta
+Hong Kong
+Honolulu
+Kuala Lumpur
+Pretoria
+Rabat
+Salisbury
+EUR DIVISION
+Barcelona
+Berlin
+Bern
+Bonn
+Brussels
+Copenhagen
+Geneva
+The Hague
+Hamburg
+Kuching
+Manila
+Medan
+Melbourne
+Okinava
+Rangoon
+Saigon
+Seoul
+Singapore
+Helsinki
+Lisbon
+London
+Madrid
+Milan
+Munich Liaison Base
+Munich Ops. Base (Laurion)
+Oslo
+Ottawa
+Paris
+Taipei
+Tokyo
+Vientiane
+Surabaya
+Wellington
+WH DIVISION
+Asuncion
+Bogota
+Brasilia
+Buenos Aires
+Caracas
+Georgetown
+Quatemala City
+Guayaquil
+San Jose
+San Salvador
+Santiago
+Santiago de los
+Caballeros
+Santo Domingo
+Sao Paulo
+Tegucigalpa
+LCPIPIT
+Rome
+Salzburg
+JMWAVE
+Stockholm
+Kingston
+Vienna
+La Paz
+Zurich
+Lima
+NB DIVISION
+Ankara
+Athens
+Beirut
+Calcutta
+Colombo
+Istanbul
+New Delhi
+Rawalpindi
+Teheren
+Managua
+Mexico City
+Monterrey
+Montevideo
+Norfolk (REPLANT)
+Panama City
+Port au Prince
+Porto Alegre
+Quito
+Recife
+Rio de Janerio
+SECRET
+13-00000
+OBORET
+HQS DISTRIBUTION - BD #5847
+CA STAFF
+DC/CA
+NE DIVISION
+NE/COPS
+CA/COPS
+CA/PROP
+CA/LO
+CA/B1
+CA/B2
+CA/B3
+CA/B4
+CA/B5
+NE/GTI/G
+NE/GTI/T
+HE/GTI/I
+ΝΕΑΑ/Ι
+NEAA/AP
+NEAA/S&L
+NESA/RE
+NESA/C&N
+MESA/I
+NESA/P
+AF/COPS/CA
+WE DIVISION
+AF/1
+AF/2
+WH/CA
+AF/3
+WH/C
+AP/4
+WE/C/CA
+AP/5
+WH/1
+AF/6
+WH/1/Mexico
+WH/2
+FE/CA 14
+WH/2/G
+C/CO/CA
+WH/2/P
+WH/H/S
+SB/CA
+WH/2/CR/N
+WH/3
+DO/CA 3
+WH/3/B
+WH/3/CO
+CI/R&A 10
+WH/3/E
+WH/3/P
+EUR DIVISION
+WH/3/V
+WE/4
+E/CA
+WH/4/AR
+E/SC
+WH/4/CH
+E/BNL
+WH/4/P/U
+E/F
+WH/5
+E/I
+WH/5/Brasil
+E/IB
+WH/6
+E/G
+WH/7
+E/AS
+WH/7/HT
+E/BC
+WB/7/GU
+WH/7/DR
+WH/7/JTS
+SECRET
+

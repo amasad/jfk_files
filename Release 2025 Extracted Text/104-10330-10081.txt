@@ -1,0 +1,667 @@
+2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+1000000
+104-10330-10081
+MAR 31 '97
+12:02PM
+CLASSIFIED FAX
+TRANSMISSION
+ARRB
+202-724-0088
+P.1
+To:
+Barry Harrelson
+Date:
+March 31, 1997
+Fax #:
+703-613-3060
+Pages:
+17, including this cover sheet.
+From:
+Michelle Combs
+Subject:
+DS&T and DO Briefing Questions
+COMMENTS:
+Bany,
+Attached are the final versions of the DS&T and DO briefing questions. There are no changes in
+the DS&T questions. Questions have been added to the DO list to reflect our conversation
+March 19 and 20. You, of course, already have our detailed explanations for the earlier DO
+questions. If you have any questions or if there are any problems, please give me a call. I should
+be in all day. See you tomorrow.
+Michelle
+13-00000
+MAR 31 '97 12:03PM
+P.2
+HTLINGUAL
+1. What kinds of records might the DS&T maintain on the HTLINGUAL project? How
+could these records be queried?
+Castro Assassination Plots
+1. What kinds of records would TSD or other offices of DS&T have maintained on the
+various Castro assassination plots? How might a search query be framed to isolate
+these records?
+13-00000
+MAR 31 '97 12:03PM
+P.1
+SKUNK WORKS
+A Personal Memoir of My Years at Lockheed
+BEN R. RICH AND LEO JANOS
+LB
+LITTLE, BROWN AND COMPANY
+BOSTON
+NEW YORK
+TORONTO
+LONDON
+13-00000
+MAR 31 '97 12:04PM
+P.2
+LIBRARY OF CONGRESS
+TL565
+R53
+SEP 15 1994) 1994
+COPY
+COPYRIGHT OFFICE
+Copyright © 1994 by Ben R. Rich
+All rights reserved. No part of this book may be reproduced in
+any form or by any electronic or mechanical means, including
+Information storage and retrieval systems, except by a
+reviewer who may quote brief passages in a review.
+First Edition
+Rich, Ben R.
+Library of Congress Cataloging-in-Publication Data
+Skunk Works: a personal memoir of my years at Lockheed/Ben R. Rich and Leo
+Janos. 1st ed.
+P.
+cm.
+Includes index.
+ISBN 0-316-74330-5
+-
+1. Lockheed Advanced Development Development Company - History. 2. Rich, Ben R.
+Career in aeronautics. 3. Aeronautics - Research - United States - History. Ι.
+Janós, Leo. II. Title. III. Title: Skunk Works.
+TL565.R53 1994.
+338.7'623746'0973 - dc20
+10 9 8 7 6 5 4 3 2 1
+MV-PA
+Published simultaneously in Canada
+by Little, Brown & Company (Canada) Limited
+Printed in the United States of America
+94-8732
+13-00000
+MAR 31 '97 12:04PM
+P.3
+or
+se
+ly
+Ds
+re
+מי
+ot
+'s
+le
+1,
+:
+n
+S.
+n
+r
+r
+1-
+d
+it
+1
+4
+OVERFLYING RUSSIA
+153
+The next thing we tried was something called a Salisbury
+screen, a metallic grid applied to the airplane's undercarriage
+in the hope of deflecting incoming radar beams, but it worked
+only at some frequencies and altitudes and not at others.
+Kelly thought it was more practical to try special iron fer-
+rite paints that would absorb a radar ping rather than
+bounce it back to the sender. The paints were moderately ef-
+fective but inhibited heat dissipation through the airframe's
+outer skin and we experienced overheating engine problems.
+But the paint lowered the radar cross section by one order of
+magnitude, so we decided to give it a try. We called these
+specially painted airplanes "dirty birds" and shipped the first
+one out for flight testing in April 1957. Our test pilot, Bob
+Sieker, took the U-2 up to over. seventy thousand feet and
+suddenly, radioed that he was experiencing rapid airframe
+heat buildup. Moments later his engine blew out and the face-
+plate blew off Bob's oxygen mask as his pressure suit in-
+stantly inflated. The U-2 dove straight down and crashed. It
+took us three days to locate the wreckage and Bob's body. An
+autopsy revealed that above seventy thousand feet he had
+suffered acute hypoxia and lost consciousness in only ten
+seconds. The culprit that killed him was a defective faceplate
+clasp that cost fifty cents.
+The CIA was so desperate to buy time for these Soviet over-
+flights that Bissell got Kelly to sequester four of our test flight
+engineers and have them write a bogus flight manual for a. U-2
+twice as heavy as ours and with a maximum altitude of only
+fifty thousand feet that carried only scientific weather gear in
+its bay. The manual included phony instrument panel photos
+with altered markings for speed, altitude, and load factor
+limits. Four copies were produced and then artificially aged
+with grease, coffee stains, and cigarette burns. How or if the
+agency got them into Soviet hands only Mr. B knew, and he
+never told.
+13-00000
+MAR 31 '97 12:05PM
+Questions for Follow-up DO Records Briefing
+April 1, 1997
+P.4
+1. At what point did the DDP begin to keep records of destroyed records? For
+example, in a Cold Warrior footnote, Tom Mangold reports that as any of Angleton's
+files were destroyed, "a complete record was carefully maintained about what had been
+done. (George) Kalaris signed off on every file and the DCI's office was notified."
+(p. 143) Where are these records?
+2. Could an archival search be run on specific topics for retired records at the CIA's
+Record's Center? Perhaps an ARRB staffer could be present during the search to review
+the abstracts and to suggest other fields or topics to be searched?
+3. Could a crypt search for records containing relevant crypts be run through
+cryptographic reference? How would queries need to be framed and stated?
+i
+4. Why is it so difficult to develop a list for all personnel (official, contract,
+administrative, or TDY) assigned to the post referenced in RIF 104-10065-10199 from
+1959-1964?
+5. We have been working to identify all technical and surveillance operations in and on
+the Cuban and Soviet consulates and embassies in Mexico City between September 1
+and December 1, 1963. How can we frame a search query to determine if we have a
+comprehensive and complete list of all operations at that time?
+6. How can a search query be framed to document all electronic take produced by the
+Mexico City Station in the immediate wake of the assassination (the first month) and
+during the period of Oswald's visit? How can we verify that what exists in the
+Sequestered Collection represents all records of the technical production that was
+available at the time of the assassination? If additional records or original production
+still exists, where would it be stored or filed? What searches could be conducted to
+retrieve any additional records? If such electronic take has been destroyed, do records
+exist of the destruction?
+7. Could you describe the process by which operational funds are proposed, approved,
+received, and distributed (circa 1963). What funding and disbursement records exist?
+How are they organized? How should a request be formulated to institute a reasonable
+search of these records?
+1
+13-00000
+MAR 31 '97 12:05PM
+P.5
+8. We have seen DDP monthly operational reports which contain information on the
+allocation/distribution of operational funds. Are there other DDP records which would
+reflect how certain projects utilized their funding? How are these records organized?
+How should a search query be framed?
+9. Various open sources have linked the CIA to various journalists and publishing
+companies during the 1960's. How should a query be framed to search for connections
+between the Agency and journalists or publishing companies?
+10. Did the Agency have any relationship, projects, or contacts with publishing houses
+during the time of the assassination and in the aftermath of the Warren Commission?
+How would a search be formulated to determine whether or not the Agency had a
+relationship with any of the same publishing houses that were also publishing books
+about the assassination?
+11. How would a query be framed to search for files on any office or person dealing
+with organized crime and Cuba? How should a request be formulated to institute a
+reasonable search on this topic?
+12. Is there a comprehensive record or list detailing the identities of individuals on the
+Interagency Source Register? How are these records organized? How can a search
+query be framed to ascertain whether or not a particular individual appears in the
+Register.
+13. How could a search query be framed to ascertain whether or not a particular
+individual was given access to classified information by DCD (then OO)? What kind of
+files are assembled in the process of clearing non-Agency contacts/sources for access to
+classified information?
+14. ARRB's Request for Additional Information and Record No. CIA-13, dated
+November 1, 1996, contained the following questions:
+A.
+What forms of backchannel communications were there between the
+Mexico City Station (including the COS), JMWAVE, or Headquarters
+during 1963? By "backchannel" we mean, inter alia, any administrative,
+senior staff, or restricted access communications, or any written or
+electronic communications other than regular cables or dispatches (of the
+type included in the JFK Collection).
+B.
+Were there, in fact, any backchannel communications between the Mexico
+City Station (including the COS), JMWAVE, or Headquarters during the
+time periods 27 Sept - 16 Oct 1963 and 22 Nov - 30 Nov 1963?
+2
+13-00000
+MAR 31 '97 12:06PM
+P.6
+C.
+To the extent that there were any backchannel communications for the
+time periods 27 Sept - 16 Oct 1963 and 22 Nov - 30 Nov. 1963 (other than
+those currently contained in the JFK Collection), please make such records
+available for review.
+Why has it been so difficult to answer these questions?
+15. ARRB's Request for Additional Information and Record No. CIA-14, dated
+December 23, 1996, documented our request for the annual or biannual Station reports
+for Mexico City Station for 1963 and 1964. Why has it been so difficult to provide these
+reports?
+16. The attached Agency document released in 1996 contains the paragraph:
+11. A memorandum marked only for file, 16 March 1967, signed M.D.
+Stevens, says that J. Monroe SULLIVAN, #280207, was granted a covert
+security approval on 10 December 1962 so that he could be used in Project
+QKENCHANT. (Clay) Shaw has # 402897-A.
+What do these numbers mean? What does the "A" at the ends of Shaw's number
+signify? Do the files identified by these numbers still exist? Why was Sullivan granted
+a covert security approval?
+17. During the period 1959-1963, what was the purpose or goal of QKENCHANT?
+18. Under what circumstances were non-agency employees given covert security
+clearances for the QKENCHANT project?
+19. Did Clay Shaw receive a covert security approval for the QKENCHANT project?
+Why was one needed? Did Clay Shaw receive covert security clearances for any
+project other than QKENCHANT
+20. What did Clay Shaw do within the QKENCHANT project?
+21. Do records exist to account for the disposition of all files on Clay Shaw?
+22. Did Howard Hunt have any involvement with the QKENCHANT project prior to
+1964?
+23. Did J. Monroe Sullivan have any involvement with the QKENCHANT project prior
+to 1964?
+3
+13-00000
+MAR 31 '97 12:06PM
+P.7
+SECRET
+SECRET
+24. The DO telephone directories list an Operational Services/Defector Staff beginning
+in October 1959? What was the Defector Staff? Did it have an operational component?
+25. In the period 1959-1964, were DO officers, selected to serve overseas under State
+Department cover, legally considered to be "members of the Foreign Service, appointed
+by the President with the advice and consent of the Senate?"
+SECRET
+SECRET
+13-00000
+MAR 31 97 12:07PM
+.....
+HELBASED PER P.L. 108-626 (JFK ACT)
+NARA SU
+DATE 214147
+P.8
+a relatively clean, casy-to-read specimen of what we seicably there
+CIA HISTORICAL REVIEW PROGRAM
+Release As Sanitized
+1996
+....
+:
+already
+Note: only redaction in Ok (whit
+Digugh) from OKEWCITANE
+CIA calls
+a
+on page 4 here paragraph 1
+Enclosure 21
+I've unclubed a pon copy
+of page 4 that contains the ?!!
+:
+SUBJECT: Clay L.YEHAW (201-813493).
+1. Subject was born on 17 March 1913 in New Orleans,
+Louisiana.
+2. Standard background information on Subject
+(parents, marital status, records of education and
+employment, etc.) is lacking because SHAW was a contact
+of the Domestic Contact Service.
+3. Traces on Subject have been run in RID/Main
+Index, the index of the Office of Security and the
+Central Cover Staff. The first showed only a 1951 FBI
+interview with SHAW about a former employee of the New,
+Orleans International Trade Mart. The second showed
+that 00/Contacts Division had requested a name trace:
+about 1949 and that the check of FBI records then con-
+ducted was negative, Central Cover Staff had no record.
+4. Some of the 00-B reports based on SHAW'S
+reporting are on hand. They are the following. (It
+is noted that the source description identifies the
+'source by job title.)
+a.
+00-8 47958, 26 March 1952, concerns
+a letter written to the public relations
+director of the International Trade
+Mart by one Dr. Jutta SCHALLER, a trade
+consultant to the Bonn Government. The
+letter is a follow-up of discussions held
+in Now Orleans during December 1951. The
+letter said that Soviet production and
+export trado were being advertised and
+CARDED
+1430-492-7
+Document Number
+for FOIA Review on
+DEC 1977
+13-00000
+MAR 31 197 12:07PM s
+RELEASED. PER P.L. 102-886 (JFK ACT)
+NARA SU
+DAITH 214197
+ست
+:
+promoted by West German money. The
+publication Wer Liefert Was?, published
+In Leipzig, is now also being published
+in Hamburg, at a price much lower than
+competitive volumes.
+b. 00-8-9381, 27 December 1948. Information
+c.
+acquired 18 December 1948. SHAW (identified
+by job title) has agreed to leass to the
+CBR government 1,000. faot of space for a
+display of merchandise in New Orleans. The
+lease Is for one year, starting 1 April
+1949.
+00-8-4933-49, 14 June 1949, information
+date late April and early May 1949. Results
+of a trip Silaw made in March through. May
+1949 in West Indies, Central America, and
+Northern. South America.
+d. 00-B-4934-49, 14 June 1949, same general
+subject and background as above.
+e.
+00-8-4935-49, 14 June 1949, as above.
+... 00-B-35477, 29 June 1951. Results of a
+SHAW trip in 1951 in Central and South
+America and the Caribbean area.
+5. On 9 May 1961 Ganeral C. P. Cabell, then DDCI,
+addressed the Foreign Policy Association of New Orleans.
+It is believed that he was introduced by Clay SHAW.
+6. On 3 March 1967 the Washington Star reported
+that Garrison had arrested SHAW and had made public
+charges that SHAM, FERRIE, OSWALD, and others had plotted
+the assassination in the apartment of FERRIE at 3300
+Louisiana Parkway, New Orleans. SHAW has said that he
+never saw OSWALD. He denies having used the name Clay
+BERTRAND, Jack 8. MARTIN said that FERRIE had mentioned
+2
+P.9
+13-00000
+MAR 31 '97 12:08PM
+KELBAARD PER P.L. 108-886 (JFK ACT)
+NARA 54
+DATH 214197
+OLUMET
+SHAW to him. J.. Monroe SULLIVAN, executive director of
+the San Francisco World Trade Center, told the Associated
+Press that SHAW was in San Francisco and touring the
+Canter with him on the day of the assassination. SHAW,
+now retired, was formerly the managing director of the
+International Trade Mart in New Orleans. He is 54 years
+old. Ramsey Clark, U.S. Attorney General, said that the
+FBI had investigated SHAW late in 1963. "On the evidence
+that the FBI has, there was no connection found" with the
+assassination.
+7. Memorandum No. 84-67, 3 March 1967, from Chief,
+Now Orleans Office, to Director, Domestic Contact Service,
+re SHAW.
+a.
+The first contact of the New Orleans office
+of the DCS with Clay SHAW occurred in
+December 1948. A nama check request was
+returned "no info" on 23 March 1949. SHAW
+was contacted by Mr. Hunter Leake of the
+New Orleans office saven times in 1949,
+twice in 1950, five times in 1951, nine
+times in 1952, once in 1953, twice in 1954,
+twice in 1955, and twice in 1956. SHAW
+is the source of eight 00-B reports sub-
+mitted by the New Orleans office. At one
+tima ho had the "Y" number 145.1. The
+last contact took place on 25 May 1956/
+On 23 January 1967 Jack S. MARTIN phoned
+the New Orleans office, said that he was
+working on an important undercover deal
+for. Garrison and Detective Louis IVON,
+and was calling at IVON's request. He was
+culling to ask the head of the CIA office
+to telephone IVON on his unlisted number.
+No such call was made. The writer, Lloyd
+A. Ray, asks that the General Counsel be
+informed and that he provide advice.
+8. Undated and unsigned memorandum (probably
+produced by CI/R & A). The following additional infor-
+mation was provided by the New Orleans office of DCS.
+3
+P.10
+13-00000
+MAR 31 '97 12:08PM
+REPRODUCED AT THE NATIONAL ARCHIVES
+Sincs 25 May 1956 ir. Hunbomebackdrhad seen SHAW casually,
+by chanca, in various downtown Raw Orleans, restaurants,
+and groatinga ware exchanged. The last much casuni
+encounter was just bafora SEAW's zatizemont in 1965.
+9. On 7 March 1967 Pravda published an article
+called "Ciny Shaw of the CYA datelined Rome, 6 March
+1967, written by V. VERMAKOV, The asticio charged that.
+CIA made, use of the services of Clay SilMM for CIA'S OWN
+inkorants in Italy. The Pravda piece notes that the Da
+in or Origana is accusing SAW of participation in tha...
+nanassination conspiracy. It says SHAN spont "goan yours"
+in Poma an à World Trade Conter loader. It claims that
+the Contar was a covor for financing anti-Communiot activity.
+CIA gava directives to SHAN. The World Trade Cantor was
+a branch of "Parmidess" (sic), "which tho novopapare in
+Switzerland openly eccused of 'criminal oporations...."
+(Comcont. It appaars that all of the Pravde chargen-are
+untzun, oxcept that there was a CIA-SHAW relationship. So
+far ac is known, SHAX was never asked to uso hin relation-
+ship with the World Trade Center for clandestino purposes
+and, in fact, ho has not boon in Italy.)
+10. Memorandun fronman
+Merch
+1967 subjects Italim Auraces of the Clay Shaw Affair
+The Covelove dalla Bora of 5. March 1067 has an aktlalu
+about SA, the assassination, and, the, World Trade Conter:
+Contains no relevant information..
+:
+11 AnoRozandom marked only for file, 16 March 1967,
+BigoodStoyone, anys, that J. Fonton SULLIVAN, 1280207,
+was granted a covazt security approval on 10 Decombor, 1962
+no that he could bo uzad in Project ONENCHANT. SHAW has
+0402097-1
+: 12. Momorandum on 24 Barch
+1967; Subjects wraca Razliits on, Persons Connected with
+Contra ipadikla Commercialo" (Wozlá Trade Center), filed
+Форманси folder, Clay SHAW working papozs.
+P.11
+13-00000
+MAR 31 '97 12:09PM
+REPRODUCED AT THE NATIONAL ARCHIVES
+Since 25 May 1956 Mr. Hunter Leake had seen SHAW casually,
+by chance, in various downtown New Orleans restaurants,
+and greetings were exchanged. The last such casual
+encounter was just before SKAW's retirement in 1965.
+9. On 7 March 1967 Pravda published an article
+called "Clay Shaw of the CIX datelined Roma, 6 March
+1967, Written by V. YERMAKOV. The article charged that.
+CIA made use of the services of Clay SHAW for CIA's own
+interests in Italy. The Pravda place notes that the DA
+in New Orleans is accusing SHAW. of participation in the
+assassination conspiracy. It says SHAW spent "some years"
+in Roma as a World Trade Canter leader. It claims that
+the Center was a cover for financing anti-Communist activity.
+CIA gave directives to SHAW. The World Trade Canter was
+a branch of "Permidax" (sic), "which the newspapers in
+Switzerland openly accused of 'criminal operations'...."
+(Comments It appears that all of the Pravda charges ara
+untrue, except that there was a CIA-SHAW relationship. So
+far as is known, SHAW was naver asked to use his relation-
+ship with the World Trade Center for clandestine purpoвов
+and, in fact, he has not been in Italy.)
+10. Memorandum from C/EUR/I to C/CI/R & A, 8 March
+1967 subjects. Italian Aspects of the Clay Shaw Affair.
+The Corriere della Sera of 5 March 1967 has an article
+about SHAW, the assassination, and the World Trade Center.
+Contains no relevant information.
+11. A memorandum marked only for file, 16 March 1967,
+signod M.D. Stevens, says that J. Monroe SULLIVAN, 1280207,
+was granted.a covert security approval.on 10 December 1962
+no that he could be used in Project (JENCHANT. SHAW has
+1402897-1.
+12. Memorandum from C/EUR/I to C/CI/R & A, 24 March
+1,967,. Subject: "Trace Results on Persons Conneated with
+Centro Mondiale Commerciala (World Trade Center), filed
+CI/R& A folder, Clay SHAW - working papers.
+P.12
+13-00000
+MAR 31 '97 12:09PM
+REPRODUCED AT THE NATIONAL, ARCHIVIN
+:
+HNLRAUBU FER P.L. 108-896 (JFK ACT)
+NARA
+DATA 214147
+1
+The 5: March 1967 issue of Il Messaggero
+links SHAW with the World Trade Center.
+Others linked to the cantar wore traced,
+with results reported in this mamorandum.
+No relationship to the Garrison investigation
+appears hore. A report on "Parmidex", a
+Swiss corporation with principal offices
+in Rome, is also in the file because the
+World Trade Center and Permidex are
+associatad. Again, thare is no information
+here which relates significantly to the
+case Garrison is trying to build in New
+Orleans..
+13. The Washington Post, Outlook, 2 April 1967,
+"Saaking Truth in New Orleans In the Middle of the
+Night", George Lardner, Jr.
+a. Garrison's men drove ROSSO to SHAW's
+French Quarter homa, RUSSO posed as a
+Mutual of Omaha salesman. He knocked at
+door; SHAW answered.. Russo said that he
+Was Clem BERTRAND.
+b. SILAW is a 54-year old bachelor and
+socialite who pioneered the 33-story
+International Trade Mart in New Orleans.
+He was subpoenaad by Garrison's office
+on 1 March 1967. According to his friends,
+his questioners did not advise him of his
+rights. They told him they had avidence
+of a meeting with FERRIE and OSWALD.
+There was a fuss and SIJAW was arrested
+and booked on conspiracy to murder JPK.
+That night Garrison's man raided SHAW's
+apartment and confiscated whips, 'chains,
+a black net cap, a cape and hood. RUSSO
+told reporters that he did not know Clay
+SHAN, but he identified the man arrested
+by Garrison as Clém BERTRAND.
+5
+P.13
+13-00000
+Testimony of Hiram Che
+Warren
+Legal Advisor, Dept. of;
+Commission,
+hayes
+state
+1.5pp342-343
+Vol.5
+Mr. CHAYES. No; I think in each case it will depend so much on the situation
+with the particular person. If a person comes in and he is very agitated or
+something of that kind, it might dictate a totally different approach than a differ
+ent kind of thing.
+Mr. DULLES. Wouldn't it be useful though to give-I don't want to suggest
+what the Secretary of State should do in this, but in the light of this experi-
+ence, would there not be some benefit possibly in giving people in the field the
+result of the experience gained in this particular case?
+Mr. CELAYKS. Well, the general approach, and other matters related to it,
+are touched on in orientation courses for consular officers and no on. I think
+as I look on Consul Snyder's actions, that he behaved very much like a respon-
+sible Foreign Service officer.
+:
+That happened long before I was in the Department, so I can say that
+without any involvement. But it seemed to me that he did just what he
+should have done, despite the unfortunate aftermath. And it shows to me, at
+least, that the training and orientation that these people are getting is right, is
+serviceable, and they are able to handle these situations as they come in..
+Mr, Dora. I realize that you ought not to prescribe hard and fast rules,
+that there is a broad range of discretion that should be exercised here. But I
+Inst raise the question as to whether a good deal of experience basn't been gained
+in this case in that very field.
+Mr. OHAYER. Well, it may very well be that more attention to that particular
+aspect should be given in the orientation courses and so on. Those things
+tend to reflect what is hot at the moment you know, and if you haven't had
+trouble with something for a pretty long time, it tenda maybe not to get
+mentioned..
+Representative FORD. If Oswald had persisted that day, October 81, in de
+manding the form that is a prerequisite under your definition for renunciation,
+would Snyder have been required to give it to him and permit him to sign it?
+Mr. CHAYES. I think if it had been in ordinary office hours when the con-
+silate was open for business, and if Snyder was satisfied that he was competent,
+that Oswald was competent, he would have to give him the form, yes, sir.
+Representative Forn. Does Snyder. have the authority to make a determina-
+tion of competency?
+Mr. CHAYES. No; he doesn't have the authority to make a determination of
+competence, and I suppose it is possible at some point to get the issue tried in
+court. But I think a consular officer would probably be acting within his
+discretion if he saw sombody who was drunk or raving or something and just
+said, "Well, I am not going to give you this until I am sure that your action is
+your act." After all, when the consul accepts the cath, be is certifying that it
+is the act of the person in a meaningful sense, and so if he thought that the
+person was incompetent, I think he would bave discretion not to give the oath.
+But I put that far aside because in the particular case bere, Mr. Enyder made it
+perfectly clear that he had no reason to doubt that Oswald was fully competent.
+And so it Oswald had been there at a time when the office was open, or had
+returned at a time when the office was open, and had persisted in his demand,
+I think Snyder would have been under an obligation to give him the form.
+Representative Foun. The only technical reasori or basla upon which Enyder
+could have denled Oswald the right that day was the fact that it wAB OL &
+Saturday, a non-working-hour period of the Embassy.
+Mr. CHATES. Yes; I think he had every right to try to dissuade him, or per-
+suade him not to act or persuade bim to think it over and come back the next
+day. But if after all of that Oswald still had said "But I want to do it now"
+and if the office was open for business, then I think he would have bad to do it.
+Mr. DULLES. I think it might be useful if it has not beeri done to introduce
+at this point as an exhibit the form of oath of remunciation.. Here is the for
+malized oath and I think it would be well to have this in our records unless
+it is already in our records.
+Representative Forn. I agree.
+Mr. COLEMAN. No; it isn't. Could we say it will be marked as Commission
+Exhibit No. 955 and place this sticker on that page, photostat it and then just
+send it hast
+(Commission Exhibit No. 965 was marked for Identification and received in
+evidenca)
+Representative Foen. When Oswald came back on November 8, I believe, which
+was a regular working day
+Mr. COLEMAN. Mr. Commissioner, he did not come back on November 8. He
+merely wrote a letter.
+Mr. CHAYER. Wrote a letter. He never came back.
+Representative Fund. Are all of the employees, Mr. Hoyder, Mr. McVekar,
+and the others who had any firsthand contact with the Orwald case in this
+area, were they State Department employees?...
+Mr. CHATEA. Yes, sir; these two men, who were the only ones who did see
+bim directly, I think the secretary, their secretary also saw him, but had nothing
+to do with him except as a receptionist. There two men were Foreign Serv-
+ice officers and are now Foreign Bervice officers.
+Representative Foun. In the strictest term.
+Mr. CRATES. Yes, pir; members of the Foreign Service, appointed by the
+President with the advice and consent of the Senate.
+Representative Ford, Could you tell us in a bit more detall the process that
+you followed or the procedure that you carried out when you first got into the
+Oswald case.
+You mentioned yesterday you got a call or you were directed by I believe
+the Secretary of State or by somebody in bigher authority to take certain steps.
+Will you tell us who called you, what you did in the first 3 or 4 days?
+Mr. CHATTS. It was the evening of the day, perhaps about 5 o'clock on the
+day of the assassination. It may have been somewhat earlier, because I think
+I remember I went home for an hour and then came back to carry out this
+assignment. Mr. Ball, once it became known that Oswald had some history as
+a defectur GEORGE WWW Ball
+Mr. DULLES. Ball is the Under Secretary of State
+D.C
+Mr. CHAYES. He was then the Acting Secretary, because the Secretary of State
+as you recall was on a plane over the Pacific, So he was the Acting Secretary.
+But even if he had been the Under Becretary he is my client.
+Representative Foan. He still had some authority.
+Mr. CHATES. Yes; he directed me to gather together the files in the Department
+on Oswald, and to prepare a report to be avaliable for him the first thing in the
+morning covering as best we could within that time span the contacts that
+Oswald had with the Department.
+We got the passport file. We got the security office file. We got the special
+consular services file which covered Mrs. Oswald's visa and the repatriation
+Ioan. I think those three files were the ones that we bad. It may have been
+there was a smaller fourth file, but I think those three were the ones.
+Representative FORD, What would that smaller fourth file be?
+Mr. CHATES. I can't remember. It was duplicates if it was anything. Oh, that
+is right, we bad a visa file and an ECS file so those were the four. The 808
+file, that is Special Consular Services, in the office, in the Bureau of Security
+and Consular Affairs.
+Representative FORD. You got this order on or about 5 o'clock the 22d of
+November?
+Mr. CHAYES, The 220

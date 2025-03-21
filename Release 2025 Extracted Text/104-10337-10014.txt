@@ -1,0 +1,747 @@
+1000000
+104-10337-10014
+2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+RELEASE IN FULL
+2000
+24 November, 1998
+Memo for the Record
+Subject: JFK Records Review Lessons Learned
+The CIA's JFK Collection is made up primarily of
+records pulled together for the Warren Commission, House
+Select Committee on Assassinations (HSCA) and the
+Assassinations Records Review Board (ARRB). It contains a
+significant amount of duplication and non-JFK related
+material. The current index is flawed and contains gaps.
+Release standards were liberal; basically only source
+identities and information, names of agents, employees under
+cover, Agency locations and foreign liaison activities were
+redacted. There is no evidence in the Collection to indicate
+that the Warren Commission conclusions were wrong.
+I. The JFK Act
+Mandated review and declassification projects can be
+two-edged swords. The JFK Act forced the Agency to review
+records that should have been opened years ago. The legal
+requirement to presume release, backed up by an independent
+review, resulted in the opening of documents that clearly
+would not have been released under other programs. However,
+the Act and the Review Board created by the Act imposed un-
+realistic deadlines, inflexible standards and procedures
+which created a major drain on all Agency review resources
+and had an over-all negative effect on the Agency's release
+program.
+Unrealistic Deadlines: The release dates set by the
+Act did not take into account the start-up time and costs
+(searches, inventorying and indexing) of a project of this
+magnitude, nor the time it would then take for a page-by-
+page review and sanitization of classified documents. For
+example, initial indexing of the collection was done on a
+crash basis using overtime employees and resulted in a
+flawed database. The revising, re-indexing and updating of
+that database took several thousand man-hours and continues
+today."
+Mandated Procedures: NARA's and ARRB's interpretation
+of the law created a time-consuming, labor-intensive review
+process that meant an inordinate amount of time was spent by
+both the Agency and Board staff on issues which were
+marginal to the story and to processing decisions by the
+Board. For example:
+a. Under the JFK Act every piece of paper in the
+collection was considered a "unique" assassination record.
+The result is a staggering amount of chaff and duplication.
+13-00000
+For example, one cable was files and processed 58 times in
+the collection.
+b. The ARRB required that all sanitized documents be
+reviewed by the Board and that each postponement (deletion)
+be acted on individually. Even after the Board changed
+procedures and accepted staff recommendations instead of
+reviewing each document, the detailed tracking, recording
+and coding of every deletion within each document required
+processing resources well beyond what would be considered
+reasonable for such a project. A most sanitized documents
+contained multiple deletions (one contained more than 1600
+deletions and many over 100).
+Inflexible Standards: The level of evidence required
+by the Board to postpone what was generally considered
+protectable information was extremely high and usually
+required documentation of “current harm". Defenses based on
+general principles such as official cover or sources and
+methods were not acceptable. This required the Agency to
+dedicate significant resources to prepare evidence to
+support recommended postponements. Again, much time was
+spent on issues that were marginal to the JFK story. For
+example, several major evidence packages involving several
+offices and presentations by senior agency officers and
+officials were needed to secure Board agreement to protect
+Agency physical locations and names of employees and other
+persons not related to the JFK story.
+Three times during the six years of the project, including
+most of this past year, the JFK review effectively shut down
+all other aspects of the Historical Review Program and had
+to borrow additional resources from other offices and review
+projects to meet deadlines. The JFK review will continue to
+require a significant portion of HRP's resources through
+FY99.
+II. The Process
+There are a number of basic lessons from the JFK review
+that are applicable to other historical/systematic review
+projects:
+We need reviewers with broad Agency experience, which
+can be either managerial or substantive.
+We need to establish early on what information is
+already in the public domain and address the issue of
+"official release" in the context of each project.
+Develop a strategy/policy with the IROs concerning the
+release of information. Be smart about it; do not accept
+stonewalling by them on relevant information that can be
+released. At the same time, avoid confrontations with them
+on marginal or non-relevant information.
+On-site Directorate reviewers are the most effective
+way to handle the internal coordination requirements of a
+large project. Without the DO's JFK team on site it would
+have been impossible to complete the JFK project.
+Develop guidelines and processes for coordinating Third
+Agency documents; include other agencies in discussions; do
+not drop documents into the black hole of other agencies'
+FOIA offices without this advance discussion.
+Maintain written, up-to-date, project-specific
+declassification guidelines. This is no small task. A
+"declassification guide" must be flexible; no guide can
+anticipate all the issues which will arise in a review.
+After six years, we were still revising the JFK guidelines
+in the last month of the project.
+In establishing deadlines, allow sufficient time to do
+a thorough, professional job as required by the project
+activities (see Unrealistic Deadlines above).
+Ensure we have adequate support people for routine
+processing tasks; declassification involves both tough
+substantive analysis--and a lot of routine processing.
+If possible, inventory/index all materials before the
+review and processing begins. Experienced indexers are a
+must. Identification of duplicate documents should be a key
+part of any inventory or index.
+III The Requests
+(being drafted)
+Attachment I. (incomplete draft attached]
+Description of the JFK Collection
+Attachment II. (being drafted]
+[statistical summary of collection including size and status
+of documents (RIFS, SANS, DIFS, NBR, etc.)]
+13-00000
+DRAFT
+CIA SPECIAL COLLECTIONS
+RECORDS
+2000
+12 December, 1998
+Memo for the Record
+Subject: JFK Records Review Project and Lessons Learned
+The CIA's JFK Collection is made up primarily of
+records pulled together for the Warren Commission, House
+Select Committee on Assassinations (HSCA) and the
+Assassinations Records Review Board (ARRB). It contains a
+significant amount of duplication and non-JFK related
+material. The current index is flawed and contains gaps.
+Release standards were liberal; basically only source
+identities and information, names of agents, employees under
+cover, Agency locations and foreign liaison activities were
+redacted. There is no evidence in the Collection to indicate
+that the Warren Commission conclusions were wrong.
+I. Background (1992-1995)
+The setting up of the Historical Review Program by DCI
+Gates in early 1992 coincided with growing interest in
+Congress to require federal agencies to declassify records
+related to the assassination of President Kennedy. DCI Gates
+decided to start declassification process before Congress
+passed legislation:
+testified before Congress on 12 May 1992 about CIA`S
+new openness policy and announced the declassification
+of the first folder of Oswald's 201 (also known as the
+pre-assassination file).
+six boxes of the Oswald's 201 were reviewed and
+transferred to NARA by Oct. 1992.
+The John F. Kennedy Assassination Records Collection
+Act of 1992 (JFK Act) was signed 26 October 1992:
+it called for Presidential-appointed Assassination
+Records Review Board composed of non-government
+individuals;
+established "a presumption of immediate disclosure"
+for records relating to the assassination.
+For first two years of its existence, the Historical
+Review Program focused primarily on the review of JFK
+assassination records:
+there were two major releases of Agency records (August
+1993 and August 1994) of approximately 227,000 pages;
+joint HRG/DO teams reviewed additional assassination
+related collections at National Archives (Warren
+Commission), the SSCI (Church Committee and the Ford
+Presidential Library (Rockefellow Commission) plus
+numerous referrals from other federal agencies (FBI,
+State, Army, etc.).
+Due to delays in the appointment of its members and the
+time required to hire and clear a staff, the ARRB did not
+actually begin reviewing documents until May 1995. It became
+clear in immediately that the ARRB would require the release
+of far more information than the Agency had released in the
+1992-94 review. In mid-1995 HRG began a re-review of the
+previously released sanitized documents:
+approximately 80% of the 227, 000 pages release in
+1993-94 contained deletions
+resources were taken from other projects and added
+to JFK project to meet Board's monthly deadlines.
+II. The JFK Act and the ARRB
+Mandated review and declassification projects can be
+two-edged swords. The JFK Act forced the Agency to review
+records that should have been opened years ago. The legal
+requirement to presume release, backed up by an independent
+review, resulted in the opening of documents that clearly
+would not have been released under other programs. However,
+the Act and the Review Board created by the Act imposed un-
+realistic deadlines, inflexible standards and procedures
+which created a major drain on all Agency review resources
+and had an over-all negative effect on the Agency's release
+program.
+Unrealistic Deadlines: The release dates set by the
+Act did not take into account the start-up time and costs
+(searches, inventorying and indexing) of a project of this
+magnitude, nor the time it would then take for a page-by-
+page review and sanitization of classified documents. For
+example, initial indexing of the collection was done on a
+crash basis using overtime employees and resulted in a
+flawed database. The revising, re-indexing and updating of
+that database took several thousand man-hours and continues
+today.
+Mandated Procedures: NARA's and ARRB's interpretation
+of the law created a time-consuming, labor-intensive review
+process that meant an inordinate amount of time was spent by
+both the Agency and Board staff on issues which were
+marginal to the story and to processing decisions by the
+Board. For example:
+a. Under the JFK Act every piece of paper in the
+collection was considered a "unique" assassination record.
+The result is a staggering amount of chaff and duplication.
+For example, one cable was files and processed 58 times in
+the collection.
+b. The ARRB required that all sanitized documents be
+reviewed by the Board and that each postponement (deletion)
+be acted on individually. Even after the Board changed
+procedures and accepted staff recommendations instead of
+reviewing each document, the detailed tracking, recording
+and coding of every deletion within each document required
+processing resources well beyond what would be considered
+reasonable for such a project. A most sanitized documents
+contained multiple deletions (one contained more than 1600
+deletions and many over 100).
+Inflexible Standards: The level of evidence required
+by the Board to postpone what was generally considered
+protectable information was extremely high and usually
+required documentation of "current harm". Defenses based on
+general principles such as official cover or sources and
+methods were not acceptable. This required the Agency to
+dedicate significant resources to prepare evidence to
+support recommended postponements. Again, much time was
+spent on issues that were marginal to the JFK story. For
+example, several major evidence packages involving several
+offices and presentations by senior agency officers and
+officials were needed to secure Board agreement to protect
+Agency physical locations and names of employees and other
+persons not related to the JFK story.
+Three times during the six years of the project, including
+most of this past year, the JFK review effectively shut down
+all other aspects of the Historical Review Program and had
+to borrow additional resources from other offices and review
+projects to meet deadlines. The JFK review will continue to
+require a significant portion of HRP's resources through
+FY99.
+III. The Process and Lessons Learned
+There are a number of basic lessons from the JFK review
+that are applicable to other historical/systematic review
+projects:
+We need reviewers with broad Agency experience, which
+can be either managerial or substantive.
+We need to establish early on what information is
+already in the public domain and address the issue of
+"official release" in the context of each project.
+Develop a strategy/policy with the IROs concerning the
+release of information. Be smart about it; do not accept
+stonewalling by them on relevant information that can be
+released. At the same time, avoid confrontations with them
+on marginal or non-relevant information.
+On-site Directorate reviewers are the most effective
+way to handle the internal coordination requirements of a
+large project. Without the DO's JFK team on site it would
+have been impossible to complete the JFK project.
+Develop guidelines and processes for coordinating Third
+Agency documents; include other agencies in discussions; do
+not drop documents into the black hole of other agencies'
+FOIA offices without this advance discussion.
+Maintain written, up-to-date, project-specific
+declassification guidelines. This is no small task. A
+"declassification guide" must be flexible; no guide can
+anticipate all the issues which will arise in a review.
+After six years, we were still revising the JFK guidelines
+in the last month of the project.
+In establishing deadlines, allow sufficient time to do
+a thorough, professional job as required by the project
+activities (see Unrealistic Deadlines above).
+Ensure we have adequate support people for routine
+processing tasks; declassification involves both tough
+substantive analysis--and a lot of routine processing.
+If possible, inventory/index all materials before the
+review and processing begins. Experienced indexers are a
+must. Identification of duplicate documents should be a key
+part of any inventory or index.
+IV ARRB Requests for Additional Information and Records
+Attachment I. (see attached draft)
+Description of the JFK Collection
+Attachment II. (being drafted-will be available 17 Dec a.m.]
+[statistical summary of collection including size and status
+of documents (RIFS, SANS, DIFS, NBR, etc.)]
+13-00000
+SECRET
+ΟΙΜ 99-0281
+29 October 1999
+MEMORANDUM FOR: Chief, Information Review Group, OIM
+FROM: Charles A. Briggs
+JFK Declassification Project, OIM
+SUBJECT: The JFK Declassification Experience
+1. My assumption in preparing the attached is that
+I was asked because: a) for seven-plus years I've been
+involved in the project; and b) my past Agency assign-
+ments, including being the first DO Information Review
+Officer, gave me the opportunity to see declassification
+from many vantage points: from a legalistic directorate-
+oriented, either-or standpoint (taking full advantage of
+allowed exemptions), to a "corporate" Agency-wide strategy
+to foster credibility while protecting secrets that should
+remain secret. My comments and conclusions reflect that
+experience and do not necessarily reflect the views of HRP
+management.
+2. Historically, the Deputy Directors have not
+paid much attention to information management unless
+there's a problem. Then the approach has been: what went
+wrong; who's to blame; how can we ensure that this doesn't
+happen again; what lessons have we learned? What this JFK
+experience reiterates is the need for a proactive, not just
+reactive, flexible strategy, with corporate Agency direction
+through the Deputies to their Information Review Officers.
+And the IROS, who, in essence, determine credibility and
+resource impact, should be supergrades, with experience
+in at least two directorates. Because information release
+has become a major management issue, the Executive Director
+is the obvious officer to ensure consistent and informed
+implementation of release policy.
+AIUO When Separated
+from Attachments
+SECRET
+CL BY: 0611637
+CL REASON: 1.5(d)
+DECL ON: X5
+DRV FRM: LIA 2-82
+13-00000
+SECRET
+SUBJECT: THE JFK DECLASSIFICATION EXPERIENCE
+3. Considerable skepticism in the public, the media,
+and, unfortunately, the Congress results from the in-house
+conclusion that denial is justifiable in the absence of
+"official acknowledgment" of Executive Branch information,
+even though such information is already in the public
+domain, from senior Agency officials' publications,
+Congressional investigations, books by former Cabinet-level
+NSC members, even Presidents. This inflexible legal
+strategy may win the battle and lose the war. Lawsuits are
+a lot more expensive than negotiation.
+4. The Agency Task Force that in 1992 considered
+some of the aspects of DCI Gates' "openness" philosophy
+did not have the benefit of the JFK experience. I suggest
+that a senior-level panel be established to consider an
+objective look at the need for continued classification
+of generic versus specific sources and methods information,
+particularly that already in the public domain and when
+dealing with matters of high public or historic interest.
+HR 70-14, referring as it does in paragraph e. (4) to
+"Guidelines for Declassification" in Executive Order 12356,
+does not promote the tactical approach which is suggested
+in the Comments section on page eight of the attached.
+Charles A. Briggs
+2
+SECRET
+13-00000
+SECRET
+SUBJECT: THE JFK DECLASSIFICATION EXPERIENCE
+DA/OIM/IRG/SCD/CABriggs:bkh/31835 (29 Oct 99)
+s:/oim/fo/jim/hrp/jfk/C.B. JFK Declass Exp.doc
+Distribution:
+Original Addressee, w/atts
+C/IRG/SCD, w/atts
+IRG/SCD/HRO, w/atts (Harrelson)
+SCD Chrono, w/atts
+SCD Subj, w/atts
+3
+SECRET
+13-00000
+SECRET
+ΟΙΜ 99-0282
+29 October 1999
+MEMORANDUM FOR: Chief, Information Review Group, OIM
+FROM: Charles A. Briggs
+JFK Declassification Project, OIM
+SUBJECT: The JFK Declassification Experience
+1. (AIUO) BACKGROUND: The impact of the JFK
+declassification law on Agency resources and information
+release decisions was dramatic and to the DO, traumatic. The
+resource trauma stemmed from the unanticipated number of years
+required to complete the project. In a memorandum for the DCI
+dated 11 June 1993, the then-Director of the Center for the
+Study of Intelligence outlined a plan for implementing the
+"openness philosophy" espoused by both DCIs Gates and Woolsey
+through a series of “Cold War Declassification" projects. He
+noted that priority, by virtue of a Congressionally-mandated
+deadline of 22 August 1993, had been given to declassification
+of the JFK collection; however, he said, “with the end of the
+JFK activity in sight," resources could be applied to the
+other projects. Six years later (actually seven since the
+project got underway), we are almost finished.
+2. (AIUO) The substantive, versus administrative,
+trauma stemmed from the fact that the JFK Act superseded
+all other existing laws, including FOIA, the Privacy Act,
+the DCI's authorities, as well as Executive Orders and
+Regulations.1 The Act presumed release. It did allow for
+appeal but only to the President from the DCI. It allowed
+"postponements" but only if clear and convincing evidence
+was presented for each requested postponement and that
+release would demonstrably impair the national security.
+The net effect was the release of names, crypts, pseudos,
+methods, station locations (within specified dates), file
+identifier numbers, and tradecraft generally, which are
+protectable under the other laws and which the Agency had
+1 See OGC-92-5325, 14 Dec 92 and OGC-94-52916, 19 Sep 94 (Attachment B)
+AIUO When Separated
+from Attachments
+CL BY: 0611637
+CL REASON: 1.5(d)
+DECL ON: X5
+DRV FRM: LIA 2-82
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+learned to live with (See Appendix A for the Assassination
+Records Review Board (ARRB) "Standards For Review” and “Key
+Distinctions Between Those Under FOIA, Executive Order 12356
+and the JFK Act,” with examples).
+3. (U) Finally, a Presidentially-appointed
+assassination review board (the ARRB) had the final say
+both on postponement and on relevance, subject only to a
+successful DCI appeal to the President. Although a few
+appeals were considered, particularly in the early period,
+none was made.
+4. (U) The JFK Act called for each agency to review
+and transfer its relevant material to NARA by 22 August 1993.
+Thus, a significant set of materials was transferred from
+CIA to NARA in 1993, reflecting CIA's then-current judgment
+on the redactions permitted. Subsequent Board reviews and
+ARRB staff inquiries resulted in the addition of material to
+that original set of documents, as well as adjustments to the
+original set, to reflect Board actions generally to release
+more information. Although many documents have been adjusted
+or added to the collection, requiring substantive HRG and DO
+reviews as well as administrative actions, the net number of
+pages in CIA'S JFK Collection at NARA is about 260,000.
+SIZE AND NATURE OF THE COLLECTION
+5. (U) The material requiring line-by-line review
+included 17 boxes called the Oswald 201 File; 64 boxes called
+the "Segregated Collection" File, containing those documents
+made available to the House SubCommittee on Assassinations
+(HSCA) during its 1978 investigation; 23 boxes of HSCA
+referrals staff notes in longhand and type, draft sections
+of the HSCA final report, correspondence on HSCA letterhead,
+trip reports anything referred to us by the National
+Archives (NARA) for review of possible Agency equities;
+19 boxes called "The Holmes Collection" a reference
+collection used by the then-DO focal point for FOIA and other
+JFK queries, Russell Holmes; Presidential libraries material,
+Church Committee and Rockefeller Commission testimonies,
+National Security Council papers, PFIAB Minutes and other
+Community papers made available through the ARRB staff; and
+13 boxes called "Miscellaneous," including follow-on
+questions from the ARRB, a previously overlooked Latin
+American Division working file, DCI calendars, some DI/OCI
+2
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+"Dailies." Box 64 of the "Segregated Collection" consisted
+of 72 reels of microfilm of complete files from which the
+material reviewed by the HSCA staffers was drawn: CIA staff
+personnel and security files; a duplicate Oswald 201 file;
+26 reels of 201 files on Cubans, Russians, and Americans
+linked with Oswald, the JFK assassination, and the several
+investigations; DO project history files, and so on.
+6. (AIUO) Included were printed text, almost illegible
+Thermofax, photographs, computer listings, typed 3X5 cards,
+buckslips, routing sheets, handwritten scraps every
+imaginable form of documentation, with a tremendous amount
+of duplication, in one instance, 54 copies of a Mexico City
+cable. Every one of these pieces of paper had to be handled
+according to NARA instructions, as a unique document for
+inclusion in the NARA collection for public access and with
+an Identification Aid for research assistance and retrieval.
+Among other things, the collection reflected little attention
+to procedures propounded by NARA itself for Records
+Management, including destruction of duplicate copies.
+7. (AIUO) The pressure to meet an initial Congress-
+ionally-mandated release date of 22 August, 1993 with the
+NARA-required Research Identification Forms, resulted in a
+crash effort at indexing done, mainly, by individuals on
+loan from the directorates on an overtime basis and generally
+unfamiliar with the collection and the subject matter. Thus,
+a major factor in inconsistent redacting of multiple copies
+of the same document in different boxes was a function of the
+quality of the indexing and the effort of the reviewers to
+cope with constantly changing guidelines. Inadvertent
+release was inevitable.
+THE REVIEW PROCESS
+8. (AIUO) The majority of the reviewers were
+independent contractors with many years of experience,
+in some cases senior management experience in at least two
+directorates. Two HRG reviewers had been Information Review
+Officers themselves as supergrades, one in the DO, the other
+in the DA. After the HRG review with suggestions for release
+in full or with redactions, the documents went to a DO review
+team. The DO agreement or disagreement was reflected on each
+document, and the package was returned for a senior-level HRP
+review prior to forwarding to the ARRB.
+3
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+9. (AIUO) As complicated and frustrating as the
+process was, it wouldn't have worked at all without the on-
+site presence of the DO team with their link to DO/IMS and
+the area divisions in Headquarters. Not surprisingly, the
+DO Headquarters tended to use the familiar FOIA standards,
+under which much more information could be withheld than was
+defendable under the JFK law. A major part of the JFK story
+was Oswald's trip to Mexico City; it took several months for
+the DO to agree to allow acknowledgment of the existence of
+a station in Mexico City and many more months to release the
+name, pseudo, and tenure of the chief of station
+information, except for the pseudo, long since in the public
+domain.
+10. (AIUO) Another long time debate concerned
+acknowledgment of teltap and photo surveillance by the
+Mexico City Station on the Soviet and Cuban embassies and
+consulates both discussed in open literature but disguised
+as unidentified sensitive source materials in the Warren
+Commission report, along with a cropped photo and transcripts
+of telephone conversations that came to the station from
+somewhere. One issue, for a long time, was acknowledging
+that the teltaps were station activities. The ARRB insisted
+on nearly total release of Mexico City Station traffic,
+history, personnel, and project approvals because Oswald's
+trip to Mexico City remained one of the most controversial
+conspiracy theory aspects of the JFK story. Proof of
+Oswald's presence there, of his contact with the Soviet
+and Cuban embassies and consulates, and the reasons
+therefore, of the station's unfamiliarity with him prior
+to the assassination became evident through release of the
+detailed information on the teltap and photo operations.
+11. (AIUO) After the ARRB staff received the Agency
+reviewed material, discussion of the validity of the
+deletions (the "postponements") occurred. In the early
+stages there was a tendency for the Agency Information Review
+Officers in the directorates to deny rather than release, to
+test using FOIA standards until challenged, then back off.
+In a couple of instances, assertions were made that the
+information that the ARRB said should be released was so
+sensitive that an appeal to the President would be made
+it wasn't. The net result of the deny-until-pushed approach
+was an absence of credibility, leading the ARRB to include
+the following statement in its Final Report to the President
+on 30 September 1998:
+but
+4
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+"A small number of CIA staff officers, almost
+exclusively in the Directorate of Operations,
+unnecessarily impeded the process and damaged
+the Agency's interests by resisting compromise
+with all-or-nothing positions."
+12. (AIUO) As time passed and both Agency and ARRB
+staffers became better educated in attempting the balance
+between the public interest and the legitimate need for
+secrecy, credibility improved, the ARRB members delegated
+the negotiation process to the staff. Previously, every
+postponed word, phrase, or paragraph had to the approved
+by the Board. Toward the end, only remaining disagreements
+were passed by the staff to the Board.
+THE ISSUE OF RELEVANCE
+13. (AIUO) The ARRB, under the law, determined
+relevance of file material eventually quite successfully,
+although it could and did, negotiate. Because of the
+impact of the Oliver Stone movie “JFK," reflecting a 70-80% public view that the Warren
+Commission conclusion that Oswald acted on his own was wrong,
+the ARRB pursued all the major conspiracy theories. Thus,
+Agency files on the USSR's handling of American defectors,
+entry and departure controls on foreigners, alien employment
+and marriage with Soviet citizens, and, particularly, KGB
+interest in Oswald, and Nosenko's claim to have reviewed
+Oswald's KGB file in Moscow were declared relevant as was
+the whole Nosenko bona fides issue. Agency contact with the
+Mafia to arrange for Castro's assassination, not known to the
+Warren Commission, were obviously relevant and, by extension,
+assassination as an Agency activity was considered relevant
+hence, all such testimony before the Church Committee had to
+be reviewed. Of particular interest was the plot against
+Lumumba because of the involvement of the former Chief of the
+Technical Services Division, which division was also involved
+in the Castro assassination planning.
+14. (U) The major conspiracy theory of interest
+to the Board concerned Cubans: either alleged Castro
+involvement because of his awareness of plotting against
+himself or Cuban exiles, furious with JFK for the Bay of Pigs
+failure. Thus, all files on Agency support to the many Cuban
+5
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+exile groups and CIA involvement in Project MONGOOSE were
+declared relevant. Hundreds of JMWAVE cables, Mexico City
+Station documents, and Cuban names, and many with their
+crypts, were released.
+15. (U) Those records that the Board concluded
+"truly had no apparent relevance to the assassination"
+were designated "not believed relevant" (NBR). Cooperative
+negotiation resulted in about 50,000 pages being declared
+NBR.
+INADVERTENT RELEASES/FOREIGN LIAISON CONCERNS
+16. (AIUO) As noted above, inadvertent releases were
+inevitable. The contributing factors included: guidelines
+that changed almost continuously as negotiations with the
+ARRB reduced the claims of current sensitivity; inaccurate
+and incomplete records on the cover status of retirees; an
+initial tendency, consistent with FOIA practices, to deny
+crypts but to release true names- the crypt implying an
+Agency relationship- if the text did not imply same. (Later:
+duplicate copies plus mosaic pattern analysis made linkage of
+some crypts and true name quite easy.); and a surge of
+inexperienced reviewers loaned during the closing days to
+meet the agreed NARA deadline for the remaining files.
+17. (S) The inadvertent releases of former employees
+names resulted in a few individual complaints but no known
+foreign government or liaison service complaints. Four
+foreign governments opposed release of their information.
+when queried, but no inadvertent releases were involved.
+(See Appendix C.) The worst slip appears to have been the
+name of a former NOC, living abroad, who, upon being
+informed, demanded and received compensation for the
+violation of his confidential relationship with CIA and the
+FBI. The other outraged former employee, also living abroad,
+threatened to contact the President if it became known in his
+adopted country that he had been CIA. His true name, on a
+great many documents, is the only redaction; he was of
+considerable interest to the Board as a key player in the
+HSCA investigation because he was the Mexico Branch chief
+and was initially appointed by the DDO to be the focal point
+for JFK assassination information and briefings. The HSCA
+allowed him to testify in alias, and the ARRB allowed the
+substitution of his alias wherever his true name appeared;
+however, the Board ruled that his true name should be
+6
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+released in May 2001 or on his death if before that date.
+Given the volume of the documents in which his name appeared,
+there were inadvertent releases of his true name.
+IMPACT OF THE JFK RELEASES ON FUTURE DECLASSIFICATION
+PROGRAMS
+18. (AIUO) Whether the JFK Act is, or should be
+considered, precedent-establishing has been argued since
+its passage. It addresses a unique, highly emotional event,
+of obvious interest to the public; and it should serve as a
+catalyst for future declassification policy discussion. But
+it should not be considered to have set a legal precedent.
+What should result is what the ARRB directed in the case
+of exact duplicate documents: that they all be handled
+consistently, with the same, or no, redactions. Other
+documents concerning the same or a similar event, not exact
+duplicates but relevant to the issue, and not subject to the
+tight legal demands of the JFK legislation, could be reviewed
+in accordance with the exemptions allowed under the FOIA or
+the Executive Order. However, the basic factor in deciding
+on release or denial should not be the avoidance of
+embarrassment through inconsistent or inadvertent release.
+It should be the current need for protection of sources and
+methods.
+19. (U) The JFK experience did demonstrate that a
+traditional generic sources and methods denial is not always
+necessary, defendable, or smart. Instead of being negatively
+reactive, it may well be tactically smarter to be proactive
+to better ensure protection of important secrets. More on.
+that below.
+20. (AIUO) LESSONS LEARNED:
+Don't cut costs on indexing. Use experienced indexers.
+Aim for indexing all materials before review and
+processing begins. A key focus should be identification
+of duplicate documents.
+Use retirees with broad Agency experience under staff
+supervision. Because the most common release problems
+usually involve DO material, seriously consider an on
+site-DO team.
+7
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+Develop and keep updating written guidelines, including
+those for coordinating third-agency documents
+Establish early what is already in the public domain.
+Take a fresh look at the “official release" philosophy,
+particularly as concerns former DCIs, Cabinet Officers,
+Presidents, and Congressional investigations.
+Develop better information on the cover status of retired
+employees.
+Avoid confrontation on marginal or non-relevant
+information. Avoid stonewalling on relevant information.
+Because the Information Review Officers are the key
+implementers of information release policy, ensure that
+the guidance given them by their Deputy Directors has
+Agency corporate equity.
+21. (AIUO) COMMENTS: Information Management,
+Information Warfare, Information Handling, Information
+Declassification: at least three of these terms have
+elicited groans from senior Agency management and a
+preference to have someone else, some staffer, deal with
+the subject, keeping the boss out of trouble and minimally
+informed. But inflexible insistence on continued
+classification of dated information, particularly that
+known to the public, ignorance of what has already been
+declassified and released, and counterproductive stonewalling
+these factors have caused trouble and will cause more
+trouble as the “Information Age" matures.
+22. (C) In 1976, then DDI Ed Proctor wrote to the DCI,
+citing “the need to rationalize the classification process."
+A 1977 memorandum for the Agency's Executive Committee by two
+of the current HRG contract reviewers urged the development
+of an O/DDCI level (the Executive Director position having
+been abolished) policy review of flap potential in
+information release and a computer-supported index to
+released documents. At various times in the 1970s,
+consideration was given to establishing a fifth Directorate
+of Information Handling. After a good bit of internal
+agonizing, DCI Gates in April 1992 signed off on HR 70-14
+to make "significant historical information available without
+8
+SECRET
+13-00000
+SECRET
+SUBJECT: The JFK Declassification Experience
+damage to national security

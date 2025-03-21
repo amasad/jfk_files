@@ -1,0 +1,713 @@
+157-10014-10144
+2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+JFK Assassination System
+Identification Form
+Date: 7/7/2015
+Agency Information
+AGENCY: SSCIA
+RECORD NUMBER: 157-10014-10144
+RECORD SERIES: MISCELLANEOUS RECORDS OF THE CHURCH COMMITTEE
+AGENCY FILE NUMBER: 07-M-49
+Document Information
+ORIGINATOR: SSCIA
+FROM: 
+TO: 
+TITLE: 
+DATE: 00/00/1976
+PAGES: 263
+SUBJECTS: SSCSGO, REPORT
+DOCUMENT TYPE: REPORT
+CLASSIFICATION: Secret
+RESTRICTIONS: Consulted
+CURRENT STATUS: Withhold
+DATE OF LAST REVIEW: 01/05/1999
+OPENING CRITERIA: 
+COMMENTS: 
+v9.1
+1
+NW 50955 DocId: 32423532 Page 1
+JFK ASSASSINATION SYSTEM
+IDENTIFICATION FORM
+AGENCY INFORMATION
+Date: 08/07/95
+Page: 1
+AGENCY: SSCIA
+RECORD NUMBER: 157-10014-10144
+RECORDS SERIES: MISCELLANEOUS RECORDS OF THE CHURCH COMMITTEE
+AGENCY FILE NUMBER: 07-M-49
+ORIGINATOR: SSCIA
+FROM : 
+DOCUMENT INFORMATION
+TO: 
+TITLE : 
+DATE: 00/00/76
+PAGES: 263
+SUBJECTS: SSCSGO, REPORT
+DOCUMENT TYPE: REPORT
+CLASSIFICATION: SECRET
+RESTRICTIONS: REFERRED
+CURRENT STATUS: POSTPONED IN FULL
+DATE OF LAST REVIEW : 01/05/99
+OPENING CRITERIA : 
+COMMENTS: 
+[R] ITEM IS RESTRICTED
+NW 50955 DocId: 32423532 Page 2
+SECRET SENSITIVE
+NW 50955 DocId:32423532 Page 3
+TABLE OF CONTENTS
+PROPRIETARIES
+I. Introduction and Philosophy of Use
+A. Operating Proprietaries
+B. Non-Operating Proprietaries
+Statutory Authority for Proprietaries
+1
+3
+7
+9
+II.
+III. Specific Controls
+A. Agency Regulations and Policies
+B. Project Reviews and Control
+C. Financial Controls/Operating Companies and Non-
+Operating Companies Keeping Books of Accounts
+D. Financial Controls/Non-Operating Companies Except
+Those Keeping Books of Accounts
+E. Treatment of Profits
+F. Disposition of Funds Returned from Proprietaries
+G. Disposal of Proprietaries
+H. Relations with Tax, Regulatory, and Other Agencies
+10
+10
+11
+11
+13
+14
+16
+16
+18
+IV. A Description of the Various Proprietaries
+21
+Proprietary List
+24
+Employees of Proprietaries as of October 1975
+41
+Funding and Payroll Mechanisms
+42
+Description of Major Headquarters-Controlled
+Proprietaries as of September 1975
+43
+Listing of Proprietaries During the Period 1952 through
+1974 (Total 399)
+46
+NW 50955 DocId: 32423532 Page 4
+(ii)
+V. The Disposal of Agency Proprietaries
+a. An Overview
+Entities Dissolved
+Entities Sold
+Entities "Otherwise Disposed Of"
+Description of Disposition of Entities Sold or
+Otherwise Disposed Of
+b. The Sale of SouthernAir Transport, Inc.: A Case
+Study In Disposal of a CIA Proprietary
+Background
+The Sale
+Declassification of Relationship With CIA
+Conflict Of Interest
+Conclusion
+VI. Project MHBOUND
+VII. Beyond "Doing Business": Peak Non-Government Security
+Investments by Proprietaries Active as of December
+31, 1974
+VII. MHMUTUAL: The Insurance-Investment Complex
+a. A Brief History
+b. Current Status
+Stock Portfolio Performance Chart
+IX. The Air Proprietaries
+X. Issues Posed, Conclusions, and Recommendations
+59
+59
+63
+68
+71
+74
+89-1
+89-1
+89-4
+89-14
+89-15
+89-17
+90
+95
+99
+99
+106
+108
+113
+129
+NW 50955 DocId:32423532 Page 5
+SECRET
+PROPRIETARIES P SEMOTIVE
+I. INTRODUCTION AND PHILOSOPHY OF USE
+Questions have arisen as to CIA's use of proprietary mechanisms
+to help carry out the Agency's missions. In particular, concerns
+have been expressed about the Agency's financial and management control
+over these entities and about the treatment of funds related to such
+entities. A careful review of these entities has revealed that CIA's
+proprietaries are appropriately limited and controlled with careful
+consideration given to their use within the spirit and letter of the
+law.
+Proprietaries fall into two main categories:
+1. Operating companies that actually do business as
+would any private firm; and
+2. Non-operating companies or entities that appear to
+do business under commercial guise.
+These entities may be legally constituted as corporations, partner-
+ships, or sole proprietorships; or they may have no such legal standing,
+i.e., they may be "notional" entities which have bank accounts and
+backstopped addresses controlled by the Agency. Corporate proprietaries
+are incorporated in accordance with the statutory provisions of the
+jurisdiction of incorporation, are subject to the same review as any
+corporate entity within that jurisdiction, file applicable state and/or
+federal tax returns, and obtain the necessary licenses to conduct their
+normal business. The purposes served by them are two-fold: they provide
+cover, attribution for funding, and administrative assistance to agents
+SECRET
+NW 50955 DocId:32423532 Page 6
+- 2 -
+and covert activities; and they provide services not securely available
+through normal commercial facilities. Because these instrumentalities
+are established as private organizations, they must be established
+and managed, to the extent possible, in accordance with practice and
+requirements that are normal for the types of enterprises they give
+the appearance of being.
+Of the legally constituted entities, the Agency uses the corporate
+form in most cases because of the advantages and flexibility of corporate
+management control. These corporations are legally organized under the
+laws of a state, country, or other jurisdiction and are either wholly
+owned by CIA or controlled through majority stock ownership. Services
+of bona fide businessmen are enlisted as nominee officers, directors,
+and stockholders.
+The Agency generally has employed proprietaries when it was the
+only way, or clearly the best way, to achieve an approved objective.
+Under Agency rules proprietaries are established or allowed to continue
+in existence only so long as they contribute to accomplishment of the
+Agency's mission and remain the most advantageous operational means of
+achieving certain particular and necessary objectives. Current policy
+calls for limited use of operating proprietary mechanisms. The capa-
+bility to use the mechanism is to be retained (this the Agency terms
+its "capability in being"), and smaller entities used.
+A review of Agency files shows that the number of operating
+proprietaries has been consciously pared by about 50 percent since the
+mid 1960's. These reductions began as a result both of the Katzenbach
+guidelines associated with the National Student Association affair in
+1967 and the CIA's own IG survey in that same year. In addition, the
+NW 50955 DocId:32423532 Page 7
+- 3 -
+need for proprietaries has declined as a result of a general shift in
+emphasis away from covert action; transfer of Radio Free Europe and
+Radio Liberty to the Board of International Broadcasting with funding
+through State Department; continuing liquidation of the assets of the
+Air America complex as requirements for CIA support in Southeast Asia
+have diminished; the sale of Southern Air Transport and the continuing
+liquidation of assets of Intermountain Aviation with their exposure
+in the press and the decreased need for contingency air capabilities.
+The evidence establishes that activities of all proprietaries,
+directly or indirectly, support the Agency's foreign intelligence collectio:
+or covert action missions. Some of these proprietaries are located
+within the United States for reasons of operational or administrative
+necessity, but their ultimate impact is overseas. Some of the question-
+able domestic uses of these entities is dealt with in the sections of
+the Report on "Chaos" and related programs. And in one area, MHMUTUAL,
+serious questions remain as to the propriety of using such a mechanism
+to provide insurance and retirement benefits. This problem is detailed
+later. (See Section VIII).
+A. Operating Proprietaries
+As discussed in greater detail later, operating proprietaries
+conduct business in the commercial sphere, but they are not in direct
+competition with privately owned corporations to such a degree as to
+deprive the private companies of legitimate income. There is no doubt,
+however, that they were and are in competition. The Agency has been
+careful to limit the amount of commercial business engaged in by these
+proprietaries to only that necessary to support the viability of the
+commercial cover and keep it alive in the commercial world. Revenues
+NW 50955 DocId:32423532 Page 8
+- 4 -
+have been used as partial offsets to operating costs. Aggregate
+profits over the years have been relatively small. Only two proprie-
+taries have shown significant profits: the Air America complex in
+fulfilling mostly Government contracts in Southeast Asia, and the
+insurance company handling trust funds and insurance (MHMUTUAL).
+The air proprietary overview, infra Section IX, details the dilemmas
+posed by size. Moreover, it sheds light on questions concerning
+whether commercial viability became more of a bronze god than was
+necessary to maintain adequate cover.
+Operating proprietaries may be large or small in terms of capital-
+ization and total assets, depending upon the functions they perform.
+When the commercial purpose of an operating proprietary is incidental
+to its CIA mission -- such as an export-import firm which engages in
+commercial operations only to the extent necessary to provide cover
+for a CIA officer in a foreign country -- a minimum capitalization,
+usually in the neighborhood of $25,000 or less, is all that is required.
+Examples of an operating proprietary in which commercial operations
+are incidental to the Agency mission are:
+A United States frozen seafood importing company which
+operates in the Far East and provides cover for an Agency
+employee engaged in intelligence activities. The Agency
+provided $25,000 in capital to purchase and activate a
+dormant but long-established privately-owned United States
+seafood distributing company. The former owner and his
+partner, who are cleared and witting, provide training,
+business management, and product distribution in the
+United States for one-half the profits on seafood imports
+financed by the proprietary. The Agency subsequently
+provided $10,000 annually for fiscal years 1972, 1973, and
+1974 as working capital. The proprietary since 1971 has
+provided excellent cover with a minimum amount of business.
+As of 20 June 1974, the proprietary had assets of $104,222.67
+and a net worth (assets minus liabilities) of $74,051.15.
+The company's financial accounts are handled by an Agency
+proprietary management firm.
+NW 50955 DocId:32423532 Page 9
+- 5 -
+A foreign travel service company which operates in a Southeast
+Asia country and provides cover for an agent targeted against
+the local Communist Party. The company was established in 1973
+with an initial investment of $5,900.
+Operating proprietaries whose commercial purposes are in themselves
+essential to the CIA mission require much larger capitalization and
+investment. They are staffed by Agency personnel plus cleared commer-
+cial employees as required. Among the Agency's operating proprietaries
+of this type are four management companies which provide commercial
+assistance to other proprietaries and an audit firm which conducts
+commercial audits of operating companies and those non-operating
+proprietaries with substantial assets. The Agency's largest operating
+proprietaries are Air America, an insurance complex, and the aviation
+facility, Intermountain Aviation, Inc. The assets of Intermountain
+have been sold, with operations ceasing on 28 February 1975, and the
+corporation is in the process of being dissolved.
+Air America, the Agency's largest proprietary, which is in the
+process of liquidation, provided aircraft in support of Agency operations
+in Southeast Asia. This support has been under cover of a commercial
+flying service in fulfillment of U.S. Government contracts. Corporate
+Headquarters has been in Washington, D. C., with field Headquarters
+in Taipei, Taiwan.
+The insurance complex provides a mechanism for the payment of
+annuities and other benefits to sensitive agents and for self-insurance
+of risks involved in covert operations which, for security reasons,
+cannot be attributed to the U.S. Government or handled through private
+firms. The complex was formed in 1962 as a clandestine commercial
+support mechanism to provide death and disability benefits to agents
+or their beneficiaries when security considerations precluded payments
+NW 50955 DocId:32423532 Page 10
+- 6 -
+attributable to the U.S. Government. This function was broadened
+to include self-insurance for many risks involved in covert operations,
+including property risks incurred by operational activities of Agency-
+owned air and marine companies. From an early date, the complex has
+administered agents' escrow accounts and life insurance, and provided
+annuity and pension programs for selected agent personnel employed by
+the Agency. These programs are solely for the purpose of meeting the
+Agency's obligations to agent-type personnel who have rendered services
+over a substantial period of time and cannot be handled under normal
+U.S. Government retirement programs. Individuals who qualify for the
+CIA Retirement System or the Civil Service System are not handled
+through the proprietary system. In addition, the complex has been
+used to provide a limited amount of support to covert operations --
+specifically, for the acquisition of operational real estate and as
+a conduit for the funding of selected covert activities.
+Intermountain Aviation, Inc., has the purpose of providing a
+variety of nonattributable air support capabilities available for
+quick deployment overseas to support Agency activities. The Agency
+is in the process of disposing of its assets and terminating this
+activity.
+As of 1 July 1974 there were 71 operating proprietary companies,
+of which 21 are part of the Agency's proprietary insurance complex.
+The combined net worth (assets minus liabilities) of these companies
+is approximately $57.3 million. Although some, such as those in the
+insurance complex, are commercially self-supporting, most operating
+proprietaries usually require budgetary support.
+NW 50955 DocId:32423532 Page 11
+- 7 -
+B. Nonoperating Proprietaries
+Nonoperating proprietaries vary in complexity according to their
+Agency task, are, for the most part, either corporate shells or less
+that facilitate foreign operations, and clearly pose no competitive
+threat to bona fide businesses. The most elaborate are legally
+licensed and established to conduct bona fide business. They have
+nominee stockholders, directors, and officers and are generally
+directed by one of four Agency proprietary management companies.
+The company address may be a Post Office Box, a legitimate address
+provided by a cleared and witting company official or attorney, or in
+a few cases the address of a proprietary management company. They
+maintain bank accounts, generate business correspondence, keep books
+of account which can withstand commercial and tax audit, file State
+and Federal tax returns, and perform normal business reporting to
+regulatory authorities in order to backstop fully their Agency tasks.
+They are moderately capitalized, generally around $5,000, and their
+net worth at any one time varies according to the Agency task they
+are performing. As of 31 December 1973, 38 of these companies had
+a combined net worth of approximately $325,000. Of this amount,
+almost $200,000 was operating capital for three companies which
+provide cover for several Agency personnel. Examples of two non-
+operating companies which are commercially managed, keep books of
+account, and can withstand commercial and tax audit are:
+A Florida corporation capitalized at $7,000 and whose legal
+address is the office of a cleared and witting attorney.
+Under the auspices of the Florida corporation, an Agency
+officer established a branch office in a Central American
+country and conducts a sporting goods business which provides
+him cover. Administration of the corporation, including
+purchase of inventory for the branch office, is handled by
+a proprietary management company.
+NW 50955 DocId: 32423532 Page 12
+- 8 -
+A Liechtenstein Anstalt which an Agency nominee established
+using a reliable but nonwitting Liechtenstein lawyer as a
+resident agent. The Anstalt was used to purchase a property
+in a European country from which an audio operation was
+mounted against an installation of a Communist country.
+Upon conclusion of the operation, the property will be sold
+by the Anstalt and the proceeds returned to CIA via its
+nominee.
+Requiring less elaborate commercial administration because of
+the nature of Agency tasks performed are 31 legally incorporated
+companies which are directly managed by Agency Headquarters specialists
+operating in alias as signatories to the company bank accounts. Each
+of these companies generally have a capitalization of $5,000 or less
+and are domiciled in the offices of cleared and witting attorneys.
+No commercial books of account are kept, and in the event of a tax
+audit the Agency has to brief the auditing authority. Depending on
+use, administration may be as simple as maintaining bank accounts and
+filing annual franchise taxes or more extensive as required when
+obtaining Employee Identification numbers, paying personnel, with-
+holding taxes and Social Security, and filing tax returns. Examples
+of this type of Headquarters-managed proprietary corporation are:
+A Nevada proprietary corporation domiciled at the offices of
+a California law form. Three members of the firm serve as
+Agency nominee stockholders, directors, and officers for
+the proprietary which holds title to two aircraft used by
+the Agency for flight training and testing avionics equipment.
+In this case, only administration is required to maintain a
+bank account, file a franchise tax, and coordinate with the
+law firm.
+Although not proprietary corporations, but proprietaries in the
+sense of being Agency-owned and administered, are 64 ostensible sole-
+proprietorships. The Agency establishes and registers these sole-
+proprietorships in the name of fictitious persons and opens a bank
+NW 50955 DocId: 32423532 Page 13
+- 9 -
+account on which Agency officers in alias have signatory power.
+Arrangements are made with cleared and witting businessmen to
+provide a domiciliary address for these entities at a law office
+or telephone answering service. These entities, like the proprietary
+corporation administered by Agency Headquarters specialists, provide
+cover, payrolling, and tax attribution for Agency personnel and are
+similarly administered.
+Another type of entity used by the Agency and a proprietary
+only in the sense of being Agency-owned and administered is exempli-
+fied by some 215 notional companies which are not legally registered
+but have names and bank accounts controlled by the Agency. The Agency
+arranges with cleared and witting attorneys or proprietors of telephone
+answering services to provide a domiciliary address and to refer any
+queries to the Agency specialists concerned. These notional entities
+are used to provide status and operational cover for Agency personnel
+involved in all types of high-risk intelligence operations. They are
+also used as ostensible clients for purposes of funding Agency pro-
+prietaries or bona fide American companies which provide
+cover and payrolling of Agency personnel.
+II. STATUTORY AUTHORITY FOR PROPRIETARIES
+The Agency's statutory authority to spend money for proprietary
+corporations in support of Agency operations derives from Section 8(b)
+of the CIA Act of 1949. This Act states:
+"The sums made available to the Agency may be expended without
+regard to the provisions of law and regulations relating to
+the expenditure of Government funds; and for objects of a
+confidential, extraordinary, or emergency nature, such
+expenditures to be accounted for solely on the certificate
+of the Director and every such certificate shall be deemed
+a sufficient voucher for the amount therein certified."
+NW 50955 DocId:32423532 Page 14
+- 10 -
+The language contained in Section 8(b) is adequate authority to
+exclude the operation of these proprietary corporations from the
+law governing Government corporations in 31 U.S.C.A. 841 et. seq.
+However, the CIA General Counsel ruled in 1958 that the CIA should
+comply with the principles in that Act to the extent possible, and
+this has been done. Attached as Appendix A is a classified Memorandum
+of Law by the Agency's Office of General Counsel on CIA's authority to
+acquire and dispose of a proprietary without regard to provisions of
+the Federal Property and Administrative Services Act, which position
+was upheld by the U.S. District Court in the Southern District of
+Florida in dismissing the suit Farmer vs. Southern Air Transport on
+17 July 1974.
+III. SPECIFIC CONTROLS
+The formation and activities of proprietaries are controlled
+through various mechanisms to assure their proper use, as discussed
+below.
+A. Agency Regulations and Policies
+Headquarters Regulation 230-8 and Headquarters Handbook 230-1
+prescribe the administrative procedures to be followed in the estab-
+lishment, operation, and liquidation of proprietaries (see Appendix B).
+An Administrative Plan (specifying the operational purpose, admini-
+strative and management procedures, and cost) and a Liquidation Plan
+(specifying details of liquidation and disposition of funds when
+liquidation is contemplated) must both be coordinated among components
+concerned and approved at appropriate management levels. This regu-
+latory control along with policy memoranda are intended to assure
+NW 50955 DocId:32423532 Page 15
+- 11 -
+proper conduct by entities. Each Agency component involved is
+responsible for compliance, and the Chief of the Cover and Commercial
+Staff, the Director of Finance, and the Comptroller are particularly
+watchful in their areas of concern.
+B. Project Reviews and Control
+The controls and procedures applicable to each operating proprie-
+tary are specified in a project outline and administrative plan
+approved at the Deputy Director level. Normal control and administra-
+tion is carried out by a project officer at Headquarters. Semi-annual
+reviews are conducted to determine whether or not the operational
+need still exists, and regular audits are performed to assure proper
+management and financial accountability. Proprietaries are liquidated
+as their usefulness ends; new ones are formed as needed.
+C. Financial Controls/Operating Companies and Non-Operating
+Companies Keeping Books of Accounts
+Under Agency regulations, these proprietaries are established
+and managed to appear to be consistent with normal commercial practices
+and requirements of the type of enterprise concerned. Specific require-
+ments for the general management and financial controls of each such
+proprietary are provided in the administrative plan described above
+which specifies the basic framework within which the instrumentality
+is to operate. All facets of an administrative plan relating to
+funding the proprietary and its financial management are subject to
+the concurrence of designated representatives of the Director of
+Finance and the Comptroller. A primary purpose of this coordination
+is to assure that the financial controls and procedures prescribed
+NW 50955 DocId:32423532 Page 16
+- 12 -
+for the proprietary are compatible and consistent with normal practices
+and requirements for the type of instrumentality being established.
+The Director of Finance representative is the Chief of the Commercial
+Systems and Audit Division, a position normally occupied by a certi-
+fied public accountant.
+The initial and all subsequent passages of funds to such proprie-
+taries are from the current year Agency operating budget. Receipts
+of funds by the proprietary are documented as appropriate ostensibly
+to appear to be from a source usual to a commercial enterprise of
+similar type, e.g., capital stock, paid in capital, income from
+ostensible sales, etc.
+The Agency treats all disbursements to such proprietaries as
+current year budgetary expenditures and concurrently establishes as
+a control mechanism a fully reserved investment account which is
+reconciled periodically to reported net worth of the proprietary as
+reflected in required financial statements received from each proprie-
+tary. Each such statement is reviewed to reconcile the approved
+financial activity of the proprietary to reported changes in net
+worth before adjusting the Agency investment account to conform with
+the reported net worth.
+All control documents evidencing Agency equity or interest in
+the proprietary, e.g., executed stock certificates, irrevocable stock
+powers, declaration of trust, etc., are held in safekeeping by the
+Commercial Systems and Audit Division/OF provided that when such
+documents need to be retained by the proprietary, a report will be
+made to identify the documents retained, location, name of custodian and
+reason for the retention, and copies of the documents, if appropriate.
+NW 50955 DocId:32423532 Page 17
+- 13 -
+The Chief of the Agency Audit Staff is responsible for the audit
+of Agency proprietaries, utilizing Audit Staff personnel under a
+suitable cover arrangement or witting or unwitting public accounting
+firms as is most appropriate to the requirements of a particular
+proprietary. An example of the type of audit conducted appears at p. 105
+Section VIIIand concerns MHMUTUAL, the proprietary insurance-investment
+complex.
+D. Financial Controls/Non-Operating Companies Except Those
+Keeping Books of Account
+Entities in this category are financed if financing is required
+through the establishment of bank checking accounts on which Agency
+officers have signatory power in alias. All such accounts are maintained
+in the accounting records of the Agency as current asset accounts
+subject to monthly reconciliation with statements of accounts issued
+by the depository banks.
+All passages of funds to these accounts add to the accountable
+balance of the accounts. No income is produced by these activities.
+All disbursements from these accounts are charged as current expendi-
+tures in liquidation of obligations of the operational activity on
+behalf of which the entity was established.
+Signatories are Agency officials who in each case execute a
+declaration of trust acknowledging Government ownership of the account.
+Payments are initiated only in response to request of an authorized
+official responsible for the operational activity for which the
+entity was established.
+The Chief of the Agency's Audit Staff is responsible for the
+audit of all accounts maintained for these entities.
+NW 50955 DocId:32423532 Page 18
+- 14 -
+Balances of each of these accounts are monitored periodically
+to assure that balances do not exceed a level warranted by the activity
+for which the respective account was established. Balances excess
+to current requirements and balances for entities which are dissolved
+are returned to the Agency and in turn remitted to the U.S. Treasury
+as Miscellaneous Receipts. (See discussion of Disposition of Funds
+Returned from Proprietaries on p. 16.)
+E. Treatment of Profits
+The CIA General Counsel, in a 6 January 1958 memorandum, ruled
+that "income of proprietaries, including profits, need not be considered
+miscellaneous receipts to be covered into the Treasury but may be
+used for proper corporate or company purposes." This subject was
+reviewed and the opinion reaffirmed by the General Counsel in July
+1965. The policy of retaining profits has continued, although as
+already noted only a very few of Agency proprietaries have ever been
+profitable. The CIA's legal basis for retaining profits for the use
+of the operating corporate entities is discussed below.
+Section 104 of the Government Corporations Control Act, 31 U.S.C.
+849, provides that Congress shall enact necessary legislation to make
+available for expenditure such corporate funds or other financial
+resources or limiting the use thereof as the Congress may determine.
+It is further provided that "this section shall not be construed as
+preventing the Government corporations from carrying out and financing
+their activities as authorized by existing law..." The legislative
+history explaining this section of the act states that "in cases where
+no other law required a congressional authorization of expenditures,
+NW 50955 DocId: 32423532 Page 19
+- 15 -
+the corporation, if it had means of financing other than annual appro-
+priations, could continue to operate in the absence of any action by
+Congress on its budget program." The statute creating a particular
+Government corporation may provide specifically that the corporation
+may use its profits in the conduct of its business.
+The Government Corporations Control Act certainly did not contem-
+plate Government corporations in the sense that the Agency must have
+them. Neither is it feasible for Agency proprietaries to be created
+by act of Congress or overseen precisely as provided for in the normal
+Government corporation in the Act. Nevertheless, the Agency has felt
+that the appropriate and reasonable policy would be to treat and control
+them insofar as possible in accordance with the terms of that law.
+Such being the case, the Agency believes there is no need to have more
+restrictive rules applied to its corporations in the use of funds,
+including profits, than are applied to Government Corporations under
+the other Act or statutes. Thus, the use by a proprietary of its
+earnings to carry on its corporate affairs without an offset against
+Agency appropriations is considered a legitimate practice and does not
+constitute an illegal augmentation of appropriations.
+With rare exception, principally the large air and insurance
+proprietaries, operating proprietaries have not been self-sustaining
+from bona fide income. Such income, including profits, as is received
+is retained by the proprietaries consistent with the usual operating
+practices of business enterprises.
+The use of proprietaries' profits, however, is controlled by
+annual reviews and audits within the Agency of the total capital,
+NW 50955 DocId:32423532 Page 20
+- 16 -
+investment, and profits situations of the corporations in the context
+of the operational objectives and the cover needs of the corporations.
+In effect the annual project review is based upon an audit as searching
+as that required for statutory Government corporations.
+F. Disposition of Funds Returned from Proprietaries
+Any proprietary with funds excess to its current or foreseeable
+needs is required to return such funds to the Agency. Also, all funds
+realized from the liquidation or termination of a proprietary are
+returned to the Agency except in a limited number of situations when
+transferred to another proprietary for "similar use." On the basis
+of an opinion of 3 February 1975 by the CIA General Counsel, the Agency
+has revised its policy for the treatment of all returns of funds from
+proprietaries; all such returns are to be remitted to the U.S. Treasury
+as Miscellaneous Receipts. Prior to this change in policy, returns
+had been treated as refunds of the previously recorded expenses up to
+the amount of such expense for a particular proprietary with any excess
+amounts returned to the Treasury as Miscellaneous Receipts.(Appendix C)
+G. Disposal of Proprietaries
+Air America, the Agency's largest proprietary, at its peak had
+total assets of some $50 million and more than 8,000 employees (who
+accounted for more than 90 percent of the people employed directly
+by all proprietaries). It is in the process of being liquidated
+because it is no longer required. The Air America complex included
+a number of other companies with the Pacific Corporation as the holding
+company. The general plan for liquidation of Air America is for the
+Pacific Corporation to sell off Air America, Inc. and Air Asia, Ltd.
+(the Taipei maintenance operation). A private New York firm (R. Dixon
+NW 50955 DocId:32423532 Page 21
+- 17 -
+Speas Company) was engaged to estimate a fair market value for the
+complex. Although an intensive search for competitive bidders was
+made, the Agency was unable to find buyers for any of the affiliated
+companies except the Taipei maintenance facility. The sale of this
+company as a going concern to the successful bidder was closed on
+31 January 1975. The remaining parts of Air America are being
+liquidated by sale of individual assets upon completion of existing
+contracts. Funds realized from the sales could be as much as $25 million
+and will be returned to the Treasury.
+Agency financial support for Radio Liberty and Radio Free Europe,
+both sizeable proprietaries, was terminated in FY 1971 and responsi-
+bility for their funding and operation was assumed by the Department
+of State.
+Southern Air Transport was sold on 31 December 1973 because its
+contingency capability was no longer needed. The Agency realized
+$6,470,000 from this sale. Cash received was $3,345,000 which included
+a $1.2 million award in arbitration of a dispute over the proceeds of
+the sale of an aircraft by Southern Air Transport after the sale of
+the company by the Agency. The balance was paid by the purchaser to
+Air America to retire a debt owed by Southern Air Transport. A group
+of employees of Southern Air Transport filed a civil action disputing
+the propriety of the sale of the company by the Agency, but the case was
+dismissed with prejudice on 17 July 1974.
+A more detailed list of various disposals of smaller proprietaries
+and what, if any, relationships remained thereafter between the Agency
+and any subsequent entity appears infra page 39, Section V.
+NW 50955 DocId: 32423532 Page 22
+- 18 -
+H. Relations with Tax, Regulatory, and Other Agencies
+Management and control of proprietaries often requires "cooperative
+interface" with outside agencies to gain beneficial working relation-
+ships and, as necessary, any appropriate authorizations. These
+relationships are described below.
+For those proprietaries which maintain commercial books and other
+financial records. U.S. and State tax returns are prepared annually by
+commercial managers based on the corporation's financial records. For
+other entities where only internal Agency records are maintained, tax
+returns are prepared by Agency specialists in a manner to reflect the
+normal operations of a bona fide commercial business. Close coordination
+is maintained with the Internal Revenue Service, which is aware of the
+Agency's use of proprietary commercial entities. In the event an Agency
+entity is singled out for IRS audit, it has been agreed that the Agency,
+through the Office of General Counsel, will notify IRS of Agency
+ownership. The IRS then cancels the audit in order to conserve auditor
+manpower.
+The Air proprietaries necessitated contact with the Civil Aeronautics
+Board, the Federal Aviation Agency and the National Transportation
+Safety Board. Specific problems were discussed, usually with the
+Office of General Counsel of the agency concerned by the CIA General
+Counsel.
+The Air Proprietaries dealt with State Department and the Agency
+for International Development, generally on a contractor/customer basis,
+although senior personnel of those agencies were advised by the Agency
+of its ownership of the companies.
+NW 50955 DocId:32423532 Page 23
+- 19 -
+Those proprietaries which engaged in the shipment of weapons
+or other items on the Munitions Control list required Agency assistance
+in obtaining the necessary export licenses. The ownership of the
+companies was discussed with State Department Office of Munitions
+Control and the Bureau of Alcohol, Tax and Firearms.
+The radio proprietaries, while funded by CIA, did receive policy
+guidance from the Department of State to ensure that their broadcasts
+were in conformance with U.S. foreign policy.
+The Agency has intervened with the Department of Labor on behalf
+of survivors of employees of the proprietaries in order to assist
+them in receiving the available benefits under the applicable Workmen's
+Compensation Acts.
+The Agency, on behalf of the proprietaries, interceded with the
+Defense Department to have the proprietaries' contracts exempt from the
+Renegotiation Board. There was a normal exemption based on the rules
+of the Board which was given for contracts performed entirely outside
+the United States.
+CIA requested the Air Force to consider the interest of the Agency
+in connection with the awarding of commercial contracts to its proprie-
+taries. Initially this was done in the mid-1950's on the basis of a
+policy decision by the Operations Coordination Board that the air
+proprietary in the Far East, then operating at a deficit, was an
+instrument of value to national security. The Agency was able to
+maintain a standby capability without budget subsidies if awarded
+enough business to support large commercial aircraft. This applied to
+the passenger and cargo aircraft.
+NW 50955 DocId:3
